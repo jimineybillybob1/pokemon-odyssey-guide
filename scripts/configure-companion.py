@@ -38,7 +38,7 @@ if 'companion.js' not in h:
     h=h.replace('<link rel="stylesheet" href="refinements.css">','<link rel="stylesheet" href="refinements.css"><link rel="stylesheet" href="adventure.css">')
     h=h.replace('<script src="app.js"></script>','<script src="data/journey-data.js"></script><script src="companion.js"></script><script src="app.js"></script>')
     h=h.replace('<strong>Field Guide</strong>','<strong>Odyssey Journal</strong>')
-    h=h.replace('<div class="source-card"><small>DATA SOURCES</small><p>Add and attribute this hack\'s Pokédex, encounter, item, battle and community sources in <code>sources/source-inventory.md</code>.</p></div>','<div class="source-card"><small>ODYSSEY v4.1.1</small><p>Your local adventure companion.</p><button data-view="coverage">Sources &amp; coverage</button></div>')
+    h=h.replace('<div class="source-card"><small>DATA SOURCES</small><p>Add and attribute this hack\'s Pokédex, encounter, item, battle and community sources in <code>sources/source-inventory.md</code>.</p></div>','<div class="source-card"><small>ODYSSEY v4.1.1</small><p>Your adventure companion.</p><button data-view="coverage">Sources &amp; coverage</button></div>')
     h=h.replace('<button data-view="pokedex">','<button data-view="journey">Journal</button><button data-view="atlas">Atlas</button><button data-view="pokedex">',1)
     h=h.replace('<nav class="mobile-nav">','<nav class="mobile-nav"><button data-view="journey"><small>Journal</small></button><button data-view="atlas"><small>Atlas</small></button>')
     h=h.replace('Save &amp; Sync','Save &amp; Export').replace('<small>Sync</small>','<small>Save</small>')
