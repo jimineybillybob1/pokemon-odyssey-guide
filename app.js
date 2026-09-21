@@ -148,6 +148,8 @@
   const atlasMapPositions=guideOverrides.mapPositions||{};
   const atlasPosition=name=>atlasMapPositions[norm(name)];
   function locationPokemonName(raw){
+    const pokemon=formByName.get(norm(raw));
+    if(pokemon)return displayPokemonName(pokemon);
     const exact={
       'Burmy-Sandy':'Burmy (Sandy Cloak)','Burmy-Trash':'Burmy (Trash Cloak)',
       'Deerling-Autumn':'Deerling (Autumn Form)','Deerling-Summer':'Deerling (Summer Form)','Deerling-Winter':'Deerling (Winter Form)',
