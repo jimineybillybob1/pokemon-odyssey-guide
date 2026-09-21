@@ -30,6 +30,8 @@ jobs:
           npm run validate
           npm run audit:assets
           npm run test:companion
+          node scripts/test-sync-crypto.mjs
+          npm run sync:test
           node scripts/prepare-pages.mjs
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

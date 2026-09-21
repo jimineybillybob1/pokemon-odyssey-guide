@@ -1,0 +1,22 @@
+// Synthetic save only. Never reads a user's browser storage or private sync code.
+import {webcrypto as crypto} from 'node:crypto';
+import fs from 'node:fs';
+import vm from 'node:vm';
+import assert from 'node:assert/strict';
+const endpoint=process.argv[2];if(!endpoint)throw Error('Supply sync endpoint');
+const app=fs.readFileSync('app.js','utf8');
+const context={crypto,TextEncoder,Uint8Array,storageNamespace:'pokemon-odyssey-guide-v2',syncHex:b=>Buffer.from(b).toString('hex')};vm.createContext(context);vm.runInContext(app.split('\n').find(l=>l.includes('async function syncIdentity(code)')),context);
+const code=Buffer.from(crypto.getRandomValues(new Uint8Array(32))).toString('hex');
+const {id,key}=await context.syncIdentity(code),iv=crypto.getRandomValues(new Uint8Array(12));
+const plain=JSON.stringify({test:true,team:[{pokemonId:20001}],journey:{completed:['#1'],strata:2,notes:'Synthetic sync check'}});
+const encrypted=await crypto.subtle.encrypt({name:'AES-GCM',iv},key,new TextEncoder().encode(plain));
+const envelope={version:2,iv:Buffer.from(iv).toString('base64url'),ciphertext:Buffer.from(encrypted).toString('base64url'),updatedAt:new Date().toISOString(),modifiedAt:new Date().toISOString(),revision:1,parentRevision:null,deviceId:crypto.randomUUID()};
+const headers={Origin:'https://jimineybillybob1.github.io','Content-Type':'application/json'};
+assert.equal((await fetch(endpoint+'/health',{headers})).status,200);
+assert.equal((await fetch(endpoint+'/saves/'+id,{method:'PUT',headers,body:JSON.stringify(envelope)})).status,200);
+const response=await fetch(endpoint+'/saves/'+id,{headers});assert.equal(response.status,200);const saved=await response.json();
+const restored=await crypto.subtle.decrypt({name:'AES-GCM',iv:Buffer.from(saved.iv,'base64url')},(await context.syncIdentity(code)).key,Buffer.from(saved.ciphertext,'base64url'));
+assert.equal(new TextDecoder().decode(restored),plain);
+assert.equal((await fetch(endpoint+'/health',{headers:{Origin:'https://not-allowed.example'}})).status,403);
+fs.mkdirSync('work',{recursive:true});fs.writeFileSync('work/sync-smoke-id.txt',id);
+console.log('Live encrypted upload/download round-trip and origin checks passed; synthetic test identifier saved locally for cleanup.');

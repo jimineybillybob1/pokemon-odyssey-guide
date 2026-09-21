@@ -26,7 +26,7 @@
     "trainerProfile": false,
     "badges": false,
     "maps": true,
-    "cloudSync": false
+    "cloudSync": true
   },
   "badges": [],
   "maps": {

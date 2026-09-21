@@ -24,6 +24,7 @@ function corsHeaders(request, env) {
     "Access-Control-Allow-Methods": "GET, PUT, OPTIONS",
     "Access-Control-Allow-Headers": "Content-Type",
     "Access-Control-Max-Age": "86400",
+    "Cache-Control": "no-store",
     Vary: "Origin",
   };
 }

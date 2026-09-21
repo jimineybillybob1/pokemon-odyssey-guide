@@ -6,7 +6,7 @@ Public preview: https://jimineybillybob1.github.io/pokemon-odyssey-guide/
 
 This is an unofficial fan guide with ongoing source checks. Hard Mode and difficulty-unspecified boss rosters are separate; Normal/Picnic rosters are not inferred. Some item locations/effects, evolution rules and move compatibility still require source verification. Artwork credits are in artwork-review/CREDITS.md. No game ROM is included.
 
-On iPad, open the public link in Safari and choose Share → Add to Home Screen. Progress stays in that browser/device. Export a save before moving devices; cloud sync is not enabled.
+On iPad, open the public link in Safari and choose Share → Add to Home Screen. Progress stays in that browser/device. Export a save before moving devices; manual encrypted cloud sync is available in Save & Sync.
 
 ## Open locally
 Run `python -m http.server 49273 --bind 127.0.0.1` in this directory, then open http://127.0.0.1:49273/. This local address works on the hosting PC only; use the public preview on other devices.
@@ -27,7 +27,7 @@ node scripts/build-offline.mjs
 
 The pinned baseline is already downloaded. Use `npm run baseline:fetch` only to restore its snapshot. Never hand-edit generated final data. Overrides and repeatable importers are the source of truth.
 
-Progress is stored in this browser. Use Save & Export for a backup; journal notes and completed quests/Strata are included. Cloud sync is not configured.
+Progress is stored in this browser. Use Save & Export for a backup; journal notes and completed quests/Strata are included. Cloud sync is available. Create a private code, save to cloud, then use the same code on another device. Sync is manual; wait up to a minute for propagation and avoid simultaneous edits. Saves expire after 400 days without upload.
 
 See SETUP_STATUS.md for validation and pending checks, sources/source-inventory.md for attribution, and sources/import-report.json for conflicts. Source records are not yet certified field-by-field for v4.1.1. Hard and unspecified battle rosters remain distinct; Normal/Picnic rosters are absent rather than inferred.
 

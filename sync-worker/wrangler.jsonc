@@ -4,11 +4,12 @@
   "main": "src/index.js",
   "compatibility_date": "2026-07-21",
   "vars": {
-    "ALLOWED_ORIGINS": "http://127.0.0.1:8892"
+    "ALLOWED_ORIGINS": "https://jimineybillybob1.github.io,http://127.0.0.1:49273"
   },
   "kv_namespaces": [
     {
-      "binding": "SAVES"
+      "binding": "SAVES",
+      "id": "19660a26c6e7496d84138d30d8cd0474"
     }
   ]
 }

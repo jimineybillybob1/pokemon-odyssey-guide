@@ -41,7 +41,7 @@ if 'companion.js' not in h:
     h=h.replace('<div class="source-card"><small>DATA SOURCES</small><p>Add and attribute this hack\'s Pokédex, encounter, item, battle and community sources in <code>sources/source-inventory.md</code>.</p></div>','<div class="source-card"><small>ODYSSEY v4.1.1</small><p>Your adventure companion.</p><button data-view="coverage">Sources &amp; coverage</button></div>')
     h=h.replace('<button data-view="pokedex">','<button data-view="journey">Journal</button><button data-view="atlas">Atlas</button><button data-view="pokedex">',1)
     h=h.replace('<nav class="mobile-nav">','<nav class="mobile-nav"><button data-view="journey"><small>Journal</small></button><button data-view="atlas"><small>Atlas</small></button>')
-    h=h.replace('Save &amp; Sync','Save &amp; Export').replace('<small>Sync</small>','<small>Save</small>')
+    h=h.replace('Save &amp; Sync','Save &amp; Sync').replace('<small>Sync</small>','<small>Save</small>')
     h=h.replace('</header>','<button class="adventure-theme" id="themeToggle" aria-label="Switch colour theme">Light / dark</button></header>',1)
     h=h.replace('</body>',"<script>document.querySelector('#themeToggle').onclick=()=>{const next=document.documentElement.dataset.theme==='dark'?'light':'dark';document.documentElement.dataset.theme=next;localStorage.setItem('odyssey-display-theme',next)};document.documentElement.dataset.theme=localStorage.getItem('odyssey-display-theme')||'dark';</script></body>")
     h=h.replace('assets/art/placeholder-logo.svg','assets/art/compass.svg').replace('assets/art/placeholder-hero.svg','assets/art/journal.svg').replace('assets/art/placeholder-icon.svg','assets/art/compass.svg')

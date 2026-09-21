@@ -1,0 +1,18 @@
+import fs from 'node:fs';
+import vm from 'node:vm';
+import assert from 'node:assert/strict';
+import {webcrypto} from 'node:crypto';
+const app=fs.readFileSync('app.js','utf8');
+const source=app.split('\n').find(line=>line.includes('async function syncIdentity(code)'));
+const context={crypto:webcrypto,TextEncoder,Uint8Array,storageNamespace:'pokemon-odyssey-guide-v2',syncHex:bytes=>Buffer.from(bytes).toString('hex')};
+vm.createContext(context);vm.runInContext(source,context);
+const a=await context.syncIdentity('ABCD-EFGH-JKLM'),b=await context.syncIdentity('ABCD-EFGH-JKLM'),wrong=await context.syncIdentity('WXYZ-2345-6789');
+assert.equal(a.id,b.id);assert.notEqual(a.id,wrong.id);
+const iv=webcrypto.getRandomValues(new Uint8Array(12)),plain=new TextEncoder().encode(JSON.stringify({caught:['1'],journey:{completed:['#1'],strata:2,notes:'Test note'},team:[{pokemonId:20001}]}));
+const encrypted=await webcrypto.subtle.encrypt({name:'AES-GCM',iv},a.key,plain);
+const restored=await webcrypto.subtle.decrypt({name:'AES-GCM',iv},b.key,encrypted);
+assert.deepEqual(Buffer.from(restored),Buffer.from(plain));
+await assert.rejects(webcrypto.subtle.decrypt({name:'AES-GCM',iv},wrong.key,encrypted));
+const lookupKey=await webcrypto.subtle.importKey('raw',Buffer.from(a.id,'hex'),'AES-GCM',false,['decrypt']);
+await assert.rejects(webcrypto.subtle.decrypt({name:'AES-GCM',iv},lookupKey,encrypted));
+console.log('Sync encryption round-trip passed; wrong codes and server-visible lookup IDs cannot decrypt saves.');
