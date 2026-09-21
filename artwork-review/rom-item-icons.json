@@ -1,0 +1,3767 @@
+{
+  "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+  "romVersion": "User-supplied English Pokémon Odyssey v4.1.1",
+  "layoutReference": "https://github.com/pret/pokefirered/blob/master/src/item_menu_icons.c",
+  "items": [
+    {
+      "romItemId": 0,
+      "internalItemId": 0,
+      "name": "????????",
+      "sprite": "assets/odyssey-items/000.png",
+      "nameOffset": "0x3db028",
+      "iconTableOffset": "0x3d4294",
+      "graphicsOffset": "0x1af2b40",
+      "paletteOffset": "0x1af2c00"
+    },
+    {
+      "romItemId": 1,
+      "internalItemId": 1,
+      "name": "Master Ball",
+      "sprite": "assets/odyssey-items/001.png",
+      "nameOffset": "0x3db054",
+      "iconTableOffset": "0x3d429c",
+      "graphicsOffset": "0xe87154",
+      "paletteOffset": "0xe87224"
+    },
+    {
+      "romItemId": 2,
+      "internalItemId": 2,
+      "name": "Ultra Ball",
+      "sprite": "assets/odyssey-items/002.png",
+      "nameOffset": "0x3db080",
+      "iconTableOffset": "0x3d42a4",
+      "graphicsOffset": "0xe8724c",
+      "paletteOffset": "0xe8730c"
+    },
+    {
+      "romItemId": 3,
+      "internalItemId": 3,
+      "name": "Great Ball",
+      "sprite": "assets/odyssey-items/003.png",
+      "nameOffset": "0x3db0ac",
+      "iconTableOffset": "0x3d42ac",
+      "graphicsOffset": "0xe87334",
+      "paletteOffset": "0xe87404"
+    },
+    {
+      "romItemId": 4,
+      "internalItemId": 4,
+      "name": "Poké Ball",
+      "sprite": "assets/odyssey-items/004.png",
+      "nameOffset": "0x3db0d8",
+      "iconTableOffset": "0x3d42b4",
+      "graphicsOffset": "0xe8742c",
+      "paletteOffset": "0xe874dc"
+    },
+    {
+      "romItemId": 5,
+      "internalItemId": 5,
+      "name": "SAFARI BALL",
+      "sprite": "assets/odyssey-items/005.png",
+      "nameOffset": "0x3db104",
+      "iconTableOffset": "0x3d42bc",
+      "graphicsOffset": "0xe87500",
+      "paletteOffset": "0xe875d0"
+    },
+    {
+      "romItemId": 6,
+      "internalItemId": 6,
+      "name": "Net Ball",
+      "sprite": "assets/odyssey-items/006.png",
+      "nameOffset": "0x3db130",
+      "iconTableOffset": "0x3d42c4",
+      "graphicsOffset": "0xe875f8",
+      "paletteOffset": "0xe876cc"
+    },
+    {
+      "romItemId": 7,
+      "internalItemId": 7,
+      "name": "DIVE BALL",
+      "sprite": "assets/odyssey-items/007.png",
+      "nameOffset": "0x3db15c",
+      "iconTableOffset": "0x3d42cc",
+      "graphicsOffset": "0xe876f0",
+      "paletteOffset": "0xe877b8"
+    },
+    {
+      "romItemId": 8,
+      "internalItemId": 8,
+      "name": "Nest Ball",
+      "sprite": "assets/odyssey-items/008.png",
+      "nameOffset": "0x3db188",
+      "iconTableOffset": "0x3d42d4",
+      "graphicsOffset": "0xe877dc",
+      "paletteOffset": "0xe878a0"
+    },
+    {
+      "romItemId": 9,
+      "internalItemId": 9,
+      "name": "Repeat Ball",
+      "sprite": "assets/odyssey-items/009.png",
+      "nameOffset": "0x3db1b4",
+      "iconTableOffset": "0x3d42dc",
+      "graphicsOffset": "0xe878c8",
+      "paletteOffset": "0xe8798c"
+    },
+    {
+      "romItemId": 10,
+      "internalItemId": 10,
+      "name": "Timer Ball",
+      "sprite": "assets/odyssey-items/010.png",
+      "nameOffset": "0x3db1e0",
+      "iconTableOffset": "0x3d42e4",
+      "graphicsOffset": "0xe879b4",
+      "paletteOffset": "0xe8798c"
+    },
+    {
+      "romItemId": 11,
+      "internalItemId": 11,
+      "name": "Luxury Ball",
+      "sprite": "assets/odyssey-items/011.png",
+      "nameOffset": "0x3db20c",
+      "iconTableOffset": "0x3d42ec",
+      "graphicsOffset": "0xe87a7c",
+      "paletteOffset": "0xe87b38"
+    },
+    {
+      "romItemId": 12,
+      "internalItemId": 12,
+      "name": "Premier Ball",
+      "sprite": "assets/odyssey-items/012.png",
+      "nameOffset": "0x3db238",
+      "iconTableOffset": "0x3d42f4",
+      "graphicsOffset": "0xe87b60",
+      "paletteOffset": "0xe87b38"
+    },
+    {
+      "romItemId": 13,
+      "internalItemId": 13,
+      "name": "Medica",
+      "sprite": "assets/odyssey-items/013.png",
+      "nameOffset": "0x3db264",
+      "iconTableOffset": "0x3d42fc",
+      "graphicsOffset": "0x1a97440",
+      "paletteOffset": "0x1a974b0"
+    },
+    {
+      "romItemId": 14,
+      "internalItemId": 14,
+      "name": "Antidote",
+      "sprite": "assets/odyssey-items/014.png",
+      "nameOffset": "0x3db290",
+      "iconTableOffset": "0x3d4304",
+      "graphicsOffset": "0xe87cf0",
+      "paletteOffset": "0xe87da0"
+    },
+    {
+      "romItemId": 15,
+      "internalItemId": 15,
+      "name": "Burn Heal",
+      "sprite": "assets/odyssey-items/015.png",
+      "nameOffset": "0x3db2bc",
+      "iconTableOffset": "0x3d430c",
+      "graphicsOffset": "0xe87e0c",
+      "paletteOffset": "0xe87dc4"
+    },
+    {
+      "romItemId": 16,
+      "internalItemId": 16,
+      "name": "Ice Heal",
+      "sprite": "assets/odyssey-items/016.png",
+      "nameOffset": "0x3db2e8",
+      "iconTableOffset": "0x3d4314",
+      "graphicsOffset": "0xe87e0c",
+      "paletteOffset": "0xe87de8"
+    },
+    {
+      "romItemId": 17,
+      "internalItemId": 17,
+      "name": "Awakening",
+      "sprite": "assets/odyssey-items/017.png",
+      "nameOffset": "0x3db314",
+      "iconTableOffset": "0x3d431c",
+      "graphicsOffset": "0xe87e0c",
+      "paletteOffset": "0xe87ebc"
+    },
+    {
+      "romItemId": 18,
+      "internalItemId": 18,
+      "name": "Paralyz Heal",
+      "sprite": "assets/odyssey-items/018.png",
+      "nameOffset": "0x3db340",
+      "iconTableOffset": "0x3d4324",
+      "graphicsOffset": "0xe87e0c",
+      "paletteOffset": "0xe87ee0"
+    },
+    {
+      "romItemId": 19,
+      "internalItemId": 19,
+      "name": "Medica V",
+      "sprite": "assets/odyssey-items/019.png",
+      "nameOffset": "0x3db36c",
+      "iconTableOffset": "0x3d432c",
+      "graphicsOffset": "0x1aafa80",
+      "paletteOffset": "0x1a97790"
+    },
+    {
+      "romItemId": 20,
+      "internalItemId": 20,
+      "name": "Medica IV",
+      "sprite": "assets/odyssey-items/020.png",
+      "nameOffset": "0x3db398",
+      "iconTableOffset": "0x3d4334",
+      "graphicsOffset": "0x1aaf980",
+      "paletteOffset": "0x1a976d0"
+    },
+    {
+      "romItemId": 21,
+      "internalItemId": 21,
+      "name": "Medica III",
+      "sprite": "assets/odyssey-items/021.png",
+      "nameOffset": "0x3db3c4",
+      "iconTableOffset": "0x3d433c",
+      "graphicsOffset": "0x1aaf880",
+      "paletteOffset": "0x1a97610"
+    },
+    {
+      "romItemId": 22,
+      "internalItemId": 22,
+      "name": "Medica II",
+      "sprite": "assets/odyssey-items/022.png",
+      "nameOffset": "0x3db3f0",
+      "iconTableOffset": "0x3d4344",
+      "graphicsOffset": "0x1a974e0",
+      "paletteOffset": "0x1a97560"
+    },
+    {
+      "romItemId": 23,
+      "internalItemId": 23,
+      "name": "Theriaca",
+      "sprite": "assets/odyssey-items/023.png",
+      "nameOffset": "0x3db41c",
+      "iconTableOffset": "0x3d434c",
+      "graphicsOffset": "0x1aafb80",
+      "paletteOffset": "0x1a97860"
+    },
+    {
+      "romItemId": 24,
+      "internalItemId": 24,
+      "name": "Nectar",
+      "sprite": "assets/odyssey-items/024.png",
+      "nameOffset": "0x3db448",
+      "iconTableOffset": "0x3d4354",
+      "graphicsOffset": "0x1a97890",
+      "paletteOffset": "0x1a97960"
+    },
+    {
+      "romItemId": 25,
+      "internalItemId": 25,
+      "name": "Nectar II",
+      "sprite": "assets/odyssey-items/025.png",
+      "nameOffset": "0x3db474",
+      "iconTableOffset": "0x3d435c",
+      "graphicsOffset": "0x1a97980",
+      "paletteOffset": "0x1a97a70"
+    },
+    {
+      "romItemId": 26,
+      "internalItemId": 26,
+      "name": "Fresh Water",
+      "sprite": "assets/odyssey-items/026.png",
+      "nameOffset": "0x3db4a0",
+      "iconTableOffset": "0x3d4364",
+      "graphicsOffset": "0xe8828c",
+      "paletteOffset": "0xe8833c"
+    },
+    {
+      "romItemId": 27,
+      "internalItemId": 27,
+      "name": "Soda Pop",
+      "sprite": "assets/odyssey-items/027.png",
+      "nameOffset": "0x3db4cc",
+      "iconTableOffset": "0x3d436c",
+      "graphicsOffset": "0xe88360",
+      "paletteOffset": "0xe883f4"
+    },
+    {
+      "romItemId": 28,
+      "internalItemId": 28,
+      "name": "Lemonade",
+      "sprite": "assets/odyssey-items/028.png",
+      "nameOffset": "0x3db4f8",
+      "iconTableOffset": "0x3d4374",
+      "graphicsOffset": "0xe8841c",
+      "paletteOffset": "0xe884dc"
+    },
+    {
+      "romItemId": 29,
+      "internalItemId": 29,
+      "name": "Moomoo Milk",
+      "sprite": "assets/odyssey-items/029.png",
+      "nameOffset": "0x3db524",
+      "iconTableOffset": "0x3d437c",
+      "graphicsOffset": "0xe88504",
+      "paletteOffset": "0xe885b4"
+    },
+    {
+      "romItemId": 30,
+      "internalItemId": 30,
+      "name": "ENERGYPOWDER",
+      "sprite": "assets/odyssey-items/030.png",
+      "nameOffset": "0x3db550",
+      "iconTableOffset": "0x3d4384",
+      "graphicsOffset": "0xe885dc",
+      "paletteOffset": "0xe88668"
+    },
+    {
+      "romItemId": 31,
+      "internalItemId": 31,
+      "name": "ENERGY ROOT",
+      "sprite": "assets/odyssey-items/031.png",
+      "nameOffset": "0x3db57c",
+      "iconTableOffset": "0x3d438c",
+      "graphicsOffset": "0xe88688",
+      "paletteOffset": "0xe88754"
+    },
+    {
+      "romItemId": 32,
+      "internalItemId": 32,
+      "name": "HEAL POWDER",
+      "sprite": "assets/odyssey-items/032.png",
+      "nameOffset": "0x3db5a8",
+      "iconTableOffset": "0x3d4394",
+      "graphicsOffset": "0xe885dc",
+      "paletteOffset": "0xe88770"
+    },
+    {
+      "romItemId": 33,
+      "internalItemId": 33,
+      "name": "REVIVAL HERB",
+      "sprite": "assets/odyssey-items/033.png",
+      "nameOffset": "0x3db5d4",
+      "iconTableOffset": "0x3d439c",
+      "graphicsOffset": "0xe88790",
+      "paletteOffset": "0xe88860"
+    },
+    {
+      "romItemId": 34,
+      "internalItemId": 34,
+      "name": "Ether",
+      "sprite": "assets/odyssey-items/034.png",
+      "nameOffset": "0x3db600",
+      "iconTableOffset": "0x3d43a4",
+      "graphicsOffset": "0xe88880",
+      "paletteOffset": "0xe88940"
+    },
+    {
+      "romItemId": 35,
+      "internalItemId": 35,
+      "name": "Max Ether",
+      "sprite": "assets/odyssey-items/035.png",
+      "nameOffset": "0x3db62c",
+      "iconTableOffset": "0x3d43ac",
+      "graphicsOffset": "0xe88880",
+      "paletteOffset": "0xe88964"
+    },
+    {
+      "romItemId": 36,
+      "internalItemId": 36,
+      "name": "Elixir",
+      "sprite": "assets/odyssey-items/036.png",
+      "nameOffset": "0x3db658",
+      "iconTableOffset": "0x3d43b4",
+      "graphicsOffset": "0xe88880",
+      "paletteOffset": "0xe88988"
+    },
+    {
+      "romItemId": 37,
+      "internalItemId": 37,
+      "name": "Max Elixir",
+      "sprite": "assets/odyssey-items/037.png",
+      "nameOffset": "0x3db684",
+      "iconTableOffset": "0x3d43bc",
+      "graphicsOffset": "0xe88880",
+      "paletteOffset": "0xe889ac"
+    },
+    {
+      "romItemId": 38,
+      "internalItemId": 38,
+      "name": "LAVA COOKIE",
+      "sprite": "assets/odyssey-items/038.png",
+      "nameOffset": "0x3db6b0",
+      "iconTableOffset": "0x3d43c4",
+      "graphicsOffset": "0xe889d0",
+      "paletteOffset": "0xe88a9c"
+    },
+    {
+      "romItemId": 39,
+      "internalItemId": 39,
+      "name": "BLUE FLUTE",
+      "sprite": "assets/odyssey-items/039.png",
+      "nameOffset": "0x3db6dc",
+      "iconTableOffset": "0x3d43cc",
+      "graphicsOffset": "0xe88ac0",
+      "paletteOffset": "0xe88b74"
+    },
+    {
+      "romItemId": 40,
+      "internalItemId": 40,
+      "name": "YELLOW FLUTE",
+      "sprite": "assets/odyssey-items/040.png",
+      "nameOffset": "0x3db708",
+      "iconTableOffset": "0x3d43d4",
+      "graphicsOffset": "0xe88ac0",
+      "paletteOffset": "0xe88b98"
+    },
+    {
+      "romItemId": 41,
+      "internalItemId": 41,
+      "name": "RED FLUTE",
+      "sprite": "assets/odyssey-items/041.png",
+      "nameOffset": "0x3db734",
+      "iconTableOffset": "0x3d43dc",
+      "graphicsOffset": "0xe88ac0",
+      "paletteOffset": "0xe88bbc"
+    },
+    {
+      "romItemId": 42,
+      "internalItemId": 42,
+      "name": "BLACK FLUTE",
+      "sprite": "assets/odyssey-items/042.png",
+      "nameOffset": "0x3db760",
+      "iconTableOffset": "0x3d43e4",
+      "graphicsOffset": "0xe88ac0",
+      "paletteOffset": "0xe88be0"
+    },
+    {
+      "romItemId": 43,
+      "internalItemId": 43,
+      "name": "WHITE FLUTE",
+      "sprite": "assets/odyssey-items/043.png",
+      "nameOffset": "0x3db78c",
+      "iconTableOffset": "0x3d43ec",
+      "graphicsOffset": "0xe88ac0",
+      "paletteOffset": "0xe88c04"
+    },
+    {
+      "romItemId": 44,
+      "internalItemId": 44,
+      "name": "Berry Juice",
+      "sprite": "assets/odyssey-items/044.png",
+      "nameOffset": "0x3db7b8",
+      "iconTableOffset": "0x3d43f4",
+      "graphicsOffset": "0xe88c28",
+      "paletteOffset": "0xe88d08"
+    },
+    {
+      "romItemId": 45,
+      "internalItemId": 45,
+      "name": "SACRED ASH",
+      "sprite": "assets/odyssey-items/045.png",
+      "nameOffset": "0x3db7e4",
+      "iconTableOffset": "0x3d43fc",
+      "graphicsOffset": "0xe88d30",
+      "paletteOffset": "0xe88df0"
+    },
+    {
+      "romItemId": 46,
+      "internalItemId": 46,
+      "name": "SHOAL SALT",
+      "sprite": "assets/odyssey-items/046.png",
+      "nameOffset": "0x3db810",
+      "iconTableOffset": "0x3d4404",
+      "graphicsOffset": "0xe885dc",
+      "paletteOffset": "0xe88e14"
+    },
+    {
+      "romItemId": 47,
+      "internalItemId": 47,
+      "name": "SHOAL SHELL",
+      "sprite": "assets/odyssey-items/047.png",
+      "nameOffset": "0x3db83c",
+      "iconTableOffset": "0x3d440c",
+      "graphicsOffset": "0xe88e34",
+      "paletteOffset": "0xe88f28"
+    },
+    {
+      "romItemId": 48,
+      "internalItemId": 174,
+      "name": "Red Shard",
+      "sprite": "assets/odyssey-items/048.png",
+      "nameOffset": "0x3db868",
+      "iconTableOffset": "0x3d4414",
+      "graphicsOffset": "0xe88f50",
+      "paletteOffset": "0xe88fac"
+    },
+    {
+      "romItemId": 49,
+      "internalItemId": 175,
+      "name": "Blue Shard",
+      "sprite": "assets/odyssey-items/049.png",
+      "nameOffset": "0x3db894",
+      "iconTableOffset": "0x3d441c",
+      "graphicsOffset": "0xe88f50",
+      "paletteOffset": "0xe88fc4"
+    },
+    {
+      "romItemId": 50,
+      "internalItemId": 176,
+      "name": "Yellow Shard",
+      "sprite": "assets/odyssey-items/050.png",
+      "nameOffset": "0x3db8c0",
+      "iconTableOffset": "0x3d4424",
+      "graphicsOffset": "0xe88f50",
+      "paletteOffset": "0xe88fdc"
+    },
+    {
+      "romItemId": 51,
+      "internalItemId": 177,
+      "name": "Green Shard",
+      "sprite": "assets/odyssey-items/051.png",
+      "nameOffset": "0x3db8ec",
+      "iconTableOffset": "0x3d442c",
+      "graphicsOffset": "0xe88f50",
+      "paletteOffset": "0xe88ff4"
+    },
+    {
+      "romItemId": 52,
+      "internalItemId": 52,
+      "name": "Volt Whisker",
+      "sprite": "assets/odyssey-items/052.png",
+      "nameOffset": "0x3db918",
+      "iconTableOffset": "0x3d4434",
+      "graphicsOffset": "0x10b0c40",
+      "paletteOffset": "0x10b0d00"
+    },
+    {
+      "romItemId": 53,
+      "internalItemId": 53,
+      "name": "Abyss Scale",
+      "sprite": "assets/odyssey-items/053.png",
+      "nameOffset": "0x3db944",
+      "iconTableOffset": "0x3d443c",
+      "graphicsOffset": "0x10be840",
+      "paletteOffset": "0x10b0e80"
+    },
+    {
+      "romItemId": 54,
+      "internalItemId": 54,
+      "name": "Gator Skin",
+      "sprite": "assets/odyssey-items/054.png",
+      "nameOffset": "0x3db970",
+      "iconTableOffset": "0x3d4444",
+      "graphicsOffset": "0x10b0fc0",
+      "paletteOffset": "0x10b1080"
+    },
+    {
+      "romItemId": 55,
+      "internalItemId": 55,
+      "name": "Venom Fang",
+      "sprite": "assets/odyssey-items/055.png",
+      "nameOffset": "0x3db99c",
+      "iconTableOffset": "0x3d444c",
+      "graphicsOffset": "0x10b1180",
+      "paletteOffset": "0x10b12c0"
+    },
+    {
+      "romItemId": 56,
+      "internalItemId": 56,
+      "name": "Hex Chain",
+      "sprite": "assets/odyssey-items/056.png",
+      "nameOffset": "0x3db9c8",
+      "iconTableOffset": "0x3d4454",
+      "graphicsOffset": "0x1ab01c0",
+      "paletteOffset": "0x10b1340"
+    },
+    {
+      "romItemId": 57,
+      "internalItemId": 57,
+      "name": "Tr. Notes",
+      "sprite": "assets/odyssey-items/057.png",
+      "nameOffset": "0x3db9f4",
+      "iconTableOffset": "0x3d445c",
+      "graphicsOffset": "0x10be900",
+      "paletteOffset": "0x10be9c0"
+    },
+    {
+      "romItemId": 58,
+      "internalItemId": 58,
+      "name": "MementoVitae",
+      "sprite": "assets/odyssey-items/058.png",
+      "nameOffset": "0x3dba20",
+      "iconTableOffset": "0x3d4464",
+      "graphicsOffset": "0x10bec00",
+      "paletteOffset": "0x10beb80"
+    },
+    {
+      "romItemId": 59,
+      "internalItemId": 0,
+      "name": "????????",
+      "sprite": "assets/odyssey-items/059.png",
+      "nameOffset": "0x3dba4c",
+      "iconTableOffset": "0x3d446c",
+      "graphicsOffset": "0x1af2b40",
+      "paletteOffset": "0x1af2c00"
+    },
+    {
+      "romItemId": 60,
+      "internalItemId": 0,
+      "name": "????????",
+      "sprite": "assets/odyssey-items/060.png",
+      "nameOffset": "0x3dba78",
+      "iconTableOffset": "0x3d4474",
+      "graphicsOffset": "0x1af2b40",
+      "paletteOffset": "0x1af2c00"
+    },
+    {
+      "romItemId": 61,
+      "internalItemId": 0,
+      "name": "????????",
+      "sprite": "assets/odyssey-items/061.png",
+      "nameOffset": "0x3dbaa4",
+      "iconTableOffset": "0x3d447c",
+      "graphicsOffset": "0x1af2b40",
+      "paletteOffset": "0x1af2c00"
+    },
+    {
+      "romItemId": 62,
+      "internalItemId": 0,
+      "name": "????????",
+      "sprite": "assets/odyssey-items/062.png",
+      "nameOffset": "0x3dbad0",
+      "iconTableOffset": "0x3d4484",
+      "graphicsOffset": "0x1af2b40",
+      "paletteOffset": "0x1af2c00"
+    },
+    {
+      "romItemId": 63,
+      "internalItemId": 63,
+      "name": "HP Up",
+      "sprite": "assets/odyssey-items/063.png",
+      "nameOffset": "0x3dbafc",
+      "iconTableOffset": "0x3d448c",
+      "graphicsOffset": "0xe8900c",
+      "paletteOffset": "0xe890c4"
+    },
+    {
+      "romItemId": 64,
+      "internalItemId": 64,
+      "name": "Protein",
+      "sprite": "assets/odyssey-items/064.png",
+      "nameOffset": "0x3dbb28",
+      "iconTableOffset": "0x3d4494",
+      "graphicsOffset": "0xe890ec",
+      "paletteOffset": "0xe8919c"
+    },
+    {
+      "romItemId": 65,
+      "internalItemId": 65,
+      "name": "Iron",
+      "sprite": "assets/odyssey-items/065.png",
+      "nameOffset": "0x3dbb54",
+      "iconTableOffset": "0x3d449c",
+      "graphicsOffset": "0xe890ec",
+      "paletteOffset": "0xe891c4"
+    },
+    {
+      "romItemId": 66,
+      "internalItemId": 66,
+      "name": "Carbos",
+      "sprite": "assets/odyssey-items/066.png",
+      "nameOffset": "0x3dbb80",
+      "iconTableOffset": "0x3d44a4",
+      "graphicsOffset": "0xe890ec",
+      "paletteOffset": "0xe891ec"
+    },
+    {
+      "romItemId": 67,
+      "internalItemId": 67,
+      "name": "Calcium",
+      "sprite": "assets/odyssey-items/067.png",
+      "nameOffset": "0x3dbbac",
+      "iconTableOffset": "0x3d44ac",
+      "graphicsOffset": "0xe890ec",
+      "paletteOffset": "0xe89214"
+    },
+    {
+      "romItemId": 68,
+      "internalItemId": 68,
+      "name": "Rare Candy",
+      "sprite": "assets/odyssey-items/068.png",
+      "nameOffset": "0x3dbbd8",
+      "iconTableOffset": "0x3d44b4",
+      "graphicsOffset": "0xe8923c",
+      "paletteOffset": "0xe89300"
+    },
+    {
+      "romItemId": 69,
+      "internalItemId": 69,
+      "name": "PP Up",
+      "sprite": "assets/odyssey-items/069.png",
+      "nameOffset": "0x3dbc04",
+      "iconTableOffset": "0x3d44bc",
+      "graphicsOffset": "0xe8931c",
+      "paletteOffset": "0xe893cc"
+    },
+    {
+      "romItemId": 70,
+      "internalItemId": 70,
+      "name": "Zinc",
+      "sprite": "assets/odyssey-items/070.png",
+      "nameOffset": "0x3dbc30",
+      "iconTableOffset": "0x3d44c4",
+      "graphicsOffset": "0xe890ec",
+      "paletteOffset": "0xe893f4"
+    },
+    {
+      "romItemId": 71,
+      "internalItemId": 71,
+      "name": "PP Max",
+      "sprite": "assets/odyssey-items/071.png",
+      "nameOffset": "0x3dbc5c",
+      "iconTableOffset": "0x3d44cc",
+      "graphicsOffset": "0xe8941c",
+      "paletteOffset": "0xe894c4"
+    },
+    {
+      "romItemId": 72,
+      "internalItemId": 0,
+      "name": "????????",
+      "sprite": "assets/odyssey-items/072.png",
+      "nameOffset": "0x3dbc88",
+      "iconTableOffset": "0x3d44d4",
+      "graphicsOffset": "0x1af2b40",
+      "paletteOffset": "0x1af2c00"
+    },
+    {
+      "romItemId": 73,
+      "internalItemId": 73,
+      "name": "GUARD SPEC.",
+      "sprite": "assets/odyssey-items/073.png",
+      "nameOffset": "0x3dbcb4",
+      "iconTableOffset": "0x3d44dc",
+      "graphicsOffset": "0xe89558",
+      "paletteOffset": "0xe894ec"
+    },
+    {
+      "romItemId": 74,
+      "internalItemId": 74,
+      "name": "DIRE HIT",
+      "sprite": "assets/odyssey-items/074.png",
+      "nameOffset": "0x3dbce0",
+      "iconTableOffset": "0x3d44e4",
+      "graphicsOffset": "0xe89558",
+      "paletteOffset": "0xe89510"
+    },
+    {
+      "romItemId": 75,
+      "internalItemId": 75,
+      "name": "X ATTACK",
+      "sprite": "assets/odyssey-items/075.png",
+      "nameOffset": "0x3dbd0c",
+      "iconTableOffset": "0x3d44ec",
+      "graphicsOffset": "0xe89558",
+      "paletteOffset": "0xe89534"
+    },
+    {
+      "romItemId": 76,
+      "internalItemId": 76,
+      "name": "X DEFEND",
+      "sprite": "assets/odyssey-items/076.png",
+      "nameOffset": "0x3dbd38",
+      "iconTableOffset": "0x3d44f4",
+      "graphicsOffset": "0xe89558",
+      "paletteOffset": "0xe8963c"
+    },
+    {
+      "romItemId": 77,
+      "internalItemId": 77,
+      "name": "X SPEED",
+      "sprite": "assets/odyssey-items/077.png",
+      "nameOffset": "0x3dbd64",
+      "iconTableOffset": "0x3d44fc",
+      "graphicsOffset": "0xe89558",
+      "paletteOffset": "0xe89660"
+    },
+    {
+      "romItemId": 78,
+      "internalItemId": 78,
+      "name": "X ACCURACY",
+      "sprite": "assets/odyssey-items/078.png",
+      "nameOffset": "0x3dbd90",
+      "iconTableOffset": "0x3d4504",
+      "graphicsOffset": "0xe89558",
+      "paletteOffset": "0xe89684"
+    },
+    {
+      "romItemId": 79,
+      "internalItemId": 79,
+      "name": "X SPECIAL",
+      "sprite": "assets/odyssey-items/079.png",
+      "nameOffset": "0x3dbdbc",
+      "iconTableOffset": "0x3d450c",
+      "graphicsOffset": "0xe89558",
+      "paletteOffset": "0xe896a8"
+    },
+    {
+      "romItemId": 80,
+      "internalItemId": 80,
+      "name": "POKé DOLL",
+      "sprite": "assets/odyssey-items/080.png",
+      "nameOffset": "0x3dbde8",
+      "iconTableOffset": "0x3d4514",
+      "graphicsOffset": "0xe896cc",
+      "paletteOffset": "0xe897bc"
+    },
+    {
+      "romItemId": 81,
+      "internalItemId": 81,
+      "name": "FLUFFY TAIL",
+      "sprite": "assets/odyssey-items/081.png",
+      "nameOffset": "0x3dbe14",
+      "iconTableOffset": "0x3d451c",
+      "graphicsOffset": "0xe897d8",
+      "paletteOffset": "0xe898c8"
+    },
+    {
+      "romItemId": 82,
+      "internalItemId": 82,
+      "name": "Tent",
+      "sprite": "assets/odyssey-items/082.png",
+      "nameOffset": "0x3dbe40",
+      "iconTableOffset": "0x3d4524",
+      "graphicsOffset": "0x10f09c0",
+      "paletteOffset": "0x1aa0360"
+    },
+    {
+      "romItemId": 83,
+      "internalItemId": 83,
+      "name": "Super Repel",
+      "sprite": "assets/odyssey-items/083.png",
+      "nameOffset": "0x3dbe6c",
+      "iconTableOffset": "0x3d452c",
+      "graphicsOffset": "0xe898ec",
+      "paletteOffset": "0xe8998c"
+    },
+    {
+      "romItemId": 84,
+      "internalItemId": 84,
+      "name": "Max Repel",
+      "sprite": "assets/odyssey-items/084.png",
+      "nameOffset": "0x3dbe98",
+      "iconTableOffset": "0x3d4534",
+      "graphicsOffset": "0xe898ec",
+      "paletteOffset": "0xe899b4"
+    },
+    {
+      "romItemId": 85,
+      "internalItemId": 85,
+      "name": "Ariadne Thr.",
+      "sprite": "assets/odyssey-items/085.png",
+      "nameOffset": "0x3dbec4",
+      "iconTableOffset": "0x3d453c",
+      "graphicsOffset": "0x1a95660",
+      "paletteOffset": "0x1a95770"
+    },
+    {
+      "romItemId": 86,
+      "internalItemId": 86,
+      "name": "Repel",
+      "sprite": "assets/odyssey-items/086.png",
+      "nameOffset": "0x3dbef0",
+      "iconTableOffset": "0x3d4544",
+      "graphicsOffset": "0xe898ec",
+      "paletteOffset": "0xe89ab4"
+    },
+    {
+      "romItemId": 87,
+      "internalItemId": 87,
+      "name": "Magmarizer",
+      "sprite": "assets/odyssey-items/087.png",
+      "nameOffset": "0x3dbf1c",
+      "iconTableOffset": "0x3d454c",
+      "graphicsOffset": "0x1ab6190",
+      "paletteOffset": "0x1ab6260"
+    },
+    {
+      "romItemId": 88,
+      "internalItemId": 88,
+      "name": "Electirizer",
+      "sprite": "assets/odyssey-items/088.png",
+      "nameOffset": "0x3dbf48",
+      "iconTableOffset": "0x3d4554",
+      "graphicsOffset": "0x1ab6290",
+      "paletteOffset": "0x1ab6350"
+    },
+    {
+      "romItemId": 89,
+      "internalItemId": 89,
+      "name": "Dusk Stone",
+      "sprite": "assets/odyssey-items/089.png",
+      "nameOffset": "0x3dbf74",
+      "iconTableOffset": "0x3d455c",
+      "graphicsOffset": "0x1a0f644",
+      "paletteOffset": "0x1a0f720"
+    },
+    {
+      "romItemId": 90,
+      "internalItemId": 90,
+      "name": "Dawn Stone",
+      "sprite": "assets/odyssey-items/090.png",
+      "nameOffset": "0x3dbfa0",
+      "iconTableOffset": "0x3d4564",
+      "graphicsOffset": "0x1a0f56c",
+      "paletteOffset": "0x1a0f628"
+    },
+    {
+      "romItemId": 91,
+      "internalItemId": 91,
+      "name": "Shiny Stone",
+      "sprite": "assets/odyssey-items/091.png",
+      "nameOffset": "0x3dbfcc",
+      "iconTableOffset": "0x3d456c",
+      "graphicsOffset": "0x1a0f47c",
+      "paletteOffset": "0x1a0f54c"
+    },
+    {
+      "romItemId": 92,
+      "internalItemId": 92,
+      "name": "Link Stone",
+      "sprite": "assets/odyssey-items/092.png",
+      "nameOffset": "0x3dbff8",
+      "iconTableOffset": "0x3d4574",
+      "graphicsOffset": "0x772040",
+      "paletteOffset": "0x772130"
+    },
+    {
+      "romItemId": 93,
+      "internalItemId": 93,
+      "name": "Sun Stone",
+      "sprite": "assets/odyssey-items/093.png",
+      "nameOffset": "0x3dc024",
+      "iconTableOffset": "0x3d457c",
+      "graphicsOffset": "0xe89adc",
+      "paletteOffset": "0xe89bd4"
+    },
+    {
+      "romItemId": 94,
+      "internalItemId": 94,
+      "name": "Moon Stone",
+      "sprite": "assets/odyssey-items/094.png",
+      "nameOffset": "0x3dc050",
+      "iconTableOffset": "0x3d4584",
+      "graphicsOffset": "0xe89bf0",
+      "paletteOffset": "0xe89cc4"
+    },
+    {
+      "romItemId": 95,
+      "internalItemId": 95,
+      "name": "Fire Stone",
+      "sprite": "assets/odyssey-items/095.png",
+      "nameOffset": "0x3dc07c",
+      "iconTableOffset": "0x3d458c",
+      "graphicsOffset": "0xe89ce4",
+      "paletteOffset": "0xe89dd8"
+    },
+    {
+      "romItemId": 96,
+      "internalItemId": 96,
+      "name": "Thunderstone",
+      "sprite": "assets/odyssey-items/096.png",
+      "nameOffset": "0x3dc0a8",
+      "iconTableOffset": "0x3d4594",
+      "graphicsOffset": "0xe89e00",
+      "paletteOffset": "0xe89ee8"
+    },
+    {
+      "romItemId": 97,
+      "internalItemId": 97,
+      "name": "Water Stone",
+      "sprite": "assets/odyssey-items/097.png",
+      "nameOffset": "0x3dc0d4",
+      "iconTableOffset": "0x3d459c",
+      "graphicsOffset": "0xe89f08",
+      "paletteOffset": "0xe89fe8"
+    },
+    {
+      "romItemId": 98,
+      "internalItemId": 98,
+      "name": "Leaf Stone",
+      "sprite": "assets/odyssey-items/098.png",
+      "nameOffset": "0x3dc100",
+      "iconTableOffset": "0x3d45a4",
+      "graphicsOffset": "0xe8a00c",
+      "paletteOffset": "0xe8a100"
+    },
+    {
+      "romItemId": 99,
+      "internalItemId": 99,
+      "name": "Prism Scale",
+      "sprite": "assets/odyssey-items/099.png",
+      "nameOffset": "0x3dc12c",
+      "iconTableOffset": "0x3d45ac",
+      "graphicsOffset": "0x1a944e0",
+      "paletteOffset": "0x1a94560"
+    },
+    {
+      "romItemId": 100,
+      "internalItemId": 100,
+      "name": "Protector",
+      "sprite": "assets/odyssey-items/100.png",
+      "nameOffset": "0x3dc158",
+      "iconTableOffset": "0x3d45b4",
+      "graphicsOffset": "0x10f0880",
+      "paletteOffset": "0x1ab6460"
+    },
+    {
+      "romItemId": 101,
+      "internalItemId": 101,
+      "name": "Dubious Disc",
+      "sprite": "assets/odyssey-items/101.png",
+      "nameOffset": "0x3dc184",
+      "iconTableOffset": "0x3d45bc",
+      "graphicsOffset": "0x1ab6490",
+      "paletteOffset": "0x1ab6550"
+    },
+    {
+      "romItemId": 102,
+      "internalItemId": 102,
+      "name": "Reaper Cloth",
+      "sprite": "assets/odyssey-items/102.png",
+      "nameOffset": "0x3dc1b0",
+      "iconTableOffset": "0x3d45c4",
+      "graphicsOffset": "0x1ab6580",
+      "paletteOffset": "0x1ab6670"
+    },
+    {
+      "romItemId": 103,
+      "internalItemId": 103,
+      "name": "TINYMUSHROOM",
+      "sprite": "assets/odyssey-items/103.png",
+      "nameOffset": "0x3dc1dc",
+      "iconTableOffset": "0x3d45cc",
+      "graphicsOffset": "0xe8a128",
+      "paletteOffset": "0xe8a260"
+    },
+    {
+      "romItemId": 104,
+      "internalItemId": 104,
+      "name": "BIG MUSHROOM",
+      "sprite": "assets/odyssey-items/104.png",
+      "nameOffset": "0x3dc208",
+      "iconTableOffset": "0x3d45d4",
+      "graphicsOffset": "0xe8a1a8",
+      "paletteOffset": "0xe8a260"
+    },
+    {
+      "romItemId": 105,
+      "internalItemId": 105,
+      "name": "Upgrade",
+      "sprite": "assets/odyssey-items/105.png",
+      "nameOffset": "0x3dc234",
+      "iconTableOffset": "0x3d45dc",
+      "graphicsOffset": "0xe8fc34",
+      "paletteOffset": "0xe8fcf0"
+    },
+    {
+      "romItemId": 106,
+      "internalItemId": 106,
+      "name": "Pearl",
+      "sprite": "assets/odyssey-items/106.png",
+      "nameOffset": "0x3dc260",
+      "iconTableOffset": "0x3d45e4",
+      "graphicsOffset": "0xe8a284",
+      "paletteOffset": "0xe8a300"
+    },
+    {
+      "romItemId": 107,
+      "internalItemId": 107,
+      "name": "Big Pearl",
+      "sprite": "assets/odyssey-items/107.png",
+      "nameOffset": "0x3dc28c",
+      "iconTableOffset": "0x3d45ec",
+      "graphicsOffset": "0xe8a328",
+      "paletteOffset": "0xe8a300"
+    },
+    {
+      "romItemId": 108,
+      "internalItemId": 108,
+      "name": "Stardust",
+      "sprite": "assets/odyssey-items/108.png",
+      "nameOffset": "0x3dc2b8",
+      "iconTableOffset": "0x3d45f4",
+      "graphicsOffset": "0xe8a3e0",
+      "paletteOffset": "0xe8a4a0"
+    },
+    {
+      "romItemId": 109,
+      "internalItemId": 109,
+      "name": "Star Piece",
+      "sprite": "assets/odyssey-items/109.png",
+      "nameOffset": "0x3dc2e4",
+      "iconTableOffset": "0x3d45fc",
+      "graphicsOffset": "0xe8a4c4",
+      "paletteOffset": "0xe8a4a0"
+    },
+    {
+      "romItemId": 110,
+      "internalItemId": 110,
+      "name": "Nugget",
+      "sprite": "assets/odyssey-items/110.png",
+      "nameOffset": "0x3dc310",
+      "iconTableOffset": "0x3d4604",
+      "graphicsOffset": "0xe8a548",
+      "paletteOffset": "0xe8a5d4"
+    },
+    {
+      "romItemId": 111,
+      "internalItemId": 111,
+      "name": "HEART SCALE",
+      "sprite": "assets/odyssey-items/111.png",
+      "nameOffset": "0x3dc33c",
+      "iconTableOffset": "0x3d460c",
+      "graphicsOffset": "0xe8a5f4",
+      "paletteOffset": "0xe8a694"
+    },
+    {
+      "romItemId": 112,
+      "internalItemId": 112,
+      "name": "Power Bracer",
+      "sprite": "assets/odyssey-items/112.png",
+      "nameOffset": "0x3dc368",
+      "iconTableOffset": "0x3d4614",
+      "graphicsOffset": "0x1a2d700",
+      "paletteOffset": "0x1a2d7f4"
+    },
+    {
+      "romItemId": 113,
+      "internalItemId": 113,
+      "name": "Power Weight",
+      "sprite": "assets/odyssey-items/113.png",
+      "nameOffset": "0x3dc394",
+      "iconTableOffset": "0x3d461c",
+      "graphicsOffset": "0x1a2d5f4",
+      "paletteOffset": "0x1a2d6e0"
+    },
+    {
+      "romItemId": 114,
+      "internalItemId": 114,
+      "name": "Power Belt",
+      "sprite": "assets/odyssey-items/114.png",
+      "nameOffset": "0x3dc3c0",
+      "iconTableOffset": "0x3d4624",
+      "graphicsOffset": "0x1a2d814",
+      "paletteOffset": "0x1a2d908"
+    },
+    {
+      "romItemId": 115,
+      "internalItemId": 115,
+      "name": "Power Lens",
+      "sprite": "assets/odyssey-items/115.png",
+      "nameOffset": "0x3dc3ec",
+      "iconTableOffset": "0x3d462c",
+      "graphicsOffset": "0x1a2d4cc",
+      "paletteOffset": "0x1a2d5cc"
+    },
+    {
+      "romItemId": 116,
+      "internalItemId": 116,
+      "name": "Power Band",
+      "sprite": "assets/odyssey-items/116.png",
+      "nameOffset": "0x3dc418",
+      "iconTableOffset": "0x3d4634",
+      "graphicsOffset": "0x10a8f80",
+      "paletteOffset": "0x1a2d4ac"
+    },
+    {
+      "romItemId": 117,
+      "internalItemId": 117,
+      "name": "Power Anklet",
+      "sprite": "assets/odyssey-items/117.png",
+      "nameOffset": "0x3dc444",
+      "iconTableOffset": "0x3d463c",
+      "graphicsOffset": "0x1a2d29c",
+      "paletteOffset": "0x1a2d394"
+    },
+    {
+      "romItemId": 118,
+      "internalItemId": 118,
+      "name": "Bl. Augurite",
+      "sprite": "assets/odyssey-items/118.png",
+      "nameOffset": "0x3dc470",
+      "iconTableOffset": "0x3d4644",
+      "graphicsOffset": "0x10f0cc0",
+      "paletteOffset": "0x10f0c40"
+    },
+    {
+      "romItemId": 119,
+      "internalItemId": 0,
+      "name": "????????",
+      "sprite": "assets/odyssey-items/119.png",
+      "nameOffset": "0x3dc49c",
+      "iconTableOffset": "0x3d464c",
+      "graphicsOffset": "0x1af2b40",
+      "paletteOffset": "0x1af2c00"
+    },
+    {
+      "romItemId": 120,
+      "internalItemId": 120,
+      "name": "????????",
+      "sprite": "assets/odyssey-items/120.png",
+      "nameOffset": "0x3dc4c8",
+      "iconTableOffset": "0x3d4654",
+      "graphicsOffset": "0x1af2b40",
+      "paletteOffset": "0x1af2c00"
+    },
+    {
+      "romItemId": 121,
+      "internalItemId": 121,
+      "name": "ORANGE MAIL",
+      "sprite": "assets/odyssey-items/121.png",
+      "nameOffset": "0x3dc4f4",
+      "iconTableOffset": "0x3d465c",
+      "graphicsOffset": "0xe8a6b0",
+      "paletteOffset": "0xe8a784"
+    },
+    {
+      "romItemId": 122,
+      "internalItemId": 122,
+      "name": "HARBOR MAIL",
+      "sprite": "assets/odyssey-items/122.png",
+      "nameOffset": "0x3dc520",
+      "iconTableOffset": "0x3d4664",
+      "graphicsOffset": "0xe8a7a4",
+      "paletteOffset": "0xe8a86c"
+    },
+    {
+      "romItemId": 123,
+      "internalItemId": 123,
+      "name": "GLITTER MAIL",
+      "sprite": "assets/odyssey-items/123.png",
+      "nameOffset": "0x3dc54c",
+      "iconTableOffset": "0x3d466c",
+      "graphicsOffset": "0xe8a88c",
+      "paletteOffset": "0xe8a968"
+    },
+    {
+      "romItemId": 124,
+      "internalItemId": 124,
+      "name": "MECH MAIL",
+      "sprite": "assets/odyssey-items/124.png",
+      "nameOffset": "0x3dc578",
+      "iconTableOffset": "0x3d4674",
+      "graphicsOffset": "0xe8a990",
+      "paletteOffset": "0xe8aa6c"
+    },
+    {
+      "romItemId": 125,
+      "internalItemId": 125,
+      "name": "WOOD MAIL",
+      "sprite": "assets/odyssey-items/125.png",
+      "nameOffset": "0x3dc5a4",
+      "iconTableOffset": "0x3d467c",
+      "graphicsOffset": "0xe8aa8c",
+      "paletteOffset": "0xe8ab6c"
+    },
+    {
+      "romItemId": 126,
+      "internalItemId": 126,
+      "name": "WAVE MAIL",
+      "sprite": "assets/odyssey-items/126.png",
+      "nameOffset": "0x3dc5d0",
+      "iconTableOffset": "0x3d4684",
+      "graphicsOffset": "0xe8ab8c",
+      "paletteOffset": "0xe8ac64"
+    },
+    {
+      "romItemId": 127,
+      "internalItemId": 127,
+      "name": "BEAD MAIL",
+      "sprite": "assets/odyssey-items/127.png",
+      "nameOffset": "0x3dc5fc",
+      "iconTableOffset": "0x3d468c",
+      "graphicsOffset": "0xe8ac84",
+      "paletteOffset": "0xe8ad44"
+    },
+    {
+      "romItemId": 128,
+      "internalItemId": 128,
+      "name": "SHADOW MAIL",
+      "sprite": "assets/odyssey-items/128.png",
+      "nameOffset": "0x3dc628",
+      "iconTableOffset": "0x3d4694",
+      "graphicsOffset": "0xe8ad64",
+      "paletteOffset": "0xe8ae38"
+    },
+    {
+      "romItemId": 129,
+      "internalItemId": 129,
+      "name": "TROPIC MAIL",
+      "sprite": "assets/odyssey-items/129.png",
+      "nameOffset": "0x3dc654",
+      "iconTableOffset": "0x3d469c",
+      "graphicsOffset": "0xe8ae5c",
+      "paletteOffset": "0xe8af40"
+    },
+    {
+      "romItemId": 130,
+      "internalItemId": 130,
+      "name": "DREAM MAIL",
+      "sprite": "assets/odyssey-items/130.png",
+      "nameOffset": "0x3dc680",
+      "iconTableOffset": "0x3d46a4",
+      "graphicsOffset": "0xe8af64",
+      "paletteOffset": "0xe8b044"
+    },
+    {
+      "romItemId": 131,
+      "internalItemId": 131,
+      "name": "FAB MAIL",
+      "sprite": "assets/odyssey-items/131.png",
+      "nameOffset": "0x3dc6ac",
+      "iconTableOffset": "0x3d46ac",
+      "graphicsOffset": "0xe8b064",
+      "paletteOffset": "0xe8b12c"
+    },
+    {
+      "romItemId": 132,
+      "internalItemId": 132,
+      "name": "RETRO MAIL",
+      "sprite": "assets/odyssey-items/132.png",
+      "nameOffset": "0x3dc6d8",
+      "iconTableOffset": "0x3d46b4",
+      "graphicsOffset": "0xe8b148",
+      "paletteOffset": "0xe8b1e0"
+    },
+    {
+      "romItemId": 133,
+      "internalItemId": 133,
+      "name": "Cheri Berry",
+      "sprite": "assets/odyssey-items/133.png",
+      "nameOffset": "0x3dc704",
+      "iconTableOffset": "0x3d46bc",
+      "graphicsOffset": "0xe8b200",
+      "paletteOffset": "0xe8b2e8"
+    },
+    {
+      "romItemId": 134,
+      "internalItemId": 134,
+      "name": "Chesto Berry",
+      "sprite": "assets/odyssey-items/134.png",
+      "nameOffset": "0x3dc730",
+      "iconTableOffset": "0x3d46c4",
+      "graphicsOffset": "0xe8b310",
+      "paletteOffset": "0xe8b3d0"
+    },
+    {
+      "romItemId": 135,
+      "internalItemId": 135,
+      "name": "Pecha Berry",
+      "sprite": "assets/odyssey-items/135.png",
+      "nameOffset": "0x3dc75c",
+      "iconTableOffset": "0x3d46cc",
+      "graphicsOffset": "0xe8b3f4",
+      "paletteOffset": "0xe8b4b4"
+    },
+    {
+      "romItemId": 136,
+      "internalItemId": 136,
+      "name": "Rawst Berry",
+      "sprite": "assets/odyssey-items/136.png",
+      "nameOffset": "0x3dc788",
+      "iconTableOffset": "0x3d46d4",
+      "graphicsOffset": "0xe8b4d8",
+      "paletteOffset": "0xe8b5bc"
+    },
+    {
+      "romItemId": 137,
+      "internalItemId": 137,
+      "name": "Aspear Berry",
+      "sprite": "assets/odyssey-items/137.png",
+      "nameOffset": "0x3dc7b4",
+      "iconTableOffset": "0x3d46dc",
+      "graphicsOffset": "0xe8b5e0",
+      "paletteOffset": "0xe8b6c8"
+    },
+    {
+      "romItemId": 138,
+      "internalItemId": 138,
+      "name": "Leppa Berry",
+      "sprite": "assets/odyssey-items/138.png",
+      "nameOffset": "0x3dc7e0",
+      "iconTableOffset": "0x3d46e4",
+      "graphicsOffset": "0xe8b6ec",
+      "paletteOffset": "0xe8b7a4"
+    },
+    {
+      "romItemId": 139,
+      "internalItemId": 139,
+      "name": "Oran Berry",
+      "sprite": "assets/odyssey-items/139.png",
+      "nameOffset": "0x3dc80c",
+      "iconTableOffset": "0x3d46ec",
+      "graphicsOffset": "0xe8b7c8",
+      "paletteOffset": "0xe8b88c"
+    },
+    {
+      "romItemId": 140,
+      "internalItemId": 140,
+      "name": "PERSIM BERRY",
+      "sprite": "assets/odyssey-items/140.png",
+      "nameOffset": "0x3dc838",
+      "iconTableOffset": "0x3d46f4",
+      "graphicsOffset": "0xe8b8b0",
+      "paletteOffset": "0xe8b984"
+    },
+    {
+      "romItemId": 141,
+      "internalItemId": 141,
+      "name": "Lum Berry",
+      "sprite": "assets/odyssey-items/141.png",
+      "nameOffset": "0x3dc864",
+      "iconTableOffset": "0x3d46fc",
+      "graphicsOffset": "0xe8b9a8",
+      "paletteOffset": "0xe8ba60"
+    },
+    {
+      "romItemId": 142,
+      "internalItemId": 142,
+      "name": "Sitrus Berry",
+      "sprite": "assets/odyssey-items/142.png",
+      "nameOffset": "0x3dc890",
+      "iconTableOffset": "0x3d4704",
+      "graphicsOffset": "0xe8ba7c",
+      "paletteOffset": "0xe8bb48"
+    },
+    {
+      "romItemId": 143,
+      "internalItemId": 143,
+      "name": "Figy Berry",
+      "sprite": "assets/odyssey-items/143.png",
+      "nameOffset": "0x3dc8bc",
+      "iconTableOffset": "0x3d470c",
+      "graphicsOffset": "0xe8bb6c",
+      "paletteOffset": "0xe8bc34"
+    },
+    {
+      "romItemId": 144,
+      "internalItemId": 144,
+      "name": "Wiki Berry",
+      "sprite": "assets/odyssey-items/144.png",
+      "nameOffset": "0x3dc8e8",
+      "iconTableOffset": "0x3d4714",
+      "graphicsOffset": "0xe8bc58",
+      "paletteOffset": "0xe8bd3c"
+    },
+    {
+      "romItemId": 145,
+      "internalItemId": 145,
+      "name": "Mago Berry",
+      "sprite": "assets/odyssey-items/145.png",
+      "nameOffset": "0x3dc914",
+      "iconTableOffset": "0x3d471c",
+      "graphicsOffset": "0xe8bd60",
+      "paletteOffset": "0xe8be1c"
+    },
+    {
+      "romItemId": 146,
+      "internalItemId": 146,
+      "name": "Aguav Berry",
+      "sprite": "assets/odyssey-items/146.png",
+      "nameOffset": "0x3dc940",
+      "iconTableOffset": "0x3d4724",
+      "graphicsOffset": "0xe8be40",
+      "paletteOffset": "0xe8bf2c"
+    },
+    {
+      "romItemId": 147,
+      "internalItemId": 147,
+      "name": "Iapapa Berry",
+      "sprite": "assets/odyssey-items/147.png",
+      "nameOffset": "0x3dc96c",
+      "iconTableOffset": "0x3d472c",
+      "graphicsOffset": "0xe8bf4c",
+      "paletteOffset": "0xe8c034"
+    },
+    {
+      "romItemId": 148,
+      "internalItemId": 148,
+      "name": "Red Flower",
+      "sprite": "assets/odyssey-items/148.png",
+      "nameOffset": "0x3dc998",
+      "iconTableOffset": "0x3d4734",
+      "graphicsOffset": "0x1202e40",
+      "paletteOffset": "0x1a06d60"
+    },
+    {
+      "romItemId": 149,
+      "internalItemId": 149,
+      "name": "Blue Flower",
+      "sprite": "assets/odyssey-items/149.png",
+      "nameOffset": "0x3dc9c4",
+      "iconTableOffset": "0x3d473c",
+      "graphicsOffset": "0x1202f80",
+      "paletteOffset": "0x1a06d88"
+    },
+    {
+      "romItemId": 150,
+      "internalItemId": 150,
+      "name": "YellowFlower",
+      "sprite": "assets/odyssey-items/150.png",
+      "nameOffset": "0x3dc9f0",
+      "iconTableOffset": "0x3d4744",
+      "graphicsOffset": "0x12030c0",
+      "paletteOffset": "0x1a06db0"
+    },
+    {
+      "romItemId": 151,
+      "internalItemId": 151,
+      "name": "PurpleFlower",
+      "sprite": "assets/odyssey-items/151.png",
+      "nameOffset": "0x3dca1c",
+      "iconTableOffset": "0x3d474c",
+      "graphicsOffset": "0x1203200",
+      "paletteOffset": "0x1a06dd8"
+    },
+    {
+      "romItemId": 152,
+      "internalItemId": 152,
+      "name": "White Flower",
+      "sprite": "assets/odyssey-items/152.png",
+      "nameOffset": "0x3dca48",
+      "iconTableOffset": "0x3d4754",
+      "graphicsOffset": "0x1203340",
+      "paletteOffset": "0x1a06e00"
+    },
+    {
+      "romItemId": 153,
+      "internalItemId": 153,
+      "name": "Black Flower",
+      "sprite": "assets/odyssey-items/153.png",
+      "nameOffset": "0x3dca74",
+      "iconTableOffset": "0x3d475c",
+      "graphicsOffset": "0x1203480",
+      "paletteOffset": "0x1a06e28"
+    },
+    {
+      "romItemId": 154,
+      "internalItemId": 154,
+      "name": "Topaz",
+      "sprite": "assets/odyssey-items/154.png",
+      "nameOffset": "0x3dcaa0",
+      "iconTableOffset": "0x3d4764",
+      "graphicsOffset": "0x1a06e50",
+      "paletteOffset": "0x1a06ef4"
+    },
+    {
+      "romItemId": 155,
+      "internalItemId": 155,
+      "name": "Emerald",
+      "sprite": "assets/odyssey-items/155.png",
+      "nameOffset": "0x3dcacc",
+      "iconTableOffset": "0x3d476c",
+      "graphicsOffset": "0x1a06e50",
+      "paletteOffset": "0x1a06f14"
+    },
+    {
+      "romItemId": 156,
+      "internalItemId": 156,
+      "name": "Ruby",
+      "sprite": "assets/odyssey-items/156.png",
+      "nameOffset": "0x3dcaf8",
+      "iconTableOffset": "0x3d4774",
+      "graphicsOffset": "0x1a06e50",
+      "paletteOffset": "0x1a06f34"
+    },
+    {
+      "romItemId": 157,
+      "internalItemId": 157,
+      "name": "Sapphire",
+      "sprite": "assets/odyssey-items/157.png",
+      "nameOffset": "0x3dcb24",
+      "iconTableOffset": "0x3d477c",
+      "graphicsOffset": "0x1a06e50",
+      "paletteOffset": "0x1a06f54"
+    },
+    {
+      "romItemId": 158,
+      "internalItemId": 158,
+      "name": "Perlite",
+      "sprite": "assets/odyssey-items/158.png",
+      "nameOffset": "0x3dcb50",
+      "iconTableOffset": "0x3d4784",
+      "graphicsOffset": "0x1a06e50",
+      "paletteOffset": "0x1a06f74"
+    },
+    {
+      "romItemId": 159,
+      "internalItemId": 159,
+      "name": "Dolomite",
+      "sprite": "assets/odyssey-items/159.png",
+      "nameOffset": "0x3dcb7c",
+      "iconTableOffset": "0x3d478c",
+      "graphicsOffset": "0x1a06e50",
+      "paletteOffset": "0x1a06f94"
+    },
+    {
+      "romItemId": 160,
+      "internalItemId": 160,
+      "name": "Pomeg Berry",
+      "sprite": "assets/odyssey-items/160.png",
+      "nameOffset": "0x3dcba8",
+      "iconTableOffset": "0x3d4794",
+      "graphicsOffset": "0xe8c574",
+      "paletteOffset": "0xe8c628"
+    },
+    {
+      "romItemId": 161,
+      "internalItemId": 161,
+      "name": "Kelpsy Berry",
+      "sprite": "assets/odyssey-items/161.png",
+      "nameOffset": "0x3dcbd4",
+      "iconTableOffset": "0x3d479c",
+      "graphicsOffset": "0xe8c64c",
+      "paletteOffset": "0xe8c71c"
+    },
+    {
+      "romItemId": 162,
+      "internalItemId": 162,
+      "name": "Qualot Berry",
+      "sprite": "assets/odyssey-items/162.png",
+      "nameOffset": "0x3dcc00",
+      "iconTableOffset": "0x3d47a4",
+      "graphicsOffset": "0xe8c73c",
+      "paletteOffset": "0xe8c808"
+    },
+    {
+      "romItemId": 163,
+      "internalItemId": 163,
+      "name": "Hondew Berry",
+      "sprite": "assets/odyssey-items/163.png",
+      "nameOffset": "0x3dcc2c",
+      "iconTableOffset": "0x3d47ac",
+      "graphicsOffset": "0xe8c82c",
+      "paletteOffset": "0xe8c90c"
+    },
+    {
+      "romItemId": 164,
+      "internalItemId": 164,
+      "name": "Grepa Berry",
+      "sprite": "assets/odyssey-items/164.png",
+      "nameOffset": "0x3dcc58",
+      "iconTableOffset": "0x3d47b4",
+      "graphicsOffset": "0xe8c930",
+      "paletteOffset": "0xe8c9e4"
+    },
+    {
+      "romItemId": 165,
+      "internalItemId": 165,
+      "name": "Tamato Berry",
+      "sprite": "assets/odyssey-items/165.png",
+      "nameOffset": "0x3dcc84",
+      "iconTableOffset": "0x3d47bc",
+      "graphicsOffset": "0xe8ca08",
+      "paletteOffset": "0xe8cae4"
+    },
+    {
+      "romItemId": 166,
+      "internalItemId": 166,
+      "name": "Relic Silver",
+      "sprite": "assets/odyssey-items/166.png",
+      "nameOffset": "0x3dccb0",
+      "iconTableOffset": "0x3d47c4",
+      "graphicsOffset": "0xe8d1e8",
+      "paletteOffset": "0xe8d2ec"
+    },
+    {
+      "romItemId": 167,
+      "internalItemId": 167,
+      "name": "Relic Gold",
+      "sprite": "assets/odyssey-items/167.png",
+      "nameOffset": "0x3dccdc",
+      "iconTableOffset": "0x3d47cc",
+      "graphicsOffset": "0xe8d310",
+      "paletteOffset": "0xe8d3f4"
+    },
+    {
+      "romItemId": 168,
+      "internalItemId": 168,
+      "name": "Liechi Berry",
+      "sprite": "assets/odyssey-items/168.png",
+      "nameOffset": "0x3dcd08",
+      "iconTableOffset": "0x3d47d4",
+      "graphicsOffset": "0xe8d418",
+      "paletteOffset": "0xe8d4f8"
+    },
+    {
+      "romItemId": 169,
+      "internalItemId": 169,
+      "name": "Ganlon Berry",
+      "sprite": "assets/odyssey-items/169.png",
+      "nameOffset": "0x3dcd34",
+      "iconTableOffset": "0x3d47dc",
+      "graphicsOffset": "0xe8d518",
+      "paletteOffset": "0xe8d5f8"
+    },
+    {
+      "romItemId": 170,
+      "internalItemId": 170,
+      "name": "Salak Berry",
+      "sprite": "assets/odyssey-items/170.png",
+      "nameOffset": "0x3dcd60",
+      "iconTableOffset": "0x3d47e4",
+      "graphicsOffset": "0xe8d618",
+      "paletteOffset": "0xe8d700"
+    },
+    {
+      "romItemId": 171,
+      "internalItemId": 171,
+      "name": "Petaya Berry",
+      "sprite": "assets/odyssey-items/171.png",
+      "nameOffset": "0x3dcd8c",
+      "iconTableOffset": "0x3d47ec",
+      "graphicsOffset": "0xe8d720",
+      "paletteOffset": "0xe8d818"
+    },
+    {
+      "romItemId": 172,
+      "internalItemId": 172,
+      "name": "Apicot Berry",
+      "sprite": "assets/odyssey-items/172.png",
+      "nameOffset": "0x3dcdb8",
+      "iconTableOffset": "0x3d47f4",
+      "graphicsOffset": "0xe8d83c",
+      "paletteOffset": "0xe8d8f4"
+    },
+    {
+      "romItemId": 173,
+      "internalItemId": 173,
+      "name": "Lansat Berry",
+      "sprite": "assets/odyssey-items/173.png",
+      "nameOffset": "0x3dcde4",
+      "iconTableOffset": "0x3d47fc",
+      "graphicsOffset": "0xe8d91c",
+      "paletteOffset": "0xe8d9fc"
+    },
+    {
+      "romItemId": 174,
+      "internalItemId": 0,
+      "name": "STARF BERRY",
+      "sprite": "assets/odyssey-items/174.png",
+      "nameOffset": "0x3dce10",
+      "iconTableOffset": "0x3d4804",
+      "graphicsOffset": "0xe8da20",
+      "paletteOffset": "0xe8daf0"
+    },
+    {
+      "romItemId": 175,
+      "internalItemId": 0,
+      "name": "ENIGMA BERRY",
+      "sprite": "assets/odyssey-items/175.png",
+      "nameOffset": "0x3dce3c",
+      "iconTableOffset": "0x3d480c",
+      "graphicsOffset": "0xe8db14",
+      "paletteOffset": "0xe8dbe0"
+    },
+    {
+      "romItemId": 176,
+      "internalItemId": 0,
+      "name": "????????",
+      "sprite": "assets/odyssey-items/176.png",
+      "nameOffset": "0x3dce68",
+      "iconTableOffset": "0x3d4814",
+      "graphicsOffset": "0x1af2b40",
+      "paletteOffset": "0x1af2c00"
+    },
+    {
+      "romItemId": 177,
+      "internalItemId": 0,
+      "name": "????????",
+      "sprite": "assets/odyssey-items/177.png",
+      "nameOffset": "0x3dce94",
+      "iconTableOffset": "0x3d481c",
+      "graphicsOffset": "0x1af2b40",
+      "paletteOffset": "0x1af2c00"
+    },
+    {
+      "romItemId": 178,
+      "internalItemId": 0,
+      "name": "????????",
+      "sprite": "assets/odyssey-items/178.png",
+      "nameOffset": "0x3dcec0",
+      "iconTableOffset": "0x3d4824",
+      "graphicsOffset": "0x1af2b40",
+      "paletteOffset": "0x1af2c00"
+    },
+    {
+      "romItemId": 179,
+      "internalItemId": 179,
+      "name": "Brightpowder",
+      "sprite": "assets/odyssey-items/179.png",
+      "nameOffset": "0x3dceec",
+      "iconTableOffset": "0x3d482c",
+      "graphicsOffset": "0xe8dc00",
+      "paletteOffset": "0xe8dcbc"
+    },
+    {
+      "romItemId": 180,
+      "internalItemId": 180,
+      "name": "White Herb",
+      "sprite": "assets/odyssey-items/180.png",
+      "nameOffset": "0x3dcf18",
+      "iconTableOffset": "0x3d4834",
+      "graphicsOffset": "0xe8dcdc",
+      "paletteOffset": "0xe8dd88"
+    },
+    {
+      "romItemId": 181,
+      "internalItemId": 181,
+      "name": "Crescicappa",
+      "sprite": "assets/odyssey-items/181.png",
+      "nameOffset": "0x3dcf44",
+      "iconTableOffset": "0x3d483c",
+      "graphicsOffset": "0xe8dda8",
+      "paletteOffset": "0xe8de94"
+    },
+    {
+      "romItemId": 182,
+      "internalItemId": 182,
+      "name": "EXP. SHARE",
+      "sprite": "assets/odyssey-items/182.png",
+      "nameOffset": "0x3dcf70",
+      "iconTableOffset": "0x3d4844",
+      "graphicsOffset": "0xe8debc",
+      "paletteOffset": "0xe8dfa8"
+    },
+    {
+      "romItemId": 183,
+      "internalItemId": 183,
+      "name": "Quick Claw",
+      "sprite": "assets/odyssey-items/183.png",
+      "nameOffset": "0x3dcf9c",
+      "iconTableOffset": "0x3d484c",
+      "graphicsOffset": "0xe8dfd0",
+      "paletteOffset": "0xe8e068"
+    },
+    {
+      "romItemId": 184,
+      "internalItemId": 184,
+      "name": "SOOTHE BELL",
+      "sprite": "assets/odyssey-items/184.png",
+      "nameOffset": "0x3dcfc8",
+      "iconTableOffset": "0x3d4854",
+      "graphicsOffset": "0xe8e088",
+      "paletteOffset": "0xe8e14c"
+    },
+    {
+      "romItemId": 185,
+      "internalItemId": 185,
+      "name": "MENTAL HERB",
+      "sprite": "assets/odyssey-items/185.png",
+      "nameOffset": "0x3dcff4",
+      "iconTableOffset": "0x3d485c",
+      "graphicsOffset": "0xe8dcdc",
+      "paletteOffset": "0xe8e170"
+    },
+    {
+      "romItemId": 186,
+      "internalItemId": 186,
+      "name": "Choice Band",
+      "sprite": "assets/odyssey-items/186.png",
+      "nameOffset": "0x3dd020",
+      "iconTableOffset": "0x3d4864",
+      "graphicsOffset": "0xe8e190",
+      "paletteOffset": "0xe8e27c"
+    },
+    {
+      "romItemId": 187,
+      "internalItemId": 187,
+      "name": "KING'S ROCK",
+      "sprite": "assets/odyssey-items/187.png",
+      "nameOffset": "0x3dd04c",
+      "iconTableOffset": "0x3d486c",
+      "graphicsOffset": "0xe8e2a4",
+      "paletteOffset": "0xe8e394"
+    },
+    {
+      "romItemId": 188,
+      "internalItemId": 188,
+      "name": "Silverpowder",
+      "sprite": "assets/odyssey-items/188.png",
+      "nameOffset": "0x3dd078",
+      "iconTableOffset": "0x3d4874",
+      "graphicsOffset": "0xe8e3b0",
+      "paletteOffset": "0xe8e43c"
+    },
+    {
+      "romItemId": 189,
+      "internalItemId": 189,
+      "name": "Amulet Coin",
+      "sprite": "assets/odyssey-items/189.png",
+      "nameOffset": "0x3dd0a4",
+      "iconTableOffset": "0x3d487c",
+      "graphicsOffset": "0xe8e460",
+      "paletteOffset": "0xe8e4f8"
+    },
+    {
+      "romItemId": 190,
+      "internalItemId": 190,
+      "name": "CLEANSE TAG",
+      "sprite": "assets/odyssey-items/190.png",
+      "nameOffset": "0x3dd0d0",
+      "iconTableOffset": "0x3d4884",
+      "graphicsOffset": "0xe8e51c",
+      "paletteOffset": "0xe8e5c0"
+    },
+    {
+      "romItemId": 191,
+      "internalItemId": 191,
+      "name": "SOUL DEW",
+      "sprite": "assets/odyssey-items/191.png",
+      "nameOffset": "0x3dd0fc",
+      "iconTableOffset": "0x3d488c",
+      "graphicsOffset": "0xe8e5e0",
+      "paletteOffset": "0xe8e674"
+    },
+    {
+      "romItemId": 192,
+      "internalItemId": 192,
+      "name": "DEEPSEATOOTH",
+      "sprite": "assets/odyssey-items/192.png",
+      "nameOffset": "0x3dd128",
+      "iconTableOffset": "0x3d4894",
+      "graphicsOffset": "0xe8e694",
+      "paletteOffset": "0xe8e748"
+    },
+    {
+      "romItemId": 193,
+      "internalItemId": 193,
+      "name": "DEEPSEASCALE",
+      "sprite": "assets/odyssey-items/193.png",
+      "nameOffset": "0x3dd154",
+      "iconTableOffset": "0x3d489c",
+      "graphicsOffset": "0xe8e76c",
+      "paletteOffset": "0xe8e814"
+    },
+    {
+      "romItemId": 194,
+      "internalItemId": 194,
+      "name": "SMOKE BALL",
+      "sprite": "assets/odyssey-items/194.png",
+      "nameOffset": "0x3dd180",
+      "iconTableOffset": "0x3d48a4",
+      "graphicsOffset": "0xe8e834",
+      "paletteOffset": "0xe8e8ec"
+    },
+    {
+      "romItemId": 195,
+      "internalItemId": 195,
+      "name": "Everstone",
+      "sprite": "assets/odyssey-items/195.png",
+      "nameOffset": "0x3dd1ac",
+      "iconTableOffset": "0x3d48ac",
+      "graphicsOffset": "0xe8e910",
+      "paletteOffset": "0xe8e9c4"
+    },
+    {
+      "romItemId": 196,
+      "internalItemId": 196,
+      "name": "Focus Sash",
+      "sprite": "assets/odyssey-items/196.png",
+      "nameOffset": "0x3dd1d8",
+      "iconTableOffset": "0x3d48b4",
+      "graphicsOffset": "0xe8e9e0",
+      "paletteOffset": "0xe8ead0"
+    },
+    {
+      "romItemId": 197,
+      "internalItemId": 197,
+      "name": "Lucky Egg",
+      "sprite": "assets/odyssey-items/197.png",
+      "nameOffset": "0x3dd204",
+      "iconTableOffset": "0x3d48bc",
+      "graphicsOffset": "0xe8eaf8",
+      "paletteOffset": "0xe8eb80"
+    },
+    {
+      "romItemId": 198,
+      "internalItemId": 198,
+      "name": "Scope Lens",
+      "sprite": "assets/odyssey-items/198.png",
+      "nameOffset": "0x3dd230",
+      "iconTableOffset": "0x3d48c4",
+      "graphicsOffset": "0xe8eb98",
+      "paletteOffset": "0xe8ec98"
+    },
+    {
+      "romItemId": 199,
+      "internalItemId": 199,
+      "name": "Metal Coat",
+      "sprite": "assets/odyssey-items/199.png",
+      "nameOffset": "0x3dd25c",
+      "iconTableOffset": "0x3d48cc",
+      "graphicsOffset": "0xe8ecc0",
+      "paletteOffset": "0xe8ed7c"
+    },
+    {
+      "romItemId": 200,
+      "internalItemId": 200,
+      "name": "Leftovers",
+      "sprite": "assets/odyssey-items/200.png",
+      "nameOffset": "0x3dd288",
+      "iconTableOffset": "0x3d48d4",
+      "graphicsOffset": "0xe8ed9c",
+      "paletteOffset": "0xe8ee40"
+    },
+    {
+      "romItemId": 201,
+      "internalItemId": 201,
+      "name": "DRAGON SCALE",
+      "sprite": "assets/odyssey-items/201.png",
+      "nameOffset": "0x3dd2b4",
+      "iconTableOffset": "0x3d48dc",
+      "graphicsOffset": "0xe8ee64",
+      "paletteOffset": "0xe8ef18"
+    },
+    {
+      "romItemId": 202,
+      "internalItemId": 202,
+      "name": "Light Ball",
+      "sprite": "assets/odyssey-items/202.png",
+      "nameOffset": "0x3dd2e0",
+      "iconTableOffset": "0x3d48e4",
+      "graphicsOffset": "0xe8ef38",
+      "paletteOffset": "0xe8efcc"
+    },
+    {
+      "romItemId": 203,
+      "internalItemId": 203,
+      "name": "Soft Sand",
+      "sprite": "assets/odyssey-items/203.png",
+      "nameOffset": "0x3dd30c",
+      "iconTableOffset": "0x3d48ec",
+      "graphicsOffset": "0xe8eff0",
+      "paletteOffset": "0xe8f0ac"
+    },
+    {
+      "romItemId": 204,
+      "internalItemId": 204,
+      "name": "Hard Stone",
+      "sprite": "assets/odyssey-items/204.png",
+      "nameOffset": "0x3dd338",
+      "iconTableOffset": "0x3d48f4",
+      "graphicsOffset": "0xe8f0cc",
+      "paletteOffset": "0xe8f180"
+    },
+    {
+      "romItemId": 205,
+      "internalItemId": 205,
+      "name": "Miracle Seed",
+      "sprite": "assets/odyssey-items/205.png",
+      "nameOffset": "0x3dd364",
+      "iconTableOffset": "0x3d48fc",
+      "graphicsOffset": "0xe8f1a4",
+      "paletteOffset": "0xe8f254"
+    },
+    {
+      "romItemId": 206,
+      "internalItemId": 206,
+      "name": "Blackglasses",
+      "sprite": "assets/odyssey-items/206.png",
+      "nameOffset": "0x3dd390",
+      "iconTableOffset": "0x3d4904",
+      "graphicsOffset": "0xe8f270",
+      "paletteOffset": "0xe8f2f8"
+    },
+    {
+      "romItemId": 207,
+      "internalItemId": 207,
+      "name": "Black Belt",
+      "sprite": "assets/odyssey-items/207.png",
+      "nameOffset": "0x3dd3bc",
+      "iconTableOffset": "0x3d490c",
+      "graphicsOffset": "0xe8f310",
+      "paletteOffset": "0xe8f2f8"
+    },
+    {
+      "romItemId": 208,
+      "internalItemId": 208,
+      "name": "Magnet",
+      "sprite": "assets/odyssey-items/208.png",
+      "nameOffset": "0x3dd3e8",
+      "iconTableOffset": "0x3d4914",
+      "graphicsOffset": "0xe8f3d8",
+      "paletteOffset": "0xe8f488"
+    },
+    {
+      "romItemId": 209,
+      "internalItemId": 209,
+      "name": "Mystic Water",
+      "sprite": "assets/odyssey-items/209.png",
+      "nameOffset": "0x3dd414",
+      "iconTableOffset": "0x3d491c",
+      "graphicsOffset": "0xe8f4b0",
+      "paletteOffset": "0xe8f548"
+    },
+    {
+      "romItemId": 210,
+      "internalItemId": 210,
+      "name": "Sharp Beak",
+      "sprite": "assets/odyssey-items/210.png",
+      "nameOffset": "0x3dd440",
+      "iconTableOffset": "0x3d4924",
+      "graphicsOffset": "0xe8f568",
+      "paletteOffset": "0xe8f624"
+    },
+    {
+      "romItemId": 211,
+      "internalItemId": 211,
+      "name": "Poison Barb",
+      "sprite": "assets/odyssey-items/211.png",
+      "nameOffset": "0x3dd46c",
+      "iconTableOffset": "0x3d492c",
+      "graphicsOffset": "0xe8f644",
+      "paletteOffset": "0xe8f6cc"
+    },
+    {
+      "romItemId": 212,
+      "internalItemId": 212,
+      "name": "Nevermeltice",
+      "sprite": "assets/odyssey-items/212.png",
+      "nameOffset": "0x3dd498",
+      "iconTableOffset": "0x3d4934",
+      "graphicsOffset": "0xe8f6ec",
+      "paletteOffset": "0xe8f7b8"
+    },
+    {
+      "romItemId": 213,
+      "internalItemId": 213,
+      "name": "Spell Tag",
+      "sprite": "assets/odyssey-items/213.png",
+      "nameOffset": "0x3dd4c4",
+      "iconTableOffset": "0x3d493c",
+      "graphicsOffset": "0xe8f7d4",
+      "paletteOffset": "0xe8f874"
+    },
+    {
+      "romItemId": 214,
+      "internalItemId": 214,
+      "name": "Twistedspoon",
+      "sprite": "assets/odyssey-items/214.png",
+      "nameOffset": "0x3dd4f0",
+      "iconTableOffset": "0x3d4944",
+      "graphicsOffset": "0xe8f894",
+      "paletteOffset": "0xe8f934"
+    },
+    {
+      "romItemId": 215,
+      "internalItemId": 215,
+      "name": "Charcoal",
+      "sprite": "assets/odyssey-items/215.png",
+      "nameOffset": "0x3dd51c",
+      "iconTableOffset": "0x3d494c",
+      "graphicsOffset": "0xe8f94c",
+      "paletteOffset": "0xe8fa1c"
+    },
+    {
+      "romItemId": 216,
+      "internalItemId": 216,
+      "name": "Dragon Fang",
+      "sprite": "assets/odyssey-items/216.png",
+      "nameOffset": "0x3dd548",
+      "iconTableOffset": "0x3d4954",
+      "graphicsOffset": "0xe8fa38",
+      "paletteOffset": "0xe8faec"
+    },
+    {
+      "romItemId": 217,
+      "internalItemId": 217,
+      "name": "Silk Scarf",
+      "sprite": "assets/odyssey-items/217.png",
+      "nameOffset": "0x3dd574",
+      "iconTableOffset": "0x3d495c",
+      "graphicsOffset": "0xe8fb0c",
+      "paletteOffset": "0xe8fc14"
+    },
+    {
+      "romItemId": 218,
+      "internalItemId": 218,
+      "name": "Nop",
+      "sprite": "assets/odyssey-items/218.png",
+      "nameOffset": "0x3dd5a0",
+      "iconTableOffset": "0x3d4964",
+      "graphicsOffset": "0xe8fc34",
+      "paletteOffset": "0xe8fcf0"
+    },
+    {
+      "romItemId": 219,
+      "internalItemId": 219,
+      "name": "Shell Bell",
+      "sprite": "assets/odyssey-items/219.png",
+      "nameOffset": "0x3dd5cc",
+      "iconTableOffset": "0x3d496c",
+      "graphicsOffset": "0xe8fd18",
+      "paletteOffset": "0xe88f28"
+    },
+    {
+      "romItemId": 220,
+      "internalItemId": 220,
+      "name": "SEA INCENSE",
+      "sprite": "assets/odyssey-items/220.png",
+      "nameOffset": "0x3dd5f8",
+      "iconTableOffset": "0x3d4974",
+      "graphicsOffset": "0xe8fdf8",
+      "paletteOffset": "0xe8fee0"
+    },
+    {
+      "romItemId": 221,
+      "internalItemId": 221,
+      "name": "LAX INCENSE",
+      "sprite": "assets/odyssey-items/221.png",
+      "nameOffset": "0x3dd624",
+      "iconTableOffset": "0x3d497c",
+      "graphicsOffset": "0xe8ff08",
+      "paletteOffset": "0xe8fff0"
+    },
+    {
+      "romItemId": 222,
+      "internalItemId": 222,
+      "name": "LUCKY PUNCH",
+      "sprite": "assets/odyssey-items/222.png",
+      "nameOffset": "0x3dd650",
+      "iconTableOffset": "0x3d4984",
+      "graphicsOffset": "0xe90018",
+      "paletteOffset": "0xe900dc"
+    },
+    {
+      "romItemId": 223,
+      "internalItemId": 223,
+      "name": "METAL POWDER",
+      "sprite": "assets/odyssey-items/223.png",
+      "nameOffset": "0x3dd67c",
+      "iconTableOffset": "0x3d498c",
+      "graphicsOffset": "0xe900fc",
+      "paletteOffset": "0xe901bc"
+    },
+    {
+      "romItemId": 224,
+      "internalItemId": 224,
+      "name": "Bone Piercer",
+      "sprite": "assets/odyssey-items/224.png",
+      "nameOffset": "0x3dd6a8",
+      "iconTableOffset": "0x3d4994",
+      "graphicsOffset": "0x12aee80",
+      "paletteOffset": "0x12aef80"
+    },
+    {
+      "romItemId": 225,
+      "internalItemId": 225,
+      "name": "Bread",
+      "sprite": "assets/odyssey-items/225.png",
+      "nameOffset": "0x3dd6d4",
+      "iconTableOffset": "0x3d499c",
+      "graphicsOffset": "0xe90290",
+      "paletteOffset": "0xe90330"
+    },
+    {
+      "romItemId": 226,
+      "internalItemId": 226,
+      "name": "Choice Specs",
+      "sprite": "assets/odyssey-items/226.png",
+      "nameOffset": "0x3dd700",
+      "iconTableOffset": "0x3d49a4",
+      "graphicsOffset": "0x771c80",
+      "paletteOffset": "0x771d1c"
+    },
+    {
+      "romItemId": 227,
+      "internalItemId": 227,
+      "name": "Choice Scarf",
+      "sprite": "assets/odyssey-items/227.png",
+      "nameOffset": "0x3dd72c",
+      "iconTableOffset": "0x3d49ac",
+      "graphicsOffset": "0x1ad1e50",
+      "paletteOffset": "0x1ad1f58"
+    },
+    {
+      "romItemId": 228,
+      "internalItemId": 228,
+      "name": "Ability Cap.",
+      "sprite": "assets/odyssey-items/228.png",
+      "nameOffset": "0x3dd758",
+      "iconTableOffset": "0x3d49b4",
+      "graphicsOffset": "0x1a32f40",
+      "paletteOffset": "0x1a32fe4"
+    },
+    {
+      "romItemId": 229,
+      "internalItemId": 229,
+      "name": "Life Orb",
+      "sprite": "assets/odyssey-items/229.png",
+      "nameOffset": "0x3dd784",
+      "iconTableOffset": "0x3d49bc",
+      "graphicsOffset": "0x1a49c28",
+      "paletteOffset": "0x1a49cb8"
+    },
+    {
+      "romItemId": 230,
+      "internalItemId": 230,
+      "name": "Rocky Helmet",
+      "sprite": "assets/odyssey-items/230.png",
+      "nameOffset": "0x3dd7b0",
+      "iconTableOffset": "0x3d49c4",
+      "graphicsOffset": "0x1a49cd4",
+      "paletteOffset": "0x1a49da4"
+    },
+    {
+      "romItemId": 231,
+      "internalItemId": 231,
+      "name": "Fangopece",
+      "sprite": "assets/odyssey-items/231.png",
+      "nameOffset": "0x3dd7dc",
+      "iconTableOffset": "0x3d49cc",
+      "graphicsOffset": "0x1a49dc4",
+      "paletteOffset": "0x1a49e8c"
+    },
+    {
+      "romItemId": 232,
+      "internalItemId": 232,
+      "name": "Assault Vest",
+      "sprite": "assets/odyssey-items/232.png",
+      "nameOffset": "0x3dd808",
+      "iconTableOffset": "0x3d49d4",
+      "graphicsOffset": "0x1202d00",
+      "paletteOffset": "0x1a49f6c"
+    },
+    {
+      "romItemId": 233,
+      "internalItemId": 233,
+      "name": "Eviolite",
+      "sprite": "assets/odyssey-items/233.png",
+      "nameOffset": "0x3dd834",
+      "iconTableOffset": "0x3d49dc",
+      "graphicsOffset": "0x1a49f94",
+      "paletteOffset": "0x1a4a00c"
+    },
+    {
+      "romItemId": 234,
+      "internalItemId": 234,
+      "name": "Wide Lens",
+      "sprite": "assets/odyssey-items/234.png",
+      "nameOffset": "0x3dd860",
+      "iconTableOffset": "0x3d49e4",
+      "graphicsOffset": "0x1a92090",
+      "paletteOffset": "0x1a92150"
+    },
+    {
+      "romItemId": 235,
+      "internalItemId": 235,
+      "name": "Expert Belt",
+      "sprite": "assets/odyssey-items/235.png",
+      "nameOffset": "0x3dd88c",
+      "iconTableOffset": "0x3d49ec",
+      "graphicsOffset": "0x1a9730c",
+      "paletteOffset": "0x1a972f0"
+    },
+    {
+      "romItemId": 236,
+      "internalItemId": 236,
+      "name": "Flame Orb",
+      "sprite": "assets/odyssey-items/236.png",
+      "nameOffset": "0x3dd8b8",
+      "iconTableOffset": "0x3d49f4",
+      "graphicsOffset": "0x1a97b80",
+      "paletteOffset": "0x1a97c20"
+    },
+    {
+      "romItemId": 237,
+      "internalItemId": 237,
+      "name": "Toxic Orb",
+      "sprite": "assets/odyssey-items/237.png",
+      "nameOffset": "0x3dd8e4",
+      "iconTableOffset": "0x3d49fc",
+      "graphicsOffset": "0x1a97aa0",
+      "paletteOffset": "0x1a97b50"
+    },
+    {
+      "romItemId": 238,
+      "internalItemId": 238,
+      "name": "Weak. Policy",
+      "sprite": "assets/odyssey-items/238.png",
+      "nameOffset": "0x3dd910",
+      "iconTableOffset": "0x3d4a04",
+      "graphicsOffset": "0x1ad1bb0",
+      "paletteOffset": "0x1ad1c70"
+    },
+    {
+      "romItemId": 239,
+      "internalItemId": 239,
+      "name": "Light Clay",
+      "sprite": "assets/odyssey-items/239.png",
+      "nameOffset": "0x3dd93c",
+      "iconTableOffset": "0x3d4a0c",
+      "graphicsOffset": "0x1ad2220",
+      "paletteOffset": "0x1ad22f0"
+    },
+    {
+      "romItemId": 240,
+      "internalItemId": 240,
+      "name": "Winged Boots",
+      "sprite": "assets/odyssey-items/240.png",
+      "nameOffset": "0x3dd968",
+      "iconTableOffset": "0x3d4a14",
+      "graphicsOffset": "0x1312940",
+      "paletteOffset": "0x13128c0"
+    },
+    {
+      "romItemId": 241,
+      "internalItemId": 241,
+      "name": "Star Pendant",
+      "sprite": "assets/odyssey-items/241.png",
+      "nameOffset": "0x3dd994",
+      "iconTableOffset": "0x3d4a1c",
+      "graphicsOffset": "0x13768c0",
+      "paletteOffset": "0x1376840"
+    },
+    {
+      "romItemId": 242,
+      "internalItemId": 0,
+      "name": "????????",
+      "sprite": "assets/odyssey-items/242.png",
+      "nameOffset": "0x3dd9c0",
+      "iconTableOffset": "0x3d4a24",
+      "graphicsOffset": "0x1af2b40",
+      "paletteOffset": "0x1af2c00"
+    },
+    {
+      "romItemId": 243,
+      "internalItemId": 0,
+      "name": "????????",
+      "sprite": "assets/odyssey-items/243.png",
+      "nameOffset": "0x3dd9ec",
+      "iconTableOffset": "0x3d4a2c",
+      "graphicsOffset": "0x1af2b40",
+      "paletteOffset": "0x1af2c00"
+    },
+    {
+      "romItemId": 244,
+      "internalItemId": 0,
+      "name": "????????",
+      "sprite": "assets/odyssey-items/244.png",
+      "nameOffset": "0x3dda18",
+      "iconTableOffset": "0x3d4a34",
+      "graphicsOffset": "0x1af2b40",
+      "paletteOffset": "0x1af2c00"
+    },
+    {
+      "romItemId": 245,
+      "internalItemId": 0,
+      "name": "????????",
+      "sprite": "assets/odyssey-items/245.png",
+      "nameOffset": "0x3dda44",
+      "iconTableOffset": "0x3d4a3c",
+      "graphicsOffset": "0x1af2b40",
+      "paletteOffset": "0x1af2c00"
+    },
+    {
+      "romItemId": 246,
+      "internalItemId": 0,
+      "name": "????????",
+      "sprite": "assets/odyssey-items/246.png",
+      "nameOffset": "0x3dda70",
+      "iconTableOffset": "0x3d4a44",
+      "graphicsOffset": "0x1af2b40",
+      "paletteOffset": "0x1af2c00"
+    },
+    {
+      "romItemId": 247,
+      "internalItemId": 0,
+      "name": "????????",
+      "sprite": "assets/odyssey-items/247.png",
+      "nameOffset": "0x3dda9c",
+      "iconTableOffset": "0x3d4a4c",
+      "graphicsOffset": "0x1af2b40",
+      "paletteOffset": "0x1af2c00"
+    },
+    {
+      "romItemId": 248,
+      "internalItemId": 0,
+      "name": "????????",
+      "sprite": "assets/odyssey-items/248.png",
+      "nameOffset": "0x3ddac8",
+      "iconTableOffset": "0x3d4a54",
+      "graphicsOffset": "0x1af2b40",
+      "paletteOffset": "0x1af2c00"
+    },
+    {
+      "romItemId": 249,
+      "internalItemId": 0,
+      "name": "????????",
+      "sprite": "assets/odyssey-items/249.png",
+      "nameOffset": "0x3ddaf4",
+      "iconTableOffset": "0x3d4a5c",
+      "graphicsOffset": "0x1af2b40",
+      "paletteOffset": "0x1af2c00"
+    },
+    {
+      "romItemId": 250,
+      "internalItemId": 0,
+      "name": "????????",
+      "sprite": "assets/odyssey-items/250.png",
+      "nameOffset": "0x3ddb20",
+      "iconTableOffset": "0x3d4a64",
+      "graphicsOffset": "0x1af2b40",
+      "paletteOffset": "0x1af2c00"
+    },
+    {
+      "romItemId": 251,
+      "internalItemId": 0,
+      "name": "????????",
+      "sprite": "assets/odyssey-items/251.png",
+      "nameOffset": "0x3ddb4c",
+      "iconTableOffset": "0x3d4a6c",
+      "graphicsOffset": "0x1af2b40",
+      "paletteOffset": "0x1af2c00"
+    },
+    {
+      "romItemId": 252,
+      "internalItemId": 0,
+      "name": "????????",
+      "sprite": "assets/odyssey-items/252.png",
+      "nameOffset": "0x3ddb78",
+      "iconTableOffset": "0x3d4a74",
+      "graphicsOffset": "0x1af2b40",
+      "paletteOffset": "0x1af2c00"
+    },
+    {
+      "romItemId": 253,
+      "internalItemId": 0,
+      "name": "????????",
+      "sprite": "assets/odyssey-items/253.png",
+      "nameOffset": "0x3ddba4",
+      "iconTableOffset": "0x3d4a7c",
+      "graphicsOffset": "0x1af2b40",
+      "paletteOffset": "0x1af2c00"
+    },
+    {
+      "romItemId": 254,
+      "internalItemId": 254,
+      "name": "RED SCARF",
+      "sprite": "assets/odyssey-items/254.png",
+      "nameOffset": "0x3ddbd0",
+      "iconTableOffset": "0x3d4a84",
+      "graphicsOffset": "0xe90354",
+      "paletteOffset": "0xe90420"
+    },
+    {
+      "romItemId": 255,
+      "internalItemId": 255,
+      "name": "BLUE SCARF",
+      "sprite": "assets/odyssey-items/255.png",
+      "nameOffset": "0x3ddbfc",
+      "iconTableOffset": "0x3d4a8c",
+      "graphicsOffset": "0xe90354",
+      "paletteOffset": "0xe9043c"
+    },
+    {
+      "romItemId": 256,
+      "internalItemId": 256,
+      "name": "PINK SCARF",
+      "sprite": "assets/odyssey-items/256.png",
+      "nameOffset": "0x3ddc28",
+      "iconTableOffset": "0x3d4a94",
+      "graphicsOffset": "0xe90354",
+      "paletteOffset": "0xe90458"
+    },
+    {
+      "romItemId": 257,
+      "internalItemId": 257,
+      "name": "GREEN SCARF",
+      "sprite": "assets/odyssey-items/257.png",
+      "nameOffset": "0x3ddc54",
+      "iconTableOffset": "0x3d4a9c",
+      "graphicsOffset": "0xe90354",
+      "paletteOffset": "0xe90474"
+    },
+    {
+      "romItemId": 258,
+      "internalItemId": 258,
+      "name": "YELLOW SCARF",
+      "sprite": "assets/odyssey-items/258.png",
+      "nameOffset": "0x3ddc80",
+      "iconTableOffset": "0x3d4aa4",
+      "graphicsOffset": "0xe90354",
+      "paletteOffset": "0xe90490"
+    },
+    {
+      "romItemId": 259,
+      "internalItemId": 259,
+      "name": "MACH BIKE",
+      "sprite": "assets/odyssey-items/259.png",
+      "nameOffset": "0x3ddcac",
+      "iconTableOffset": "0x3d4aac",
+      "graphicsOffset": "0xe904ac",
+      "paletteOffset": "0xe905b4"
+    },
+    {
+      "romItemId": 260,
+      "internalItemId": 260,
+      "name": "COIN CASE",
+      "sprite": "assets/odyssey-items/260.png",
+      "nameOffset": "0x3ddcd8",
+      "iconTableOffset": "0x3d4ab4",
+      "graphicsOffset": "0xe905d8",
+      "paletteOffset": "0xe90698"
+    },
+    {
+      "romItemId": 261,
+      "internalItemId": 261,
+      "name": "Itemfinder",
+      "sprite": "assets/odyssey-items/261.png",
+      "nameOffset": "0x3ddd04",
+      "iconTableOffset": "0x3d4abc",
+      "graphicsOffset": "0xe906b8",
+      "paletteOffset": "0xe90774"
+    },
+    {
+      "romItemId": 262,
+      "internalItemId": 262,
+      "name": "Old Rod",
+      "sprite": "assets/odyssey-items/262.png",
+      "nameOffset": "0x3ddd30",
+      "iconTableOffset": "0x3d4ac4",
+      "graphicsOffset": "0xe9079c",
+      "paletteOffset": "0xe90848"
+    },
+    {
+      "romItemId": 263,
+      "internalItemId": 263,
+      "name": "Good Rod",
+      "sprite": "assets/odyssey-items/263.png",
+      "nameOffset": "0x3ddd5c",
+      "iconTableOffset": "0x3d4acc",
+      "graphicsOffset": "0xe9086c",
+      "paletteOffset": "0xe90908"
+    },
+    {
+      "romItemId": 264,
+      "internalItemId": 264,
+      "name": "Super Rod",
+      "sprite": "assets/odyssey-items/264.png",
+      "nameOffset": "0x3ddd88",
+      "iconTableOffset": "0x3d4ad4",
+      "graphicsOffset": "0xe90930",
+      "paletteOffset": "0xe909e0"
+    },
+    {
+      "romItemId": 265,
+      "internalItemId": 265,
+      "name": "S.S. TICKET",
+      "sprite": "assets/odyssey-items/265.png",
+      "nameOffset": "0x3dddb4",
+      "iconTableOffset": "0x3d4adc",
+      "graphicsOffset": "0xe90a08",
+      "paletteOffset": "0xe90a9c"
+    },
+    {
+      "romItemId": 266,
+      "internalItemId": 266,
+      "name": "CONTEST PASS",
+      "sprite": "assets/odyssey-items/266.png",
+      "nameOffset": "0x3ddde0",
+      "iconTableOffset": "0x3d4ae4",
+      "graphicsOffset": "0xe90ab4",
+      "paletteOffset": "0xe90b60"
+    },
+    {
+      "romItemId": 267,
+      "internalItemId": 0,
+      "name": "????????",
+      "sprite": "assets/odyssey-items/267.png",
+      "nameOffset": "0x3dde0c",
+      "iconTableOffset": "0x3d4aec",
+      "graphicsOffset": "0x1af2b40",
+      "paletteOffset": "0x1af2c00"
+    },
+    {
+      "romItemId": 268,
+      "internalItemId": 268,
+      "name": "WAILMER PAIL",
+      "sprite": "assets/odyssey-items/268.png",
+      "nameOffset": "0x3dde38",
+      "iconTableOffset": "0x3d4af4",
+      "graphicsOffset": "0xe90b88",
+      "paletteOffset": "0xe90c54"
+    },
+    {
+      "romItemId": 269,
+      "internalItemId": 269,
+      "name": "Mer. Goods",
+      "sprite": "assets/odyssey-items/269.png",
+      "nameOffset": "0x3dde64",
+      "iconTableOffset": "0x3d4afc",
+      "graphicsOffset": "0xe90c78",
+      "paletteOffset": "0xe90d20"
+    },
+    {
+      "romItemId": 270,
+      "internalItemId": 270,
+      "name": "SOOT SACK",
+      "sprite": "assets/odyssey-items/270.png",
+      "nameOffset": "0x3dde90",
+      "iconTableOffset": "0x3d4b04",
+      "graphicsOffset": "0xe90d3c",
+      "paletteOffset": "0xe90e14"
+    },
+    {
+      "romItemId": 271,
+      "internalItemId": 271,
+      "name": "BASEMENT KEY",
+      "sprite": "assets/odyssey-items/271.png",
+      "nameOffset": "0x3ddebc",
+      "iconTableOffset": "0x3d4b0c",
+      "graphicsOffset": "0xe90e3c",
+      "paletteOffset": "0xe90ee4"
+    },
+    {
+      "romItemId": 272,
+      "internalItemId": 272,
+      "name": "ACRO BIKE",
+      "sprite": "assets/odyssey-items/272.png",
+      "nameOffset": "0x3ddee8",
+      "iconTableOffset": "0x3d4b14",
+      "graphicsOffset": "0xe90f0c",
+      "paletteOffset": "0xe91008"
+    },
+    {
+      "romItemId": 273,
+      "internalItemId": 273,
+      "name": "[55][56][57][58][59] CASE",
+      "sprite": "assets/odyssey-items/273.png",
+      "nameOffset": "0x3ddf14",
+      "iconTableOffset": "0x3d4b1c",
+      "graphicsOffset": "0xe91028",
+      "paletteOffset": "0xe91110"
+    },
+    {
+      "romItemId": 274,
+      "internalItemId": 274,
+      "name": "Amarantos",
+      "sprite": "assets/odyssey-items/274.png",
+      "nameOffset": "0x3ddf40",
+      "iconTableOffset": "0x3d4b24",
+      "graphicsOffset": "0x131f800",
+      "paletteOffset": "0x131f780"
+    },
+    {
+      "romItemId": 275,
+      "internalItemId": 275,
+      "name": "EON TICKET",
+      "sprite": "assets/odyssey-items/275.png",
+      "nameOffset": "0x3ddf6c",
+      "iconTableOffset": "0x3d4b2c",
+      "graphicsOffset": "0xe911b8",
+      "paletteOffset": "0xe91254"
+    },
+    {
+      "romItemId": 276,
+      "internalItemId": 276,
+      "name": "RED ORB",
+      "sprite": "assets/odyssey-items/276.png",
+      "nameOffset": "0x3ddf98",
+      "iconTableOffset": "0x3d4b34",
+      "graphicsOffset": "0xe91278",
+      "paletteOffset": "0xe91330"
+    },
+    {
+      "romItemId": 277,
+      "internalItemId": 277,
+      "name": "BLUE ORB",
+      "sprite": "assets/odyssey-items/277.png",
+      "nameOffset": "0x3ddfc4",
+      "iconTableOffset": "0x3d4b3c",
+      "graphicsOffset": "0xe91278",
+      "paletteOffset": "0xe9134c"
+    },
+    {
+      "romItemId": 278,
+      "internalItemId": 278,
+      "name": "EV-Editor",
+      "sprite": "assets/odyssey-items/278.png",
+      "nameOffset": "0x3ddff0",
+      "iconTableOffset": "0x3d4b44",
+      "graphicsOffset": "0xe91368",
+      "paletteOffset": "0xe91430"
+    },
+    {
+      "romItemId": 279,
+      "internalItemId": 279,
+      "name": "GO-GOGGLES",
+      "sprite": "assets/odyssey-items/279.png",
+      "nameOffset": "0x3de01c",
+      "iconTableOffset": "0x3d4b4c",
+      "graphicsOffset": "0xe91454",
+      "paletteOffset": "0xe91508"
+    },
+    {
+      "romItemId": 280,
+      "internalItemId": 280,
+      "name": "METEORITE",
+      "sprite": "assets/odyssey-items/280.png",
+      "nameOffset": "0x3de048",
+      "iconTableOffset": "0x3d4b54",
+      "graphicsOffset": "0xe91528",
+      "paletteOffset": "0xe91608"
+    },
+    {
+      "romItemId": 281,
+      "internalItemId": 281,
+      "name": "RM. 1 KEY",
+      "sprite": "assets/odyssey-items/281.png",
+      "nameOffset": "0x3de074",
+      "iconTableOffset": "0x3d4b5c",
+      "graphicsOffset": "0xe91628",
+      "paletteOffset": "0xe92754"
+    },
+    {
+      "romItemId": 282,
+      "internalItemId": 282,
+      "name": "RM. 2 KEY",
+      "sprite": "assets/odyssey-items/282.png",
+      "nameOffset": "0x3de0a0",
+      "iconTableOffset": "0x3d4b64",
+      "graphicsOffset": "0xe916e0",
+      "paletteOffset": "0xe92754"
+    },
+    {
+      "romItemId": 283,
+      "internalItemId": 283,
+      "name": "RM. 4 KEY",
+      "sprite": "assets/odyssey-items/283.png",
+      "nameOffset": "0x3de0cc",
+      "iconTableOffset": "0x3d4b6c",
+      "graphicsOffset": "0xe9179c",
+      "paletteOffset": "0xe92754"
+    },
+    {
+      "romItemId": 284,
+      "internalItemId": 284,
+      "name": "RM. 6 KEY",
+      "sprite": "assets/odyssey-items/284.png",
+      "nameOffset": "0x3de0f8",
+      "iconTableOffset": "0x3d4b74",
+      "graphicsOffset": "0xe9185c",
+      "paletteOffset": "0xe92754"
+    },
+    {
+      "romItemId": 285,
+      "internalItemId": 285,
+      "name": "Level Candy",
+      "sprite": "assets/odyssey-items/285.png",
+      "nameOffset": "0x3de124",
+      "iconTableOffset": "0x3d4b7c",
+      "graphicsOffset": "0x1274940",
+      "paletteOffset": "0x1274a80"
+    },
+    {
+      "romItemId": 286,
+      "internalItemId": 286,
+      "name": "ROOT FOSSIL",
+      "sprite": "assets/odyssey-items/286.png",
+      "nameOffset": "0x3de150",
+      "iconTableOffset": "0x3d4b84",
+      "graphicsOffset": "0xe919c0",
+      "paletteOffset": "0xe91acc"
+    },
+    {
+      "romItemId": 287,
+      "internalItemId": 287,
+      "name": "CLAW FOSSIL",
+      "sprite": "assets/odyssey-items/287.png",
+      "nameOffset": "0x3de17c",
+      "iconTableOffset": "0x3d4b8c",
+      "graphicsOffset": "0xe91af4",
+      "paletteOffset": "0xe91acc"
+    },
+    {
+      "romItemId": 288,
+      "internalItemId": 288,
+      "name": "DEVON SCOPE",
+      "sprite": "assets/odyssey-items/288.png",
+      "nameOffset": "0x3de1a8",
+      "iconTableOffset": "0x3d4b94",
+      "graphicsOffset": "0xe91be4",
+      "paletteOffset": "0xe91ca0"
+    },
+    {
+      "romItemId": 289,
+      "internalItemId": 289,
+      "name": "TM01",
+      "sprite": "assets/odyssey-items/289.png",
+      "nameOffset": "0x3de1d4",
+      "iconTableOffset": "0x3d4b9c",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91dc4"
+    },
+    {
+      "romItemId": 290,
+      "internalItemId": 290,
+      "name": "TM02",
+      "sprite": "assets/odyssey-items/290.png",
+      "nameOffset": "0x3de200",
+      "iconTableOffset": "0x3d4ba4",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91dec"
+    },
+    {
+      "romItemId": 291,
+      "internalItemId": 291,
+      "name": "TM03",
+      "sprite": "assets/odyssey-items/291.png",
+      "nameOffset": "0x3de22c",
+      "iconTableOffset": "0x3d4bac",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91e14"
+    },
+    {
+      "romItemId": 292,
+      "internalItemId": 292,
+      "name": "TM04",
+      "sprite": "assets/odyssey-items/292.png",
+      "nameOffset": "0x3de258",
+      "iconTableOffset": "0x3d4bb4",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91e3c"
+    },
+    {
+      "romItemId": 293,
+      "internalItemId": 293,
+      "name": "TM05",
+      "sprite": "assets/odyssey-items/293.png",
+      "nameOffset": "0x3de284",
+      "iconTableOffset": "0x3d4bbc",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91f2c"
+    },
+    {
+      "romItemId": 294,
+      "internalItemId": 294,
+      "name": "TM06",
+      "sprite": "assets/odyssey-items/294.png",
+      "nameOffset": "0x3de2b0",
+      "iconTableOffset": "0x3d4bc4",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91e8c"
+    },
+    {
+      "romItemId": 295,
+      "internalItemId": 295,
+      "name": "TM07",
+      "sprite": "assets/odyssey-items/295.png",
+      "nameOffset": "0x3de2dc",
+      "iconTableOffset": "0x3d4bcc",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91eb4"
+    },
+    {
+      "romItemId": 296,
+      "internalItemId": 296,
+      "name": "TM08",
+      "sprite": "assets/odyssey-items/296.png",
+      "nameOffset": "0x3de308",
+      "iconTableOffset": "0x3d4bd4",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91dc4"
+    },
+    {
+      "romItemId": 297,
+      "internalItemId": 297,
+      "name": "TM09",
+      "sprite": "assets/odyssey-items/297.png",
+      "nameOffset": "0x3de334",
+      "iconTableOffset": "0x3d4bdc",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91edc"
+    },
+    {
+      "romItemId": 298,
+      "internalItemId": 298,
+      "name": "TM10",
+      "sprite": "assets/odyssey-items/298.png",
+      "nameOffset": "0x3de360",
+      "iconTableOffset": "0x3d4be4",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91f54"
+    },
+    {
+      "romItemId": 299,
+      "internalItemId": 299,
+      "name": "TM11",
+      "sprite": "assets/odyssey-items/299.png",
+      "nameOffset": "0x3de38c",
+      "iconTableOffset": "0x3d4bec",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91f04"
+    },
+    {
+      "romItemId": 300,
+      "internalItemId": 300,
+      "name": "TM12",
+      "sprite": "assets/odyssey-items/300.png",
+      "nameOffset": "0x3de3b8",
+      "iconTableOffset": "0x3d4bf4",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91f2c"
+    },
+    {
+      "romItemId": 301,
+      "internalItemId": 301,
+      "name": "TM13",
+      "sprite": "assets/odyssey-items/301.png",
+      "nameOffset": "0x3de3e4",
+      "iconTableOffset": "0x3d4bfc",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91eb4"
+    },
+    {
+      "romItemId": 302,
+      "internalItemId": 302,
+      "name": "TM14",
+      "sprite": "assets/odyssey-items/302.png",
+      "nameOffset": "0x3de410",
+      "iconTableOffset": "0x3d4c04",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91eb4"
+    },
+    {
+      "romItemId": 303,
+      "internalItemId": 303,
+      "name": "TM15",
+      "sprite": "assets/odyssey-items/303.png",
+      "nameOffset": "0x3de43c",
+      "iconTableOffset": "0x3d4c0c",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91e64"
+    },
+    {
+      "romItemId": 304,
+      "internalItemId": 304,
+      "name": "TM16",
+      "sprite": "assets/odyssey-items/304.png",
+      "nameOffset": "0x3de468",
+      "iconTableOffset": "0x3d4c14",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91e3c"
+    },
+    {
+      "romItemId": 305,
+      "internalItemId": 305,
+      "name": "TM17",
+      "sprite": "assets/odyssey-items/305.png",
+      "nameOffset": "0x3de494",
+      "iconTableOffset": "0x3d4c1c",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91e64"
+    },
+    {
+      "romItemId": 306,
+      "internalItemId": 306,
+      "name": "TM18",
+      "sprite": "assets/odyssey-items/306.png",
+      "nameOffset": "0x3de4c0",
+      "iconTableOffset": "0x3d4c24",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91e14"
+    },
+    {
+      "romItemId": 307,
+      "internalItemId": 307,
+      "name": "TM19",
+      "sprite": "assets/odyssey-items/307.png",
+      "nameOffset": "0x3de4ec",
+      "iconTableOffset": "0x3d4c2c",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91edc"
+    },
+    {
+      "romItemId": 308,
+      "internalItemId": 308,
+      "name": "TM20",
+      "sprite": "assets/odyssey-items/308.png",
+      "nameOffset": "0x3de518",
+      "iconTableOffset": "0x3d4c34",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91e64"
+    },
+    {
+      "romItemId": 309,
+      "internalItemId": 309,
+      "name": "TM21",
+      "sprite": "assets/odyssey-items/309.png",
+      "nameOffset": "0x3de544",
+      "iconTableOffset": "0x3d4c3c",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91e64"
+    },
+    {
+      "romItemId": 310,
+      "internalItemId": 310,
+      "name": "TM22",
+      "sprite": "assets/odyssey-items/310.png",
+      "nameOffset": "0x3de570",
+      "iconTableOffset": "0x3d4c44",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91edc"
+    },
+    {
+      "romItemId": 311,
+      "internalItemId": 311,
+      "name": "TM23",
+      "sprite": "assets/odyssey-items/311.png",
+      "nameOffset": "0x3de59c",
+      "iconTableOffset": "0x3d4c4c",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91f54"
+    },
+    {
+      "romItemId": 312,
+      "internalItemId": 312,
+      "name": "TM24",
+      "sprite": "assets/odyssey-items/312.png",
+      "nameOffset": "0x3de5c8",
+      "iconTableOffset": "0x3d4c54",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91f7c"
+    },
+    {
+      "romItemId": 313,
+      "internalItemId": 313,
+      "name": "TM25",
+      "sprite": "assets/odyssey-items/313.png",
+      "nameOffset": "0x3de5f4",
+      "iconTableOffset": "0x3d4c5c",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91f7c"
+    },
+    {
+      "romItemId": 314,
+      "internalItemId": 314,
+      "name": "TM26",
+      "sprite": "assets/odyssey-items/314.png",
+      "nameOffset": "0x3de620",
+      "iconTableOffset": "0x3d4c64",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91fa4"
+    },
+    {
+      "romItemId": 315,
+      "internalItemId": 315,
+      "name": "TM27",
+      "sprite": "assets/odyssey-items/315.png",
+      "nameOffset": "0x3de64c",
+      "iconTableOffset": "0x3d4c6c",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91e64"
+    },
+    {
+      "romItemId": 316,
+      "internalItemId": 316,
+      "name": "TM28",
+      "sprite": "assets/odyssey-items/316.png",
+      "nameOffset": "0x3de678",
+      "iconTableOffset": "0x3d4c74",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91fa4"
+    },
+    {
+      "romItemId": 317,
+      "internalItemId": 317,
+      "name": "TM29",
+      "sprite": "assets/odyssey-items/317.png",
+      "nameOffset": "0x3de6a4",
+      "iconTableOffset": "0x3d4c7c",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91e3c"
+    },
+    {
+      "romItemId": 318,
+      "internalItemId": 318,
+      "name": "TM30",
+      "sprite": "assets/odyssey-items/318.png",
+      "nameOffset": "0x3de6d0",
+      "iconTableOffset": "0x3d4c84",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91fcc"
+    },
+    {
+      "romItemId": 319,
+      "internalItemId": 319,
+      "name": "TM31",
+      "sprite": "assets/odyssey-items/319.png",
+      "nameOffset": "0x3de6fc",
+      "iconTableOffset": "0x3d4c8c",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91dc4"
+    },
+    {
+      "romItemId": 320,
+      "internalItemId": 320,
+      "name": "TM32",
+      "sprite": "assets/odyssey-items/320.png",
+      "nameOffset": "0x3de728",
+      "iconTableOffset": "0x3d4c94",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91e64"
+    },
+    {
+      "romItemId": 321,
+      "internalItemId": 321,
+      "name": "TM33",
+      "sprite": "assets/odyssey-items/321.png",
+      "nameOffset": "0x3de754",
+      "iconTableOffset": "0x3d4c9c",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91e3c"
+    },
+    {
+      "romItemId": 322,
+      "internalItemId": 322,
+      "name": "TM34",
+      "sprite": "assets/odyssey-items/322.png",
+      "nameOffset": "0x3de780",
+      "iconTableOffset": "0x3d4ca4",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91f7c"
+    },
+    {
+      "romItemId": 323,
+      "internalItemId": 323,
+      "name": "TM35",
+      "sprite": "assets/odyssey-items/323.png",
+      "nameOffset": "0x3de7ac",
+      "iconTableOffset": "0x3d4cac",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91f04"
+    },
+    {
+      "romItemId": 324,
+      "internalItemId": 324,
+      "name": "TM36",
+      "sprite": "assets/odyssey-items/324.png",
+      "nameOffset": "0x3de7d8",
+      "iconTableOffset": "0x3d4cb4",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91e8c"
+    },
+    {
+      "romItemId": 325,
+      "internalItemId": 325,
+      "name": "TM37",
+      "sprite": "assets/odyssey-items/325.png",
+      "nameOffset": "0x3de804",
+      "iconTableOffset": "0x3d4cbc",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91ff4"
+    },
+    {
+      "romItemId": 326,
+      "internalItemId": 326,
+      "name": "TM38",
+      "sprite": "assets/odyssey-items/326.png",
+      "nameOffset": "0x3de830",
+      "iconTableOffset": "0x3d4cc4",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91f04"
+    },
+    {
+      "romItemId": 327,
+      "internalItemId": 327,
+      "name": "TM39",
+      "sprite": "assets/odyssey-items/327.png",
+      "nameOffset": "0x3de85c",
+      "iconTableOffset": "0x3d4ccc",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91ff4"
+    },
+    {
+      "romItemId": 328,
+      "internalItemId": 328,
+      "name": "TM40",
+      "sprite": "assets/odyssey-items/328.png",
+      "nameOffset": "0x3de888",
+      "iconTableOffset": "0x3d4cd4",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe9201c"
+    },
+    {
+      "romItemId": 329,
+      "internalItemId": 329,
+      "name": "TM41",
+      "sprite": "assets/odyssey-items/329.png",
+      "nameOffset": "0x3de8b4",
+      "iconTableOffset": "0x3d4cdc",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91f2c"
+    },
+    {
+      "romItemId": 330,
+      "internalItemId": 330,
+      "name": "TM42",
+      "sprite": "assets/odyssey-items/330.png",
+      "nameOffset": "0x3de8e0",
+      "iconTableOffset": "0x3d4ce4",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91e64"
+    },
+    {
+      "romItemId": 331,
+      "internalItemId": 331,
+      "name": "TM43",
+      "sprite": "assets/odyssey-items/331.png",
+      "nameOffset": "0x3de90c",
+      "iconTableOffset": "0x3d4cec",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91dec"
+    },
+    {
+      "romItemId": 332,
+      "internalItemId": 332,
+      "name": "TM44",
+      "sprite": "assets/odyssey-items/332.png",
+      "nameOffset": "0x3de938",
+      "iconTableOffset": "0x3d4cf4",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91e3c"
+    },
+    {
+      "romItemId": 333,
+      "internalItemId": 333,
+      "name": "TM45",
+      "sprite": "assets/odyssey-items/333.png",
+      "nameOffset": "0x3de964",
+      "iconTableOffset": "0x3d4cfc",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91e64"
+    },
+    {
+      "romItemId": 334,
+      "internalItemId": 334,
+      "name": "TM46",
+      "sprite": "assets/odyssey-items/334.png",
+      "nameOffset": "0x3de990",
+      "iconTableOffset": "0x3d4d04",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91f2c"
+    },
+    {
+      "romItemId": 335,
+      "internalItemId": 335,
+      "name": "TM47",
+      "sprite": "assets/odyssey-items/335.png",
+      "nameOffset": "0x3de9bc",
+      "iconTableOffset": "0x3d4d0c",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91f54"
+    },
+    {
+      "romItemId": 336,
+      "internalItemId": 336,
+      "name": "TM48",
+      "sprite": "assets/odyssey-items/336.png",
+      "nameOffset": "0x3de9e8",
+      "iconTableOffset": "0x3d4d14",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91e3c"
+    },
+    {
+      "romItemId": 337,
+      "internalItemId": 337,
+      "name": "TM49",
+      "sprite": "assets/odyssey-items/337.png",
+      "nameOffset": "0x3dea14",
+      "iconTableOffset": "0x3d4d1c",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91e14"
+    },
+    {
+      "romItemId": 338,
+      "internalItemId": 338,
+      "name": "TM50",
+      "sprite": "assets/odyssey-items/338.png",
+      "nameOffset": "0x3dea40",
+      "iconTableOffset": "0x3d4d24",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91f04"
+    },
+    {
+      "romItemId": 339,
+      "internalItemId": 339,
+      "name": "HM01",
+      "sprite": "assets/odyssey-items/339.png",
+      "nameOffset": "0x3dea6c",
+      "iconTableOffset": "0x3d4d2c",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91e64"
+    },
+    {
+      "romItemId": 340,
+      "internalItemId": 340,
+      "name": "HM02",
+      "sprite": "assets/odyssey-items/340.png",
+      "nameOffset": "0x3dea98",
+      "iconTableOffset": "0x3d4d34",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe9201c"
+    },
+    {
+      "romItemId": 341,
+      "internalItemId": 341,
+      "name": "HM03",
+      "sprite": "assets/odyssey-items/341.png",
+      "nameOffset": "0x3deac4",
+      "iconTableOffset": "0x3d4d3c",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91e14"
+    },
+    {
+      "romItemId": 342,
+      "internalItemId": 342,
+      "name": "HM04",
+      "sprite": "assets/odyssey-items/342.png",
+      "nameOffset": "0x3deaf0",
+      "iconTableOffset": "0x3d4d44",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91e64"
+    },
+    {
+      "romItemId": 343,
+      "internalItemId": 343,
+      "name": "HM05",
+      "sprite": "assets/odyssey-items/343.png",
+      "nameOffset": "0x3deb1c",
+      "iconTableOffset": "0x3d4d4c",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91e64"
+    },
+    {
+      "romItemId": 344,
+      "internalItemId": 344,
+      "name": "HM06",
+      "sprite": "assets/odyssey-items/344.png",
+      "nameOffset": "0x3deb48",
+      "iconTableOffset": "0x3d4d54",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91dc4"
+    },
+    {
+      "romItemId": 345,
+      "internalItemId": 345,
+      "name": "HM07",
+      "sprite": "assets/odyssey-items/345.png",
+      "nameOffset": "0x3deb74",
+      "iconTableOffset": "0x3d4d5c",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91e14"
+    },
+    {
+      "romItemId": 346,
+      "internalItemId": 346,
+      "name": "HM08",
+      "sprite": "assets/odyssey-items/346.png",
+      "nameOffset": "0x3deba0",
+      "iconTableOffset": "0x3d4d64",
+      "graphicsOffset": "0xe91cc8",
+      "paletteOffset": "0xe91e14"
+    },
+    {
+      "romItemId": 347,
+      "internalItemId": 0,
+      "name": "????????",
+      "sprite": "assets/odyssey-items/347.png",
+      "nameOffset": "0x3debcc",
+      "iconTableOffset": "0x3d4d6c",
+      "graphicsOffset": "0x1af2b40",
+      "paletteOffset": "0x1af2c00"
+    },
+    {
+      "romItemId": 348,
+      "internalItemId": 0,
+      "name": "????????",
+      "sprite": "assets/odyssey-items/348.png",
+      "nameOffset": "0x3debf8",
+      "iconTableOffset": "0x3d4d74",
+      "graphicsOffset": "0x1af2b40",
+      "paletteOffset": "0x1af2c00"
+    },
+    {
+      "romItemId": 349,
+      "internalItemId": 349,
+      "name": "OAK'S PARCEL",
+      "sprite": "assets/odyssey-items/349.png",
+      "nameOffset": "0x3dec24",
+      "iconTableOffset": "0x3d4d7c",
+      "graphicsOffset": "0xe92044",
+      "paletteOffset": "0xe920fc"
+    },
+    {
+      "romItemId": 350,
+      "internalItemId": 350,
+      "name": "Pokéflute",
+      "sprite": "assets/odyssey-items/350.png",
+      "nameOffset": "0x3dec50",
+      "iconTableOffset": "0x3d4d84",
+      "graphicsOffset": "0xe9211c",
+      "paletteOffset": "0xe921e0"
+    },
+    {
+      "romItemId": 351,
+      "internalItemId": 351,
+      "name": "Talisman",
+      "sprite": "assets/odyssey-items/351.png",
+      "nameOffset": "0x3dec7c",
+      "iconTableOffset": "0x3d4d8c",
+      "graphicsOffset": "0x1a2e9b8",
+      "paletteOffset": "0x1a2ea4c"
+    },
+    {
+      "romItemId": 352,
+      "internalItemId": 352,
+      "name": "Adv. Codex",
+      "sprite": "assets/odyssey-items/352.png",
+      "nameOffset": "0x3deca8",
+      "iconTableOffset": "0x3d4d94",
+      "graphicsOffset": "0x1ab73d0",
+      "paletteOffset": "0x1ab7500"
+    },
+    {
+      "romItemId": 353,
+      "internalItemId": 353,
+      "name": "GOLD TEETH",
+      "sprite": "assets/odyssey-items/353.png",
+      "nameOffset": "0x3decd4",
+      "iconTableOffset": "0x3d4d9c",
+      "graphicsOffset": "0xe923bc",
+      "paletteOffset": "0xe924a8"
+    },
+    {
+      "romItemId": 354,
+      "internalItemId": 354,
+      "name": "Old Amber",
+      "sprite": "assets/odyssey-items/354.png",
+      "nameOffset": "0x3ded00",
+      "iconTableOffset": "0x3d4da4",
+      "graphicsOffset": "0xe924cc",
+      "paletteOffset": "0xe925ac"
+    },
+    {
+      "romItemId": 355,
+      "internalItemId": 355,
+      "name": "CARD KEY",
+      "sprite": "assets/odyssey-items/355.png",
+      "nameOffset": "0x3ded2c",
+      "iconTableOffset": "0x3d4dac",
+      "graphicsOffset": "0xe925d0",
+      "paletteOffset": "0xe92678"
+    },
+    {
+      "romItemId": 356,
+      "internalItemId": 356,
+      "name": "LIFT KEY",
+      "sprite": "assets/odyssey-items/356.png",
+      "nameOffset": "0x3ded58",
+      "iconTableOffset": "0x3d4db4",
+      "graphicsOffset": "0xe92698",
+      "paletteOffset": "0xe92754"
+    },
+    {
+      "romItemId": 357,
+      "internalItemId": 357,
+      "name": "Red Bell",
+      "sprite": "assets/odyssey-items/357.png",
+      "nameOffset": "0x3ded84",
+      "iconTableOffset": "0x3d4dbc",
+      "graphicsOffset": "0x1aaff40",
+      "paletteOffset": "0x1ab4df0"
+    },
+    {
+      "romItemId": 358,
+      "internalItemId": 358,
+      "name": "Blue Bell",
+      "sprite": "assets/odyssey-items/358.png",
+      "nameOffset": "0x3dedb0",
+      "iconTableOffset": "0x3d4dc4",
+      "graphicsOffset": "0x1ab0080",
+      "paletteOffset": "0x1aedd60"
+    },
+    {
+      "romItemId": 359,
+      "internalItemId": 359,
+      "name": "Yellow Bell",
+      "sprite": "assets/odyssey-items/359.png",
+      "nameOffset": "0x3deddc",
+      "iconTableOffset": "0x3d4dcc",
+      "graphicsOffset": "0x1aafe08",
+      "paletteOffset": "0x1aedd90"
+    },
+    {
+      "romItemId": 360,
+      "internalItemId": 360,
+      "name": "Hoverboard",
+      "sprite": "assets/odyssey-items/360.png",
+      "nameOffset": "0x3dee08",
+      "iconTableOffset": "0x3d4dd4",
+      "graphicsOffset": "0xe92a70",
+      "paletteOffset": "0xe92b74"
+    },
+    {
+      "romItemId": 361,
+      "internalItemId": 361,
+      "name": "Town Map",
+      "sprite": "assets/odyssey-items/361.png",
+      "nameOffset": "0x3dee34",
+      "iconTableOffset": "0x3d4ddc",
+      "graphicsOffset": "0xe92b94",
+      "paletteOffset": "0xe92c50"
+    },
+    {
+      "romItemId": 362,
+      "internalItemId": 362,
+      "name": "Story Log",
+      "sprite": "assets/odyssey-items/362.png",
+      "nameOffset": "0x3dee60",
+      "iconTableOffset": "0x3d4de4",
+      "graphicsOffset": "0xe92d60",
+      "paletteOffset": "0xe92e18"
+    },
+    {
+      "romItemId": 363,
+      "internalItemId": 363,
+      "name": "Adven. Guide",
+      "sprite": "assets/odyssey-items/363.png",
+      "nameOffset": "0x3dee8c",
+      "iconTableOffset": "0x3d4dec",
+      "graphicsOffset": "0x1ab70a0",
+      "paletteOffset": "0x1ab7180"
+    },
+    {
+      "romItemId": 364,
+      "internalItemId": 364,
+      "name": "TM Case",
+      "sprite": "assets/odyssey-items/364.png",
+      "nameOffset": "0x3deeb8",
+      "iconTableOffset": "0x3d4df4",
+      "graphicsOffset": "0xe92e3c",
+      "paletteOffset": "0xe92f00"
+    },
+    {
+      "romItemId": 365,
+      "internalItemId": 365,
+      "name": "Treas. Pouch",
+      "sprite": "assets/odyssey-items/365.png",
+      "nameOffset": "0x3deee4",
+      "iconTableOffset": "0x3d4dfc",
+      "graphicsOffset": "0xe92f28",
+      "paletteOffset": "0xe93028"
+    },
+    {
+      "romItemId": 366,
+      "internalItemId": 366,
+      "name": "TEACHY TV",
+      "sprite": "assets/odyssey-items/366.png",
+      "nameOffset": "0x3def10",
+      "iconTableOffset": "0x3d4e04",
+      "graphicsOffset": "0xe93050",
+      "paletteOffset": "0xe93148"
+    },
+    {
+      "romItemId": 367,
+      "internalItemId": 367,
+      "name": "TRI-PASS",
+      "sprite": "assets/odyssey-items/367.png",
+      "nameOffset": "0x3def3c",
+      "iconTableOffset": "0x3d4e0c",
+      "graphicsOffset": "0xe93170",
+      "paletteOffset": "0xe93214"
+    },
+    {
+      "romItemId": 368,
+      "internalItemId": 368,
+      "name": "RAINBOW PASS",
+      "sprite": "assets/odyssey-items/368.png",
+      "nameOffset": "0x3def68",
+      "iconTableOffset": "0x3d4e14",
+      "graphicsOffset": "0xe93234",
+      "paletteOffset": "0xe932dc"
+    },
+    {
+      "romItemId": 369,
+      "internalItemId": 369,
+      "name": "Silva's Mark",
+      "sprite": "assets/odyssey-items/369.png",
+      "nameOffset": "0x3def94",
+      "iconTableOffset": "0x3d4e1c",
+      "graphicsOffset": "0x135e880",
+      "paletteOffset": "0x135e9c0"
+    },
+    {
+      "romItemId": 370,
+      "internalItemId": 370,
+      "name": "Magna Vis",
+      "sprite": "assets/odyssey-items/370.png",
+      "nameOffset": "0x3defc0",
+      "iconTableOffset": "0x3d4e24",
+      "graphicsOffset": "0x1ab6900",
+      "paletteOffset": "0x1ab69a0"
+    },
+    {
+      "romItemId": 371,
+      "internalItemId": 371,
+      "name": "Offer. Bag",
+      "sprite": "assets/odyssey-items/371.png",
+      "nameOffset": "0x3defec",
+      "iconTableOffset": "0x3d4e2c",
+      "graphicsOffset": "0x1ab69d0",
+      "paletteOffset": "0x1ab6a90"
+    },
+    {
+      "romItemId": 372,
+      "internalItemId": 372,
+      "name": "POWDER JAR",
+      "sprite": "assets/odyssey-items/372.png",
+      "nameOffset": "0x3df018",
+      "iconTableOffset": "0x3d4e34",
+      "graphicsOffset": "0xe93568",
+      "paletteOffset": "0xe93608"
+    },
+    {
+      "romItemId": 373,
+      "internalItemId": 373,
+      "name": "AbyssalShard",
+      "sprite": "assets/odyssey-items/373.png",
+      "nameOffset": "0x3df044",
+      "iconTableOffset": "0x3d4e3c",
+      "graphicsOffset": "0x11c36c0",
+      "paletteOffset": "0xe93630"
+    },
+    {
+      "romItemId": 374,
+      "internalItemId": 374,
+      "name": "SAPPHIRE",
+      "sprite": "assets/odyssey-items/374.png",
+      "nameOffset": "0x3df070",
+      "iconTableOffset": "0x3d4e44",
+      "graphicsOffset": "0xe93658",
+      "paletteOffset": "0xe93720"
+    },
+    {
+      "romItemId": 375,
+      "internalItemId": 2057,
+      "name": "N5[02][09][5d]?[09][08]R6[02][09][99]?",
+      "sprite": "assets/odyssey-items/375.png",
+      "nameOffset": "0x3df09c",
+      "iconTableOffset": "0x3d4e4c",
+      "graphicsOffset": "0xe870b4",
+      "paletteOffset": "0xe8713c"
+    }
+  ]
+}

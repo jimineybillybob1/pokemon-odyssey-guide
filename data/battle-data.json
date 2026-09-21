@@ -1,0 +1,3791 @@
+{
+  "meta": {
+    "source": "Odyssey developer workbook",
+    "sourceNote": "Hard Mode teams are documented. Normal and Picnic rosters are not verified; sea-boss difficulty is unspecified. Matchup scores are simplified estimates, not damage calculations.",
+    "modes": [
+      "Hard",
+      "Normal",
+      "Picnic",
+      "Mode unspecified"
+    ]
+  },
+  "battles": [
+    {
+      "id": "bosses-hard-mode-olympia-adventurers-guild",
+      "trainer": "Olympia",
+      "location": "Adventurers Guild",
+      "category": "Boss battles",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "porygon",
+          "level": 5.0,
+          "moves": [
+            "Tackle",
+            "Icy Wind"
+          ],
+          "nature": "Docile",
+          "item": "/",
+          "evs": "24 EVS in all stats",
+          "ability": "Trace"
+        },
+        {
+          "name": "mawile",
+          "level": 5.0,
+          "moves": [
+            "Astonish",
+            "Bite"
+          ],
+          "nature": "Docile",
+          "item": "/",
+          "evs": "24 EVS in all stats",
+          "ability": "Intimidate"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode)",
+        "row": 5
+      },
+      "notes": ""
+    },
+    {
+      "id": "bosses-hard-mode-ethan-adventurers-guild",
+      "trainer": "Ethan",
+      "location": "Adventurers Guild",
+      "category": "Boss battles",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "kecleon",
+          "level": 5.0,
+          "moves": [
+            "Scratch",
+            "Shadow Sneak"
+          ],
+          "nature": "Docile",
+          "item": "/",
+          "evs": "24 EVS in all stats",
+          "ability": "Protean"
+        },
+        {
+          "name": "shroomish",
+          "level": 5.0,
+          "moves": [
+            "Sludge",
+            "Leech Seed"
+          ],
+          "nature": "Docile",
+          "item": "/",
+          "evs": "24 EVS in all stats",
+          "ability": "Skill Link"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode)",
+        "row": 24
+      },
+      "notes": ""
+    },
+    {
+      "id": "bosses-hard-mode-brody-abandoned-lab",
+      "trainer": "Brody",
+      "location": "Abandoned Lab",
+      "category": "Boss battles",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "grimer",
+          "level": 11.0,
+          "moves": [
+            "Sludge",
+            "Mud Slap",
+            "Bite"
+          ],
+          "nature": "Docile",
+          "item": "/",
+          "evs": "24 EVS in all stats",
+          "ability": "Gluttony"
+        },
+        {
+          "name": "venonat",
+          "level": 11.0,
+          "moves": [
+            "String Shot",
+            "Confusion",
+            "Acid"
+          ],
+          "nature": "Docile",
+          "item": "/",
+          "evs": "24 EVS in all stats",
+          "ability": "Prism Lens"
+        },
+        {
+          "name": "sneasel",
+          "level": 12.0,
+          "moves": [
+            "Fake Out",
+            "Izuna",
+            "Ice Shard"
+          ],
+          "nature": "Docile",
+          "item": "/",
+          "evs": "24 EVS in all stats",
+          "ability": "Inner Focus"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode)",
+        "row": 43
+      },
+      "notes": ""
+    },
+    {
+      "id": "bosses-hard-mode-karin-captain-first-stratum",
+      "trainer": "Karin (Captain)",
+      "location": "First Stratum",
+      "category": "Boss battles",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "wigglytuff",
+          "level": 18.0,
+          "moves": [
+            "Rotten Egg",
+            "Strange Seeds",
+            "Bulldoze",
+            "Covet"
+          ],
+          "nature": "Docile",
+          "item": "Silk Scarf",
+          "evs": "76 EVS in all stats",
+          "ability": "Filter"
+        },
+        {
+          "name": "lileep",
+          "level": 18.0,
+          "moves": [
+            "Leech Seed",
+            "Ancientpower",
+            "Mega Drain",
+            "Confuse Ray"
+          ],
+          "nature": "Docile",
+          "item": "Eviolite",
+          "evs": "76 EVS in all stats",
+          "ability": "Unaware"
+        },
+        {
+          "name": "illumise",
+          "level": 18.0,
+          "moves": [
+            "Confusion",
+            "Fury Cutter",
+            "Spring Tango"
+          ],
+          "nature": "Docile",
+          "item": "Oran Berry",
+          "evs": "76 EVS in all stats",
+          "ability": "Serene Grace"
+        },
+        {
+          "name": "volbeat",
+          "level": 18.0,
+          "moves": [
+            "Shock Wave",
+            "Fury Cutter",
+            "Bright Song"
+          ],
+          "nature": "Docile",
+          "item": "Magnet",
+          "evs": "76 EVS in all stats",
+          "ability": "Lightningrod"
+        },
+        {
+          "name": "scyther",
+          "level": 18.0,
+          "moves": [
+            "Wing Attack",
+            "Fury Cutter",
+            "Trailblaze"
+          ],
+          "nature": "Docile",
+          "item": "Sitrus Berry",
+          "evs": "76 EVS in all stats",
+          "ability": "Technician"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode)",
+        "row": 62
+      },
+      "notes": ""
+    },
+    {
+      "id": "bosses-hard-mode-brody-thieves-lair",
+      "trainer": "Brody",
+      "location": "Thieves Lair",
+      "category": "Boss battles",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "marowak",
+          "level": 28.0,
+          "moves": [
+            "Bulldoze",
+            "Headbutt",
+            "Call: Snake"
+          ],
+          "nature": "Impish",
+          "item": "Rocky Helmet",
+          "evs": "252 Atk/252 Def",
+          "ability": "Sand Rush"
+        },
+        {
+          "name": "mightyena",
+          "level": 28.0,
+          "moves": [
+            "Feint Attack",
+            "Icicle Spear",
+            "Poison Fang",
+            "Iron Tail"
+          ],
+          "nature": "Jolly",
+          "item": "Nevermeltice",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Intimidate"
+        },
+        {
+          "name": "golbat",
+          "level": 28.0,
+          "moves": [
+            "Poison Fang",
+            "Wing Attack",
+            "Bite",
+            "Roost"
+          ],
+          "nature": "Adamant",
+          "item": "Eviolite",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Inner Focus"
+        },
+        {
+          "name": "seviper",
+          "level": 29.0,
+          "moves": [
+            "Poison Tail",
+            "Night Slash",
+            "Iron Tail",
+            "Shadow Sneak"
+          ],
+          "nature": "Careful",
+          "item": "Leftovers",
+          "evs": "252 Atk/252 Sp. Def",
+          "ability": "Shed Skin"
+        },
+        {
+          "name": "sneasel",
+          "level": 29.0,
+          "moves": [
+            "Fake Out",
+            "Ice Shard",
+            "Fukubari",
+            "Ice Punch"
+          ],
+          "nature": "Adamant",
+          "item": "Sitrus Berry",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Inner Focus"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode)",
+        "row": 81
+      },
+      "notes": ""
+    },
+    {
+      "id": "bosses-hard-mode-rockey-captain-desert-of-golgonda",
+      "trainer": "Rockey (Captain)",
+      "location": "Desert Of Golgonda",
+      "category": "Boss battles",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "skarmory",
+          "level": 30.0,
+          "moves": [
+            "Shift Gear",
+            "Roost",
+            "Steel Wing",
+            "Wing Attack"
+          ],
+          "nature": "Careful",
+          "item": "Leftovers",
+          "evs": "252 Atk/252 Sp. Def",
+          "ability": "Keen Eye"
+        },
+        {
+          "name": "sandslash",
+          "level": 30.0,
+          "moves": [
+            "Bulldoze",
+            "Knock Off",
+            "Rock Slide"
+          ],
+          "nature": "Adamant",
+          "item": "Soft Sand",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Sand Rush"
+        },
+        {
+          "name": "quagsire",
+          "level": 30.0,
+          "moves": [
+            "Water Tackle",
+            "Rock Slide",
+            "Bulldoze"
+          ],
+          "nature": "Impish",
+          "item": "Assault Vest",
+          "evs": "252 Atk/252 Def",
+          "ability": "Water Absorb"
+        },
+        {
+          "name": "nidoking",
+          "level": 30.0,
+          "moves": [
+            "Shock Wave",
+            "Earth Power",
+            "Sludge Bomb"
+          ],
+          "nature": "Timid",
+          "item": "Poison Barb",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Poison Point"
+        },
+        {
+          "name": "donphan",
+          "level": 30.0,
+          "moves": [
+            "Rock Tomb",
+            "High Horsepower",
+            "Ice Shard"
+          ],
+          "nature": "Impish",
+          "item": "Rocky Helmet",
+          "evs": "252 Atk/252 Def",
+          "ability": "Sturdy"
+        },
+        {
+          "name": "aerodactyl",
+          "level": 30.0,
+          "moves": [
+            "Rock Slide",
+            "Bulldoze",
+            "Dragon Claw"
+          ],
+          "nature": "Jolly",
+          "item": "Sitrus Berry",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Levitate"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode)",
+        "row": 100
+      },
+      "notes": ""
+    },
+    {
+      "id": "bosses-hard-mode-dirg-brigit-farm-sidequest",
+      "trainer": "Dirg",
+      "location": "Brigit Farm (Sidequest)",
+      "category": "Boss battles",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "linoone",
+          "level": 34.0,
+          "moves": [
+            "Seed Bomb",
+            "Belly Drum",
+            "Headbutt"
+          ],
+          "nature": "Adamant",
+          "item": "Sitrus Berry",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Inner Focus"
+        },
+        {
+          "name": "clefable",
+          "level": 34.0,
+          "moves": [
+            "Follow Me"
+          ],
+          "nature": "Bold",
+          "item": "Leftovers",
+          "evs": "252 HP/252 Def",
+          "ability": "Unaware"
+        },
+        {
+          "name": "lairon",
+          "level": 35.0,
+          "moves": [
+            "Iron Head",
+            "Bulldoze",
+            "Rock Slide",
+            "Phalanx Guard"
+          ],
+          "nature": "Impish",
+          "item": "Rocky Helmet",
+          "evs": "252 Atk/252 Def",
+          "ability": "Sturdy"
+        },
+        {
+          "name": "slowbro",
+          "level": 35.0,
+          "moves": [
+            "Extrasensory",
+            "Scald",
+            "Ice Beam"
+          ],
+          "nature": "Bold",
+          "item": "Assault Vest",
+          "evs": "252 Def/252 Sp. Atk",
+          "ability": "Oblivious"
+        },
+        {
+          "name": "altaria",
+          "level": 36.0,
+          "moves": [
+            "Dragonbreath",
+            "Air Cutter"
+          ],
+          "nature": "Calm",
+          "item": "Mago Berry",
+          "evs": "252 Sp. Atk/252 Sp. Def",
+          "ability": "Natural Cure"
+        },
+        {
+          "name": "pinsir",
+          "level": 36.0,
+          "moves": [
+            "Bulk Up",
+            "X-Scissor",
+            "Brick Break",
+            "First Press"
+          ],
+          "nature": "Adamant",
+          "item": "Salak Berry",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Hyper Cutter"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode)",
+        "row": 119
+      },
+      "notes": ""
+    },
+    {
+      "id": "bosses-hard-mode-zero-brigit-farm-sidequest",
+      "trainer": "Zero",
+      "location": "Brigit Farm (Sidequest)",
+      "category": "Boss battles",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "pikachu",
+          "level": 34.0,
+          "moves": [
+            "Electroweb",
+            "Thunderbolt",
+            "Extremespeed",
+            "Fake Out"
+          ],
+          "nature": "Timid",
+          "item": "Light Ball",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Lightningrod"
+        },
+        {
+          "name": "sharpedo",
+          "level": 35.0,
+          "moves": [
+            "Water Tackle",
+            "Crunch",
+            "Poison Fang",
+            "Aqua Jet"
+          ],
+          "nature": "Adamant",
+          "item": "Mystic Water",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Speed Boost"
+        },
+        {
+          "name": "espeon",
+          "level": 35.0,
+          "moves": [
+            "Psychic",
+            "Psybeam",
+            "Shadow Ball",
+            "Mysticalfire"
+          ],
+          "nature": "Timid",
+          "item": "/",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Synchronize"
+        },
+        {
+          "name": "scyther",
+          "level": 34.0,
+          "moves": [
+            "Roost",
+            "Quick Attack",
+            "X-Scissor",
+            "Knock Off"
+          ],
+          "nature": "Jolly",
+          "item": "Eviolite",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Technician"
+        },
+        {
+          "name": "gliscor",
+          "level": 36.0,
+          "moves": [
+            "Rock Slide",
+            "Swords Dance",
+            "Bulldoze"
+          ],
+          "nature": "Impish",
+          "item": "Sitrus Berry",
+          "evs": "252 HP/252 Def",
+          "ability": "Hyper Cutter"
+        },
+        {
+          "name": "typhlosion",
+          "level": 36.0,
+          "moves": [
+            "Mysticalfire",
+            "Extrasensory",
+            "Will-o-Wisp",
+            "Shadow Ball"
+          ],
+          "nature": "Timid",
+          "item": "Charcoal",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "White Smoke"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode)",
+        "row": 138
+      },
+      "notes": ""
+    },
+    {
+      "id": "bosses-hard-mode-malna-brigit-farm-sidequest",
+      "trainer": "Malna",
+      "location": "Brigit Farm (Sidequest)",
+      "category": "Boss battles",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "hitmontop",
+          "level": 34.0,
+          "moves": [
+            "Fake Out",
+            "Mach Punch",
+            "Bullet Punch"
+          ],
+          "nature": "Impish",
+          "item": "Assault Vest",
+          "evs": "252 Atk/252 Def",
+          "ability": "Intimidate"
+        },
+        {
+          "name": "probopass",
+          "level": 34.0,
+          "moves": [
+            "Thunder Wave",
+            "Thunderbolt",
+            "Flash Cannon"
+          ],
+          "nature": "Calm",
+          "item": "Rocky Helmet",
+          "evs": "252 HP/252 Sp. Def",
+          "ability": "Sturdy"
+        },
+        {
+          "name": "tropius",
+          "level": 35.0,
+          "moves": [
+            "Leech Seed",
+            "Protect",
+            "Seed Bomb"
+          ],
+          "nature": "Careful",
+          "item": "Leftovers",
+          "evs": "252 HP/252 Sp. Def",
+          "ability": "Chlorophyll"
+        },
+        {
+          "name": "torkoal",
+          "level": 35.0,
+          "moves": [
+            "Solar Beam",
+            "Flamethrower"
+          ],
+          "nature": "Calm",
+          "item": "Charcoal",
+          "evs": "252 Sp. Atk/252 Sp. Def",
+          "ability": "Drought"
+        },
+        {
+          "name": "magcargo",
+          "level": 36.0,
+          "moves": [
+            "Flamethrower",
+            "Power Gem",
+            "Earth Power"
+          ],
+          "nature": "Bold",
+          "item": "Sitrus Berry",
+          "evs": "252 Def/252 Sp. Atk",
+          "ability": "Magma Armor"
+        },
+        {
+          "name": "farfetch-d",
+          "level": 36.0,
+          "moves": [
+            "Chain Killer",
+            "Chain Weather",
+            "Knock Off"
+          ],
+          "nature": "Adamant",
+          "item": "Bread",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Omni-Chase"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode)",
+        "row": 157
+      },
+      "notes": ""
+    },
+    {
+      "id": "bosses-hard-mode-manuela-captain-third-stratum",
+      "trainer": "Manuela (Captain)",
+      "location": "Third Stratum",
+      "category": "Boss battles",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "ninetales",
+          "level": 40.0,
+          "moves": [
+            "Heat Wave",
+            "Solarbeam",
+            "Electroshock",
+            "Volt Switch"
+          ],
+          "nature": "Timid",
+          "item": "Expert Belt",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Drought"
+        },
+        {
+          "name": "venusaur",
+          "level": 40.0,
+          "moves": [
+            "Earth Power",
+            "Sludge Bomb",
+            "Weather Ball",
+            "Giga Drain"
+          ],
+          "nature": "Modest",
+          "item": "Life Orb",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Chlorophyll"
+        },
+        {
+          "name": "typhlosion",
+          "level": 40.0,
+          "moves": [
+            "Eruption"
+          ],
+          "nature": "Modest",
+          "item": "Choice Scarf",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "White Smoke"
+        },
+        {
+          "name": "roserade",
+          "level": 40.0,
+          "moves": [
+            "Giga Drain",
+            "Sludge Bomb",
+            "Weather Ball",
+            "Extrasensory"
+          ],
+          "nature": "Timid",
+          "item": "Petaya Berry",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Natural Cure"
+        },
+        {
+          "name": "sableye",
+          "level": 40.0,
+          "moves": [
+            "Sunny Day",
+            "Fake Out",
+            "Shadow Sneak",
+            "Will-o-Wisp"
+          ],
+          "nature": "Careful",
+          "item": "Leftovers",
+          "evs": "252 HP/252 Sp. Def",
+          "ability": "Prankster"
+        },
+        {
+          "name": "entei",
+          "level": 40.0,
+          "moves": [
+            "Sacred Fire",
+            "Extremespeed",
+            "Bulldoze",
+            "Crunch"
+          ],
+          "nature": "Adamant",
+          "item": "Assault Vest",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Inner Focus"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode)",
+        "row": 176
+      },
+      "notes": ""
+    },
+    {
+      "id": "bosses-hard-mode-ethan-third-stratum-end",
+      "trainer": "Ethan",
+      "location": "Third Stratum (End)",
+      "category": "Boss battles",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "breloom",
+          "level": 40.0,
+          "moves": [
+            "Spore",
+            "Mach Punch",
+            "Bullet Seed",
+            "Spore Barrage"
+          ],
+          "nature": "Adamant",
+          "item": "Sitrus Berry",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Skill Link"
+        },
+        {
+          "name": "raichu",
+          "level": 40.0,
+          "moves": [
+            "Fake Out",
+            "Thunderbolt",
+            "Light Screen"
+          ],
+          "nature": "Modest",
+          "item": "Magnet",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Lightningrod"
+        },
+        {
+          "name": "arcanine",
+          "level": 40.0,
+          "moves": [
+            "Flare Blitz",
+            "Wild Charge",
+            "Extremespeed"
+          ],
+          "nature": "Adamant",
+          "item": "Life Orb",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Intimidate"
+        },
+        {
+          "name": "tauros",
+          "level": 40.0,
+          "moves": [
+            "Double Edge",
+            "Zen Headbutt"
+          ],
+          "nature": "Jolly",
+          "item": "Choice Band",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Intimidate"
+        },
+        {
+          "name": "blastoise",
+          "level": 40.0,
+          "moves": [
+            "Scald",
+            "Fake Out",
+            "Ice Beam",
+            "Aura Sphere"
+          ],
+          "nature": "Calm",
+          "item": "Rocky Helmet",
+          "evs": "252 Sp. Atk/252 Sp. Def",
+          "ability": "Shell Armor"
+        },
+        {
+          "name": "kecleon",
+          "level": 40.0,
+          "moves": [
+            "Fake Out",
+            "Shadow Sneak",
+            "Night Slash",
+            "Slash"
+          ],
+          "nature": "Adamant",
+          "item": "Assault Vest",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Protean"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode)",
+        "row": 195
+      },
+      "notes": ""
+    },
+    {
+      "id": "bosses-hard-mode-kozuki-third-stratum-end",
+      "trainer": "Kozuki",
+      "location": "Third Stratum (End)",
+      "category": "Boss battles",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "hariyama",
+          "level": 40.0,
+          "moves": [
+            "Fake Out",
+            "Bullet Punch",
+            "Drain Punch"
+          ],
+          "nature": "Adamant",
+          "item": "Aguav Berry",
+          "evs": "252 HP/252 Atk",
+          "ability": "Thick Fat"
+        },
+        {
+          "name": "ursaring",
+          "level": 40.0,
+          "moves": [
+            "Facade",
+            "Drain Punch",
+            "Night Slash"
+          ],
+          "nature": "Jolly",
+          "item": "Flame Orb",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Guts"
+        },
+        {
+          "name": "slowking",
+          "level": 40.0,
+          "moves": [
+            "Flamethrower",
+            "Scald",
+            "Ice Beam",
+            "Slack Off"
+          ],
+          "nature": "Bold",
+          "item": "Mago berry",
+          "evs": "252 Def/252 Sp. Atk",
+          "ability": "Oblivious"
+        },
+        {
+          "name": "walrein",
+          "level": 40.0,
+          "moves": [
+            "Muddy Water",
+            "Ice Beam"
+          ],
+          "nature": "Modest",
+          "item": "Assault Vest",
+          "evs": "252 HP/252 Sp. Atk",
+          "ability": "Thick Fat"
+        },
+        {
+          "name": "sandy-shocks",
+          "level": 40.0,
+          "moves": [
+            "Flash Cannon",
+            "Thunderbolt",
+            "Earth Power",
+            "Power Gem"
+          ],
+          "nature": "Timid",
+          "item": "Life Orb",
+          "evs": "252 Atk Sp./252 Speed",
+          "ability": "Clear Body"
+        },
+        {
+          "name": "annihilape",
+          "level": 40.0,
+          "moves": [
+            "Rage Fist",
+            "Drain Punch"
+          ],
+          "nature": "Adamant",
+          "item": "Choice Scarf",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Defiant"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode)",
+        "row": 214
+      },
+      "notes": ""
+    },
+    {
+      "id": "bosses-hard-mode-olympia-etria-silva-s-lab",
+      "trainer": "Olympia",
+      "location": "Etria (Silva'S Lab)",
+      "category": "Boss battles",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "porygon2",
+          "level": 40.0,
+          "moves": [
+            "Icy Wind",
+            "Recover",
+            "Tri Attack",
+            "Psychic"
+          ],
+          "nature": "Bold",
+          "item": "Eviolite",
+          "evs": "252 HP/252 Def",
+          "ability": "Trace"
+        },
+        {
+          "name": "scizor",
+          "level": 40.0,
+          "moves": [
+            "Bullet Punch",
+            "X-Scissor",
+            "Iron Head",
+            "Swords Dance"
+          ],
+          "nature": "Adamant",
+          "item": "Assault Vest",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Technician"
+        },
+        {
+          "name": "relicanth",
+          "level": 41.0,
+          "moves": [
+            "Head Smash",
+            "Waterfall",
+            "Shadow Claw",
+            "Aqua Jet"
+          ],
+          "nature": "Jolly",
+          "item": "Choice Band",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Rock Head"
+        },
+        {
+          "name": "magmortar",
+          "level": 41.0,
+          "moves": [
+            "Heat Wave",
+            "Scald",
+            "Psychic"
+          ],
+          "nature": "Modest",
+          "item": "Choice Scarf",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Super Luck"
+        },
+        {
+          "name": "wailord",
+          "level": 42.0,
+          "moves": [
+            "Scald",
+            "Ice Beam",
+            "Frost Curse",
+            "Hyper Voice"
+          ],
+          "nature": "Modest",
+          "item": "Leftovers",
+          "evs": "252 HP/252 Sp.Atk",
+          "ability": "Drizzle"
+        },
+        {
+          "name": "mawile",
+          "level": 42.0,
+          "moves": [
+            "Shadow Sneak",
+            "Iron Head",
+            "Crunch"
+          ],
+          "nature": "Adamant",
+          "item": "Rocky Helmet",
+          "evs": "252 HP/252 Atk",
+          "ability": "Intimidate"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode)",
+        "row": 233
+      },
+      "notes": ""
+    },
+    {
+      "id": "bosses-hard-mode-cassian-captain-fourth-stratum",
+      "trainer": "Cassian (Captain)",
+      "location": "Fourth Stratum",
+      "category": "Boss battles",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "politoed",
+          "level": 50.0,
+          "moves": [
+            "Helping Hand",
+            "Muddy Water",
+            "Icy Wind",
+            "Fake Out"
+          ],
+          "nature": "Calm",
+          "item": "Sitrus Berry",
+          "evs": "252 Sp. Atk/252 Sp. Def",
+          "ability": "Drizzle"
+        },
+        {
+          "name": "ludicolo",
+          "level": 50.0,
+          "moves": [
+            "Hydro Pump",
+            "Giga Drain",
+            "Ice Beam"
+          ],
+          "nature": "Modest",
+          "item": "Life Orb",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Swift Swim"
+        },
+        {
+          "name": "raichu",
+          "level": 50.0,
+          "moves": [
+            "Fake Out",
+            "Thunder",
+            "Weather Ball",
+            "Light Screen"
+          ],
+          "nature": "Timid",
+          "item": "Magnet",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Lightningrod"
+        },
+        {
+          "name": "aggron",
+          "level": 50.0,
+          "moves": [
+            "Follow Me",
+            "Phalanx Guard",
+            "Iron Head",
+            "Bulldoze"
+          ],
+          "nature": "Impish",
+          "item": "Leftovers",
+          "evs": "252 Def/252 Sp. Def",
+          "ability": "Sturdy"
+        },
+        {
+          "name": "kingdra",
+          "level": 50.0,
+          "moves": [
+            "Hydro Pump",
+            "Ice Beam",
+            "Dragon Pulse"
+          ],
+          "nature": "Modest",
+          "item": "Petaya Berry",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Swift Swim"
+        },
+        {
+          "name": "suicune",
+          "level": 50.0,
+          "moves": [
+            "Muddy Water",
+            "Ice Beam",
+            "Extrasensory"
+          ],
+          "nature": "Calm",
+          "item": "Assault Vest",
+          "evs": "252 Sp. Atk/252 Sp. Def",
+          "ability": "Inner Focus"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode)",
+        "row": 252
+      },
+      "notes": ""
+    },
+    {
+      "id": "bosses-hard-mode-aime-e-abyssal-princess-underground-city",
+      "trainer": "Aimée (Abyssal Princess)",
+      "location": "Underground City",
+      "category": "Boss battles",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "flutter-mane",
+          "level": 50.0,
+          "moves": [
+            "Shadow Ball",
+            "Psychic",
+            "Mysticalfire",
+            "Thunderbolt"
+          ],
+          "nature": "Modest",
+          "item": "Life Orb",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Levitate"
+        },
+        {
+          "name": "togekiss",
+          "level": 50.0,
+          "moves": [
+            "Follow Me",
+            "Heat Wave",
+            "Roost",
+            "Air Slash"
+          ],
+          "nature": "Bold",
+          "item": "Mago Berry",
+          "evs": "252 Def/252 Sp. Atk",
+          "ability": "Serene Grace"
+        },
+        {
+          "name": "crobat",
+          "level": 50.0,
+          "moves": [
+            "Brave Bird",
+            "U-Turn"
+          ],
+          "nature": "Jolly",
+          "item": "Choice Band",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Inner Focus"
+        },
+        {
+          "name": "milotic",
+          "level": 50.0,
+          "moves": [
+            "Muddy Water",
+            "Recover",
+            "Toxic",
+            "Icy Wind"
+          ],
+          "nature": "Calm",
+          "item": "Leftovers",
+          "evs": "252 HP/252 Sp. Def",
+          "ability": "Marvel Scale"
+        },
+        {
+          "name": "electivire",
+          "level": 50.0,
+          "moves": [
+            "Akashic Nova"
+          ],
+          "nature": "Jolly",
+          "item": "Choice Scarf",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Fafnir"
+        },
+        {
+          "name": "blaziken",
+          "level": 50.0,
+          "moves": [
+            "Swords Dance",
+            "Hi Jump Kick",
+            "Blaze Kick",
+            "Thunderpunch"
+          ],
+          "nature": "Adamant",
+          "item": "Wide Lens",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Speed Boost"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode)",
+        "row": 271
+      },
+      "notes": ""
+    },
+    {
+      "id": "bosses-hard-mode-brady-aqua-resort-sidequest",
+      "trainer": "Brady",
+      "location": "Aqua Resort (Sidequest)",
+      "category": "Boss battles",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "crawdaunt",
+          "level": 50.0,
+          "moves": [
+            "Aqua Jet",
+            "Crunch",
+            "Dragon Dance"
+          ],
+          "nature": "Adamant",
+          "item": "Mystic Water",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Hyper Cutter"
+        },
+        {
+          "name": "weezing",
+          "level": 50.0,
+          "moves": [
+            "Sludge Bomb",
+            "Thunderbolt",
+            "Flamethrower",
+            "Dark Pulse"
+          ],
+          "nature": "Modest",
+          "item": "Rocky Helmet",
+          "evs": "252 HP/252 Sp. Atk",
+          "ability": "Levitate"
+        },
+        {
+          "name": "sharpedo",
+          "level": 50.0,
+          "moves": [
+            "Crunch",
+            "Waterfall",
+            "Aqua Jet",
+            "Poison Fang"
+          ],
+          "nature": "Adamant",
+          "item": "Expert Belt",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Speed Boost"
+        },
+        {
+          "name": "gyarados",
+          "level": 50.0,
+          "moves": [
+            "Earthquake",
+            "Waterfall",
+            "Icicle Crash"
+          ],
+          "nature": "Jolly",
+          "item": "Life Orb",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Intimidate"
+        },
+        {
+          "name": "houndoom",
+          "level": 50.0,
+          "moves": [
+            "Dark Pulse",
+            "Heat Wave"
+          ],
+          "nature": "Timid",
+          "item": "Choice Specs",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Flash Fire"
+        },
+        {
+          "name": "honchkrow",
+          "level": 50.0,
+          "moves": [
+            "Heat Wave",
+            "Nasty Plot",
+            "Dark Pulse",
+            "Hurricane"
+          ],
+          "nature": "Modest",
+          "item": "Wide Lens",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Insomnia"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode)",
+        "row": 290
+      },
+      "notes": ""
+    },
+    {
+      "id": "bosses-hard-mode-abyssal-aberration-deep-shrine",
+      "trainer": "Abyssal Aberration",
+      "location": "Deep Shrine",
+      "category": "Boss battles",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "cradily",
+          "level": 58.0,
+          "moves": [
+            "Leech Seed",
+            "Giga Drain",
+            "Power Gem",
+            "Toxic"
+          ],
+          "nature": "Calm",
+          "item": "Leftovers",
+          "evs": "252 HP/252 Sp. Def",
+          "ability": "Unaware"
+        },
+        {
+          "name": "wigglytuff",
+          "level": 58.0,
+          "moves": [
+            "Strange Seeds",
+            "Rotten Egg",
+            "Lullaby",
+            "Harvest Party"
+          ],
+          "nature": "Impish",
+          "item": "Rocky Helmet",
+          "evs": "252 Def/252 Sp.Def",
+          "ability": "Filter"
+        },
+        {
+          "name": "tangrowth",
+          "level": 58.0,
+          "moves": [
+            "Phantom Force",
+            "Knock Off",
+            "Leaf Blade",
+            "Shadow Sneak"
+          ],
+          "nature": "Impish",
+          "item": "Assault Vest",
+          "evs": "252 Atk/252 Def",
+          "ability": "Chlorophyll"
+        },
+        {
+          "name": "illumise",
+          "level": 59.0,
+          "moves": [
+            "Summer Tango",
+            "Bug Buzz",
+            "Psychic",
+            "Spring Tango"
+          ],
+          "nature": "Timid",
+          "item": "Aguav Berry",
+          "evs": "252Sp. Atk/252 Speed",
+          "ability": "Serene Grace"
+        },
+        {
+          "name": "volbeat",
+          "level": 59.0,
+          "moves": [
+            "Quiver Dance",
+            "Bug Buzz",
+            "Thunderbolt",
+            "Life Ballad"
+          ],
+          "nature": "Timid",
+          "item": "Mago Berry",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Lightningrod"
+        },
+        {
+          "name": "kleavor",
+          "level": 59.0,
+          "moves": [
+            "Stone Axe",
+            "X-Scissor",
+            "Knock Off",
+            "Trailblaze"
+          ],
+          "nature": "Jolly",
+          "item": "Life Orb",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Solid Rock"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode)",
+        "row": 309
+      },
+      "notes": ""
+    },
+    {
+      "id": "bosses-hard-mode-olympia-underground-city",
+      "trainer": "Olympia",
+      "location": "Underground City",
+      "category": "Boss battles",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "porygon-z",
+          "level": 60.0,
+          "moves": [
+            "Tri-Attack",
+            "Ice Beam",
+            "Thunderbolt"
+          ],
+          "nature": "Timid",
+          "item": "Choice Specs",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Trace"
+        },
+        {
+          "name": "scizor",
+          "level": 60.0,
+          "moves": [
+            "Bullet Punch",
+            "X-Scissor",
+            "Iron Head",
+            "Swords Dance"
+          ],
+          "nature": "Adamant",
+          "item": "Metal Coat",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Technician"
+        },
+        {
+          "name": "relicanth",
+          "level": 60.0,
+          "moves": [
+            "Head Smash",
+            "Phantom Force"
+          ],
+          "nature": "Adamant",
+          "item": "Choice Band",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Rock Head"
+        },
+        {
+          "name": "dragonite",
+          "level": 60.0,
+          "moves": [
+            "Roost",
+            "Dragon Dance",
+            "Extremespeed",
+            "Outrage"
+          ],
+          "nature": "Jolly",
+          "item": "Weak. Policy",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Multiscale"
+        },
+        {
+          "name": "wailord",
+          "level": 60.0,
+          "moves": [
+            "Ocean Rave",
+            "Freeze Ripple"
+          ],
+          "nature": "Modest",
+          "item": "Choice Scarf",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Drizzle"
+        },
+        {
+          "name": "mawile-battle-bond",
+          "level": 60.0,
+          "moves": [
+            "Yggdrain",
+            "Sucker Punch",
+            "Iron Head",
+            "Shadow Sneak"
+          ],
+          "nature": "Impish",
+          "item": "Assault Vest",
+          "evs": "252 Atk/252 Def",
+          "ability": "Intimidate"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode)",
+        "row": 328
+      },
+      "notes": ""
+    },
+    {
+      "id": "bosses-hard-mode-ethan-underground-city",
+      "trainer": "Ethan",
+      "location": "Underground City",
+      "category": "Boss battles",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "breloom",
+          "level": 60.0,
+          "moves": [
+            "Spore Barrage",
+            "Spore",
+            "Substitute",
+            "Mach Punch"
+          ],
+          "nature": "Adamant",
+          "item": "Leftovers",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Skill Link"
+        },
+        {
+          "name": "gorochu",
+          "level": 60.0,
+          "moves": [
+            "Fake Out",
+            "Thunderbolt",
+            "Light Screen",
+            "Aura Sphere"
+          ],
+          "nature": "Timid",
+          "item": "Magnet",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Lightningrod"
+        },
+        {
+          "name": "arcanine",
+          "level": 60.0,
+          "moves": [
+            "Flare Blitz",
+            "Wild Charge",
+            "Extremespeed"
+          ],
+          "nature": "Jolly",
+          "item": "Mago Berry",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Intimidate"
+        },
+        {
+          "name": "flygon",
+          "level": 60.0,
+          "moves": [
+            "Bug Buzz",
+            "Earth Power",
+            "Dragon Pulse",
+            "Flamethrower"
+          ],
+          "nature": "Timid",
+          "item": "Life Orb",
+          "evs": "252 Sp.Atk/252 Speed",
+          "ability": "Levitate"
+        },
+        {
+          "name": "blastoise",
+          "level": 60.0,
+          "moves": [
+            "Scald",
+            "Fake Out",
+            "Ice Beam",
+            "Aura Sphere"
+          ],
+          "nature": "Calm",
+          "item": "Rocky Helmet",
+          "evs": "252 Sp. Atk/252 Sp. Def",
+          "ability": "Shell Armor"
+        },
+        {
+          "name": "kecleon-battle-bond",
+          "level": 60.0,
+          "moves": [
+            "Yggdraslash",
+            "Shadow Sneak",
+            "Sucker Punch",
+            "PowerUpPunch"
+          ],
+          "nature": "Impish",
+          "item": "Assault Vest",
+          "evs": "252 Atk/252 Def",
+          "ability": "Protean"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode)",
+        "row": 347
+      },
+      "notes": ""
+    },
+    {
+      "id": "bosses-hard-mode-mathilda-corrupted-fifth-stratum",
+      "trainer": "Mathilda (Corrupted)",
+      "location": "Fifth Stratum",
+      "category": "Boss battles",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "fearow",
+          "level": 60.0,
+          "moves": [
+            "Brave Bird",
+            "Drill Run",
+            "Leaf Blade",
+            "Wild Charge"
+          ],
+          "nature": "Jolly",
+          "item": "Life Orb",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Volt Absorb"
+        },
+        {
+          "name": "hitmontop",
+          "level": 60.0,
+          "moves": [
+            "Fake Out",
+            "Mach Punch",
+            "Close Combat",
+            "Sucker Punch"
+          ],
+          "nature": "Impish",
+          "item": "Assault Vest",
+          "evs": "252 Atk/252 Def",
+          "ability": "Intimidate"
+        },
+        {
+          "name": "ampharos",
+          "level": 60.0,
+          "moves": [
+            "Thunderbolt",
+            "Crazed Shout",
+            "Reflect",
+            "Light Screen"
+          ],
+          "nature": "Bold",
+          "item": "Light Clay",
+          "evs": "252 Def/252 Sp. Atk",
+          "ability": "Static"
+        },
+        {
+          "name": "machamp",
+          "level": 60.0,
+          "moves": [
+            "Close Combat",
+            "Mach Punch",
+            "Ice Punch",
+            "Fake Out"
+          ],
+          "nature": "Adamant",
+          "item": "Flame Orb",
+          "evs": "252 HP/252 Atk",
+          "ability": "Guts"
+        },
+        {
+          "name": "medicham",
+          "level": 60.0,
+          "moves": [
+            "Close Combat",
+            "Darkness Fist"
+          ],
+          "nature": "Adamant",
+          "item": "Choice Scarf",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Pure Power"
+        },
+        {
+          "name": "raikou",
+          "level": 60.0,
+          "moves": [
+            "Thunderbolt",
+            "Aura Sphere",
+            "Calm Mind",
+            "Substitute"
+          ],
+          "nature": "Timid",
+          "item": "Leftovers",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Inner Focus"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode)",
+        "row": 366
+      },
+      "notes": ""
+    },
+    {
+      "id": "bosses-hard-mode-zinnia-mount-chimney-sidequest",
+      "trainer": "Zinnia",
+      "location": "Mount Chimney (Sidequest)",
+      "category": "Boss battles",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "exploud",
+          "level": 60.0,
+          "moves": [
+            "Boomburst",
+            "Flamethrower",
+            "Ice Beam",
+            "Thunderbolt"
+          ],
+          "nature": "Modest",
+          "item": "Expert Belt",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Soundproof"
+        },
+        {
+          "name": "kingdra",
+          "level": 60.0,
+          "moves": [
+            "Hydro Pump",
+            "Dragon Pulse",
+            "Ice Beam",
+            "Sludge Bomb"
+          ],
+          "nature": "Timid",
+          "item": "Scope Lens",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Sniper"
+        },
+        {
+          "name": "altaria",
+          "level": 60.0,
+          "moves": [
+            "Toxic",
+            "Protect",
+            "Roost",
+            "Dragon Pulse"
+          ],
+          "nature": "Calm",
+          "item": "Leftovers",
+          "evs": "252 HP/252 Sp. Def",
+          "ability": "Natural Cure"
+        },
+        {
+          "name": "dragonite",
+          "level": 60.0,
+          "moves": [
+            "Extremespeed",
+            "Outrage",
+            "Fire Punch",
+            "Thunderpunch"
+          ],
+          "nature": "Adamant",
+          "item": "Weak. Policy",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Multiscale"
+        },
+        {
+          "name": "flygon",
+          "level": 60.0,
+          "moves": [
+            "Quiver Dance",
+            "Dragon Pulse",
+            "Earth Power",
+            "Bug Buzz"
+          ],
+          "nature": "Modest",
+          "item": "Life Orb",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Levitate"
+        },
+        {
+          "name": "salamence",
+          "level": 60.0,
+          "moves": [
+            "Dragon Dance",
+            "Outrage",
+            "Earthquake",
+            "Iron Head"
+          ],
+          "nature": "Adamant",
+          "item": "Lum Berry",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Intimidate"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode)",
+        "row": 385
+      },
+      "notes": ""
+    },
+    {
+      "id": "bosses-hard-mode-lixin-corrupted-abyssal-fortress",
+      "trainer": "Lixin (Corrupted)",
+      "location": "Abyssal Fortress",
+      "category": "Boss battles",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "glalie",
+          "level": 65.0,
+          "moves": [
+            "Super Fang",
+            "Icy Wind",
+            "Helping Hand",
+            "Toxic"
+          ],
+          "nature": "Bold",
+          "item": "Leftovers",
+          "evs": "252 Def/252 Sp.Def",
+          "ability": "Snow Warning"
+        },
+        {
+          "name": "froslass",
+          "level": 65.0,
+          "moves": [
+            "Blizzard"
+          ],
+          "nature": "Timid",
+          "item": "Choice Specs",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Snow Cloak"
+        },
+        {
+          "name": "jynx",
+          "level": 65.0,
+          "moves": [
+            "Scald",
+            "Blizzard",
+            "Giga Drain"
+          ],
+          "nature": "Timid",
+          "item": "Life Orb",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Snow Cloak"
+        },
+        {
+          "name": "mamoswine",
+          "level": 65.0,
+          "moves": [
+            "Stone Edge",
+            "Icicle Crash",
+            "Ice Shard",
+            "Bulldoze"
+          ],
+          "nature": "Impish",
+          "item": "Assault Vest",
+          "evs": "252 Atk/252 Def",
+          "ability": "Thick Fat"
+        },
+        {
+          "name": "snorlax",
+          "level": 65.0,
+          "moves": [
+            "Body Slam",
+            "Slack Off",
+            "PowerUpPunch",
+            "Curse"
+          ],
+          "nature": "Careful",
+          "item": "Aguav Berry",
+          "evs": "252 Atk/252 Sp. Def",
+          "ability": "Gluttony"
+        },
+        {
+          "name": "rapidash",
+          "level": 65.0,
+          "moves": [
+            "Flare Blitz",
+            "Icicle Crash",
+            "Wild Charge"
+          ],
+          "nature": "Jolly",
+          "item": "Expert Belt",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Flash Fire"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode)",
+        "row": 404
+      },
+      "notes": ""
+    },
+    {
+      "id": "bosses-hard-mode-kitt-nephilim-sixth-stratum",
+      "trainer": "Kitt (Nephilim)",
+      "location": "Sixth Stratum",
+      "category": "Boss battles",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "tyranitar",
+          "level": 65.0,
+          "moves": [
+            "Rock Slide",
+            "Fire Punch",
+            "Crunch",
+            "Dragon Dance"
+          ],
+          "nature": "Jolly",
+          "item": "Lum Berry",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Sand Stream"
+        },
+        {
+          "name": "claydol",
+          "level": 65.0,
+          "moves": [
+            "Earth Power",
+            "Flash Cannon",
+            "Reflect",
+            "Light Screen"
+          ],
+          "nature": "Bold",
+          "item": "Light Clay",
+          "evs": "252 Def/252 Sp.Def",
+          "ability": "Protean"
+        },
+        {
+          "name": "scream-tail",
+          "level": 65.0,
+          "moves": [
+            "Psychic",
+            "Fake Out",
+            "Helping Hand",
+            "Icy Wind"
+          ],
+          "nature": "Timid",
+          "item": "Leftovers",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Filter"
+        },
+        {
+          "name": "gengar",
+          "level": 65.0,
+          "moves": [
+            "Shadow Ball",
+            "Sludge Bomb"
+          ],
+          "nature": "Timid",
+          "item": "Choice Specs",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Shadow Tag"
+        },
+        {
+          "name": "electrode",
+          "level": 65.0,
+          "moves": [
+            "Giga Drain",
+            "Thunderbolt",
+            "Electroweb"
+          ],
+          "nature": "Modest",
+          "item": "Sitrus Berry",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Soundproof"
+        },
+        {
+          "name": "metagross",
+          "level": 65.0,
+          "moves": [
+            "Meteor Mash",
+            "Zen Headbutt",
+            "Ice Punch",
+            "Bullet Punch"
+          ],
+          "nature": "Impish",
+          "item": "Life Orb",
+          "evs": "252 Atk/252 Def",
+          "ability": "Clear Body"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode)",
+        "row": 423
+      },
+      "notes": ""
+    },
+    {
+      "id": "bosses-hard-mode-gutrune-captain-seventh-stratum",
+      "trainer": "Gutrune (Captain)",
+      "location": "Seventh Stratum",
+      "category": "Boss battles",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "gallade",
+          "level": 70.0,
+          "moves": [
+            "Shogun Decoy",
+            "5-Ring Sword",
+            "Close Combat",
+            "Zen Headbutt"
+          ],
+          "nature": "Jolly",
+          "item": "Sitrus Berry",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Inner Focus"
+        },
+        {
+          "name": "arbok",
+          "level": 70.0,
+          "moves": [
+            "Megalodive",
+            "Sucker Punch",
+            "Gunk Shot"
+          ],
+          "nature": "Adamant",
+          "item": "Winged Boots",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Intimidate"
+        },
+        {
+          "name": "swalot",
+          "level": 70.0,
+          "moves": [
+            "Scald",
+            "Ice Beam",
+            "Sludge Bomb"
+          ],
+          "nature": "Bold",
+          "item": "Assault Vest",
+          "evs": "252 Def/252 Sp.Def",
+          "ability": "Filter"
+        },
+        {
+          "name": "blissey",
+          "level": 70.0,
+          "moves": [
+            "Star Drop",
+            "Reflect",
+            "Light Screen"
+          ],
+          "nature": "Calm",
+          "item": "Light Clay",
+          "evs": "252 HP/252 Sp.Def",
+          "ability": "Intense Care"
+        },
+        {
+          "name": "absol",
+          "level": 70.0,
+          "moves": [
+            "Toxic Reap",
+            "Sucker Punch",
+            "Zen Headbutt",
+            "Night Slash"
+          ],
+          "nature": "Jolly",
+          "item": "Scope Lens",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Super Luck"
+        },
+        {
+          "name": "gardevoir",
+          "level": 70.0,
+          "moves": [
+            "Psychic",
+            "Ad Nihilo",
+            "Aura Sphere"
+          ],
+          "nature": "Timid",
+          "item": "Life Orb",
+          "evs": "252 Sp.Atk/252 Speed",
+          "ability": "Sovereignty"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode)",
+        "row": 442
+      },
+      "notes": ""
+    },
+    {
+      "id": "bosses-hard-mode-kitt-nephilim-abyssal-palace",
+      "trainer": "Kitt (Nephilim)",
+      "location": "Abyssal Palace",
+      "category": "Boss battles",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "tyranitar",
+          "level": 75.0,
+          "moves": [
+            "Rock Slide",
+            "Fire Punch",
+            "Crunch",
+            "Dragon Dance"
+          ],
+          "nature": "Jolly",
+          "item": "Lum Berry",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Sand Stream"
+        },
+        {
+          "name": "claydol",
+          "level": 75.0,
+          "moves": [
+            "Earth Power",
+            "Flash Cannon",
+            "Reflect",
+            "Light Screen"
+          ],
+          "nature": "Bold",
+          "item": "Light Clay",
+          "evs": "252 Def/252 Sp.Def",
+          "ability": "Protean"
+        },
+        {
+          "name": "scream-tail",
+          "level": 75.0,
+          "moves": [
+            "Psychic",
+            "Fake Out",
+            "Helping Hand",
+            "Icy Wind"
+          ],
+          "nature": "Timid",
+          "item": "Leftovers",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Filter"
+        },
+        {
+          "name": "gengar",
+          "level": 75.0,
+          "moves": [
+            "Shadow Ball",
+            "Sludge Bomb"
+          ],
+          "nature": "Timid",
+          "item": "Choice Specs",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Shadow Tag"
+        },
+        {
+          "name": "marowak",
+          "level": 75.0,
+          "moves": [
+            "Call: Lion",
+            "Call: Allies",
+            "Hi Horsepower",
+            "Primal Drums"
+          ],
+          "nature": "Adamant",
+          "item": "Bone Piercer",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Sand Rush"
+        },
+        {
+          "name": "metagross",
+          "level": 75.0,
+          "moves": [
+            "Meteor Mash",
+            "Zen Headbutt",
+            "Ice Punch",
+            "Bullet Punch"
+          ],
+          "nature": "Impish",
+          "item": "Life Orb",
+          "evs": "252 Atk/252 Def",
+          "ability": "Clear Body"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode)",
+        "row": 461
+      },
+      "notes": ""
+    },
+    {
+      "id": "bosses-hard-mode-frey-abyssal-palace",
+      "trainer": "Frey",
+      "location": "Abyssal Palace",
+      "category": "Boss battles",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "gyarados",
+          "level": 75.0,
+          "moves": [
+            "Icicle Crash",
+            "Waterfall",
+            "Dragon Dance"
+          ],
+          "nature": "Jolly",
+          "item": "Life Orb",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Intimidate"
+        },
+        {
+          "name": "sceptile",
+          "level": 75.0,
+          "moves": [
+            "Leaf Blade",
+            "Thunderpunch",
+            "U-turn"
+          ],
+          "nature": "Adamant",
+          "item": "Winged Boots",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Lightningrod"
+        },
+        {
+          "name": "stantler",
+          "level": 75.0,
+          "moves": [
+            "Zen Headbutt",
+            "Hi Jump Kick",
+            "Confuse Ray",
+            "Double-Edge"
+          ],
+          "nature": "Adamant",
+          "item": "Mago Berry",
+          "evs": "252 HP/252 Atk",
+          "ability": "Intimidate"
+        },
+        {
+          "name": "mismagius",
+          "level": 75.0,
+          "moves": [
+            "Shadow Ball",
+            "Heat Wave"
+          ],
+          "nature": "Timid",
+          "item": "Choice Specs",
+          "evs": "252 Sp.Atk/252 Speed",
+          "ability": "Serene Grace"
+        },
+        {
+          "name": "aggron",
+          "level": 75.0,
+          "moves": [
+            "Phalanx Guard",
+            "Follow Me",
+            "Iron Head",
+            "Brick Break"
+          ],
+          "nature": "Impish",
+          "item": "Leftovers",
+          "evs": "252 Def/252 Sp.Def",
+          "ability": "Sturdy"
+        },
+        {
+          "name": "great-tusk",
+          "level": 75.0,
+          "moves": [
+            "Hi Horsepower",
+            "Close Combat",
+            "Megahorn",
+            "Head Smash"
+          ],
+          "nature": "Impish",
+          "item": "Assault Vest",
+          "evs": "252 Atk/252 Def",
+          "ability": "Sturdy"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode)",
+        "row": 480
+      },
+      "notes": ""
+    },
+    {
+      "id": "bosses-hard-mode-visil-abyssal-palace",
+      "trainer": "Visil",
+      "location": "Abyssal Palace",
+      "category": "Boss battles",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "slaking",
+          "level": 75.0,
+          "moves": [
+            "Hi Horsepower",
+            "Body Slam",
+            "Drain Punch",
+            "Sucker Punch"
+          ],
+          "nature": "Adamant",
+          "item": "Assault Vest",
+          "evs": "252 HP/252 Atk",
+          "ability": "Jungle King"
+        },
+        {
+          "name": "roaring-moon",
+          "level": 75.0,
+          "moves": [
+            "Night Slash",
+            "Brave Bird",
+            "Dragon Dance",
+            "Dragon Rush"
+          ],
+          "nature": "Jolly",
+          "item": "Life Orb",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Intimidate"
+        },
+        {
+          "name": "mightyena",
+          "level": 75.0,
+          "moves": [
+            "Snarl",
+            "Sucker Punch",
+            "Icicle Crash",
+            "Frost Curse"
+          ],
+          "nature": "Careful",
+          "item": "Sitrus Berry",
+          "evs": "252 Atk/252 Sp.Def",
+          "ability": "Intimidate"
+        },
+        {
+          "name": "magnezone",
+          "level": 75.0,
+          "moves": [
+            "Thunderbolt",
+            "Flash Cannon",
+            "Reflect",
+            "Light Screen"
+          ],
+          "nature": "Modest",
+          "item": "Light Clay",
+          "evs": "252 HP/252 Sp.Atk",
+          "ability": "Magnet Pull"
+        },
+        {
+          "name": "omastar",
+          "level": 75.0,
+          "moves": [
+            "Aqua Jet",
+            "Demonic Rush",
+            "Waterfall",
+            "Shadow Sneak"
+          ],
+          "nature": "Adamant",
+          "item": "Mago Berry",
+          "evs": "252 HP/252 Atk",
+          "ability": "Swift Swim"
+        },
+        {
+          "name": "dusknoir",
+          "level": 75.0,
+          "moves": [
+            "Phantom Force",
+            "Will-o-Wisp",
+            "Soul Trade",
+            "Shadow Sneak"
+          ],
+          "nature": "Impish",
+          "item": "Rocky Helmet",
+          "evs": "252 Def/252 Sp.Def",
+          "ability": "Pressure"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode)",
+        "row": 499
+      },
+      "notes": ""
+    },
+    {
+      "id": "bosses-hard-mode-progenitor-abyssal-palace",
+      "trainer": "Progenitor",
+      "location": "Abyssal Palace",
+      "category": "Boss battles",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "flutter-mane",
+          "level": 75.0,
+          "moves": [
+            "Shadow Ball",
+            "Psychic",
+            "Mysticalfire",
+            "Thunderbolt"
+          ],
+          "nature": "Modest",
+          "item": "Life Orb",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Levitate"
+        },
+        {
+          "name": "togekiss",
+          "level": 75.0,
+          "moves": [
+            "Follow Me"
+          ],
+          "nature": "Bold",
+          "item": "Mago Berry",
+          "evs": "252 Def/252 Sp. Def",
+          "ability": "Serene Grace"
+        },
+        {
+          "name": "crobat",
+          "level": 75.0,
+          "moves": [
+            "Brave Bird",
+            "U-Turn"
+          ],
+          "nature": "Jolly",
+          "item": "Choice Band",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Inner Focus"
+        },
+        {
+          "name": "milotic",
+          "level": 75.0,
+          "moves": [
+            "Protect",
+            "Recover",
+            "Toxic",
+            "Icy Wind"
+          ],
+          "nature": "Calm",
+          "item": "Leftovers",
+          "evs": "252 HP/252 Sp. Def",
+          "ability": "Marvel Scale"
+        },
+        {
+          "name": "electivire",
+          "level": 75.0,
+          "moves": [
+            "Akashic Nova"
+          ],
+          "nature": "Adamant",
+          "item": "Choice Scarf",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Fafnir"
+        },
+        {
+          "name": "blaziken-battle-bond",
+          "level": 75.0,
+          "moves": [
+            "Close Combat",
+            "Flare Blitz",
+            "Abyss Blaze"
+          ],
+          "nature": "Adamant",
+          "item": "Winged Boots",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Speed Boost"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode)",
+        "row": 518
+      },
+      "notes": ""
+    },
+    {
+      "id": "bosses-hard-mode-postgame-brody-lixin-s-cafe-talrega",
+      "trainer": "Brody",
+      "location": "Lixin'S Café (Talrega)",
+      "category": "Postgame",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "muk",
+          "level": 75.0,
+          "moves": [
+            "Gunk Shot",
+            "Sucker Punch",
+            "Knock Off",
+            "Ice Punch"
+          ],
+          "nature": "Adamant",
+          "item": "Leftovers",
+          "evs": "252 Atk/252 Def",
+          "ability": "Gluttony"
+        },
+        {
+          "name": "mightyena",
+          "level": 75.0,
+          "moves": [
+            "Icy Wind",
+            "Snarl",
+            "Icicle Crash",
+            "Sucker Punch"
+          ],
+          "nature": "Adamant",
+          "item": "Assault Vest",
+          "evs": "252 HP/252 Atk",
+          "ability": "Intimidate"
+        },
+        {
+          "name": "crobat",
+          "level": 75.0,
+          "moves": [
+            "U-Turn",
+            "Brave Bird",
+            "Poison Jab"
+          ],
+          "nature": "Jolly",
+          "item": "Life Orb",
+          "evs": "252 Atk/252 Sp.Def",
+          "ability": "Inner Focus"
+        },
+        {
+          "name": "whiscash",
+          "level": 75.0,
+          "moves": [
+            "Dragon Dance",
+            "Whip Ripper",
+            "Crunch",
+            "Waterfall"
+          ],
+          "nature": "Adamant",
+          "item": "Sitrus Berry",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Water Absorb"
+        },
+        {
+          "name": "weezing",
+          "level": 75.0,
+          "moves": [
+            "Sludge Bomb",
+            "Flamethrower",
+            "Thunderbolt",
+            "Dark Pulse"
+          ],
+          "nature": "Modest",
+          "item": "Rocky Helmet",
+          "evs": "252 Sp.Atk/252 Sp.Def",
+          "ability": "Levitate"
+        },
+        {
+          "name": "weavile",
+          "level": 75.0,
+          "moves": [
+            "Tagen Battou",
+            "Icicle Crash",
+            "Ice Shard",
+            "Poison Jab"
+          ],
+          "nature": "Adamant",
+          "item": "Winged Boots",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Inner Focus"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode) - Postgame",
+        "row": 5
+      },
+      "notes": "Postgame"
+    },
+    {
+      "id": "bosses-hard-mode-postgame-karin-lixin-s-cafe-talrega",
+      "trainer": "Karin",
+      "location": "Lixin'S Café (Talrega)",
+      "category": "Postgame",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "wigglytuff",
+          "level": 76.0,
+          "moves": [
+            "Lullaby",
+            "Rotten Egg",
+            "Strange Seeds",
+            "Harvest Party"
+          ],
+          "nature": "Impish",
+          "item": "Mago Berry",
+          "evs": "252 Def/252 Sp.Def",
+          "ability": "Filter"
+        },
+        {
+          "name": "cradily",
+          "level": 76.0,
+          "moves": [
+            "Leech Seed",
+            "Toxic",
+            "Giga Drain",
+            "Power Gem"
+          ],
+          "nature": "Modest",
+          "item": "Leftovers",
+          "evs": "252 HP/252 Sp.Atk",
+          "ability": "Unaware"
+        },
+        {
+          "name": "illumise",
+          "level": 76.0,
+          "moves": [
+            "Spring Tango",
+            "Summer Tango",
+            "Psychic",
+            "Bug Buzz"
+          ],
+          "nature": "Timid",
+          "item": "Aguav Berry",
+          "evs": "252 Atk.Sp/252 Speed",
+          "ability": "Serene Grace"
+        },
+        {
+          "name": "volbeat",
+          "level": 76.0,
+          "moves": [
+            "Bright Song",
+            "Life Ballad",
+            "Thunderbolt",
+            "Bug Buzz"
+          ],
+          "nature": "Timid",
+          "item": "Sitrus Berry",
+          "evs": "252 Sp.Atk/252 Speed",
+          "ability": "Lightningrod"
+        },
+        {
+          "name": "tangrowth",
+          "level": 76.0,
+          "moves": [
+            "Shadow Sneak",
+            "Leaf Blade",
+            "Phantom Force"
+          ],
+          "nature": "Impish",
+          "item": "Assault Vest",
+          "evs": "252 Atk/252 Def",
+          "ability": "Eerie Aura"
+        },
+        {
+          "name": "kleavor",
+          "level": 76.0,
+          "moves": [
+            "Stone Axe",
+            "X-Scissor",
+            "Trailblaze"
+          ],
+          "nature": "Jolly",
+          "item": "Winged Boots",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Solid Rock"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode) - Postgame",
+        "row": 24
+      },
+      "notes": "Postgame"
+    },
+    {
+      "id": "bosses-hard-mode-postgame-rockey-lixin-s-cafe-talrega",
+      "trainer": "Rockey",
+      "location": "Lixin'S Café (Talrega)",
+      "category": "Postgame",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "shuckle",
+          "level": 77.0,
+          "moves": [
+            "Helping Hand",
+            "Toxic",
+            "Infestation",
+            "Spikes"
+          ],
+          "nature": "Calm",
+          "item": "Rocky Helmet",
+          "evs": "252 Def/252 Sp.Def",
+          "ability": "Sand Stream"
+        },
+        {
+          "name": "gliscor",
+          "level": 77.0,
+          "moves": [
+            "Rock Slide",
+            "Poison Jab",
+            "X-Scissor",
+            "Earthquake"
+          ],
+          "nature": "Adamant",
+          "item": "Leftovers",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Sand Rush"
+        },
+        {
+          "name": "sandslash",
+          "level": 77.0,
+          "moves": [
+            "Iron Head",
+            "Earthquake",
+            "Rock Slide"
+          ],
+          "nature": "Adamant",
+          "item": "Choice Band",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Sand Rush"
+        },
+        {
+          "name": "swampert",
+          "level": 77.0,
+          "moves": [
+            "Ice Punch",
+            "Waterfall",
+            "Bulldoze"
+          ],
+          "nature": "Impish",
+          "item": "Assault Vest",
+          "evs": "252 Atk/252 Def",
+          "ability": "Swift Swim"
+        },
+        {
+          "name": "nidoking",
+          "level": 77.0,
+          "moves": [
+            "Gunk Shot",
+            "Hi Horsepower",
+            "Superpower",
+            "Fire Punch"
+          ],
+          "nature": "Jolly",
+          "item": "Winged Boots",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Poison Point"
+        },
+        {
+          "name": "aerodactyl",
+          "level": 77.0,
+          "moves": [
+            "Dragon Rush",
+            "Stone Edge"
+          ],
+          "nature": "Jolly",
+          "item": "Life Orb",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Levitate"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode) - Postgame",
+        "row": 43
+      },
+      "notes": "Postgame"
+    },
+    {
+      "id": "bosses-hard-mode-postgame-manu-lixin-s-cafe-talrega",
+      "trainer": "Manu",
+      "location": "Lixin'S Café (Talrega)",
+      "category": "Postgame",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "ninetales",
+          "level": 78.0,
+          "moves": [
+            "Heat Wave",
+            "Solarbeam",
+            "Divine Storm",
+            "Volt Switch"
+          ],
+          "nature": "Timid",
+          "item": "Expert Belt",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Drought"
+        },
+        {
+          "name": "venusaur",
+          "level": 78.0,
+          "moves": [
+            "Earth Power",
+            "Sludge Bomb",
+            "Weather Ball",
+            "Giga Drain"
+          ],
+          "nature": "Modest",
+          "item": "Life Orb",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Chlorophyll"
+        },
+        {
+          "name": "typhlosion",
+          "level": 78.0,
+          "moves": [
+            "Shadow Ball",
+            "Heat Wave",
+            "Solar Beam"
+          ],
+          "nature": "Timid",
+          "item": "Winged Boots",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "White Smoke"
+        },
+        {
+          "name": "sableye",
+          "level": 78.0,
+          "moves": [
+            "Sunny Day",
+            "Fake Out",
+            "Foul Play",
+            "Will-o-Wisp"
+          ],
+          "nature": "Impish",
+          "item": "Leftovers",
+          "evs": "252 HP/252 Sp. Def",
+          "ability": "Prankster"
+        },
+        {
+          "name": "roserade",
+          "level": 78.0,
+          "moves": [
+            "Giga Drain",
+            "Sludge Bomb",
+            "Weather Ball",
+            "Extrasensory"
+          ],
+          "nature": "Timid",
+          "item": "Sitrus Berry",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Natural Cure"
+        },
+        {
+          "name": "entei",
+          "level": 78.0,
+          "moves": [
+            "Sacred Fire",
+            "Extremespeed",
+            "Bulldoze",
+            "Crunch"
+          ],
+          "nature": "Adamant",
+          "item": "Assault Vest",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Inner Focus"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode) - Postgame",
+        "row": 62
+      },
+      "notes": "Postgame"
+    },
+    {
+      "id": "bosses-hard-mode-postgame-cassian-lixin-s-cafe-talrega",
+      "trainer": "Cassian",
+      "location": "Lixin'S Café (Talrega)",
+      "category": "Postgame",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "ludicolo",
+          "level": 79.0,
+          "moves": [
+            "Hydro Pump",
+            "Giga Drain",
+            "Ice Beam"
+          ],
+          "nature": "Modest",
+          "item": "Life Orb",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Swift Swim"
+        },
+        {
+          "name": "politoed",
+          "level": 79.0,
+          "moves": [
+            "Earth Power",
+            "Muddy Water",
+            "Icy Wind",
+            "Fake Out"
+          ],
+          "nature": "Calm",
+          "item": "Rocky Helmet",
+          "evs": "252 Sp. Atk/252 Sp. Def",
+          "ability": "Drizzle"
+        },
+        {
+          "name": "kingdra",
+          "level": 79.0,
+          "moves": [
+            "Hydro Pump",
+            "Ice Beam",
+            "Dragon Pulse"
+          ],
+          "nature": "Modest",
+          "item": "Scope Lens",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Swift Swim"
+        },
+        {
+          "name": "aggron",
+          "level": 79.0,
+          "moves": [
+            "Follow Me",
+            "Phalanx Guard",
+            "Iron Head",
+            "Brick Break"
+          ],
+          "nature": "Impish",
+          "item": "Leftovers",
+          "evs": "252 Def/252 Sp. Def",
+          "ability": "Sturdy"
+        },
+        {
+          "name": "gorochu",
+          "level": 79.0,
+          "moves": [
+            "Fake Out",
+            "Thunderbolt",
+            "Weather Ball",
+            "Aura Sphere"
+          ],
+          "nature": "Modest",
+          "item": "Winged Boots",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Lightningrod"
+        },
+        {
+          "name": "suicune",
+          "level": 79.0,
+          "moves": [
+            "Muddy Water",
+            "Ice Beam",
+            "Extrasensory"
+          ],
+          "nature": "Calm",
+          "item": "Assault Vest",
+          "evs": "252 Sp. Atk/252 Sp. Def",
+          "ability": "Inner Focus"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode) - Postgame",
+        "row": 81
+      },
+      "notes": "Postgame"
+    },
+    {
+      "id": "bosses-hard-mode-postgame-mathilda-lixin-s-cafe-talrega",
+      "trainer": "Mathilda",
+      "location": "Lixin'S Café (Talrega)",
+      "category": "Postgame",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "fearow",
+          "level": 80.0,
+          "moves": [
+            "Brave Bird",
+            "Drill Run",
+            "Leaf Blade",
+            "Wild Charge"
+          ],
+          "nature": "Jolly",
+          "item": "Life Orb",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Volt Absorb"
+        },
+        {
+          "name": "hitmontop",
+          "level": 80.0,
+          "moves": [
+            "Fake Out",
+            "Mach Punch",
+            "Close Combat",
+            "Sucker Punch"
+          ],
+          "nature": "Impish",
+          "item": "Assault Vest",
+          "evs": "252 Atk/252 Def",
+          "ability": "Intimidate"
+        },
+        {
+          "name": "ampharos",
+          "level": 80.0,
+          "moves": [
+            "Thunderbolt",
+            "Crazed Shout",
+            "Reflect",
+            "Light Screen"
+          ],
+          "nature": "Bold",
+          "item": "Light Clay",
+          "evs": "252 Def/252 Sp. Atk",
+          "ability": "Static"
+        },
+        {
+          "name": "machamp",
+          "level": 80.0,
+          "moves": [
+            "Close Combat",
+            "Mach Punch",
+            "Ice Punch",
+            "Fake Out"
+          ],
+          "nature": "Adamant",
+          "item": "Flame Orb",
+          "evs": "252 HP/252 Atk",
+          "ability": "Guts"
+        },
+        {
+          "name": "medicham",
+          "level": 80.0,
+          "moves": [
+            "Close Combat",
+            "Darkness Fist",
+            "Zen Headbutt"
+          ],
+          "nature": "Jolly",
+          "item": "Winged Boots",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Pure Power"
+        },
+        {
+          "name": "raikou",
+          "level": 80.0,
+          "moves": [
+            "Thunderbolt",
+            "Aura Sphere",
+            "Calm Mind",
+            "Substitute"
+          ],
+          "nature": "Timid",
+          "item": "Leftovers",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Inner Focus"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode) - Postgame",
+        "row": 100
+      },
+      "notes": "Postgame"
+    },
+    {
+      "id": "bosses-hard-mode-postgame-lixin-lixin-s-cafe-talrega",
+      "trainer": "Lixin",
+      "location": "Lixin'S Café (Talrega)",
+      "category": "Postgame",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "glalie",
+          "level": 81.0,
+          "moves": [
+            "Super Fang",
+            "Icy Wind",
+            "Helping Hand",
+            "Toxic"
+          ],
+          "nature": "Bold",
+          "item": "Leftovers",
+          "evs": "252 Def/252 Sp.Def",
+          "ability": "Snow Warning"
+        },
+        {
+          "name": "froslass",
+          "level": 81.0,
+          "moves": [
+            "Blizzard"
+          ],
+          "nature": "Timid",
+          "item": "Choice Specs",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Snow Cloak"
+        },
+        {
+          "name": "jynx",
+          "level": 81.0,
+          "moves": [
+            "Scald",
+            "Blizzard",
+            "Giga Drain"
+          ],
+          "nature": "Timid",
+          "item": "Life Orb",
+          "evs": "252 Sp. Atk/252 Speed",
+          "ability": "Snow Cloak"
+        },
+        {
+          "name": "mamoswine",
+          "level": 81.0,
+          "moves": [
+            "Stone Edge",
+            "Icicle Crash",
+            "Ice Shard",
+            "Bulldoze"
+          ],
+          "nature": "Impish",
+          "item": "Assault Vest",
+          "evs": "252 Atk/252 Def",
+          "ability": "Thick Fat"
+        },
+        {
+          "name": "snorlax",
+          "level": 81.0,
+          "moves": [
+            "Body Slam",
+            "Slack Off",
+            "PowerUpPunch",
+            "Curse"
+          ],
+          "nature": "Careful",
+          "item": "Aguav Berry",
+          "evs": "252 Atk/252 Sp. Def",
+          "ability": "Gluttony"
+        },
+        {
+          "name": "rapidash",
+          "level": 81.0,
+          "moves": [
+            "Flare Blitz",
+            "Icicle Crash",
+            "Wild Charge"
+          ],
+          "nature": "Jolly",
+          "item": "Expert Belt",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Flash Fire"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode) - Postgame",
+        "row": 119
+      },
+      "notes": "Postgame"
+    },
+    {
+      "id": "bosses-hard-mode-postgame-gutrune-lixin-s-cafe-talrega",
+      "trainer": "Gutrune",
+      "location": "Lixin'S Café (Talrega)",
+      "category": "Postgame",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "gallade",
+          "level": 82.0,
+          "moves": [
+            "5-Ring Sword",
+            "Close Combat"
+          ],
+          "nature": "Adamant",
+          "item": "Scope Lens",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Inner Focus"
+        },
+        {
+          "name": "arbok",
+          "level": 82.0,
+          "moves": [
+            "Megalodive",
+            "Sucker Punch",
+            "Gunk Shot"
+          ],
+          "nature": "Adamant",
+          "item": "Sitrus Berry",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Intimidate"
+        },
+        {
+          "name": "swalot",
+          "level": 82.0,
+          "moves": [
+            "Scald",
+            "Ice Beam",
+            "Sludge Bomb"
+          ],
+          "nature": "Bold",
+          "item": "Assault Vest",
+          "evs": "252 Def/252 Sp.Def",
+          "ability": "Filter"
+        },
+        {
+          "name": "blissey",
+          "level": 82.0,
+          "moves": [
+            "Star Drop",
+            "Reflect",
+            "Light Screen",
+            "Softboiled"
+          ],
+          "nature": "Careful",
+          "item": "Light Clay",
+          "evs": "252 HP/252 Sp.Def",
+          "ability": "Intense Care"
+        },
+        {
+          "name": "absol",
+          "level": 82.0,
+          "moves": [
+            "Toxic Reap",
+            "Sucker Punch",
+            "Zen Headbutt",
+            "Night Slash"
+          ],
+          "nature": "Jolly",
+          "item": "Winged Boots",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Super Luck"
+        },
+        {
+          "name": "gardevoir",
+          "level": 82.0,
+          "moves": [
+            "Psychic",
+            "Ad Nihilo",
+            "Aura Sphere",
+            "Royal Order"
+          ],
+          "nature": "Timid",
+          "item": "Life Orb",
+          "evs": "252 Sp.Atk/252 Speed",
+          "ability": "Sovereignty"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode) - Postgame",
+        "row": 138
+      },
+      "notes": "Postgame"
+    },
+    {
+      "id": "bosses-hard-mode-postgame-asher-seventh-stratum",
+      "trainer": "Asher",
+      "location": "Seventh Stratum",
+      "category": "Postgame",
+      "mode": "Hard",
+      "difficulty": "Hard",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "pidgeot",
+          "level": 83.0,
+          "moves": [
+            "Heat Wave",
+            "Hurricane",
+            "Roost",
+            "Hyper Voice"
+          ],
+          "nature": "Timid",
+          "item": "Sitrus Berry",
+          "evs": "252 Sp.Atk/252 Speed",
+          "ability": "Keen Eye"
+        },
+        {
+          "name": "gardevoir",
+          "level": 83.0,
+          "moves": [
+            "Noble Order",
+            "Veil Order",
+            "Royal Order",
+            "Psychic"
+          ],
+          "nature": "Modest",
+          "item": "Aguav Berry",
+          "evs": "252 Sp.Atk/252 Speed",
+          "ability": "Sovereignty"
+        },
+        {
+          "name": "magmortar",
+          "level": 83.0,
+          "moves": [
+            "Rapid Fire",
+            "Scald",
+            "Aura Sphere",
+            "Dark Pulse"
+          ],
+          "nature": "Modest",
+          "item": "Choice Scarf",
+          "evs": "252 Sp.Atk/252 Speed",
+          "ability": "Super Luck"
+        },
+        {
+          "name": "togekiss",
+          "level": 83.0,
+          "moves": [
+            "Follow Me"
+          ],
+          "nature": "Bold",
+          "item": "Mago Berry",
+          "evs": "252 Def/252 Sp.Def",
+          "ability": "Serene Grace"
+        },
+        {
+          "name": "octillery",
+          "level": 83.0,
+          "moves": [
+            "Flamethrower",
+            "Ice Beam",
+            "Scald",
+            "Giga Drain"
+          ],
+          "nature": "Modest",
+          "item": "Life Orb",
+          "evs": "252 Atk.Sp/252 Speed",
+          "ability": "Swift Swim"
+        },
+        {
+          "name": "electivire",
+          "level": 83.0,
+          "moves": [
+            "Akashic Nova",
+            "Wild Charge",
+            "Close Combat",
+            "Fire Punch"
+          ],
+          "nature": "Jolly",
+          "item": "Winged Boots",
+          "evs": "252 Atk/252 Speed",
+          "ability": "Fafnir"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Bosses (Hard Mode) - Postgame",
+        "row": 157
+      },
+      "notes": "Postgame"
+    },
+    {
+      "id": "lords-of-the-sea-narmer-waterfall-wood",
+      "trainer": "Narmer",
+      "location": "Waterfall Wood",
+      "category": "Boss battles",
+      "mode": "Mode unspecified",
+      "difficulty": "Unspecified",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "narmer",
+          "level": 50.0,
+          "moves": [
+            "Earthquake",
+            "Waterfall",
+            "Rock Slide",
+            "Wild Charge"
+          ],
+          "nature": "Random",
+          "item": "Leftovers",
+          "ability": "Oblivious"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Lords of the sea",
+        "row": 4
+      },
+      "notes": ""
+    },
+    {
+      "id": "lords-of-the-sea-deep-maiden-arundel-woods",
+      "trainer": "Deep Maiden",
+      "location": "Arundel Woods",
+      "category": "Boss battles",
+      "mode": "Mode unspecified",
+      "difficulty": "Unspecified",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "deep-maiden",
+          "level": 60.0,
+          "moves": [
+            "Giga Drain",
+            "Hydro Pump",
+            "Ice Beam",
+            "Psychic"
+          ],
+          "nature": "Random",
+          "item": "Brightpowder",
+          "ability": "Snow Cloak"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Lords of the sea",
+        "row": 20
+      },
+      "notes": ""
+    },
+    {
+      "id": "lords-of-the-sea-dinogator-northern-atoll",
+      "trainer": "Dinogator",
+      "location": "Northern Atoll",
+      "category": "Boss battles",
+      "mode": "Mode unspecified",
+      "difficulty": "Unspecified",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "dinogator",
+          "level": 65.0,
+          "moves": [
+            "Earthquake",
+            "Waterfall",
+            "Poison Jab",
+            "Ice Punch"
+          ],
+          "nature": "Random",
+          "item": "Expert Belt",
+          "ability": "Guts"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Lords of the sea",
+        "row": 36
+      },
+      "notes": ""
+    },
+    {
+      "id": "lords-of-the-sea-avid-dragon-varley-woods",
+      "trainer": "Avid Dragon",
+      "location": "Varley Woods",
+      "category": "Boss battles",
+      "mode": "Mode unspecified",
+      "difficulty": "Unspecified",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "avid-dragon",
+          "level": 70.0,
+          "moves": [
+            "Toxic",
+            "Protect",
+            "Seed Bomb",
+            "Leech Seed"
+          ],
+          "nature": "Random",
+          "item": "Expert Belt",
+          "ability": "Immunity"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Lords of the sea",
+        "row": 52
+      },
+      "notes": ""
+    },
+    {
+      "id": "lords-of-the-sea-tlachtga-abandoned-lab",
+      "trainer": "Tlachtga",
+      "location": "Abandoned Lab",
+      "category": "Boss battles",
+      "mode": "Mode unspecified",
+      "difficulty": "Unspecified",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "tlachtga",
+          "level": 80.0,
+          "moves": [
+            "Shadow Ball",
+            "Psychic",
+            "Mysticalfire",
+            "Thunderbolt"
+          ],
+          "nature": "Random",
+          "item": "Spell Tag",
+          "ability": "Serene Grace"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Lords of the sea",
+        "row": 68
+      },
+      "notes": ""
+    },
+    {
+      "id": "sea-bosses-pirate-ship-island-of-arundel",
+      "trainer": "Pirate Ship",
+      "location": "Island Of Arundel",
+      "category": "Boss battles",
+      "mode": "Mode unspecified",
+      "difficulty": "Unspecified",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "carvanha",
+          "level": 22.0,
+          "moves": [
+            "Poison Fang",
+            "Aqua Jet",
+            "Bite",
+            "Water Tackle"
+          ],
+          "nature": "Docile",
+          "item": "/",
+          "evs": "76 EVS in all stats"
+        },
+        {
+          "name": "mightyena",
+          "level": 22.0,
+          "moves": [
+            "Bite",
+            "Icicle Spear",
+            "Snarl"
+          ],
+          "nature": "Docile",
+          "item": "/",
+          "evs": "76 EVS in all stats"
+        },
+        {
+          "name": "wailmer",
+          "level": 22.0,
+          "moves": [
+            "Water Pulse",
+            "Yawn"
+          ],
+          "nature": "Docile",
+          "item": "/",
+          "evs": "76 EVS in all stats"
+        },
+        {
+          "name": "spheal",
+          "level": 23.0,
+          "moves": [
+            "Powder Snow",
+            "Water Pulse",
+            "Frost Curse"
+          ],
+          "nature": "Docile",
+          "item": "/",
+          "evs": "76 EVS in all stats"
+        },
+        {
+          "name": "golbat",
+          "level": 23.0,
+          "moves": [
+            "Wing Attack",
+            "Poison Fang",
+            "Bite"
+          ],
+          "nature": "Docile",
+          "item": "/",
+          "evs": "76 EVS in all stats"
+        },
+        {
+          "name": "houndoom",
+          "level": 24.0,
+          "moves": [
+            "Mysticalfire",
+            "Snarl"
+          ],
+          "nature": "Docile",
+          "item": "Sitrus Berry",
+          "evs": "76 EVS in all stats"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sea Bosses",
+        "row": 5
+      },
+      "notes": ""
+    },
+    {
+      "id": "sea-bosses-king-of-the-sea-island-of-charon",
+      "trainer": "King Of The Sea",
+      "location": "Island Of Charon",
+      "category": "Boss battles",
+      "mode": "Mode unspecified",
+      "difficulty": "Unspecified",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "kingdra",
+          "level": 45.0,
+          "moves": [
+            "Dragon Pulse",
+            "Hydro Pump",
+            "Ice Beam",
+            "Sludge Bomb"
+          ],
+          "nature": "Random",
+          "item": "/",
+          "evs": "/"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sea Bosses",
+        "row": 22
+      },
+      "notes": ""
+    },
+    {
+      "id": "sea-bosses-sea-traveler-island-of-gorenil",
+      "trainer": "Sea Traveler",
+      "location": "Island Of Gorenil",
+      "category": "Boss battles",
+      "mode": "Mode unspecified",
+      "difficulty": "Unspecified",
+      "boss": true,
+      "doubleBattle": true,
+      "team": [
+        {
+          "name": "lapras",
+          "level": 55.0,
+          "moves": [
+            "Psychic",
+            "Hydro Pump",
+            "Ice Beam",
+            "Thunderbolt"
+          ],
+          "nature": "Random",
+          "item": "Leftovers",
+          "evs": "/"
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sea Bosses",
+        "row": 39
+      },
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,2841 @@
+[
+  {
+    "id": 1,
+    "key": "stench",
+    "name": "Stench",
+    "description": "Has a 10% chance of making target Pokémon flinch with each hit.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 20089,
+    "key": "drizzle",
+    "name": "Drizzle",
+    "description": "Summons rain in battle.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "89"
+    }
+  },
+  {
+    "id": 20090,
+    "key": "speed-boost",
+    "name": "Speed Boost",
+    "description": "Gradually boosts SPEED.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "90"
+    }
+  },
+  {
+    "id": 20110,
+    "key": "battle-armor",
+    "name": "Battle Armor",
+    "description": "Blocks critical hits.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "110"
+    }
+  },
+  {
+    "id": 20048,
+    "key": "sturdy",
+    "name": "Sturdy",
+    "description": "Prevents KO if full HP at the beginning of the turn.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "48"
+    }
+  },
+  {
+    "id": 6,
+    "key": "damp",
+    "name": "Damp",
+    "description": "Prevents Self-Destruct, Explosion, and Aftermath from working while the Pokémon is in battle.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 20065,
+    "key": "limber",
+    "name": "Limber",
+    "description": "Prevents paralysis.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "65"
+    }
+  },
+  {
+    "id": 20038,
+    "key": "sand-veil",
+    "name": "Sand Veil",
+    "description": "Ups evasion in a sandstorm.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "38"
+    }
+  },
+  {
+    "id": 20064,
+    "key": "static",
+    "name": "Static",
+    "description": "Paralyzes on contact.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "64"
+    }
+  },
+  {
+    "id": 20018,
+    "key": "volt-absorb",
+    "name": "Volt Absorb",
+    "description": "Turns electricity into HP.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "18"
+    }
+  },
+  {
+    "id": 20043,
+    "key": "water-absorb",
+    "name": "Water Absorb",
+    "description": "Changes water into HP.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "43"
+    }
+  },
+  {
+    "id": 20050,
+    "key": "oblivious",
+    "name": "Oblivious",
+    "description": "Prevents attraction.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "50"
+    }
+  },
+  {
+    "id": 20042,
+    "key": "cloud-nine",
+    "name": "Cloud Nine",
+    "description": "Negates weather effects.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "42"
+    }
+  },
+  {
+    "id": 20010,
+    "key": "compound-eyes",
+    "name": "Compound Eyes",
+    "description": "Raises accuracy.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "10"
+    }
+  },
+  {
+    "id": 20061,
+    "key": "insomnia",
+    "name": "Insomnia",
+    "description": "Prevents sleep.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "61"
+    }
+  },
+  {
+    "id": 20098,
+    "key": "color-change",
+    "name": "Color Change",
+    "description": "Changes type to foe’s move.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "98"
+    }
+  },
+  {
+    "id": 20008,
+    "key": "immunity",
+    "name": "Immunity",
+    "description": "Prevents poisoning.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "8"
+    }
+  },
+  {
+    "id": 20003,
+    "key": "flash-fire",
+    "name": "Flash Fire",
+    "description": "Powers up if hit by fire.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "3"
+    }
+  },
+  {
+    "id": 20007,
+    "key": "shield-dust",
+    "name": "Shield Dust",
+    "description": "Prevents added effects.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "7"
+    }
+  },
+  {
+    "id": 20034,
+    "key": "own-tempo",
+    "name": "Own Tempo",
+    "description": "Prevents confusion.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "34"
+    }
+  },
+  {
+    "id": 21,
+    "key": "suction-cups",
+    "name": "Suction Cups",
+    "description": "Prevents being forced out of battle by other Pokémon's moves.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 20020,
+    "key": "intimidate",
+    "name": "Intimidate",
+    "description": "Lowers the foe’s ATTACK.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "20"
+    }
+  },
+  {
+    "id": 20060,
+    "key": "shadow-tag",
+    "name": "Shadow Tag",
+    "description": "Prevents the foe’s escape.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "60"
+    }
+  },
+  {
+    "id": 20100,
+    "key": "rough-skin",
+    "name": "Rough Skin",
+    "description": "Hurts to touch.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "100"
+    }
+  },
+  {
+    "id": 20094,
+    "key": "wonder-guard",
+    "name": "Wonder Guard",
+    "description": "“Super effective” hits.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "94"
+    }
+  },
+  {
+    "id": 20059,
+    "key": "levitate",
+    "name": "Levitate",
+    "description": "Not hit by GROUND attacks.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "59"
+    }
+  },
+  {
+    "id": 20035,
+    "key": "effect-spore",
+    "name": "Effect Spore",
+    "description": "Leaves spores on contact.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "35"
+    }
+  },
+  {
+    "id": 20044,
+    "key": "synchronize",
+    "name": "Synchronize",
+    "description": "Passes on status problems.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "44"
+    }
+  },
+  {
+    "id": 20046,
+    "key": "clear-body",
+    "name": "Clear Body",
+    "description": "Prevents ability reduction.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "46"
+    }
+  },
+  {
+    "id": 20071,
+    "key": "natural-cure",
+    "name": "Natural Cure",
+    "description": "Heals upon switching out.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "71"
+    }
+  },
+  {
+    "id": 20022,
+    "key": "lightning-rod",
+    "name": "Lightning Rod",
+    "description": "Draws electrical moves.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "22"
+    }
+  },
+  {
+    "id": 20028,
+    "key": "serene-grace",
+    "name": "Serene Grace",
+    "description": "Promotes added effects.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "28"
+    }
+  },
+  {
+    "id": 20041,
+    "key": "swift-swim",
+    "name": "Swift Swim",
+    "description": "Raises SPEED in rain.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "41"
+    }
+  },
+  {
+    "id": 20001,
+    "key": "chlorophyll",
+    "name": "Chlorophyll",
+    "description": "Raises SPEED in sunshine.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "1"
+    }
+  },
+  {
+    "id": 20070,
+    "key": "illuminate",
+    "name": "Illuminate",
+    "description": "Encounter rate increases.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "70"
+    }
+  },
+  {
+    "id": 20080,
+    "key": "trace",
+    "name": "Trace",
+    "description": "Copies special ability.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "80"
+    }
+  },
+  {
+    "id": 20084,
+    "key": "huge-power",
+    "name": "Huge Power",
+    "description": "Raises ATTACK.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "84"
+    }
+  },
+  {
+    "id": 20025,
+    "key": "poison-point",
+    "name": "Poison Point",
+    "description": "Poisons foe on contact.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "25"
+    }
+  },
+  {
+    "id": 20032,
+    "key": "inner-focus",
+    "name": "Inner Focus",
+    "description": "Prevents flinching.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "32"
+    }
+  },
+  {
+    "id": 20091,
+    "key": "magma-armor",
+    "name": "Magma Armor",
+    "description": "Prevents freezing.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "91"
+    }
+  },
+  {
+    "id": 41,
+    "key": "water-veil",
+    "name": "Water Veil",
+    "description": "Prevents burns.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 20051,
+    "key": "magnet-pull",
+    "name": "Magnet Pull",
+    "description": "Traps STEEL-type POKéMON.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "51"
+    }
+  },
+  {
+    "id": 20063,
+    "key": "soundproof",
+    "name": "Soundproof",
+    "description": "Avoids sound-based moves.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "63"
+    }
+  },
+  {
+    "id": 20036,
+    "key": "rain-dish",
+    "name": "Rain Dish",
+    "description": "Slight HP recovery in rain.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "36"
+    }
+  },
+  {
+    "id": 20088,
+    "key": "sand-stream",
+    "name": "Sand Stream",
+    "description": "Summons a sandstorm.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "88"
+    }
+  },
+  {
+    "id": 20097,
+    "key": "pressure",
+    "name": "Pressure",
+    "description": "Raises foe’s PP usage.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "97"
+    }
+  },
+  {
+    "id": 20054,
+    "key": "thick-fat",
+    "name": "Thick Fat",
+    "description": "Heat-and-cold protection.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "54"
+    }
+  },
+  {
+    "id": 20053,
+    "key": "early-bird",
+    "name": "Early Bird",
+    "description": "Awakens quickly from sleep.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "53"
+    }
+  },
+  {
+    "id": 20092,
+    "key": "flame-body",
+    "name": "Flame Body",
+    "description": "Burns the foe on contact.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "92"
+    }
+  },
+  {
+    "id": 50,
+    "key": "run-away",
+    "name": "Run Away",
+    "description": "Ensures success fleeing from wild battles.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 20096,
+    "key": "keen-eye",
+    "name": "Keen Eye",
+    "description": "Prevents loss of accuracy.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "96"
+    }
+  },
+  {
+    "id": 20062,
+    "key": "hyper-cutter",
+    "name": "Hyper Cutter",
+    "description": "Prevents ATTACK reduction.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "62"
+    }
+  },
+  {
+    "id": 20031,
+    "key": "pickup",
+    "name": "Pickup",
+    "description": "May pick up items.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "31"
+    }
+  },
+  {
+    "id": 54,
+    "key": "truant",
+    "name": "Truant",
+    "description": "Skips every second turn.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 20077,
+    "key": "hustle",
+    "name": "Hustle",
+    "description": "Trades accuracy for power.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "77"
+    }
+  },
+  {
+    "id": 56,
+    "key": "cute-charm",
+    "name": "Cute Charm",
+    "description": "Has a 30% chance of infatuating attacking Pokémon on contact.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 20101,
+    "key": "plus",
+    "name": "Plus",
+    "description": "Powers up with MINUS.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "101"
+    }
+  },
+  {
+    "id": 20103,
+    "key": "minus",
+    "name": "Minus",
+    "description": "Powers up with PLUS.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "103"
+    }
+  },
+  {
+    "id": 20109,
+    "key": "forecast",
+    "name": "Forecast",
+    "description": "Changes with the weather.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "109"
+    }
+  },
+  {
+    "id": 20009,
+    "key": "shed-skin",
+    "name": "Shed Skin",
+    "description": "Heals the body by shedding.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "9"
+    }
+  },
+  {
+    "id": 20016,
+    "key": "guts",
+    "name": "Guts",
+    "description": "Ups ATTACK if suffering.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "16"
+    }
+  },
+  {
+    "id": 20079,
+    "key": "marvel-scale",
+    "name": "Marvel Scale",
+    "description": "Ups DEFENSE if suffering.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "79"
+    }
+  },
+  {
+    "id": 20047,
+    "key": "liquid-ooze",
+    "name": "Liquid Ooze",
+    "description": "Draining causes injury.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "47"
+    }
+  },
+  {
+    "id": 20002,
+    "key": "overgrow",
+    "name": "Overgrow",
+    "description": "Ups GRASS moves in a pinch.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "2"
+    }
+  },
+  {
+    "id": 20004,
+    "key": "blaze",
+    "name": "Blaze",
+    "description": "Ups FIRE moves in a pinch.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "4"
+    }
+  },
+  {
+    "id": 20006,
+    "key": "torrent",
+    "name": "Torrent",
+    "description": "Ups WATER moves in a pinch.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "6"
+    }
+  },
+  {
+    "id": 20012,
+    "key": "swarm",
+    "name": "Swarm",
+    "description": "Ups BUG moves in a pinch.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "12"
+    }
+  },
+  {
+    "id": 20019,
+    "key": "rock-head",
+    "name": "Rock Head",
+    "description": "Prevents recoil damage.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "19"
+    }
+  },
+  {
+    "id": 20029,
+    "key": "drought",
+    "name": "Drought",
+    "description": "Summons sunlight in battle.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "29"
+    }
+  },
+  {
+    "id": 20039,
+    "key": "arena-trap",
+    "name": "Arena Trap",
+    "description": "Prevents fleeing.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "39"
+    }
+  },
+  {
+    "id": 20072,
+    "key": "vital-spirit",
+    "name": "Vital Spirit",
+    "description": "Prevents sleep.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "72"
+    }
+  },
+  {
+    "id": 20067,
+    "key": "white-smoke",
+    "name": "White Smoke",
+    "description": "Prevents ability reduction.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "67"
+    }
+  },
+  {
+    "id": 20005,
+    "key": "shell-armor",
+    "name": "Shell Armor",
+    "description": "Blocks critical hits.",
+    "generation": "generation-iii",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "5"
+    }
+  },
+  {
+    "id": 77,
+    "key": "tangled-feet",
+    "name": "Tangled Feet",
+    "description": "Doubles evasion when confused.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 79,
+    "key": "rivalry",
+    "name": "Rivalry",
+    "description": "Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 80,
+    "key": "steadfast",
+    "name": "Steadfast",
+    "description": "Raises Speed one stage upon flinching.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 20055,
+    "key": "snow-cloak",
+    "name": "Snow Cloak",
+    "description": "Raises evasion in a hailstorm.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "55"
+    }
+  },
+  {
+    "id": 20045,
+    "key": "gluttony",
+    "name": "Gluttony",
+    "description": "Encourages the early use of a held Berry.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "45"
+    }
+  },
+  {
+    "id": 83,
+    "key": "anger-point",
+    "name": "Anger Point",
+    "description": "Raises Attack to the maximum of six stages upon receiving a critical hit.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 20066,
+    "key": "unburden",
+    "name": "Unburden",
+    "description": "Raises Speed if a held item is used.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "66"
+    }
+  },
+  {
+    "id": 86,
+    "key": "simple",
+    "name": "Simple",
+    "description": "Doubles the Pokémon's stat modifiers. These doubled modifiers are still capped at -6 or 6 stages.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 87,
+    "key": "dry-skin",
+    "name": "Dry Skin",
+    "description": "Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain. Increases damage from Fire moves to 1.25×, but absorbs Water moves, healing for 1/4 max HP.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 88,
+    "key": "download",
+    "name": "Download",
+    "description": "Raises the attack stat corresponding to the opponents' weaker defense one stage upon entering battle.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 89,
+    "key": "iron-fist",
+    "name": "Iron Fist",
+    "description": "Strengthens punch-based moves to 1.2× their power.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 90,
+    "key": "poison-heal",
+    "name": "Poison Heal",
+    "description": "Heals for 1/8 max HP after each turn when poisoned in place of damage.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 20026,
+    "key": "adaptability",
+    "name": "Adaptability",
+    "description": "Powers up moves of the same type.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "26"
+    }
+  },
+  {
+    "id": 20058,
+    "key": "skill-link",
+    "name": "Skill Link",
+    "description": "Increases the frequency of multi-strike moves.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "58"
+    }
+  },
+  {
+    "id": 93,
+    "key": "hydration",
+    "name": "Hydration",
+    "description": "Cures any major status ailment after each turn during rain.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 94,
+    "key": "solar-power",
+    "name": "Solar Power",
+    "description": "Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 95,
+    "key": "quick-feet",
+    "name": "Quick Feet",
+    "description": "Increases Speed to 1.5× with a major status ailment.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 96,
+    "key": "normalize",
+    "name": "Normalize",
+    "description": "Makes the Pokémon's moves all act Normal-type.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 20013,
+    "key": "sniper",
+    "name": "Sniper",
+    "description": "Powers up moves if they become critical hits.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "13"
+    }
+  },
+  {
+    "id": 98,
+    "key": "magic-guard",
+    "name": "Magic Guard",
+    "description": "Protects against damage not directly caused by a move.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 100,
+    "key": "stall",
+    "name": "Stall",
+    "description": "Makes the Pokémon move last within its move's priority bracket.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 20073,
+    "key": "technician",
+    "name": "Technician",
+    "description": "Powers up the Pokémon’s weaker moves.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "73"
+    }
+  },
+  {
+    "id": 102,
+    "key": "leaf-guard",
+    "name": "Leaf Guard",
+    "description": "Protects against major status ailments during strong sunlight.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 104,
+    "key": "mold-breaker",
+    "name": "Mold Breaker",
+    "description": "Bypasses targets' abilities if they could hinder or prevent a move.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 20033,
+    "key": "super-luck",
+    "name": "Super Luck",
+    "description": "Heightens the critical- hit ratios of moves.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "33"
+    }
+  },
+  {
+    "id": 107,
+    "key": "anticipation",
+    "name": "Anticipation",
+    "description": "Notifies all trainers upon entering battle if an opponent has a super-effective move, Self-Destruct, Explosion, or a one-hit KO move.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 108,
+    "key": "forewarn",
+    "name": "Forewarn",
+    "description": "Reveals the opponents' strongest move upon entering battle.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 20027,
+    "key": "unaware",
+    "name": "Unaware",
+    "description": "Ignores any stat changes in the Pokémon.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "27"
+    }
+  },
+  {
+    "id": 20011,
+    "key": "tinted-lens",
+    "name": "Tinted Lens",
+    "description": "Powers up “not very effective” moves.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "11"
+    }
+  },
+  {
+    "id": 20030,
+    "key": "filter",
+    "name": "Filter",
+    "description": "Reduces damage from supereffective attacks.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "30"
+    }
+  },
+  {
+    "id": 20017,
+    "key": "scrappy",
+    "name": "Scrappy",
+    "description": "Enables moves to hit Ghost-type Pokémon.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "17"
+    }
+  },
+  {
+    "id": 114,
+    "key": "storm-drain",
+    "name": "Storm Drain",
+    "description": "Redirects single-target Water moves to this Pokémon where possible. Absorbs Water moves, raising Special Attack one stage.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 115,
+    "key": "ice-body",
+    "name": "Ice Body",
+    "description": "Heals for 1/16 max HP after each turn during hail. Protects against hail damage.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 20024,
+    "key": "solid-rock",
+    "name": "Solid Rock",
+    "description": "Reduces damage from supereffective attacks.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "24"
+    }
+  },
+  {
+    "id": 118,
+    "key": "honey-gather",
+    "name": "Honey Gather",
+    "description": "The Pokémon may pick up Honey after battle.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 119,
+    "key": "frisk",
+    "name": "Frisk",
+    "description": "Reveals an opponent's held item upon entering battle.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 120,
+    "key": "reckless",
+    "name": "Reckless",
+    "description": "Strengthens recoil moves to 1.2× their power.",
+    "generation": "generation-iv",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 124,
+    "key": "pickpocket",
+    "name": "Pickpocket",
+    "description": "Steals attacking Pokémon's held items on contact.",
+    "generation": "generation-v",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 125,
+    "key": "sheer-force",
+    "name": "Sheer Force",
+    "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.",
+    "generation": "generation-v",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 126,
+    "key": "contrary",
+    "name": "Contrary",
+    "description": "Inverts stat changes.",
+    "generation": "generation-v",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 127,
+    "key": "unnerve",
+    "name": "Unnerve",
+    "description": "Prevents opposing Pokémon from eating held Berries.",
+    "generation": "generation-v",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 20021,
+    "key": "defiant",
+    "name": "Defiant",
+    "description": "When its stats are lowered its Attack increases.",
+    "generation": "generation-v",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "21"
+    }
+  },
+  {
+    "id": 130,
+    "key": "cursed-body",
+    "name": "Cursed Body",
+    "description": "Has a 30% chance of Disabling any move that hits the Pokémon.",
+    "generation": "generation-v",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 132,
+    "key": "friend-guard",
+    "name": "Friend Guard",
+    "description": "Decreases all direct damage taken by friendly Pokémon to 0.75×.",
+    "generation": "generation-v",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 133,
+    "key": "weak-armor",
+    "name": "Weak Armor",
+    "description": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move.",
+    "generation": "generation-v",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 135,
+    "key": "light-metal",
+    "name": "Light Metal",
+    "description": "Halves the Pokémon's weight.",
+    "generation": "generation-v",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 20081,
+    "key": "multiscale",
+    "name": "Multiscale",
+    "description": "Reduces damage when HP is full.",
+    "generation": "generation-v",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "81"
+    }
+  },
+  {
+    "id": 20108,
+    "key": "toxic-boost",
+    "name": "Toxic Boost",
+    "description": "Powers up physical attacks when poisoned.",
+    "generation": "generation-v",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "108"
+    }
+  },
+  {
+    "id": 139,
+    "key": "harvest",
+    "name": "Harvest",
+    "description": "Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime.",
+    "generation": "generation-v",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 140,
+    "key": "telepathy",
+    "name": "Telepathy",
+    "description": "Protects against friendly Pokémon's damaging moves.",
+    "generation": "generation-v",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 141,
+    "key": "moody",
+    "name": "Moody",
+    "description": "Raises a random stat two stages and lowers another one stage after each turn.",
+    "generation": "generation-v",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 142,
+    "key": "overcoat",
+    "name": "Overcoat",
+    "description": "Protects against damage from weather.",
+    "generation": "generation-v",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 144,
+    "key": "regenerator",
+    "name": "Regenerator",
+    "description": "Heals for 1/3 max HP upon switching out.",
+    "generation": "generation-v",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 145,
+    "key": "big-pecks",
+    "name": "Big Pecks",
+    "description": "Protects against Defense drops.",
+    "generation": "generation-v",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 20112,
+    "key": "wonder-skin",
+    "name": "Wonder Skin",
+    "description": "Makes status-changing moves more likely to miss.",
+    "generation": "generation-v",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "112"
+    }
+  },
+  {
+    "id": 148,
+    "key": "analytic",
+    "name": "Analytic",
+    "description": "Strengthens moves to 1.3× their power when moving last.",
+    "generation": "generation-v",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 151,
+    "key": "infiltrator",
+    "name": "Infiltrator",
+    "description": "Bypasses Light Screen, Reflect, and Safeguard.",
+    "generation": "generation-v",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 20076,
+    "key": "moxie",
+    "name": "Moxie",
+    "description": "Boosts Attack after knocking out any Pokémon.",
+    "generation": "generation-v",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "76"
+    }
+  },
+  {
+    "id": 154,
+    "key": "justified",
+    "name": "Justified",
+    "description": "Raises Attack one stage upon taking damage from a Dark move.",
+    "generation": "generation-v",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 155,
+    "key": "rattled",
+    "name": "Rattled",
+    "description": "Raises Speed one stage upon being hit by a Dark, Ghost, or Bug move.",
+    "generation": "generation-v",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 156,
+    "key": "magic-bounce",
+    "name": "Magic Bounce",
+    "description": "Reflects most non-damaging moves back at their user.",
+    "generation": "generation-v",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 157,
+    "key": "sap-sipper",
+    "name": "Sap Sipper",
+    "description": "Absorbs Grass moves, raising Attack one stage.",
+    "generation": "generation-v",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 20099,
+    "key": "prankster",
+    "name": "Prankster",
+    "description": "Gives priority to a status move.",
+    "generation": "generation-v",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "99"
+    }
+  },
+  {
+    "id": 159,
+    "key": "sand-force",
+    "name": "Sand Force",
+    "description": "Strengthens Rock, Ground, and Steel moves to 1.3× their power during a sandstorm. Protects against sandstorm damage.",
+    "generation": "generation-v",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 20074,
+    "key": "protean",
+    "name": "Protean",
+    "description": "Changes the Pokémon’s type to the type of the move it’s about to use.",
+    "generation": "generation-vi",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "74"
+    }
+  },
+  {
+    "id": 171,
+    "key": "bulletproof",
+    "name": "Bulletproof",
+    "description": "Protects against bullet, ball, and bomb-based moves.",
+    "generation": "generation-vi",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 20113,
+    "key": "competitive",
+    "name": "Competitive",
+    "description": "Boosts the Sp. Atk stat sharply when a stat is lowered.",
+    "generation": "generation-vi",
+    "_provenance": {
+      "origin": "mixed",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    },
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "113"
+    }
+  },
+  {
+    "id": 256,
+    "key": "neutralizing-gas",
+    "name": "Neutralizing Gas",
+    "description": "Neutralizes abilities of all Pokémon in battle.",
+    "generation": "generation-viii",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 274,
+    "key": "wind-rider",
+    "name": "Wind Rider",
+    "description": "Gives immunity to wind moves, and causes the Pokémon's Attack to increase by one stage when hit by one.",
+    "generation": "generation-ix",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 281,
+    "key": "protosynthesis",
+    "name": "Protosynthesis",
+    "description": "Raises highest stat in harsh sunlight, or if holding Booster Energy.",
+    "generation": "generation-ix",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 291,
+    "key": "cud-chew",
+    "name": "Cud Chew",
+    "description": "Causes the Pokémon to reuse an already consumed Berry at the end of the next turn.",
+    "generation": "generation-ix",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 292,
+    "key": "sharpness",
+    "name": "Sharpness",
+    "description": "Powers up slicing moves.",
+    "generation": "generation-ix",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 296,
+    "key": "armor-tail",
+    "name": "Armor Tail",
+    "description": "Prevents the opponent from using any moves that have priority, such as Quick Attack.",
+    "generation": "generation-ix",
+    "_provenance": {
+      "origin": "baseline",
+      "overriddenFields": []
+    }
+  },
+  {
+    "id": 20015,
+    "name": "No Guard",
+    "description": "Ensures attacks by or against the Pokémon land.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "15"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 20023,
+    "name": "Sand Rush",
+    "description": "Boosts the Pokémon’s Speed in a sandstorm.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "23"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 20037,
+    "name": "Prism Lens",
+    "description": "Boosts Psychic-type moves by 50%.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "37"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 20040,
+    "name": "Fur Coat",
+    "description": "Halves the damage from physical moves.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "40"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 20049,
+    "name": "Slush Rush",
+    "description": "Boosts the Pokémon’s Speed stat in a hailstorm.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "49"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 20052,
+    "name": "Omni-Chase",
+    "description": "50% Speed up during weather.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "52"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 20056,
+    "name": "Snow Warning",
+    "description": "The Pokémon summons a hailstorm in battle.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "56"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 20057,
+    "name": "Sticky Hold",
+    "description": "Prevents item theft.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "57"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 20068,
+    "name": "Intense Care",
+    "description": "Healing moves gain +1 priority.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "68"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 20069,
+    "name": "Eerie Aura",
+    "description": "Boosts Ghost-type moves by 20%.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "69"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 20075,
+    "name": "Fafnir",
+    "description": "Boosts Electric and Dragon-type moves by 20%",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "75"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 20078,
+    "name": "Radiance",
+    "description": "Normal-type moves become Aether type and get a 30% damage boost.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "78"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 20082,
+    "name": "Omnihunter",
+    "description": "Boosts Flying-type moves by 50%",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "82"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 20083,
+    "name": "Venom Blood",
+    "description": "Boosts Poison-type moves by 50%.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "83"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 20085,
+    "name": "Singularity",
+    "description": "Boosts Fire and Ice-type moves by 25%",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "85"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 20086,
+    "name": "Flare Boost",
+    "description": "Powers up special attacks when burned.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "86"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 20087,
+    "name": "Botanist",
+    "description": "'Herb' and 'Potion' moves gain +1 priority.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "87"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 20093,
+    "name": "Arcanist",
+    "description": "Boosts Psychic-type moves by 20%",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "93"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 20095,
+    "name": "Gale Wings",
+    "description": "Gives priority to Flying-type moves when the Pokémon’s HP is full.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "95"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 20102,
+    "name": "Abyss Grace",
+    "description": "Raises the team's accuracy by 10% while it's battling.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "102"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 20104,
+    "name": "Abyss Boost",
+    "description": "Raises the user's best stat after it KOs an opponent.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "104"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 20105,
+    "name": "Pure Power",
+    "description": "Raises ATTACK.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "105"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 20106,
+    "name": "Jungle King",
+    "description": "Boosts Ground and Fighting-type moves by 50%",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "106"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 20107,
+    "name": "Dragon Fruit",
+    "description": "Boosts Dragon-type moves by 50%",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "107"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 20111,
+    "name": "Sovereignty",
+    "description": "'Order' moves gain +1 priority.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "111"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "description",
+        "source"
+      ]
+    }
+  }
+]

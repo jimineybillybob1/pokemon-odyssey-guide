@@ -1,0 +1,1002 @@
+[
+  {
+    "path": "assets/pokemon/shiny/odyssey-19.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 4
+    },
+    "artist": "Artist: Kazioko",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-20.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 4
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-21.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 4
+    },
+    "artist": "Artist: Lodestar195",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-22.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 4
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-23.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 4
+    },
+    "artist": "Artist: PacoScarso",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-24.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 4
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-28.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 4
+    },
+    "artist": "Artist: PacoScarso",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-29.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 4
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-79.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 4
+    },
+    "artist": "Artist: PacoScarso",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-80.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 4
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-102.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 4
+    },
+    "artist": "Artist: PacoScarso",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-103.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 4
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-106.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 11
+    },
+    "artist": "Artist: Aloeva & PacoScarso",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-107.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 11
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-235.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 11
+    },
+    "artist": "Artist: PacoScarso",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-129.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 11
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-147.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 11
+    },
+    "artist": "Artist: PacoScarso",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-232.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 11
+    },
+    "artist": "Artist: PacoScarso",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-118.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 11
+    },
+    "artist": "Artist: PacoScarso",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-382.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 11
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-154.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 11
+    },
+    "artist": "Artist: Mediko",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-160.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 18
+    },
+    "artist": "Artist: Lodestar195",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-174.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 18
+    },
+    "artist": "Artist: PacoScarso & Mediko",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-175.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 18
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-237.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 18
+    },
+    "artist": "Artist: PacoScarso",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-131.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 18
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-384.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 18
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-176.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 18
+    },
+    "artist": "Artist: PacoScarso & Swonkfish",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-177.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 18
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-178.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 18
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-376.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 18
+    },
+    "artist": "Artist: Mediko",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-224.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 25
+    },
+    "artist": "Artist: Mediko",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-179.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 25
+    },
+    "artist": "Artist: Mediko",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-257.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 25
+    },
+    "artist": "Artist: PacoScarso & Mediko",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-258.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 25
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-294.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 25
+    },
+    "artist": "Artist: PacoScarso & Mediko",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-295.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 25
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-338.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 25
+    },
+    "artist": "Artist: PacoScarso",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-339.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 25
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-349.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 25
+    },
+    "artist": "Artist: Swonkfish & Aloeva",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-332.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 32
+    },
+    "artist": "Artist: PacoScarso & Mediko",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-333.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 32
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-392.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 32
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-360.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 32
+    },
+    "artist": "Artist: PacoScarso & Mediko",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-361.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 32
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-362.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 32
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-344.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 32
+    },
+    "artist": "Artist: Swonkfish & PacoScarso",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-354.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 32
+    },
+    "artist": "Artist: PacoScarso",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-355.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 32
+    },
+    "artist": "Artist: PacoScarso",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-350.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 39
+    },
+    "artist": "Artist: PacoScarso & Mediko",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-351.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 39
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-352.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 39
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-265.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 39
+    },
+    "artist": "Artist: PacoScarso & Mediko",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-263.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 39
+    },
+    "artist": "Artist: PacoScarso & Mediko",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-390.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 39
+    },
+    "artist": "Artist: Mediko",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-117.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 39
+    },
+    "artist": "Artist: Mediko",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-239.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 39
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-38.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 46
+    },
+    "artist": "Artist: PacoScarso",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-39.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 46
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-220.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 46
+    },
+    "artist": "Artist: PacoScarso",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-221.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 46
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-141.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 46
+    },
+    "artist": "Artist: PacoScarso",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-212.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 46
+    },
+    "artist": "Artist: Mediko",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-378.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 46
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-277.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 46
+    },
+    "artist": "Artist: PacoScarso",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-278.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 46
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-328.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 46
+    },
+    "artist": "Artist: PacoScarso & Mediko",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-329.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 46
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-40.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 53
+    },
+    "artist": "Artist: PacoScarso & Mediko",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-41.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 53
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-163.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 53
+    },
+    "artist": "Artist: PacoScarso & Mediko",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-164.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 53
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-188.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 53
+    },
+    "artist": "Artist: PacoScarso",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-189.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 53
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-143.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 53
+    },
+    "artist": "Artist: PacoScarso",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-144.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 53
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-145.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 53
+    },
+    "artist": "Artist: Mediko",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-146.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 53
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-108.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 53
+    },
+    "artist": "Artist: PacoScarso",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-109.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 53
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-68.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 60
+    },
+    "artist": "Artist: PacoScarso",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-69.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 60
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-70.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 60
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-85.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 60
+    },
+    "artist": "Artist: Mediko",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-289.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 60
+    },
+    "artist": "Artist: Mediko",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-290.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 60
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-284.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 60
+    },
+    "artist": "Artist: PacoScarso",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-236.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 67
+    },
+    "artist": "Artist: PacoScarso & Mediko",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-130.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 67
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-383.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 67
+    },
+    "artist": "",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-246.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 74
+    },
+    "artist": "Artist: PacoScarso",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-371.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 74
+    },
+    "artist": "Artist: PacoScarso",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-372.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 74
+    },
+    "artist": "Artist: Mediko",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-373.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 74
+    },
+    "artist": "Artist: Mediko",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-396.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 74
+    },
+    "artist": "Artist: Mediko",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-323.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 81
+    },
+    "artist": "Artist: PacoScarso",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-325.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 81
+    },
+    "artist": "Artist: PacoScarso",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-288.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 81
+    },
+    "artist": "Artist: PacoScarso",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-327.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 81
+    },
+    "artist": "Artist: Mediko",
+    "preserveSourceBackground": true
+  },
+  {
+    "path": "assets/pokemon/shiny/odyssey-253.png",
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Etrian Variants",
+      "row": 81
+    },
+    "artist": "Artist: PacoScarso",
+    "preserveSourceBackground": true
+  }
+]

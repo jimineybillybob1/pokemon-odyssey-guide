@@ -1,0 +1,465 @@
+{
+  "matched": [
+    {
+      "name": "Miracle Seed",
+      "romItemId": 205
+    },
+    {
+      "name": "Repel",
+      "romItemId": 86
+    },
+    {
+      "name": "Medica",
+      "romItemId": 13
+    },
+    {
+      "name": "Poké Ball",
+      "romItemId": 4
+    },
+    {
+      "name": "Winged Boots",
+      "romItemId": 240
+    },
+    {
+      "name": "Water Stone",
+      "romItemId": 97
+    },
+    {
+      "name": "PP-Up",
+      "romItemId": 69
+    },
+    {
+      "name": "Star Piece",
+      "romItemId": 109
+    },
+    {
+      "name": "Oran Berry",
+      "romItemId": 139
+    },
+    {
+      "name": "Antidote",
+      "romItemId": 14
+    },
+    {
+      "name": "EV-Editor",
+      "romItemId": 278
+    },
+    {
+      "name": "Prism Scale",
+      "romItemId": 99
+    },
+    {
+      "name": "Brightpowder",
+      "romItemId": 179
+    },
+    {
+      "name": "Everstone",
+      "romItemId": 195
+    },
+    {
+      "name": "Mystic Water",
+      "romItemId": 209
+    },
+    {
+      "name": "Stardust",
+      "romItemId": 108
+    },
+    {
+      "name": "Blue Shard",
+      "romItemId": 49
+    },
+    {
+      "name": "Old Rod",
+      "romItemId": 262
+    },
+    {
+      "name": "Eviolite",
+      "romItemId": 233
+    },
+    {
+      "name": "Silverpowder",
+      "romItemId": 188
+    },
+    {
+      "name": "Great Ball",
+      "romItemId": 3
+    },
+    {
+      "name": "Green Shard",
+      "romItemId": 51
+    },
+    {
+      "name": "Protein",
+      "romItemId": 64
+    },
+    {
+      "name": "Nectar",
+      "romItemId": 24
+    },
+    {
+      "name": "Black Belt",
+      "romItemId": 207
+    },
+    {
+      "name": "Sharp Beak",
+      "romItemId": 210
+    },
+    {
+      "name": "Medica II",
+      "romItemId": 22
+    },
+    {
+      "name": "Magnet",
+      "romItemId": 208
+    },
+    {
+      "name": "Metal Coat",
+      "romItemId": 199
+    },
+    {
+      "name": "Paralyz Heal",
+      "romItemId": 18
+    },
+    {
+      "name": "Yellow Shard",
+      "romItemId": 50
+    },
+    {
+      "name": "Star Pendant",
+      "romItemId": 241
+    },
+    {
+      "name": "PP-Max",
+      "romItemId": 71
+    },
+    {
+      "name": "Sun Stone",
+      "romItemId": 93
+    },
+    {
+      "name": "Moon Stone",
+      "romItemId": 94
+    },
+    {
+      "name": "Sitrus Berry",
+      "romItemId": 142
+    },
+    {
+      "name": "Nevermeltice",
+      "romItemId": 212
+    },
+    {
+      "name": "Nugget",
+      "romItemId": 110
+    },
+    {
+      "name": "Assault Vest",
+      "romItemId": 232
+    },
+    {
+      "name": "Relic Silver",
+      "romItemId": 166
+    },
+    {
+      "name": "Twistedspoon",
+      "romItemId": 214
+    },
+    {
+      "name": "Blackglasses",
+      "romItemId": 206
+    },
+    {
+      "name": "Super Repel",
+      "romItemId": 83
+    },
+    {
+      "name": "Carbos",
+      "romItemId": 66
+    },
+    {
+      "name": "Elixir",
+      "romItemId": 36
+    },
+    {
+      "name": "HP Up",
+      "romItemId": 63
+    },
+    {
+      "name": "Theriaca",
+      "romItemId": 23
+    },
+    {
+      "name": "Light Clay",
+      "romItemId": 239
+    },
+    {
+      "name": "Iron",
+      "romItemId": 65
+    },
+    {
+      "name": "Rocky Helmet",
+      "romItemId": 230
+    },
+    {
+      "name": "Ultra Ball",
+      "romItemId": 2
+    },
+    {
+      "name": "Shell Bell",
+      "romItemId": 219
+    },
+    {
+      "name": "Thunderstone",
+      "romItemId": 96
+    },
+    {
+      "name": "Ether",
+      "romItemId": 34
+    },
+    {
+      "name": "Leftovers",
+      "romItemId": 200
+    },
+    {
+      "name": "Soft Sand",
+      "romItemId": 203
+    },
+    {
+      "name": "Hard Stone",
+      "romItemId": 204
+    },
+    {
+      "name": "Good Rod",
+      "romItemId": 263
+    },
+    {
+      "name": "Poison Barb",
+      "romItemId": 211
+    },
+    {
+      "name": "Silk Scarf",
+      "romItemId": 217
+    },
+    {
+      "name": "Scope Lens",
+      "romItemId": 198
+    },
+    {
+      "name": "Charcoal",
+      "romItemId": 215
+    },
+    {
+      "name": "Dusk Stone",
+      "romItemId": 89
+    },
+    {
+      "name": "Upgrade",
+      "romItemId": 105
+    },
+    {
+      "name": "Link Stone",
+      "romItemId": 92
+    },
+    {
+      "name": "Wide Lens",
+      "romItemId": 234
+    },
+    {
+      "name": "Dragon Fang",
+      "romItemId": 216
+    },
+    {
+      "name": "Flame Orb",
+      "romItemId": 236
+    },
+    {
+      "name": "Zinc",
+      "romItemId": 70
+    },
+    {
+      "name": "Nectar II",
+      "romItemId": 25
+    },
+    {
+      "name": "Amulet Coin",
+      "romItemId": 189
+    },
+    {
+      "name": "Lucky Egg",
+      "romItemId": 197
+    },
+    {
+      "name": "Max Elixir",
+      "romItemId": 37
+    },
+    {
+      "name": "Toxic Orb",
+      "romItemId": 237
+    },
+    {
+      "name": "Life Orb",
+      "romItemId": 229
+    },
+    {
+      "name": "Calcium",
+      "romItemId": 67
+    },
+    {
+      "name": "Medica V",
+      "romItemId": 19
+    },
+    {
+      "name": "Medica III",
+      "romItemId": 21
+    },
+    {
+      "name": "Pearl",
+      "romItemId": 106
+    },
+    {
+      "name": "Super Rod",
+      "romItemId": 264
+    },
+    {
+      "name": "Choice Band",
+      "romItemId": 186
+    },
+    {
+      "name": "Choice Specs",
+      "romItemId": 226
+    },
+    {
+      "name": "Choice Scarf",
+      "romItemId": 227
+    },
+    {
+      "name": "Magmarizer",
+      "romItemId": 87
+    },
+    {
+      "name": "Electirizer",
+      "romItemId": 88
+    },
+    {
+      "name": "Max Repel",
+      "romItemId": 84
+    },
+    {
+      "name": "Spell Tag",
+      "romItemId": 213
+    },
+    {
+      "name": "Dubious Disc",
+      "romItemId": 101
+    },
+    {
+      "name": "Protector",
+      "romItemId": 100
+    },
+    {
+      "name": "Expert Belt",
+      "romItemId": 235
+    },
+    {
+      "name": "Relic Gold",
+      "romItemId": 167
+    },
+    {
+      "name": "Reaper Cloth",
+      "romItemId": 102
+    },
+    {
+      "name": "Medica IV",
+      "romItemId": 20
+    },
+    {
+      "name": "Yellow Bell",
+      "romItemId": 359
+    },
+    {
+      "name": "Timer Ball",
+      "romItemId": 10
+    },
+    {
+      "name": "Tent",
+      "romItemId": 82
+    }
+  ],
+  "genericTMs": [
+    "TM39 (Rock Tomb)",
+    "TM47 (Steel Wing)",
+    "TM13 (Ice Beam)",
+    "TM09 (Bullet Seed)",
+    "TM19 (Giga Drain)",
+    "TM40 (Aerial Ace)",
+    "TM07 (Hail)",
+    "TM11 (Sunny Day)",
+    "TM21 (Return)",
+    "TM27 (Frustration)",
+    "TM28 (Dig)",
+    "TM42 (Facade)",
+    "TM03 (Water Pulse)",
+    "TM26 (Earthquake)",
+    "TM37 (Sandstorm)",
+    "TM31 (Brick Break)",
+    "TM34 (Shock Wave)",
+    "TM35 (Flamethrower)",
+    "TM22 (Solar Beam)",
+    "TM30 (Shadow Ball)",
+    "TM08 (Bulk Up)",
+    "TM23 (Iron Tail)",
+    "TM36 (Sludge Bomb)",
+    "TM24 (Thunderbolt)",
+    "TM17 (Protect)",
+    "TM48 (Skill Swap)",
+    "TM44 (Rest)",
+    "TM49 (Scald)",
+    "TM25 (Thunder)",
+    "TM32 (Double Team)",
+    "TM02 (Dragon Claw)",
+    "TM04 (Calm Mind)",
+    "TM15 (Hyper Beam)",
+    "TM29 (Psychic)",
+    "TM14 (Blizzard)",
+    "TM01 (Drain Punch)",
+    "TM06 (Toxic)",
+    "TM46 (Dark Pulse)",
+    "TM10 (Flash Cannon)",
+    "TM43 (Dragon Pulse)",
+    "TM38 (Fire Blast)",
+    "TM50 (Overheat)",
+    "TM05 — Snarl",
+    "TM12 — Taunt",
+    "TM16 — Light Screen",
+    "TM18 — Rain Dance",
+    "TM20 — Safeguard",
+    "TM21 — Frustration",
+    "TM27 — Return",
+    "TM33 — Reflect",
+    "TM41 — Torment",
+    "TM45 — Attract"
+  ],
+  "unmatched": [
+    "Offer. Bag (Key Item)",
+    "Red Flower (25%) 1 to 7",
+    "Emerald (25%) 1 to 7",
+    "Memento Vitae (Key Item)",
+    "Yellow Flower (25%) 1 to 7",
+    "Topaz (25%) 1 to 7",
+    "Itemfinder (Key Item)",
+    "Old Amber (Key Item)",
+    "Black Augurite",
+    "Red Bell (Key Item)",
+    "Blue Flower (25%) 1 to 7",
+    "Sapphire (25%) 1 to 7",
+    "Pokéflute (Key Item)",
+    "Purple Flower (25%) 1 to 7",
+    "Dolomite (25%) 1 to 7",
+    "Blue Bell (Key Item)",
+    "Magna Vis (Key Item)",
+    "Black Flower (25%) 1 to 7",
+    "Perlite (25%) 1 to 7",
+    "Star Piece (25%) 1 to 7",
+    "Stardust (25%) 1 to 7"
+  ]
+}

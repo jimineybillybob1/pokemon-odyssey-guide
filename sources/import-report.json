@@ -1,0 +1,41 @@
+{
+  "conflicts": [
+    {
+      "pokemon": "Murkrow",
+      "field": "stats",
+      "dex": [
+        60,
+        85,
+        42,
+        91,
+        85,
+        82
+      ],
+      "workbook": [
+        60,
+        85,
+        42,
+        91,
+        85,
+        42
+      ],
+      "resolution": "workbook"
+    }
+  ],
+  "unresolved": [],
+  "notes": [],
+  "counts": {
+    "pokemon": 409,
+    "moves": 443,
+    "locations": 60,
+    "encounters": 526,
+    "acquisitions": 145,
+    "items": 169,
+    "tutors": 13,
+    "battles": 45,
+    "quests": 38,
+    "maps": 1,
+    "workbookSpecies": 404,
+    "workbookStats": 404
+  }
+}

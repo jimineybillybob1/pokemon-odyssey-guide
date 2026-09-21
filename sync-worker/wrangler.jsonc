@@ -1,0 +1,14 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "pokemon-odyssey-guide-field-guide-sync",
+  "main": "src/index.js",
+  "compatibility_date": "2026-07-21",
+  "vars": {
+    "ALLOWED_ORIGINS": "http://127.0.0.1:8892"
+  },
+  "kv_namespaces": [
+    {
+      "binding": "SAVES"
+    }
+  ]
+}

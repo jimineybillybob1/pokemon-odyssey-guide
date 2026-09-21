@@ -1,0 +1,61 @@
+{
+  "name": "Pokémon Odyssey",
+  "shortName": "Pokémon Odyssey",
+  "version": "4.1.1",
+  "region": "Talrega and Yggdrasil Labyrinth",
+  "storageNamespace": "pokemon-odyssey-guide-v2",
+  "saveFormat": "pokemon-odyssey-guide-v2-save",
+  "description": "An offline-friendly field guide for Pokémon Odyssey.",
+  "branding": {
+    "logo": "assets/art/compass.svg",
+    "hero": "assets/art/journal.svg",
+    "icon": "assets/art/compass.svg",
+    "primary": "#83cbb3",
+    "accent": "#dfbd79"
+  },
+  "features": {
+    "moves": true,
+    "items": true,
+    "locations": true,
+    "legendaries": false,
+    "eggs": false,
+    "teamBuilder": true,
+    "futureTeam": true,
+    "favorites": true,
+    "battles": true,
+    "trainerProfile": false,
+    "badges": false,
+    "maps": true,
+    "cloudSync": false
+  },
+  "badges": [],
+  "maps": {
+    "label": "Region Map",
+    "image": "",
+    "url": "",
+    "safariUrl": ""
+  },
+  "sources": [
+    {
+      "name": "Developer release thread",
+      "url": "https://eeveeexpo.com/odyssey/"
+    },
+    {
+      "name": "Talrega Pokédex",
+      "url": "https://talrega.epieffe.dev/"
+    },
+    {
+      "name": "Encounters, items and tutors",
+      "url": "https://docs.google.com/spreadsheets/d/1-duiiF5TXQtI3E9BdyXEViYYYVel_sUstNk1lZCqHsE/edit"
+    },
+    {
+      "name": "Pokémon and mechanics",
+      "url": "https://docs.google.com/spreadsheets/d/1Es1clPMUhEEqZRHW0tgAmvxqSzVXiXmD/edit"
+    },
+    {
+      "name": "Bosses, quests and naval map",
+      "url": "https://docs.google.com/spreadsheets/d/1XsXn87pb3vMSFTrtQerWnfmf1SAAMRzVoeT1wQ9uwug/edit"
+    }
+  ],
+  "encounterPeriodLabel": "Time not specified"
+}

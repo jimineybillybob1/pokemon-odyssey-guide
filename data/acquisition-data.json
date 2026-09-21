@@ -1,0 +1,1747 @@
+{
+  "gifts": [],
+  "trades": [
+    {
+      "pokemon": "porygon",
+      "location": "COASTAL ROAD",
+      "method": "Trade - Sidequest",
+      "details": "",
+      "level": "???",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 50
+      }
+    },
+    {
+      "pokemon": "clefairy",
+      "location": "TALREGA",
+      "method": "Trade - Sidequest",
+      "details": "",
+      "level": "???",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 87
+      }
+    },
+    {
+      "pokemon": "tauros",
+      "location": "TALREGA FARM",
+      "method": "Trade - Sidequest",
+      "details": "",
+      "level": "???",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 93
+      }
+    },
+    {
+      "pokemon": "kangaskhan",
+      "location": "AQUA RESORT",
+      "method": "Trade - Sidequest",
+      "details": "",
+      "level": "???",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 216
+      }
+    },
+    {
+      "pokemon": "farfetch-d",
+      "location": "CHARON",
+      "method": "Trade - Sidequest",
+      "details": "",
+      "level": "???",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 357
+      }
+    },
+    {
+      "pokemon": "bulbasaur",
+      "location": "Wonder Trade — KANTO",
+      "method": "Wonder Trade",
+      "details": "JOHTO; Chikorita (⭐); 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 5
+      }
+    },
+    {
+      "pokemon": "charmander",
+      "location": "Wonder Trade — KANTO",
+      "method": "Wonder Trade",
+      "details": "JOHTO; Cyndaquil (⭐); 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 6
+      }
+    },
+    {
+      "pokemon": "squirtle",
+      "location": "Wonder Trade — KANTO",
+      "method": "Wonder Trade",
+      "details": "JOHTO; Totodile (⭐); 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 7
+      }
+    },
+    {
+      "pokemon": "ekans",
+      "location": "Wonder Trade — KANTO",
+      "method": "Wonder Trade",
+      "details": "JOHTO; Hoothoot ⭐; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 8
+      }
+    },
+    {
+      "pokemon": "pikachu",
+      "location": "Wonder Trade — KANTO",
+      "method": "Wonder Trade",
+      "details": "JOHTO; Chinchou; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 9
+      }
+    },
+    {
+      "pokemon": "sandshrew",
+      "location": "Wonder Trade — KANTO",
+      "method": "Wonder Trade",
+      "details": "JOHTO; Togepi; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 10
+      }
+    },
+    {
+      "pokemon": "vulpix",
+      "location": "Wonder Trade — KANTO",
+      "method": "Wonder Trade",
+      "details": "JOHTO; Natu ⭐; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 11
+      }
+    },
+    {
+      "pokemon": "growlithe",
+      "location": "Wonder Trade — KANTO",
+      "method": "Wonder Trade",
+      "details": "JOHTO; Mareep ⭐; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 12
+      }
+    },
+    {
+      "pokemon": "abra",
+      "location": "Wonder Trade — KANTO",
+      "method": "Wonder Trade",
+      "details": "JOHTO; Aipom; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 13
+      }
+    },
+    {
+      "pokemon": "machop",
+      "location": "Wonder Trade — KANTO",
+      "method": "Wonder Trade",
+      "details": "JOHTO; Sunkern ⭐; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 14
+      }
+    },
+    {
+      "pokemon": "ponyta",
+      "location": "Wonder Trade — KANTO",
+      "method": "Wonder Trade",
+      "details": "JOHTO; Wooper; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 15
+      }
+    },
+    {
+      "pokemon": "slowpoke",
+      "location": "Wonder Trade — KANTO",
+      "method": "Wonder Trade",
+      "details": "JOHTO; Snubbull; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 16
+      }
+    },
+    {
+      "pokemon": "doduo",
+      "location": "Wonder Trade — KANTO",
+      "method": "Wonder Trade",
+      "details": "JOHTO; Teddiursa; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 17
+      }
+    },
+    {
+      "pokemon": "seel",
+      "location": "Wonder Trade — KANTO",
+      "method": "Wonder Trade",
+      "details": "JOHTO; Slugma; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 18
+      }
+    },
+    {
+      "pokemon": "exeggcute",
+      "location": "Wonder Trade — KANTO",
+      "method": "Wonder Trade",
+      "details": "JOHTO; Swinub; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 19
+      }
+    },
+    {
+      "pokemon": "cubone",
+      "location": "Wonder Trade — KANTO",
+      "method": "Wonder Trade",
+      "details": "JOHTO; Houndour; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 20
+      }
+    },
+    {
+      "pokemon": "tangela",
+      "location": "Wonder Trade — KANTO",
+      "method": "Wonder Trade",
+      "details": "JOHTO; Smoochum ⭐; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 21
+      }
+    },
+    {
+      "pokemon": "horsea",
+      "location": "Wonder Trade — KANTO",
+      "method": "Wonder Trade",
+      "details": "JOHTO; Elekid ⭐; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 22
+      }
+    },
+    {
+      "pokemon": "eevee",
+      "location": "Wonder Trade — KANTO",
+      "method": "Wonder Trade",
+      "details": "JOHTO; Magby ⭐; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 23
+      }
+    },
+    {
+      "pokemon": "onix",
+      "location": "Wonder Trade — KANTO",
+      "method": "Wonder Trade",
+      "details": "JOHTO; Phanpy; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 24
+      }
+    },
+    {
+      "pokemon": "chikorita",
+      "location": "Wonder Trade — JOHTO",
+      "method": "Wonder Trade",
+      "details": "HOENN; Treecko; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 5
+      }
+    },
+    {
+      "pokemon": "cyndaquil",
+      "location": "Wonder Trade — JOHTO",
+      "method": "Wonder Trade",
+      "details": "HOENN; Torchic; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 6
+      }
+    },
+    {
+      "pokemon": "totodile",
+      "location": "Wonder Trade — JOHTO",
+      "method": "Wonder Trade",
+      "details": "HOENN; Mudkip; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 7
+      }
+    },
+    {
+      "pokemon": "hoothoot",
+      "location": "Wonder Trade — JOHTO",
+      "method": "Wonder Trade",
+      "details": "HOENN; Barboach ⭐; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 8
+      }
+    },
+    {
+      "pokemon": "chinchou",
+      "location": "Wonder Trade — JOHTO",
+      "method": "Wonder Trade",
+      "details": "HOENN; Trapinch; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 9
+      }
+    },
+    {
+      "pokemon": "togepi",
+      "location": "Wonder Trade — JOHTO",
+      "method": "Wonder Trade",
+      "details": "HOENN; Electrike; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 10
+      }
+    },
+    {
+      "pokemon": "natu",
+      "location": "Wonder Trade — JOHTO",
+      "method": "Wonder Trade",
+      "details": "HOENN; Spheal; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 11
+      }
+    },
+    {
+      "pokemon": "mareep",
+      "location": "Wonder Trade — JOHTO",
+      "method": "Wonder Trade",
+      "details": "HOENN; Meditite ⭐; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 12
+      }
+    },
+    {
+      "pokemon": "aipom",
+      "location": "Wonder Trade — JOHTO",
+      "method": "Wonder Trade",
+      "details": "HOENN; Gulpin ⭐; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 13
+      }
+    },
+    {
+      "pokemon": "sunkern",
+      "location": "Wonder Trade — JOHTO",
+      "method": "Wonder Trade",
+      "details": "HOENN; Aron ⭐; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 14
+      }
+    },
+    {
+      "pokemon": "wooper",
+      "location": "Wonder Trade — JOHTO",
+      "method": "Wonder Trade",
+      "details": "HOENN; Volbeat ⭐; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 15
+      }
+    },
+    {
+      "pokemon": "snubbull",
+      "location": "Wonder Trade — JOHTO",
+      "method": "Wonder Trade",
+      "details": "HOENN; Illumise ⭐; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 16
+      }
+    },
+    {
+      "pokemon": "teddiursa",
+      "location": "Wonder Trade — JOHTO",
+      "method": "Wonder Trade",
+      "details": "HOENN; Ralts ⭐; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 17
+      }
+    },
+    {
+      "pokemon": "slugma",
+      "location": "Wonder Trade — JOHTO",
+      "method": "Wonder Trade",
+      "details": "HOENN; Whismur; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 18
+      }
+    },
+    {
+      "pokemon": "swinub",
+      "location": "Wonder Trade — JOHTO",
+      "method": "Wonder Trade",
+      "details": "HOENN; Roselia; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 19
+      }
+    },
+    {
+      "pokemon": "houndour",
+      "location": "Wonder Trade — JOHTO",
+      "method": "Wonder Trade",
+      "details": "HOENN; Snorunt; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 20
+      }
+    },
+    {
+      "pokemon": "smoochum",
+      "location": "Wonder Trade — JOHTO",
+      "method": "Wonder Trade",
+      "details": "HOENN; Numel; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 21
+      }
+    },
+    {
+      "pokemon": "elekid",
+      "location": "Wonder Trade — JOHTO",
+      "method": "Wonder Trade",
+      "details": "HOENN; Wailmer (⭐); 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 22
+      }
+    },
+    {
+      "pokemon": "magby",
+      "location": "Wonder Trade — JOHTO",
+      "method": "Wonder Trade",
+      "details": "HOENN; Cacnea; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 23
+      }
+    },
+    {
+      "pokemon": "phanpy",
+      "location": "Wonder Trade — JOHTO",
+      "method": "Wonder Trade",
+      "details": "HOENN; Swablu; 5",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 24
+      }
+    },
+    {
+      "pokemon": "treecko",
+      "location": "Wonder Trade — HOENN",
+      "method": "Wonder Trade",
+      "details": "",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 5
+      }
+    },
+    {
+      "pokemon": "torchic",
+      "location": "Wonder Trade — HOENN",
+      "method": "Wonder Trade",
+      "details": "",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 6
+      }
+    },
+    {
+      "pokemon": "mudkip",
+      "location": "Wonder Trade — HOENN",
+      "method": "Wonder Trade",
+      "details": "",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 7
+      }
+    },
+    {
+      "pokemon": "barboach",
+      "location": "Wonder Trade — HOENN",
+      "method": "Wonder Trade",
+      "details": "",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 8
+      }
+    },
+    {
+      "pokemon": "trapinch",
+      "location": "Wonder Trade — HOENN",
+      "method": "Wonder Trade",
+      "details": "",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 9
+      }
+    },
+    {
+      "pokemon": "electrike",
+      "location": "Wonder Trade — HOENN",
+      "method": "Wonder Trade",
+      "details": "",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 10
+      }
+    },
+    {
+      "pokemon": "spheal",
+      "location": "Wonder Trade — HOENN",
+      "method": "Wonder Trade",
+      "details": "",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 11
+      }
+    },
+    {
+      "pokemon": "meditite",
+      "location": "Wonder Trade — HOENN",
+      "method": "Wonder Trade",
+      "details": "",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 12
+      }
+    },
+    {
+      "pokemon": "gulpin",
+      "location": "Wonder Trade — HOENN",
+      "method": "Wonder Trade",
+      "details": "",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 13
+      }
+    },
+    {
+      "pokemon": "aron",
+      "location": "Wonder Trade — HOENN",
+      "method": "Wonder Trade",
+      "details": "",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 14
+      }
+    },
+    {
+      "pokemon": "volbeat",
+      "location": "Wonder Trade — HOENN",
+      "method": "Wonder Trade",
+      "details": "",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 15
+      }
+    },
+    {
+      "pokemon": "illumise",
+      "location": "Wonder Trade — HOENN",
+      "method": "Wonder Trade",
+      "details": "",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 16
+      }
+    },
+    {
+      "pokemon": "ralts",
+      "location": "Wonder Trade — HOENN",
+      "method": "Wonder Trade",
+      "details": "",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 17
+      }
+    },
+    {
+      "pokemon": "whismur",
+      "location": "Wonder Trade — HOENN",
+      "method": "Wonder Trade",
+      "details": "",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 18
+      }
+    },
+    {
+      "pokemon": "roselia",
+      "location": "Wonder Trade — HOENN",
+      "method": "Wonder Trade",
+      "details": "",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 19
+      }
+    },
+    {
+      "pokemon": "snorunt",
+      "location": "Wonder Trade — HOENN",
+      "method": "Wonder Trade",
+      "details": "",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 20
+      }
+    },
+    {
+      "pokemon": "numel",
+      "location": "Wonder Trade — HOENN",
+      "method": "Wonder Trade",
+      "details": "",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 21
+      }
+    },
+    {
+      "pokemon": "wailmer",
+      "location": "Wonder Trade — HOENN",
+      "method": "Wonder Trade",
+      "details": "",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 22
+      }
+    },
+    {
+      "pokemon": "cacnea",
+      "location": "Wonder Trade — HOENN",
+      "method": "Wonder Trade",
+      "details": "",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 23
+      }
+    },
+    {
+      "pokemon": "swablu",
+      "location": "Wonder Trade — HOENN",
+      "method": "Wonder Trade",
+      "details": "",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Wonder Trade",
+        "row": 24
+      }
+    }
+  ],
+  "special": [
+    {
+      "pokemon": "jirachi",
+      "location": "FIBERNIA",
+      "method": "Event",
+      "details": "Keep playing the Talrega Lottery until its event is triggered.",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 7
+      }
+    },
+    {
+      "pokemon": "aerodactyl",
+      "location": "COASTAL ROAD",
+      "method": "Sidequest",
+      "details": "",
+      "level": "25",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 49
+      }
+    },
+    {
+      "pokemon": "bulbasaur",
+      "location": "COASTAL ROAD",
+      "method": "Sidequest",
+      "details": "",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 52
+      }
+    },
+    {
+      "pokemon": "charmander",
+      "location": "COASTAL ROAD",
+      "method": "Sidequest",
+      "details": "",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 52
+      }
+    },
+    {
+      "pokemon": "squirtle",
+      "location": "COASTAL ROAD",
+      "method": "Sidequest",
+      "details": "",
+      "level": "5",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 52
+      }
+    },
+    {
+      "pokemon": "chikorita",
+      "location": "COASTAL ROAD",
+      "method": "Sidequest",
+      "details": "",
+      "level": "15",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 55
+      }
+    },
+    {
+      "pokemon": "cyndaquil",
+      "location": "COASTAL ROAD",
+      "method": "Sidequest",
+      "details": "",
+      "level": "15",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 55
+      }
+    },
+    {
+      "pokemon": "totodile",
+      "location": "COASTAL ROAD",
+      "method": "Sidequest",
+      "details": "",
+      "level": "15",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 55
+      }
+    },
+    {
+      "pokemon": "treecko",
+      "location": "COASTAL ROAD",
+      "method": "Sidequest",
+      "details": "",
+      "level": "25",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 58
+      }
+    },
+    {
+      "pokemon": "torchic",
+      "location": "COASTAL ROAD",
+      "method": "Sidequest",
+      "details": "",
+      "level": "25",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 58
+      }
+    },
+    {
+      "pokemon": "mudkip",
+      "location": "COASTAL ROAD",
+      "method": "Sidequest",
+      "details": "",
+      "level": "25",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 58
+      }
+    },
+    {
+      "pokemon": "sudowoodo",
+      "location": "VARLEY WOODS",
+      "method": "Event",
+      "details": "",
+      "level": "15",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 104
+      }
+    },
+    {
+      "pokemon": "celebi",
+      "location": "VARLEY WOODS",
+      "method": "Event",
+      "details": "Retrieve the Offer. Bag in the First Stratum and present it at the shrine to initiate the battle.",
+      "level": "50",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 108
+      }
+    },
+    {
+      "pokemon": "lapras",
+      "location": "AQUA RESORT",
+      "method": "Sidequest",
+      "details": "",
+      "level": "15",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 215
+      }
+    },
+    {
+      "pokemon": "stantler",
+      "location": "FIRST STRATUM - EMERALD GROVE",
+      "method": "Event",
+      "details": "",
+      "level": "28",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 235
+      }
+    },
+    {
+      "pokemon": "regice",
+      "location": "ARUNDEL WOODS",
+      "method": "Event",
+      "details": "",
+      "level": "60",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 250
+      }
+    },
+    {
+      "pokemon": "sandslash",
+      "location": "SECOND STRATUM - GOLGONDA (LEFT SIDE)",
+      "method": "Event",
+      "details": "",
+      "level": "38",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 272
+      }
+    },
+    {
+      "pokemon": "steelix",
+      "location": "CAVE OF ATHARI",
+      "method": "Event",
+      "details": "",
+      "level": "38",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 284
+      }
+    },
+    {
+      "pokemon": "girafarig",
+      "location": "GORGE OF ZANADO",
+      "method": "Sidequest",
+      "details": "",
+      "level": "20",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 295
+      }
+    },
+    {
+      "pokemon": "gliscor",
+      "location": "SECOND STRATUM - GOLGONDA (RIGHT SIDE)",
+      "method": "Event",
+      "details": "",
+      "level": "38",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 305
+      }
+    },
+    {
+      "pokemon": "regirock",
+      "location": "DESERT OF GOLGONDA",
+      "method": "Event",
+      "details": "",
+      "level": "60",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 337
+      }
+    },
+    {
+      "pokemon": "camerupt",
+      "location": "THIRD STRATUM (1)",
+      "method": "Event",
+      "details": "",
+      "level": "48",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 386
+      }
+    },
+    {
+      "pokemon": "arcanine",
+      "location": "THIRD STRATUM (3-4)",
+      "method": "Event",
+      "details": "",
+      "level": "48",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 408
+      }
+    },
+    {
+      "pokemon": "gengar",
+      "location": "THIRD STRATUM (5-6)",
+      "method": "Event",
+      "details": "",
+      "level": "48",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 420
+      }
+    },
+    {
+      "pokemon": "snorlax",
+      "location": "AUBURN THICKET",
+      "method": "Event",
+      "details": "",
+      "level": "45",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 443
+      }
+    },
+    {
+      "pokemon": "registeel",
+      "location": "AUBURN THICKET",
+      "method": "Event",
+      "details": "",
+      "level": "60",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 447
+      }
+    },
+    {
+      "pokemon": "ludicolo",
+      "location": "FOURTH STRATUM (3)",
+      "method": "Event",
+      "details": "",
+      "level": "58",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 468
+      }
+    },
+    {
+      "pokemon": "politoed",
+      "location": "FOURTH STRATUM (4)",
+      "method": "Event",
+      "details": "",
+      "level": "58",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 488
+      }
+    },
+    {
+      "pokemon": "pidgeot",
+      "location": "LOST WOODS",
+      "method": "Event",
+      "details": "",
+      "level": "58",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 530
+      }
+    },
+    {
+      "pokemon": "alakazam",
+      "location": "FIFTH STRATUM - B1F",
+      "method": "Event",
+      "details": "",
+      "level": "65",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 562
+      }
+    },
+    {
+      "pokemon": "gardevoir",
+      "location": "FIFTH STRATUM - B2F",
+      "method": "Event",
+      "details": "F.O.E.; Gallade ⭐; 65",
+      "level": "65",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 573
+      }
+    },
+    {
+      "pokemon": "gallade",
+      "location": "FIFTH STRATUM - B2F",
+      "method": "Event",
+      "details": "",
+      "level": "65",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 573
+      }
+    },
+    {
+      "pokemon": "mamoswine",
+      "location": "SIXTH STRATUM (SOUTH)",
+      "method": "Event",
+      "details": "",
+      "level": "70",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 606
+      }
+    },
+    {
+      "pokemon": "rapidash",
+      "location": "SIXTH STRATUM (CENTER)",
+      "method": "Event",
+      "details": "",
+      "level": "70",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 617
+      }
+    },
+    {
+      "pokemon": "glalie",
+      "location": "SIXTH STRATUM (WEST)",
+      "method": "Event",
+      "details": "",
+      "level": "70",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 639
+      }
+    },
+    {
+      "pokemon": "suicune",
+      "location": "ACUITY LAKEFRONT",
+      "method": "Event",
+      "details": "",
+      "level": "60",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 650
+      }
+    },
+    {
+      "pokemon": "raikou",
+      "location": "LAKE OF RAGE",
+      "method": "Event",
+      "details": "",
+      "level": "60",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 661
+      }
+    },
+    {
+      "pokemon": "entei",
+      "location": "MOUNT CHIMNEY",
+      "method": "Event",
+      "details": "",
+      "level": "60",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 681
+      }
+    },
+    {
+      "pokemon": "ratreecate",
+      "location": "SEVENTH STRATUM - B1F",
+      "method": "0.2",
+      "details": "F.O.E.; Ninetales ⭐; 75",
+      "level": "60-61",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 692
+      }
+    },
+    {
+      "pokemon": "bellossom",
+      "location": "SEVENTH STRATUM - B1F",
+      "method": "0.24",
+      "details": "F.O.E.; Divine Storm",
+      "level": "60-62",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 693
+      }
+    },
+    {
+      "pokemon": "azumarill",
+      "location": "SEVENTH STRATUM - B1F",
+      "method": "0.15",
+      "details": "F.O.E.; Dark Pulse",
+      "level": "60-62",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 694
+      }
+    },
+    {
+      "pokemon": "breloom",
+      "location": "SEVENTH STRATUM - B1F",
+      "method": "0.15",
+      "details": "F.O.E.; Fire Blast",
+      "level": "60-62",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 695
+      }
+    },
+    {
+      "pokemon": "claydol",
+      "location": "SEVENTH STRATUM - B1F",
+      "method": "0.2",
+      "details": "F.O.E.; Psychic",
+      "level": "60-62",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 696
+      }
+    },
+    {
+      "pokemon": "ampharos",
+      "location": "SEVENTH STRATUM - B1F",
+      "method": "0.06",
+      "details": "F.O.E.",
+      "level": "60-62",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 697
+      }
+    },
+    {
+      "pokemon": "ninetales",
+      "location": "SEVENTH STRATUM - B1F",
+      "method": "Event",
+      "details": "",
+      "level": "75",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 692
+      }
+    },
+    {
+      "pokemon": "marowak",
+      "location": "SEVENTH STRATUM - B2F",
+      "method": "0.2",
+      "details": "F.O.E.; Metagross; 75",
+      "level": "60-61",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 703
+      }
+    },
+    {
+      "pokemon": "swalot",
+      "location": "SEVENTH STRATUM - B2F",
+      "method": "0.24",
+      "details": "F.O.E.; Ice Punch",
+      "level": "60-62",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 704
+      }
+    },
+    {
+      "pokemon": "pupitar",
+      "location": "SEVENTH STRATUM - B2F",
+      "method": "0.15",
+      "details": "F.O.E.; Earthquake",
+      "level": "60-62",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 705
+      }
+    },
+    {
+      "pokemon": "arbok",
+      "location": "SEVENTH STRATUM - B2F",
+      "method": "0.15",
+      "details": "F.O.E.; Zen Headbutt",
+      "level": "60-62",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 706
+      }
+    },
+    {
+      "pokemon": "ampharos",
+      "location": "SEVENTH STRATUM - B2F",
+      "method": "0.2",
+      "details": "F.O.E.; Meteor Mash",
+      "level": "60-62",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 707
+      }
+    },
+    {
+      "pokemon": "scizor",
+      "location": "SEVENTH STRATUM - B2F",
+      "method": "0.06",
+      "details": "F.O.E.",
+      "level": "60-62",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 708
+      }
+    },
+    {
+      "pokemon": "metagross",
+      "location": "SEVENTH STRATUM - B2F",
+      "method": "Event",
+      "details": "",
+      "level": "75",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 703
+      }
+    },
+    {
+      "pokemon": "ninetales",
+      "location": "SEVENTH STRATUM - B3F",
+      "method": "0.2",
+      "details": "F.O.E.; Kabutops ⭐; 75",
+      "level": "61-62",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 714
+      }
+    },
+    {
+      "pokemon": "claydol",
+      "location": "SEVENTH STRATUM - B3F",
+      "method": "0.24",
+      "details": "F.O.E.; Night Slash",
+      "level": "61-63",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 715
+      }
+    },
+    {
+      "pokemon": "vileplume",
+      "location": "SEVENTH STRATUM - B3F",
+      "method": "0.15",
+      "details": "F.O.E.; Sucker Punch",
+      "level": "61-63",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 716
+      }
+    },
+    {
+      "pokemon": "altaria",
+      "location": "SEVENTH STRATUM - B3F",
+      "method": "0.15",
+      "details": "F.O.E.; Scythe Dance",
+      "level": "61-63",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 717
+      }
+    },
+    {
+      "pokemon": "alakazam",
+      "location": "SEVENTH STRATUM - B3F",
+      "method": "0.2",
+      "details": "F.O.E.; Dual Wingbeat",
+      "level": "61-63",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 718
+      }
+    },
+    {
+      "pokemon": "tyranitar",
+      "location": "SEVENTH STRATUM - B3F",
+      "method": "0.06",
+      "details": "F.O.E.",
+      "level": "61-63",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 719
+      }
+    },
+    {
+      "pokemon": "kabutops",
+      "location": "SEVENTH STRATUM - B3F",
+      "method": "Event",
+      "details": "",
+      "level": "75",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 714
+      }
+    },
+    {
+      "pokemon": "ninetales",
+      "location": "SEVENTH STRATUM - B4F",
+      "method": "0.2",
+      "details": "",
+      "level": "62-63",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 736
+      }
+    },
+    {
+      "pokemon": "fearow",
+      "location": "SEVENTH STRATUM - B4F",
+      "method": "0.24",
+      "details": "",
+      "level": "62-64",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 737
+      }
+    },
+    {
+      "pokemon": "ratreecate",
+      "location": "SEVENTH STRATUM - B4F",
+      "method": "0.15",
+      "details": "",
+      "level": "62-64",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 738
+      }
+    },
+    {
+      "pokemon": "gliscor",
+      "location": "SEVENTH STRATUM - B4F",
+      "method": "0.15",
+      "details": "",
+      "level": "62-64",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 739
+      }
+    },
+    {
+      "pokemon": "scizor",
+      "location": "SEVENTH STRATUM - B4F",
+      "method": "0.2",
+      "details": "",
+      "level": "62-64",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 740
+      }
+    },
+    {
+      "pokemon": "metagross",
+      "location": "SEVENTH STRATUM - B4F",
+      "method": "0.06",
+      "details": "",
+      "level": "62-64",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 741
+      }
+    },
+    {
+      "pokemon": "flygon",
+      "location": "EIGHTH STRATUM - B1F",
+      "method": "Event",
+      "details": "",
+      "level": "80",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 747
+      }
+    },
+    {
+      "pokemon": "tangrowth",
+      "location": "EIGHTH STRATUM - B2F",
+      "method": "Event",
+      "details": "F.O.E.; Tangrowth ⭐; 80",
+      "level": "80",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 758
+      }
+    },
+    {
+      "pokemon": "tangrowth",
+      "location": "EIGHTH STRATUM - B2F",
+      "method": "Event",
+      "details": "",
+      "level": "80",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 758
+      }
+    },
+    {
+      "pokemon": "dragonite",
+      "location": "EIGHTH STRATUM - B3F",
+      "method": "Event",
+      "details": "F.O.E.; Salamence; 80",
+      "level": "80",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 769
+      }
+    },
+    {
+      "pokemon": "salamence",
+      "location": "EIGHTH STRATUM - B3F",
+      "method": "Event",
+      "details": "",
+      "level": "80",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon",
+        "row": 769
+      }
+    },
+    {
+      "pokemon": "blaziken-battle-bond",
+      "location": "EVENT (Postgame - Sidequest)",
+      "method": "Event",
+      "details": "SEVENTH STRATUM - B1F; EVENT (Postgame); Walking Wake; 90",
+      "level": "75",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon (Postgame)",
+        "row": 5
+      }
+    },
+    {
+      "pokemon": "walking-wake",
+      "location": "EVENT (Postgame)",
+      "method": "Event",
+      "details": "THIRD STRATUM; EVENT (Postgame); Gouging Fire; 90",
+      "level": "90",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon (Postgame)",
+        "row": 5
+      }
+    },
+    {
+      "pokemon": "gouging-fire",
+      "location": "EVENT (Postgame)",
+      "method": "Event",
+      "details": "",
+      "level": "90",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon (Postgame)",
+        "row": 5
+      }
+    },
+    {
+      "pokemon": "regigigas",
+      "location": "EVENT (Postgame)",
+      "method": "Event",
+      "details": "FOURTH STRATUM; EVENT (Postgame); Raging Bolt; 90",
+      "level": "90",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon (Postgame)",
+        "row": 10
+      }
+    },
+    {
+      "pokemon": "raging-bolt",
+      "location": "EVENT (Postgame)",
+      "method": "Event",
+      "details": "",
+      "level": "90",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Pokémon (Postgame)",
+        "row": 10
+      }
+    },
+    {
+      "pokemon": "gyarados",
+      "location": "F.O.E. (Eastern side - North)",
+      "method": "0.5",
+      "details": "",
+      "level": "38",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Naval Explorations",
+        "row": 6
+      }
+    },
+    {
+      "pokemon": "wailord",
+      "location": "F.O.E. (Eastern side - North-East)",
+      "method": "0.5",
+      "details": "F.O.E.; Gyarados; 48",
+      "level": "48",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Naval Explorations",
+        "row": 20
+      }
+    },
+    {
+      "pokemon": "gyarados",
+      "location": "F.O.E. (Eastern side - North-East)",
+      "method": "0.5",
+      "details": "",
+      "level": "48",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Naval Explorations",
+        "row": 20
+      }
+    },
+    {
+      "pokemon": "kingdra",
+      "location": "F.O.E. (Eastern side - South-East)",
+      "method": "0.5",
+      "details": "F.O.E.; Lanturn; 58",
+      "level": "58",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Naval Explorations",
+        "row": 34
+      }
+    },
+    {
+      "pokemon": "lanturn",
+      "location": "F.O.E. (Eastern side - South-East)",
+      "method": "0.5",
+      "details": "",
+      "level": "58",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Naval Explorations",
+        "row": 34
+      }
+    }
+  ]
+}

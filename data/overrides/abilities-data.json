@@ -1,0 +1,1019 @@
+[
+  {
+    "id": 20001,
+    "name": "Chlorophyll",
+    "description": "Raises SPEED in sunshine.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "1"
+    }
+  },
+  {
+    "id": 20002,
+    "name": "Overgrow",
+    "description": "Ups GRASS moves in a pinch.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "2"
+    }
+  },
+  {
+    "id": 20003,
+    "name": "Flash Fire",
+    "description": "Powers up if hit by fire.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "3"
+    }
+  },
+  {
+    "id": 20004,
+    "name": "Blaze",
+    "description": "Ups FIRE moves in a pinch.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "4"
+    }
+  },
+  {
+    "id": 20005,
+    "name": "Shell Armor",
+    "description": "Blocks critical hits.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "5"
+    }
+  },
+  {
+    "id": 20006,
+    "name": "Torrent",
+    "description": "Ups WATER moves in a pinch.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "6"
+    }
+  },
+  {
+    "id": 20007,
+    "name": "Shield Dust",
+    "description": "Prevents added effects.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "7"
+    }
+  },
+  {
+    "id": 20008,
+    "name": "Immunity",
+    "description": "Prevents poisoning.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "8"
+    }
+  },
+  {
+    "id": 20009,
+    "name": "Shed Skin",
+    "description": "Heals the body by shedding.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "9"
+    }
+  },
+  {
+    "id": 20010,
+    "name": "Compound Eyes",
+    "description": "Raises accuracy.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "10"
+    }
+  },
+  {
+    "id": 20011,
+    "name": "Tinted Lens",
+    "description": "Powers up “not very effective” moves.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "11"
+    }
+  },
+  {
+    "id": 20012,
+    "name": "Swarm",
+    "description": "Ups BUG moves in a pinch.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "12"
+    }
+  },
+  {
+    "id": 20013,
+    "name": "Sniper",
+    "description": "Powers up moves if they become critical hits.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "13"
+    }
+  },
+  {
+    "id": 20014,
+    "name": "Keen Eye",
+    "description": "Prevents loss of accuracy.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "14"
+    }
+  },
+  {
+    "id": 20015,
+    "name": "No Guard",
+    "description": "Ensures attacks by or against the Pokémon land.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "15"
+    }
+  },
+  {
+    "id": 20016,
+    "name": "Guts",
+    "description": "Ups ATTACK if suffering.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "16"
+    }
+  },
+  {
+    "id": 20017,
+    "name": "Scrappy",
+    "description": "Enables moves to hit Ghost-type Pokémon.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "17"
+    }
+  },
+  {
+    "id": 20018,
+    "name": "Volt Absorb",
+    "description": "Turns electricity into HP.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "18"
+    }
+  },
+  {
+    "id": 20019,
+    "name": "Rock Head",
+    "description": "Prevents recoil damage.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "19"
+    }
+  },
+  {
+    "id": 20020,
+    "name": "Intimidate",
+    "description": "Lowers the foe’s ATTACK.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "20"
+    }
+  },
+  {
+    "id": 20021,
+    "name": "Defiant",
+    "description": "When its stats are lowered its Attack increases.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "21"
+    }
+  },
+  {
+    "id": 20022,
+    "name": "Lightning Rod",
+    "description": "Draws electrical moves.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "22"
+    }
+  },
+  {
+    "id": 20023,
+    "name": "Sand Rush",
+    "description": "Boosts the Pokémon’s Speed in a sandstorm.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "23"
+    }
+  },
+  {
+    "id": 20024,
+    "name": "Solid Rock",
+    "description": "Reduces damage from supereffective attacks.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "24"
+    }
+  },
+  {
+    "id": 20025,
+    "name": "Poison Point",
+    "description": "Poisons foe on contact.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "25"
+    }
+  },
+  {
+    "id": 20026,
+    "name": "Adaptability",
+    "description": "Powers up moves of the same type.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "26"
+    }
+  },
+  {
+    "id": 20027,
+    "name": "Unaware",
+    "description": "Ignores any stat changes in the Pokémon.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "27"
+    }
+  },
+  {
+    "id": 20028,
+    "name": "Serene Grace",
+    "description": "Promotes added effects.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "28"
+    }
+  },
+  {
+    "id": 20029,
+    "name": "Drought",
+    "description": "Summons sunlight in battle.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "29"
+    }
+  },
+  {
+    "id": 20030,
+    "name": "Filter",
+    "description": "Reduces damage from supereffective attacks.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "30"
+    }
+  },
+  {
+    "id": 20031,
+    "name": "Pickup",
+    "description": "May pick up items.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "31"
+    }
+  },
+  {
+    "id": 20032,
+    "name": "Inner Focus",
+    "description": "Prevents flinching.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "32"
+    }
+  },
+  {
+    "id": 20033,
+    "name": "Super Luck",
+    "description": "Heightens the critical- hit ratios of moves.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "33"
+    }
+  },
+  {
+    "id": 20034,
+    "name": "Own Tempo",
+    "description": "Prevents confusion.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "34"
+    }
+  },
+  {
+    "id": 20035,
+    "name": "Effect Spore",
+    "description": "Leaves spores on contact.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "35"
+    }
+  },
+  {
+    "id": 20036,
+    "name": "Rain Dish",
+    "description": "Slight HP recovery in rain.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "36"
+    }
+  },
+  {
+    "id": 20037,
+    "name": "Prism Lens",
+    "description": "Boosts Psychic-type moves by 50%.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "37"
+    }
+  },
+  {
+    "id": 20038,
+    "name": "Sand Veil",
+    "description": "Ups evasion in a sandstorm.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "38"
+    }
+  },
+  {
+    "id": 20039,
+    "name": "Arena Trap",
+    "description": "Prevents fleeing.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "39"
+    }
+  },
+  {
+    "id": 20040,
+    "name": "Fur Coat",
+    "description": "Halves the damage from physical moves.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "40"
+    }
+  },
+  {
+    "id": 20041,
+    "name": "Swift Swim",
+    "description": "Raises SPEED in rain.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "41"
+    }
+  },
+  {
+    "id": 20042,
+    "name": "Cloud Nine",
+    "description": "Negates weather effects.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "42"
+    }
+  },
+  {
+    "id": 20043,
+    "name": "Water Absorb",
+    "description": "Changes water into HP.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "43"
+    }
+  },
+  {
+    "id": 20044,
+    "name": "Synchronize",
+    "description": "Passes on status problems.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "44"
+    }
+  },
+  {
+    "id": 20045,
+    "name": "Gluttony",
+    "description": "Encourages the early use of a held Berry.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "45"
+    }
+  },
+  {
+    "id": 20046,
+    "name": "Clear Body",
+    "description": "Prevents ability reduction.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "46"
+    }
+  },
+  {
+    "id": 20047,
+    "name": "Liquid Ooze",
+    "description": "Draining causes injury.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "47"
+    }
+  },
+  {
+    "id": 20048,
+    "name": "Sturdy",
+    "description": "Prevents KO if full HP at the beginning of the turn.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "48"
+    }
+  },
+  {
+    "id": 20049,
+    "name": "Slush Rush",
+    "description": "Boosts the Pokémon’s Speed stat in a hailstorm.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "49"
+    }
+  },
+  {
+    "id": 20050,
+    "name": "Oblivious",
+    "description": "Prevents attraction.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "50"
+    }
+  },
+  {
+    "id": 20051,
+    "name": "Magnet Pull",
+    "description": "Traps STEEL-type POKéMON.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "51"
+    }
+  },
+  {
+    "id": 20052,
+    "name": "Omni-Chase",
+    "description": "50% Speed up during weather.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "52"
+    }
+  },
+  {
+    "id": 20053,
+    "name": "Early Bird",
+    "description": "Awakens quickly from sleep.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "53"
+    }
+  },
+  {
+    "id": 20054,
+    "name": "Thick Fat",
+    "description": "Heat-and-cold protection.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "54"
+    }
+  },
+  {
+    "id": 20055,
+    "name": "Snow Cloak",
+    "description": "Raises evasion in a hailstorm.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "55"
+    }
+  },
+  {
+    "id": 20056,
+    "name": "Snow Warning",
+    "description": "The Pokémon summons a hailstorm in battle.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "56"
+    }
+  },
+  {
+    "id": 20057,
+    "name": "Sticky Hold",
+    "description": "Prevents item theft.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "57"
+    }
+  },
+  {
+    "id": 20058,
+    "name": "Skill Link",
+    "description": "Increases the frequency of multi-strike moves.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "58"
+    }
+  },
+  {
+    "id": 20059,
+    "name": "Levitate",
+    "description": "Not hit by GROUND attacks.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "59"
+    }
+  },
+  {
+    "id": 20060,
+    "name": "Shadow Tag",
+    "description": "Prevents the foe’s escape.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "60"
+    }
+  },
+  {
+    "id": 20061,
+    "name": "Insomnia",
+    "description": "Prevents sleep.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "61"
+    }
+  },
+  {
+    "id": 20062,
+    "name": "Hyper Cutter",
+    "description": "Prevents ATTACK reduction.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "62"
+    }
+  },
+  {
+    "id": 20063,
+    "name": "Soundproof",
+    "description": "Avoids sound-based moves.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "63"
+    }
+  },
+  {
+    "id": 20064,
+    "name": "Static",
+    "description": "Paralyzes on contact.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "64"
+    }
+  },
+  {
+    "id": 20065,
+    "name": "Limber",
+    "description": "Prevents paralysis.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "65"
+    }
+  },
+  {
+    "id": 20066,
+    "name": "Unburden",
+    "description": "Raises Speed if a held item is used.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "66"
+    }
+  },
+  {
+    "id": 20067,
+    "name": "White Smoke",
+    "description": "Prevents ability reduction.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "67"
+    }
+  },
+  {
+    "id": 20068,
+    "name": "Intense Care",
+    "description": "Healing moves gain +1 priority.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "68"
+    }
+  },
+  {
+    "id": 20069,
+    "name": "Eerie Aura",
+    "description": "Boosts Ghost-type moves by 20%.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "69"
+    }
+  },
+  {
+    "id": 20070,
+    "name": "Illuminate",
+    "description": "Encounter rate increases.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "70"
+    }
+  },
+  {
+    "id": 20071,
+    "name": "Natural Cure",
+    "description": "Heals upon switching out.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "71"
+    }
+  },
+  {
+    "id": 20072,
+    "name": "Vital Spirit",
+    "description": "Prevents sleep.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "72"
+    }
+  },
+  {
+    "id": 20073,
+    "name": "Technician",
+    "description": "Powers up the Pokémon’s weaker moves.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "73"
+    }
+  },
+  {
+    "id": 20074,
+    "name": "Protean",
+    "description": "Changes the Pokémon’s type to the type of the move it’s about to use.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "74"
+    }
+  },
+  {
+    "id": 20075,
+    "name": "Fafnir",
+    "description": "Boosts Electric and Dragon-type moves by 20%",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "75"
+    }
+  },
+  {
+    "id": 20076,
+    "name": "Moxie",
+    "description": "Boosts Attack after knocking out any Pokémon.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "76"
+    }
+  },
+  {
+    "id": 20077,
+    "name": "Hustle",
+    "description": "Trades accuracy for power.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "77"
+    }
+  },
+  {
+    "id": 20078,
+    "name": "Radiance",
+    "description": "Normal-type moves become Aether type and get a 30% damage boost.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "78"
+    }
+  },
+  {
+    "id": 20079,
+    "name": "Marvel Scale",
+    "description": "Ups DEFENSE if suffering.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "79"
+    }
+  },
+  {
+    "id": 20080,
+    "name": "Trace",
+    "description": "Copies special ability.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "80"
+    }
+  },
+  {
+    "id": 20081,
+    "name": "Multiscale",
+    "description": "Reduces damage when HP is full.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "81"
+    }
+  },
+  {
+    "id": 20082,
+    "name": "Omnihunter",
+    "description": "Boosts Flying-type moves by 50%",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "82"
+    }
+  },
+  {
+    "id": 20083,
+    "name": "Venom Blood",
+    "description": "Boosts Poison-type moves by 50%.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "83"
+    }
+  },
+  {
+    "id": 20084,
+    "name": "Huge Power",
+    "description": "Raises ATTACK.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "84"
+    }
+  },
+  {
+    "id": 20085,
+    "name": "Singularity",
+    "description": "Boosts Fire and Ice-type moves by 25%",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "85"
+    }
+  },
+  {
+    "id": 20086,
+    "name": "Flare Boost",
+    "description": "Powers up special attacks when burned.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "86"
+    }
+  },
+  {
+    "id": 20087,
+    "name": "Botanist",
+    "description": "'Herb' and 'Potion' moves gain +1 priority.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "87"
+    }
+  },
+  {
+    "id": 20088,
+    "name": "Sand Stream",
+    "description": "Summons a sandstorm.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "88"
+    }
+  },
+  {
+    "id": 20089,
+    "name": "Drizzle",
+    "description": "Summons rain in battle.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "89"
+    }
+  },
+  {
+    "id": 20090,
+    "name": "Speed Boost",
+    "description": "Gradually boosts SPEED.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "90"
+    }
+  },
+  {
+    "id": 20091,
+    "name": "Magma Armor",
+    "description": "Prevents freezing.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "91"
+    }
+  },
+  {
+    "id": 20092,
+    "name": "Flame Body",
+    "description": "Burns the foe on contact.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "92"
+    }
+  },
+  {
+    "id": 20093,
+    "name": "Arcanist",
+    "description": "Boosts Psychic-type moves by 20%",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "93"
+    }
+  },
+  {
+    "id": 20094,
+    "name": "Wonder Guard",
+    "description": "“Super effective” hits.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "94"
+    }
+  },
+  {
+    "id": 20095,
+    "name": "Gale Wings",
+    "description": "Gives priority to Flying-type moves when the Pokémon’s HP is full.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "95"
+    }
+  },
+  {
+    "id": 20096,
+    "name": "Keen Eye",
+    "description": "Prevents loss of accuracy.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "96"
+    }
+  },
+  {
+    "id": 20097,
+    "name": "Pressure",
+    "description": "Raises foe’s PP usage.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "97"
+    }
+  },
+  {
+    "id": 20098,
+    "name": "Color Change",
+    "description": "Changes type to foe’s move.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "98"
+    }
+  },
+  {
+    "id": 20099,
+    "name": "Prankster",
+    "description": "Gives priority to a status move.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "99"
+    }
+  },
+  {
+    "id": 20100,
+    "name": "Rough Skin",
+    "description": "Hurts to touch.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "100"
+    }
+  },
+  {
+    "id": 20101,
+    "name": "Plus",
+    "description": "Powers up with MINUS.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "101"
+    }
+  },
+  {
+    "id": 20102,
+    "name": "Abyss Grace",
+    "description": "Raises the team's accuracy by 10% while it's battling.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "102"
+    }
+  },
+  {
+    "id": 20103,
+    "name": "Minus",
+    "description": "Powers up with PLUS.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "103"
+    }
+  },
+  {
+    "id": 20104,
+    "name": "Abyss Boost",
+    "description": "Raises the user's best stat after it KOs an opponent.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "104"
+    }
+  },
+  {
+    "id": 20105,
+    "name": "Pure Power",
+    "description": "Raises ATTACK.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "105"
+    }
+  },
+  {
+    "id": 20106,
+    "name": "Jungle King",
+    "description": "Boosts Ground and Fighting-type moves by 50%",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "106"
+    }
+  },
+  {
+    "id": 20107,
+    "name": "Dragon Fruit",
+    "description": "Boosts Dragon-type moves by 50%",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "107"
+    }
+  },
+  {
+    "id": 20108,
+    "name": "Toxic Boost",
+    "description": "Powers up physical attacks when poisoned.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "108"
+    }
+  },
+  {
+    "id": 20109,
+    "name": "Forecast",
+    "description": "Changes with the weather.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "109"
+    }
+  },
+  {
+    "id": 20110,
+    "name": "Battle Armor",
+    "description": "Blocks critical hits.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "110"
+    }
+  },
+  {
+    "id": 20111,
+    "name": "Sovereignty",
+    "description": "'Order' moves gain +1 priority.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "111"
+    }
+  },
+  {
+    "id": 20112,
+    "name": "Wonder Skin",
+    "description": "Makes status-changing moves more likely to miss.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "112"
+    }
+  },
+  {
+    "id": 20113,
+    "name": "Competitive",
+    "description": "Boosts the Sp. Atk stat sharply when a stat is lowered.",
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "113"
+    }
+  }
+]

@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#20271f">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Pokémon Odyssey">
+  <meta name="description" content="An offline-friendly field guide for Pokémon Odyssey.">
+  <meta property="og:title" content="Pokémon Odyssey Field Guide">
+  <meta property="og:description" content="Explore Pokémon, encounters, moves, items and team planning.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="assets/art/journal.svg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Pokémon Odyssey Field Guide">
+  <meta name="twitter:description" content="Explore Pokémon, encounters, moves, items and team planning.">
+  <meta name="twitter:image" content="assets/art/journal.svg">
+  <title>Pokémon Odyssey Field Guide</title>
+  <link rel="icon" type="image/png" href="assets/icons/icon-32.png">
+  <link rel="apple-touch-icon" href="assets/icons/icon-180.png">
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="stylesheet" href="styles.css?v=87c9c05ca1">
+  <link rel="stylesheet" href="refinements.css?v=1a0fde852d"><link rel="stylesheet" href="adventure.css?v=02ad762fe7">
+  <script src="config/game-config.js?v=a8020620cd"></script>
+  <script src="config/game-overrides.js?v=648b389994"></script>
+  <script src="sync-config.js?v=56dca4b144"></script>
+</head>
+<body>
+  <header class="topbar">
+    <button class="brand" data-view="home" aria-label="Go to overview">
+      <img class="brand-logo" src="assets/art/compass.svg" alt="">
+      <span><strong>Odyssey Journal</strong></span>
+    </button>
+    <div class="global-search-wrap">
+      <label class="global-search"><span>⌕</span><input id="globalSearch" type="search" placeholder="Search the whole guide…" autocomplete="off" aria-controls="universalResults" aria-expanded="false"><kbd>/</kbd></label>
+      <div id="universalResults" class="universal-results" hidden></div>
+    </div>
+    <button class="progress-pill" data-view="progress"><span id="headerProgress">0%</span><b>My Dex</b></button>
+  <button class="adventure-theme" id="themeToggle" aria-label="Switch colour theme">Light / dark</button></header>
+  <div class="shell">
+    <aside class="sidebar">
+      <nav>
+        <button class="active" data-view="home"><img class="nav-sprite" src="assets/items/exp-candy-xl.png" alt="" aria-hidden="true">Overview</button>
+        <button data-view="journey"><img class="nav-sprite" src="assets/items/adventure-guide.png" alt="" aria-hidden="true">Journal</button><button data-view="atlas"><img class="nav-sprite" src="assets/items/old-sea-map.png" alt="" aria-hidden="true">Atlas</button><button data-view="available"><img class="nav-sprite" src="assets/items/poke-radar.png" alt="" aria-hidden="true">Available by milestone</button><button data-view="compare"><img class="nav-sprite" src="assets/items/silph-scope.png" alt="" aria-hidden="true">Compare</button><button data-view="pokedex"><img class="nav-sprite" src="assets/items/poke-radar.png" alt="" aria-hidden="true">Pokédex</button>
+        <button data-view="moves"><img class="nav-sprite" src="assets/items/tm-case.png" alt="" aria-hidden="true">Moves</button>
+        <button data-view="items"><img class="nav-sprite" src="assets/items/prop-case.png" alt="" aria-hidden="true">Items</button>
+        <button data-view="locations"><img class="nav-sprite" src="assets/items/town-map.png" alt="" aria-hidden="true">Locations</button>
+        <button data-view="team"><img class="nav-sprite" src="assets/items/poke-ball.png" alt="" aria-hidden="true">Team Builder</button>
+        <button data-view="future"><img class="nav-sprite" src="assets/odyssey-items/001.png" alt="" aria-hidden="true">Future Team</button>
+        <button data-view="favorites"><img class="nav-sprite" src="assets/items/heart-scale.png" alt="" aria-hidden="true">Favorites</button>
+        <button data-view="battle"><img class="nav-sprite" src="assets/items/vs-seeker.png" alt="" aria-hidden="true">Battles</button>
+        <button data-view="trainer"><img class="nav-sprite" src="assets/items/adventure-guide.png" alt="" aria-hidden="true">Trainer</button>
+        <button data-view="progress"><img class="nav-sprite" src="assets/items/adventure-guide.png" alt="" aria-hidden="true">Progress</button>
+        <button data-view="save"><img class="nav-sprite" src="assets/items/card-key.png" alt="" aria-hidden="true">Save &amp; Export</button>
+      </nav>
+      <div class="source-card"><small>ODYSSEY v4.1.1</small><p>Your local adventure companion.</p><button data-view="coverage">Sources &amp; coverage</button></div>
+    </aside>
+    <main id="mainContent" tabindex="-1"></main>
+  </div>
+  <nav class="mobile-nav"><button data-view="journey"><img class="nav-sprite" src="assets/items/adventure-guide.png" alt="" aria-hidden="true"><small>Journal</small></button><button data-view="atlas"><img class="nav-sprite" src="assets/items/old-sea-map.png" alt="" aria-hidden="true"><small>Atlas</small></button><button data-view="available"><img class="nav-sprite" src="assets/items/poke-radar.png" alt="" aria-hidden="true"><small>Available</small></button><button data-view="compare"><img class="nav-sprite" src="assets/items/silph-scope.png" alt="" aria-hidden="true"><small>Compare</small></button><button data-view="home"><img class="nav-sprite" src="assets/items/exp-candy-xl.png" alt="" aria-hidden="true"><small>Home</small></button><button data-view="pokedex"><img class="nav-sprite" src="assets/items/poke-radar.png" alt="" aria-hidden="true"><small>Dex</small></button><button data-view="moves"><img class="nav-sprite" src="assets/items/tm-case.png" alt="" aria-hidden="true"><small>Moves</small></button><button data-view="items"><img class="nav-sprite" src="assets/items/prop-case.png" alt="" aria-hidden="true"><small>Items</small></button><button data-view="locations"><img class="nav-sprite" src="assets/items/town-map.png" alt="" aria-hidden="true"><small>Places</small></button><button data-view="team"><img class="nav-sprite" src="assets/items/poke-ball.png" alt="" aria-hidden="true"><small>Team</small></button><button data-view="future"><img class="nav-sprite" src="assets/odyssey-items/001.png" alt="" aria-hidden="true"><small>Future</small></button><button data-view="favorites"><img class="nav-sprite" src="assets/items/heart-scale.png" alt="" aria-hidden="true"><small>Saved</small></button><button data-view="battle"><img class="nav-sprite" src="assets/items/vs-seeker.png" alt="" aria-hidden="true"><small>Battles</small></button><button data-view="trainer"><img class="nav-sprite" src="assets/items/adventure-guide.png" alt="" aria-hidden="true"><small>Trainer</small></button><button data-view="progress"><img class="nav-sprite" src="assets/items/adventure-guide.png" alt="" aria-hidden="true"><small>Progress</small></button><button data-view="save"><img class="nav-sprite" src="assets/items/card-key.png" alt="" aria-hidden="true"><small>Save</small></button></nav>
+  <dialog id="detailDialog"><div id="dialogContent"></div></dialog>
+  <dialog id="profileSetupDialog" aria-labelledby="profileSetupTitle"></dialog>
+  <button id="jumpTop" aria-label="Jump to top">↑</button>
+  <div id="toast" aria-live="polite"></div>
+  <script src="data/guide-data.js?v=2eb8d45e5c"></script>
+  <script src="data/items-data.js?v=21c661ad37"></script>
+  <script src="data/legendary-data.js?v=8dbecc7ab2"></script>
+  <script src="data/acquisition-data.js?v=d4aab4d44c"></script>
+  <script src="data/egg-data.js?v=e3f131c0b2"></script>
+  <script src="data/battle-data.js?v=eb4580fb45"></script>
+  <script src="data/move-tutor-data.js?v=3c015256c7"></script>
+  <script src="data/curated-builds.js?v=98f0d0259f"></script>
+  <script src="data/journey-data.js?v=c50be54cd1"></script><script src="companion.js?v=65da18442b"></script><script src="app.js?v=b526748b16"></script>
+<script>document.querySelector('#themeToggle').onclick=()=>{const next=document.documentElement.dataset.theme==='dark'?'light':'dark';document.documentElement.dataset.theme=next;localStorage.setItem('odyssey-display-theme',next)};document.documentElement.dataset.theme=localStorage.getItem('odyssey-display-theme')||'dark';</script><script>if('serviceWorker' in navigator)navigator.serviceWorker.register('sw.js');</script></body>
+</html>
+

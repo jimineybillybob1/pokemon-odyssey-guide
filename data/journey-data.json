@@ -1,0 +1,5968 @@
+{
+  "quests": [
+    {
+      "id": "#1",
+      "name": "Talk to me!",
+      "location": "Talrega (Elder)",
+      "description": "Talk to the elder next to the Adventurers Guild",
+      "reward": "Poké Ball x5",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 2
+      }
+    },
+    {
+      "id": "#2",
+      "name": "The Island of Varley",
+      "location": "Coastal Road - Dock of Talrega (Captain)",
+      "description": "Find a new sea route to Varley through Naval Explorations",
+      "reward": "Access to Varley",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 3
+      }
+    },
+    {
+      "id": "#3",
+      "name": "The Island of Arundel",
+      "location": "Coastal Road - Dock of Talrega (Captain)",
+      "description": "Find a new sea route to Arundel through Naval Explorations",
+      "reward": "Access to Arundel",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 4
+      }
+    },
+    {
+      "id": "#4",
+      "name": "The Island of Charon",
+      "location": "Coastal Road - Dock of Talrega (Captain)",
+      "description": "Find a new sea route to Charon through Naval Explorations",
+      "reward": "Access to Charon",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 5
+      }
+    },
+    {
+      "id": "#5",
+      "name": "The Island of Gorenil",
+      "location": "Coastal Road - Dock of Talrega (Captain)",
+      "description": "Find a new sea route to Gorenil through Naval Explorations",
+      "reward": "Access to Gorenil",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 6
+      }
+    },
+    {
+      "id": "#6",
+      "name": "Shop LV.2",
+      "location": "Adventurers Guild (Rikkah)",
+      "description": "Bring 5 Red Flowers and 3 Emerald to Rikkah.",
+      "reward": "Shop upgrade: Level 2",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 7
+      }
+    },
+    {
+      "id": "#7",
+      "name": "Shop LV.3",
+      "location": "Adventurers Guild (Rikkah)",
+      "description": "Bring 7 Yellow Flowers and 4 Topaz to Rikkah.",
+      "reward": "Shop upgrade: Level 3",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 8
+      }
+    },
+    {
+      "id": "#8",
+      "name": "Shop LV.4",
+      "location": "Adventurers Guild (Rikkah)",
+      "description": "Bring 6 Blue and Purple Flowers, 3 Sapphire and Dolomite to Rikkah.",
+      "reward": "Shop upgrade: Level 4",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 9
+      }
+    },
+    {
+      "id": "#9",
+      "name": "Saya's Research 1",
+      "location": "Pokémon Lab in Coastal Road (Saya)",
+      "description": "Show a regional Gulpin to Saya.",
+      "reward": "Either Bulbasaur, Charmander or Squirtle at LV.5",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 10
+      }
+    },
+    {
+      "id": "#10",
+      "name": "Saya's Research 2",
+      "location": "Pokémon Lab in Coastal Road (Saya)",
+      "description": "Show a regional Corsola to Saya.",
+      "reward": "Either Chikorita, Cyndaquil or Totodile at LV.15",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 11
+      }
+    },
+    {
+      "id": "#11",
+      "name": "Saya's Research 3",
+      "location": "Pokémon Lab in Coastal Road (Saya)",
+      "description": "Show a regional Xatu to Saya.",
+      "reward": "Either Treecko, Torchic or Mudkip at LV.25",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 12
+      }
+    },
+    {
+      "id": "#12",
+      "name": "Your Compendium...",
+      "location": "Pokémon Lab in Coastal Road (Scientist)",
+      "description": "Catch 40 Pokémon and show your Compendium to the scientist.",
+      "reward": "Ev-Editor",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 13
+      }
+    },
+    {
+      "id": "#13",
+      "name": "I want a Shroomish!",
+      "location": "Adventurers Guild (Child)",
+      "description": "Find a Shroomish for the child at the Guild of Talrega.",
+      "reward": "Clefairy",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 14
+      }
+    },
+    {
+      "id": "#14",
+      "name": "The magic potion",
+      "location": "Arundel (Hex Maniac)",
+      "description": "Find the Talisman lost by the girl on Arundel.",
+      "reward": "Stamina upgrade (+20 points)",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 15
+      }
+    },
+    {
+      "id": "#15",
+      "name": "I want a Ralts!",
+      "location": "Charon (Bird Keeper)",
+      "description": "Find a Ralts for the boy on Charon.",
+      "reward": "Farfetch'd ⭐",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 16
+      }
+    },
+    {
+      "id": "#16",
+      "name": "The perfect gift",
+      "location": "Gorge of Zanado (Rich Boy)",
+      "description": "Bring 3 Red Flower, 3 Yellow Flowers and 3 Topaz to the Boy at the Gorge of Zanado.",
+      "reward": "Girafarig LV.20",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 17
+      }
+    },
+    {
+      "id": "#17",
+      "name": "One drink too many...",
+      "location": "Muu Muu Café - Island of Charon (Daig)",
+      "description": "Help Daig calm his friends down at the Brigit Farm.",
+      "reward": "TM31 (Brick Break), TM34 (Shock Wave)",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 18
+      }
+    },
+    {
+      "id": "#18",
+      "name": "The love potion",
+      "location": "Krabby Club - Coastal Road (Hex Maniac)",
+      "description": "Bring 4 Red Flowers and 4 Yellow Flowers to the Girl at the Krabby Club.",
+      "reward": "Dusk Stone",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 19
+      }
+    },
+    {
+      "id": "#19",
+      "name": "The Old Amber",
+      "location": "Krabby Club - Coastal Road (Adventurer)",
+      "description": "Recover the Amber from the sandy caves of the Second Stratum.",
+      "reward": "Aerodactyl LV.25 ⭐",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 20
+      }
+    },
+    {
+      "id": "#20",
+      "name": "Find Yanma",
+      "location": "Krabby Club - Coastal Road (Bug Catcher)",
+      "description": "Trade Yanma to the boy at the Krabby Club.",
+      "reward": "Porygon",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 21
+      }
+    },
+    {
+      "id": "#21",
+      "name": "Show me a Sneasel!",
+      "location": "Krabby Club - Coastal Road (Pokéfanatic)",
+      "description": "Show a Sneasel to the boy at the Krabby Club.",
+      "reward": "TM05 (Snarl)",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 22
+      }
+    },
+    {
+      "id": "#22",
+      "name": "The cake is a lie",
+      "location": "Krabby Club - Coastal Road (Pokémon Breeder)",
+      "description": "Bring 10 Oran Berries, 5 Pecha Berries and 5 Chesto Berries to the girl at the Krabby Club.",
+      "reward": "TM16 (Light Screen), TM33 (Reflect)",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 23
+      }
+    },
+    {
+      "id": "#23",
+      "name": "How to tame a boar...",
+      "location": "Krabby Club - Coastal Road (Teo, the shady-looking guy)",
+      "description": "Fight against Teo in Fibernia Woods.",
+      "reward": "Winged Boots",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 24
+      }
+    },
+    {
+      "id": "#24",
+      "name": "Eeveelution!",
+      "location": "Third Stratum Base Camp (Lady)",
+      "description": "Show Vaporeon, Jolteon and Flareon to the Woman at the base camp.",
+      "reward": "TM08 (Bulk Up), TM23 (Iron Tail)",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 25
+      }
+    },
+    {
+      "id": "#25",
+      "name": "The Red Bell",
+      "location": "Third Stratum Base Camp (Adventurer)",
+      "description": "Make sure the Third Stratum boy is okay.",
+      "reward": "Tent x2",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 26
+      }
+    },
+    {
+      "id": "#26",
+      "name": "The lost Castform",
+      "location": "Auburn Thicket - Island of Gorenil (Scientist)",
+      "description": "Find the lost Castform in Auburn Thicket.",
+      "reward": "TM24 (Thunderbolt)",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 27
+      }
+    },
+    {
+      "id": "#27",
+      "name": "Where's my child?",
+      "location": "Azure Cave - Fourth Stratum (Hiker)",
+      "description": "Find the lost child in the Azure Cave of the Fourth Stratum.",
+      "reward": "Magna Vis (Key Item, basically HM Strength)",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 28
+      }
+    },
+    {
+      "id": "#28",
+      "name": "My poor Chansey",
+      "location": "Rade of Carcino - Fourth Stratum (Lady)",
+      "description": "Find the lost Chansey in the Fourth Stratum.",
+      "reward": "Chansey \"Super Training\"",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 29
+      }
+    },
+    {
+      "id": "#29",
+      "name": "I hate pirates!",
+      "location": "Rade of Carcino - Fourth Stratum (Merchant)",
+      "description": "Recover the goods stolen by the pirates of Pirate Island.",
+      "reward": "Magmarizer, Electirizer",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 30
+      }
+    },
+    {
+      "id": "#30",
+      "name": "The Renegade",
+      "location": "Jagged Mountain (Manfroy)",
+      "description": "Solve the mystery of the Jagged Mountain.",
+      "reward": "Memento Vitae (Key Item, it's a move reminder)",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 31
+      }
+    },
+    {
+      "id": "#31",
+      "name": "The Mantis' Nest",
+      "location": "Rade of Carcino - Fourth Stratum (Ranger)",
+      "description": "Defeat Kabutops F.O.E. in the First Stratum.",
+      "reward": "TM25 (Thunder)",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 32
+      }
+    },
+    {
+      "id": "#32",
+      "name": "Napier's Requests",
+      "location": "Aqua Resort (Jenetta and Napier)",
+      "description": "Help Jenetta and Napier in their quest to recover the stolen treasures.",
+      "reward": "Master Ball, 200.000 Poké, Aqua Resort's penthouse",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 33
+      }
+    },
+    {
+      "id": "#33",
+      "name": "A Fanatic's Demand",
+      "location": "Aqua Resort (Pokéfanatic)",
+      "description": "Find a Beldum for the boy at the Aqua Resort.",
+      "reward": "Kangaskhan",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 34
+      }
+    },
+    {
+      "id": "#34",
+      "name": "The wounded Lapras",
+      "location": "Aqua Resort (Pokémon Breeder)",
+      "description": "Treat the wounded Lapras.",
+      "reward": "Lapras LV.15",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 35
+      }
+    },
+    {
+      "id": "#35",
+      "name": "Holy Cow!",
+      "location": "Talrega's Farm",
+      "description": "Trade Miltank to the boy at Talerga's Farm.",
+      "reward": "Tauros",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 36
+      }
+    },
+    {
+      "id": "#36",
+      "name": "From the abyss...",
+      "location": "Sixth Stratum (Near the Base Camp)",
+      "description": "Find the Ace Trainer's boyfriend in the Sixth Stratum.",
+      "reward": "Ultra Ball x30",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 37
+      }
+    },
+    {
+      "id": "#37",
+      "name": "The Three Bells",
+      "location": "Sea Temple",
+      "description": "Recover the Red Bell (3rd Stratum), the Blue Bell (Azure Cave) and the Yellow Bell (5th stratum) and return to the Sea Temple.",
+      "reward": "???",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 38
+      }
+    },
+    {
+      "id": "#38",
+      "name": "My Parting Gift...",
+      "location": "Talrega (Postgame)",
+      "description": "Search for the weird Blaziken in the Eighth Stratum.",
+      "reward": "Blaziken (Battle Bond) LV.75 ⭐",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sidequests",
+        "row": 39
+      }
+    }
+  ],
+  "caps": [
+    {
+      "name": "First Stratum: Emerald Grove",
+      "cap": 18
+    },
+    {
+      "name": "Second Stratum: Sand Sea of Golgonda",
+      "cap": 30
+    },
+    {
+      "name": "Third Stratum: Magmatic Caves",
+      "cap": 40
+    },
+    {
+      "name": "Fourth Stratum: Azure Rainforest",
+      "cap": 50
+    },
+    {
+      "name": "Fifth Stratum: Abyssal Shrine",
+      "cap": 60
+    },
+    {
+      "name": "Sixth Stratum: Frozen Grounds",
+      "cap": 65
+    },
+    {
+      "name": "Seventh Stratum: Porcelain Forest",
+      "cap": 70
+    },
+    {
+      "name": "Eighth Stratum: Cyclopean Haunt",
+      "cap": 75
+    }
+  ],
+  "maps": [
+    {
+      "name": "Naval exploration map",
+      "image": "assets/maps/sea-map-1.png",
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Sea Map",
+        "row": 1
+      }
+    }
+  ],
+  "references": [
+    {
+      "title": "Items (Shop)",
+      "rows": [
+        {
+          "row": 2,
+          "cells": [
+            {
+              "column": 1,
+              "value": "GENERAL SHOP"
+            }
+          ]
+        },
+        {
+          "row": 3,
+          "cells": [
+            {
+              "column": 1,
+              "value": "LEVEL 1"
+            },
+            {
+              "column": 5,
+              "value": "LEVEL 2"
+            },
+            {
+              "column": 9,
+              "value": "LEVEL 3"
+            },
+            {
+              "column": 13,
+              "value": "LEVEL 4"
+            }
+          ]
+        },
+        {
+          "row": 4,
+          "cells": [
+            {
+              "column": 2,
+              "value": "Poké Ball"
+            },
+            {
+              "column": 6,
+              "value": "Poké Ball"
+            },
+            {
+              "column": 10,
+              "value": "Poké Ball"
+            },
+            {
+              "column": 14,
+              "value": "Poké Ball"
+            }
+          ]
+        },
+        {
+          "row": 5,
+          "cells": [
+            {
+              "column": 2,
+              "value": "Medica"
+            },
+            {
+              "column": 6,
+              "value": "Great Ball"
+            },
+            {
+              "column": 10,
+              "value": "Great Ball"
+            },
+            {
+              "column": 14,
+              "value": "Great Ball"
+            }
+          ]
+        },
+        {
+          "row": 6,
+          "cells": [
+            {
+              "column": 2,
+              "value": "Repel"
+            },
+            {
+              "column": 6,
+              "value": "Medica"
+            },
+            {
+              "column": 10,
+              "value": "Ultra Ball"
+            },
+            {
+              "column": 14,
+              "value": "Ultra Ball"
+            }
+          ]
+        },
+        {
+          "row": 7,
+          "cells": [
+            {
+              "column": 2,
+              "value": "Ariadne Thread"
+            },
+            {
+              "column": 6,
+              "value": "Medica II"
+            },
+            {
+              "column": 10,
+              "value": "Medica"
+            },
+            {
+              "column": 14,
+              "value": "Medica"
+            }
+          ]
+        },
+        {
+          "row": 8,
+          "cells": [
+            {
+              "column": 6,
+              "value": "Antidote"
+            },
+            {
+              "column": 10,
+              "value": "Medica II"
+            },
+            {
+              "column": 14,
+              "value": "Medica II"
+            }
+          ]
+        },
+        {
+          "row": 9,
+          "cells": [
+            {
+              "column": 6,
+              "value": "Burn Heal"
+            },
+            {
+              "column": 10,
+              "value": "Medica III"
+            },
+            {
+              "column": 14,
+              "value": "Medica III"
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "column": 6,
+              "value": "Ice Heal"
+            },
+            {
+              "column": 10,
+              "value": "Nectar"
+            },
+            {
+              "column": 14,
+              "value": "Medica IV"
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "column": 6,
+              "value": "Awakening"
+            },
+            {
+              "column": 10,
+              "value": "Antidote"
+            },
+            {
+              "column": 14,
+              "value": "Medica V"
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "column": 6,
+              "value": "Paralyz Heal"
+            },
+            {
+              "column": 10,
+              "value": "Burn Heal"
+            },
+            {
+              "column": 14,
+              "value": "Nectar"
+            }
+          ]
+        },
+        {
+          "row": 13,
+          "cells": [
+            {
+              "column": 6,
+              "value": "Repel"
+            },
+            {
+              "column": 10,
+              "value": "Ice Heal"
+            },
+            {
+              "column": 14,
+              "value": "Antidote"
+            }
+          ]
+        },
+        {
+          "row": 14,
+          "cells": [
+            {
+              "column": 6,
+              "value": "Super Repel"
+            },
+            {
+              "column": 10,
+              "value": "Awakening"
+            },
+            {
+              "column": 14,
+              "value": "Burn Heal"
+            }
+          ]
+        },
+        {
+          "row": 15,
+          "cells": [
+            {
+              "column": 6,
+              "value": "Ariadne Thread"
+            },
+            {
+              "column": 10,
+              "value": "Paralyz Heal"
+            },
+            {
+              "column": 14,
+              "value": "Ice Heal"
+            }
+          ]
+        },
+        {
+          "row": 16,
+          "cells": [
+            {
+              "column": 6,
+              "value": "Tent"
+            },
+            {
+              "column": 10,
+              "value": "Theriaca"
+            },
+            {
+              "column": 14,
+              "value": "Awakening"
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "column": 10,
+              "value": "Repel"
+            },
+            {
+              "column": 14,
+              "value": "Paralyz Heal"
+            }
+          ]
+        },
+        {
+          "row": 18,
+          "cells": [
+            {
+              "column": 10,
+              "value": "Super Repel"
+            },
+            {
+              "column": 14,
+              "value": "Theriaca"
+            }
+          ]
+        },
+        {
+          "row": 19,
+          "cells": [
+            {
+              "column": 10,
+              "value": "Max Repel"
+            },
+            {
+              "column": 14,
+              "value": "Max Elixir"
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "column": 10,
+              "value": "Ariadne Thread"
+            },
+            {
+              "column": 14,
+              "value": "Repel"
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "column": 10,
+              "value": "Tent"
+            },
+            {
+              "column": 14,
+              "value": "Super Repel"
+            }
+          ]
+        },
+        {
+          "row": 22,
+          "cells": [
+            {
+              "column": 14,
+              "value": "Max Repel"
+            }
+          ]
+        },
+        {
+          "row": 23,
+          "cells": [
+            {
+              "column": 14,
+              "value": "Ariadne Thread"
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "column": 14,
+              "value": "Tent"
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "column": 1,
+              "value": "NAPIER'S SHOP (AQUA RESORT)"
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "column": 1,
+              "value": "TREASURES OBTAINED: 0"
+            },
+            {
+              "column": 4,
+              "value": "TREASURES OBTAINED: 1"
+            },
+            {
+              "column": 7,
+              "value": "TREASURES OBTAINED: 2"
+            },
+            {
+              "column": 10,
+              "value": "TREASURES OBTAINED: 3"
+            },
+            {
+              "column": 13,
+              "value": "TREASURES OBTAINED: 4"
+            },
+            {
+              "column": 16,
+              "value": "TREASURES OBTAINED: 5"
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Sun Stone"
+            },
+            {
+              "column": 4,
+              "value": "Fire Stone"
+            },
+            {
+              "column": 7,
+              "value": "Fire Stone"
+            },
+            {
+              "column": 10,
+              "value": "White Herb"
+            },
+            {
+              "column": 13,
+              "value": "Weakness Policy"
+            },
+            {
+              "column": 16,
+              "value": "Weakness Policy"
+            }
+          ]
+        },
+        {
+          "row": 29,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Moon Stone"
+            },
+            {
+              "column": 4,
+              "value": "Thunderstone"
+            },
+            {
+              "column": 7,
+              "value": "Thunderstone"
+            },
+            {
+              "column": 10,
+              "value": "Upgrade"
+            },
+            {
+              "column": 13,
+              "value": "White Herb"
+            },
+            {
+              "column": 16,
+              "value": "White Herb"
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "column": 4,
+              "value": "Water Stone"
+            },
+            {
+              "column": 7,
+              "value": "Water Stone"
+            },
+            {
+              "column": 10,
+              "value": "Fire Stone"
+            },
+            {
+              "column": 13,
+              "value": "Upgrade"
+            },
+            {
+              "column": 16,
+              "value": "Upgrade"
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "column": 4,
+              "value": "Leaf Stone"
+            },
+            {
+              "column": 7,
+              "value": "Leaf Stone"
+            },
+            {
+              "column": 10,
+              "value": "Thunderstone"
+            },
+            {
+              "column": 13,
+              "value": "Prism Scale"
+            },
+            {
+              "column": 16,
+              "value": "Prism Scale"
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "column": 4,
+              "value": "Sun Stone"
+            },
+            {
+              "column": 7,
+              "value": "Sun Stone"
+            },
+            {
+              "column": 10,
+              "value": "Water Stone"
+            },
+            {
+              "column": 13,
+              "value": "Fire Stone"
+            },
+            {
+              "column": 16,
+              "value": "Magmarizer"
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "column": 4,
+              "value": "Moon Stone"
+            },
+            {
+              "column": 7,
+              "value": "Moon Stone"
+            },
+            {
+              "column": 10,
+              "value": "Leaf Stone"
+            },
+            {
+              "column": 13,
+              "value": "Thunderstone"
+            },
+            {
+              "column": 16,
+              "value": "Electirizer"
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "column": 7,
+              "value": "Dusk Stone"
+            },
+            {
+              "column": 10,
+              "value": "Sun Stone"
+            },
+            {
+              "column": 13,
+              "value": "Water Stone"
+            },
+            {
+              "column": 16,
+              "value": "Protector"
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "column": 7,
+              "value": "Dawn Stone"
+            },
+            {
+              "column": 10,
+              "value": "Moon Stone"
+            },
+            {
+              "column": 13,
+              "value": "Leaf Stone"
+            },
+            {
+              "column": 16,
+              "value": "Dubious Disc"
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "column": 7,
+              "value": "Shiny Stone"
+            },
+            {
+              "column": 10,
+              "value": "Dusk Stone"
+            },
+            {
+              "column": 13,
+              "value": "Sun Stone"
+            },
+            {
+              "column": 16,
+              "value": "Reaper Cloth"
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "column": 10,
+              "value": "Dawn Stone"
+            },
+            {
+              "column": 13,
+              "value": "Moon Stone"
+            },
+            {
+              "column": 16,
+              "value": "Black Augurite"
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "column": 10,
+              "value": "Shiny Stone"
+            },
+            {
+              "column": 13,
+              "value": "Dusk Stone"
+            },
+            {
+              "column": 16,
+              "value": "Fire Stone"
+            }
+          ]
+        },
+        {
+          "row": 39,
+          "cells": [
+            {
+              "column": 10,
+              "value": "Link Stone"
+            },
+            {
+              "column": 13,
+              "value": "Dawn Stone"
+            },
+            {
+              "column": 16,
+              "value": "Thunderstone"
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "column": 13,
+              "value": "Shiny Stone"
+            },
+            {
+              "column": 16,
+              "value": "Water Stone"
+            }
+          ]
+        },
+        {
+          "row": 41,
+          "cells": [
+            {
+              "column": 13,
+              "value": "Link Stone"
+            },
+            {
+              "column": 16,
+              "value": "Leaf Stone"
+            }
+          ]
+        },
+        {
+          "row": 42,
+          "cells": [
+            {
+              "column": 16,
+              "value": "Sun Stone"
+            }
+          ]
+        },
+        {
+          "row": 43,
+          "cells": [
+            {
+              "column": 16,
+              "value": "Moon Stone"
+            }
+          ]
+        },
+        {
+          "row": 44,
+          "cells": [
+            {
+              "column": 16,
+              "value": "Dusk Stone"
+            }
+          ]
+        },
+        {
+          "row": 45,
+          "cells": [
+            {
+              "column": 16,
+              "value": "Dawn Stone"
+            }
+          ]
+        },
+        {
+          "row": 46,
+          "cells": [
+            {
+              "column": 16,
+              "value": "Shiny Stone"
+            }
+          ]
+        },
+        {
+          "row": 47,
+          "cells": [
+            {
+              "column": 16,
+              "value": "Link Stone"
+            }
+          ]
+        },
+        {
+          "row": 49,
+          "cells": [
+            {
+              "column": 1,
+              "value": "POWER ITEM SHOP (VARLEY)"
+            },
+            {
+              "column": 8,
+              "value": "VITAMINS SHOP (CHARON)"
+            }
+          ]
+        },
+        {
+          "row": 50,
+          "cells": [
+            {
+              "column": 3,
+              "value": "Ability Capsule"
+            },
+            {
+              "column": 10,
+              "value": "PP Max"
+            }
+          ]
+        },
+        {
+          "row": 51,
+          "cells": [
+            {
+              "column": 3,
+              "value": "Power Weight"
+            },
+            {
+              "column": 10,
+              "value": "HP Up"
+            }
+          ]
+        },
+        {
+          "row": 52,
+          "cells": [
+            {
+              "column": 3,
+              "value": "Power Bracer"
+            },
+            {
+              "column": 10,
+              "value": "Protein"
+            }
+          ]
+        },
+        {
+          "row": 53,
+          "cells": [
+            {
+              "column": 3,
+              "value": "Power Belt"
+            },
+            {
+              "column": 10,
+              "value": "Iron"
+            }
+          ]
+        },
+        {
+          "row": 54,
+          "cells": [
+            {
+              "column": 3,
+              "value": "Power Lens"
+            },
+            {
+              "column": 10,
+              "value": "Calcium"
+            }
+          ]
+        },
+        {
+          "row": 55,
+          "cells": [
+            {
+              "column": 3,
+              "value": "Power Band"
+            },
+            {
+              "column": 10,
+              "value": "Zinc"
+            }
+          ]
+        },
+        {
+          "row": 56,
+          "cells": [
+            {
+              "column": 3,
+              "value": "Power Anklet"
+            },
+            {
+              "column": 10,
+              "value": "Carbos"
+            }
+          ]
+        },
+        {
+          "row": 58,
+          "cells": [
+            {
+              "column": 1,
+              "value": "BERRIES SHOP (GORENIL)"
+            }
+          ]
+        },
+        {
+          "row": 59,
+          "cells": [
+            {
+              "column": 3,
+              "value": "Figy Berry"
+            }
+          ]
+        },
+        {
+          "row": 60,
+          "cells": [
+            {
+              "column": 3,
+              "value": "Iapapa Berry"
+            }
+          ]
+        },
+        {
+          "row": 61,
+          "cells": [
+            {
+              "column": 3,
+              "value": "Mago Berry"
+            }
+          ]
+        },
+        {
+          "row": 62,
+          "cells": [
+            {
+              "column": 3,
+              "value": "Wiki Berry"
+            }
+          ]
+        },
+        {
+          "row": 63,
+          "cells": [
+            {
+              "column": 3,
+              "value": "Liechi Berry"
+            }
+          ]
+        },
+        {
+          "row": 64,
+          "cells": [
+            {
+              "column": 3,
+              "value": "Ganlon Berry"
+            }
+          ]
+        },
+        {
+          "row": 65,
+          "cells": [
+            {
+              "column": 3,
+              "value": "Salak Berry"
+            }
+          ]
+        },
+        {
+          "row": 66,
+          "cells": [
+            {
+              "column": 3,
+              "value": "Petaya Berry"
+            }
+          ]
+        },
+        {
+          "row": 67,
+          "cells": [
+            {
+              "column": 3,
+              "value": "Apicot Berry"
+            }
+          ]
+        },
+        {
+          "row": 68,
+          "cells": [
+            {
+              "column": 3,
+              "value": "Lansat Berry"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Items (Shop)",
+        "row": 1
+      }
+    },
+    {
+      "title": "Items (Pickup)",
+      "rows": [
+        {
+          "row": 2,
+          "cells": [
+            {
+              "column": 2,
+              "value": "PERCENTAGE"
+            },
+            {
+              "column": 3,
+              "value": "ITEM"
+            }
+          ]
+        },
+        {
+          "row": 3,
+          "cells": [
+            {
+              "column": 2,
+              "value": "0.05"
+            },
+            {
+              "column": 3,
+              "value": "Red Flower"
+            }
+          ]
+        },
+        {
+          "row": 4,
+          "cells": [
+            {
+              "column": 2,
+              "value": "0.05"
+            },
+            {
+              "column": 3,
+              "value": "Yellow Flower"
+            }
+          ]
+        },
+        {
+          "row": 5,
+          "cells": [
+            {
+              "column": 2,
+              "value": "0.05"
+            },
+            {
+              "column": 3,
+              "value": "Blue Flower"
+            }
+          ]
+        },
+        {
+          "row": 6,
+          "cells": [
+            {
+              "column": 2,
+              "value": "0.05"
+            },
+            {
+              "column": 3,
+              "value": "Purple Flower"
+            }
+          ]
+        },
+        {
+          "row": 7,
+          "cells": [
+            {
+              "column": 2,
+              "value": "0.05"
+            },
+            {
+              "column": 3,
+              "value": "Black Flower"
+            }
+          ]
+        },
+        {
+          "row": 8,
+          "cells": [
+            {
+              "column": 2,
+              "value": "0.05"
+            },
+            {
+              "column": 3,
+              "value": "Emerald"
+            }
+          ]
+        },
+        {
+          "row": 9,
+          "cells": [
+            {
+              "column": 2,
+              "value": "0.05"
+            },
+            {
+              "column": 3,
+              "value": "Topaz"
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "column": 2,
+              "value": "0.05"
+            },
+            {
+              "column": 3,
+              "value": "Sapphire"
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "column": 2,
+              "value": "0.05"
+            },
+            {
+              "column": 3,
+              "value": "Perlite"
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "column": 2,
+              "value": "0.05"
+            },
+            {
+              "column": 3,
+              "value": "Dolomite"
+            }
+          ]
+        },
+        {
+          "row": 13,
+          "cells": [
+            {
+              "column": 2,
+              "value": "0.05"
+            },
+            {
+              "column": 3,
+              "value": "Oran Berry"
+            }
+          ]
+        },
+        {
+          "row": 14,
+          "cells": [
+            {
+              "column": 2,
+              "value": "0.05"
+            },
+            {
+              "column": 3,
+              "value": "Sitrus Berry"
+            }
+          ]
+        },
+        {
+          "row": 15,
+          "cells": [
+            {
+              "column": 2,
+              "value": "0.05"
+            },
+            {
+              "column": 3,
+              "value": "Lum Berry"
+            }
+          ]
+        },
+        {
+          "row": 16,
+          "cells": [
+            {
+              "column": 2,
+              "value": "0.05"
+            },
+            {
+              "column": 3,
+              "value": "Stardust"
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "column": 2,
+              "value": "0.05"
+            },
+            {
+              "column": 3,
+              "value": "Star Piece"
+            }
+          ]
+        },
+        {
+          "row": 18,
+          "cells": [
+            {
+              "column": 2,
+              "value": "0.05"
+            },
+            {
+              "column": 3,
+              "value": "Nugget"
+            }
+          ]
+        },
+        {
+          "row": 19,
+          "cells": [
+            {
+              "column": 2,
+              "value": "0.05"
+            },
+            {
+              "column": 3,
+              "value": "Relic Silver"
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "column": 2,
+              "value": "0.05"
+            },
+            {
+              "column": 3,
+              "value": "Relic Gold"
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "column": 2,
+              "value": "0.05"
+            },
+            {
+              "column": 3,
+              "value": "Pearl"
+            }
+          ]
+        },
+        {
+          "row": 22,
+          "cells": [
+            {
+              "column": 2,
+              "value": "0.05"
+            },
+            {
+              "column": 3,
+              "value": "Big Pearl"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Items (Pickup)",
+        "row": 1
+      }
+    },
+    {
+      "title": "GatheringMining",
+      "rows": [
+        {
+          "row": 2,
+          "cells": [
+            {
+              "column": 1,
+              "value": "FIRST STRATUM"
+            }
+          ]
+        },
+        {
+          "row": 4,
+          "cells": [
+            {
+              "column": 1,
+              "value": "GATHERING (Berry % Up)"
+            },
+            {
+              "column": 4,
+              "value": "GATHERING (Flowers % Up)"
+            },
+            {
+              "column": 7,
+              "value": "MINING"
+            }
+          ]
+        },
+        {
+          "row": 5,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Oran Berry ↑↑"
+            },
+            {
+              "column": 4,
+              "value": "Cheri Berry"
+            },
+            {
+              "column": 7,
+              "value": "Stardust"
+            }
+          ]
+        },
+        {
+          "row": 6,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Pecha Berry ↑↑"
+            },
+            {
+              "column": 4,
+              "value": "Chesto Berry"
+            },
+            {
+              "column": 7,
+              "value": "Leaf Stone"
+            }
+          ]
+        },
+        {
+          "row": 7,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Cheri Berry ↑↑"
+            },
+            {
+              "column": 4,
+              "value": "Pecha Berry"
+            },
+            {
+              "column": 7,
+              "value": "Green Shard"
+            }
+          ]
+        },
+        {
+          "row": 8,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Chesto Berry ↑↑"
+            },
+            {
+              "column": 4,
+              "value": "Red Flower ↑↑"
+            },
+            {
+              "column": 7,
+              "value": "Emerald"
+            }
+          ]
+        },
+        {
+          "row": 9,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Leppa Berry ↑↑"
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Red Flower"
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "column": 1,
+              "value": "SECOND STRATUM"
+            }
+          ]
+        },
+        {
+          "row": 14,
+          "cells": [
+            {
+              "column": 1,
+              "value": "GATHERING (Berry % Up)"
+            },
+            {
+              "column": 4,
+              "value": "GATHERING (Flowers % Up)"
+            },
+            {
+              "column": 7,
+              "value": "MINING"
+            }
+          ]
+        },
+        {
+          "row": 15,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Oran Berry ↑↑"
+            },
+            {
+              "column": 4,
+              "value": "Cheri Berry"
+            },
+            {
+              "column": 7,
+              "value": "Stardust"
+            }
+          ]
+        },
+        {
+          "row": 16,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Pecha Berry ↑↑"
+            },
+            {
+              "column": 4,
+              "value": "Chesto Berry"
+            },
+            {
+              "column": 7,
+              "value": "Fire Stone"
+            }
+          ]
+        },
+        {
+          "row": 17,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Cheri Berry ↑↑"
+            },
+            {
+              "column": 4,
+              "value": "Pecha Berry"
+            },
+            {
+              "column": 7,
+              "value": "Sun Stone"
+            }
+          ]
+        },
+        {
+          "row": 18,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Chesto Berry ↑↑"
+            },
+            {
+              "column": 4,
+              "value": "Yellow Flower ↑↑"
+            },
+            {
+              "column": 7,
+              "value": "Yellow Shard"
+            }
+          ]
+        },
+        {
+          "row": 19,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Sitrus Berry ↑↑"
+            },
+            {
+              "column": 7,
+              "value": "Topaz"
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Yellow Flower"
+            }
+          ]
+        },
+        {
+          "row": 22,
+          "cells": [
+            {
+              "column": 1,
+              "value": "THIRD STRATUM"
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "column": 1,
+              "value": "GATHERING (Berry % Up)"
+            },
+            {
+              "column": 4,
+              "value": "GATHERING (Flowers % Up)"
+            },
+            {
+              "column": 7,
+              "value": "MINING"
+            }
+          ]
+        },
+        {
+          "row": 25,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Rawst Berry ↑↑"
+            },
+            {
+              "column": 4,
+              "value": "Lum Berry"
+            },
+            {
+              "column": 7,
+              "value": "Stardust"
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Leppa Berry ↑↑"
+            },
+            {
+              "column": 4,
+              "value": "Sitrus Berry"
+            },
+            {
+              "column": 7,
+              "value": "Water Stone"
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Lum Berry ↑↑"
+            },
+            {
+              "column": 4,
+              "value": "Blue Flower ↑↑"
+            },
+            {
+              "column": 7,
+              "value": "Thunderstone"
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Sitrus Berry ↑↑"
+            },
+            {
+              "column": 7,
+              "value": "Dawn Stone"
+            }
+          ]
+        },
+        {
+          "row": 29,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Blue Flower"
+            },
+            {
+              "column": 7,
+              "value": "Shiny Stone"
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "column": 7,
+              "value": "Red Shard"
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "column": 7,
+              "value": "Sapphire"
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "column": 1,
+              "value": "FOURTH STRATUM"
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "column": 1,
+              "value": "GATHERING (Berry % Up)"
+            },
+            {
+              "column": 4,
+              "value": "GATHERING (Flowers % Up)"
+            },
+            {
+              "column": 7,
+              "value": "MINING"
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Lum Berry ↑↑"
+            },
+            {
+              "column": 4,
+              "value": "Lum Berry"
+            },
+            {
+              "column": 7,
+              "value": "Star Piece"
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Sitrus Berry ↑↑"
+            },
+            {
+              "column": 4,
+              "value": "Sitrus Berry"
+            },
+            {
+              "column": 7,
+              "value": "Big Pearl"
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Apicot Berry ↑↑"
+            },
+            {
+              "column": 4,
+              "value": "Purple Flower ↑↑"
+            },
+            {
+              "column": 7,
+              "value": "Link Stone"
+            }
+          ]
+        },
+        {
+          "row": 39,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Ganlon Berry ↑↑"
+            },
+            {
+              "column": 7,
+              "value": "Blue Shard"
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Salac Berry ↑↑"
+            },
+            {
+              "column": 7,
+              "value": "Dolomite"
+            }
+          ]
+        },
+        {
+          "row": 41,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Purple Flower"
+            }
+          ]
+        },
+        {
+          "row": 43,
+          "cells": [
+            {
+              "column": 1,
+              "value": "FIFTH STRATUM"
+            }
+          ]
+        },
+        {
+          "row": 45,
+          "cells": [
+            {
+              "column": 1,
+              "value": "GATHERING"
+            },
+            {
+              "column": 7,
+              "value": "MINING"
+            }
+          ]
+        },
+        {
+          "row": 46,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Ganlon Berry"
+            },
+            {
+              "column": 7,
+              "value": "Stardust"
+            }
+          ]
+        },
+        {
+          "row": 47,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Lansat Berry"
+            },
+            {
+              "column": 7,
+              "value": "Star Piece"
+            }
+          ]
+        },
+        {
+          "row": 48,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Sitrus Berry"
+            },
+            {
+              "column": 7,
+              "value": "Nugget"
+            }
+          ]
+        },
+        {
+          "row": 49,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Black Flower"
+            },
+            {
+              "column": 7,
+              "value": "Perlite"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "GatheringMining",
+        "row": 1
+      }
+    },
+    {
+      "title": "Naval Explorations",
+      "rows": [
+        {
+          "row": 2,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Normal Encounters"
+            },
+            {
+              "column": 7,
+              "value": "F.O.E. (Eastern side - North)"
+            }
+          ]
+        },
+        {
+          "row": 4,
+          "cells": [
+            {
+              "column": 1,
+              "value": "ENCOUNTER #1"
+            },
+            {
+              "column": 4,
+              "value": "ENCOUNTER #2"
+            },
+            {
+              "column": 7,
+              "value": "F.O.E."
+            }
+          ]
+        },
+        {
+          "row": 5,
+          "cells": [
+            {
+              "column": 1,
+              "value": "POKÉMON"
+            },
+            {
+              "column": 2,
+              "value": "LEVEL"
+            },
+            {
+              "column": 4,
+              "value": "POKÉMON"
+            },
+            {
+              "column": 5,
+              "value": "LEVEL"
+            },
+            {
+              "column": 7,
+              "value": "POKÉMON"
+            },
+            {
+              "column": 8,
+              "value": "LEVEL"
+            },
+            {
+              "column": 9,
+              "value": "ENCOUNTER %"
+            }
+          ]
+        },
+        {
+          "row": 6,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Horsea"
+            },
+            {
+              "column": 2,
+              "value": "10"
+            },
+            {
+              "column": 4,
+              "value": "Chinchou"
+            },
+            {
+              "column": 5,
+              "value": "10"
+            },
+            {
+              "column": 7,
+              "value": "Gyarados"
+            },
+            {
+              "column": 8,
+              "value": "38"
+            },
+            {
+              "column": 9,
+              "value": "0.5"
+            }
+          ]
+        },
+        {
+          "row": 7,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Tentacool"
+            },
+            {
+              "column": 2,
+              "value": "10"
+            },
+            {
+              "column": 4,
+              "value": "Carvanha"
+            },
+            {
+              "column": 5,
+              "value": "10"
+            },
+            {
+              "column": 7,
+              "value": "Waterfall"
+            }
+          ]
+        },
+        {
+          "row": 8,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Wailmer (⭐)"
+            },
+            {
+              "column": 2,
+              "value": "10"
+            },
+            {
+              "column": 4,
+              "value": "Wingull"
+            },
+            {
+              "column": 5,
+              "value": "10"
+            },
+            {
+              "column": 7,
+              "value": "Bulldoze"
+            }
+          ]
+        },
+        {
+          "row": 9,
+          "cells": [
+            {
+              "column": 7,
+              "value": "Icicle Crash"
+            }
+          ]
+        },
+        {
+          "row": 10,
+          "cells": [
+            {
+              "column": 1,
+              "value": "ENCOUNTER #3"
+            },
+            {
+              "column": 4,
+              "value": "ENCOUNTER #4"
+            },
+            {
+              "column": 7,
+              "value": "Outrage"
+            }
+          ]
+        },
+        {
+          "row": 11,
+          "cells": [
+            {
+              "column": 1,
+              "value": "POKÉMON"
+            },
+            {
+              "column": 2,
+              "value": "LEVEL"
+            },
+            {
+              "column": 4,
+              "value": "POKÉMON"
+            },
+            {
+              "column": 5,
+              "value": "LEVEL"
+            }
+          ]
+        },
+        {
+          "row": 12,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Remoraid"
+            },
+            {
+              "column": 2,
+              "value": "10"
+            },
+            {
+              "column": 4,
+              "value": "Magikarp"
+            },
+            {
+              "column": 5,
+              "value": "10"
+            }
+          ]
+        },
+        {
+          "row": 13,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Goldeen"
+            },
+            {
+              "column": 2,
+              "value": "10"
+            },
+            {
+              "column": 4,
+              "value": "Shellder"
+            },
+            {
+              "column": 5,
+              "value": "10"
+            }
+          ]
+        },
+        {
+          "row": 14,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Staryu"
+            },
+            {
+              "column": 2,
+              "value": "10"
+            },
+            {
+              "column": 4,
+              "value": "Seel"
+            },
+            {
+              "column": 5,
+              "value": "10"
+            }
+          ]
+        },
+        {
+          "row": 16,
+          "cells": [
+            {
+              "column": 1,
+              "value": "After the First Stratum"
+            },
+            {
+              "column": 7,
+              "value": "F.O.E. (Eastern side - North-East)"
+            }
+          ]
+        },
+        {
+          "row": 18,
+          "cells": [
+            {
+              "column": 1,
+              "value": "ENCOUNTER #1"
+            },
+            {
+              "column": 4,
+              "value": "ENCOUNTER #2"
+            },
+            {
+              "column": 7,
+              "value": "F.O.E."
+            },
+            {
+              "column": 11,
+              "value": "F.O.E."
+            }
+          ]
+        },
+        {
+          "row": 19,
+          "cells": [
+            {
+              "column": 1,
+              "value": "POKÉMON"
+            },
+            {
+              "column": 2,
+              "value": "LEVEL"
+            },
+            {
+              "column": 4,
+              "value": "POKÉMON"
+            },
+            {
+              "column": 5,
+              "value": "LEVEL"
+            },
+            {
+              "column": 7,
+              "value": "POKÉMON"
+            },
+            {
+              "column": 8,
+              "value": "LEVEL"
+            },
+            {
+              "column": 9,
+              "value": "ENCOUNTER %"
+            },
+            {
+              "column": 11,
+              "value": "POKÉMON"
+            },
+            {
+              "column": 12,
+              "value": "LEVEL"
+            },
+            {
+              "column": 13,
+              "value": "ENCOUNTER %"
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Horsea"
+            },
+            {
+              "column": 2,
+              "value": "20"
+            },
+            {
+              "column": 4,
+              "value": "Chinchou"
+            },
+            {
+              "column": 5,
+              "value": "20"
+            },
+            {
+              "column": 7,
+              "value": "Wailord ⭐"
+            },
+            {
+              "column": 8,
+              "value": "48"
+            },
+            {
+              "column": 9,
+              "value": "0.5"
+            },
+            {
+              "column": 11,
+              "value": "Gyarados"
+            },
+            {
+              "column": 12,
+              "value": "48"
+            },
+            {
+              "column": 13,
+              "value": "0.5"
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Tentacool"
+            },
+            {
+              "column": 2,
+              "value": "20"
+            },
+            {
+              "column": 4,
+              "value": "Carvanha"
+            },
+            {
+              "column": 5,
+              "value": "20"
+            },
+            {
+              "column": 7,
+              "value": "Hydro Pump"
+            },
+            {
+              "column": 11,
+              "value": "Waterfall"
+            }
+          ]
+        },
+        {
+          "row": 22,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Wailmer (⭐)"
+            },
+            {
+              "column": 2,
+              "value": "20"
+            },
+            {
+              "column": 4,
+              "value": "Wingull"
+            },
+            {
+              "column": 5,
+              "value": "20"
+            },
+            {
+              "column": 7,
+              "value": "Hyper Voice"
+            },
+            {
+              "column": 11,
+              "value": "Earthquake"
+            }
+          ]
+        },
+        {
+          "row": 23,
+          "cells": [
+            {
+              "column": 7,
+              "value": "Ice Beam"
+            },
+            {
+              "column": 11,
+              "value": "Icicle Crash"
+            }
+          ]
+        },
+        {
+          "row": 24,
+          "cells": [
+            {
+              "column": 1,
+              "value": "ENCOUNTER #3"
+            },
+            {
+              "column": 4,
+              "value": "ENCOUNTER #4"
+            },
+            {
+              "column": 7,
+              "value": "Earth Power"
+            },
+            {
+              "column": 11,
+              "value": "Giga Drain"
+            }
+          ]
+        },
+        {
+          "row": 25,
+          "cells": [
+            {
+              "column": 1,
+              "value": "POKÉMON"
+            },
+            {
+              "column": 2,
+              "value": "LEVEL"
+            },
+            {
+              "column": 4,
+              "value": "POKÉMON"
+            },
+            {
+              "column": 5,
+              "value": "LEVEL"
+            }
+          ]
+        },
+        {
+          "row": 26,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Remoraid"
+            },
+            {
+              "column": 2,
+              "value": "20"
+            },
+            {
+              "column": 4,
+              "value": "Gyarados"
+            },
+            {
+              "column": 5,
+              "value": "20"
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Goldeen"
+            },
+            {
+              "column": 2,
+              "value": "20"
+            },
+            {
+              "column": 4,
+              "value": "Shellder"
+            },
+            {
+              "column": 5,
+              "value": "20"
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Staryu"
+            },
+            {
+              "column": 2,
+              "value": "20"
+            },
+            {
+              "column": 4,
+              "value": "Seel"
+            },
+            {
+              "column": 5,
+              "value": "20"
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "column": 1,
+              "value": "After the Second Stratum"
+            },
+            {
+              "column": 7,
+              "value": "F.O.E. (Eastern side - South-East)"
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "column": 1,
+              "value": "ENCOUNTER #1"
+            },
+            {
+              "column": 4,
+              "value": "ENCOUNTER #2"
+            },
+            {
+              "column": 7,
+              "value": "F.O.E."
+            },
+            {
+              "column": 11,
+              "value": "F.O.E."
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "column": 1,
+              "value": "POKÉMON"
+            },
+            {
+              "column": 2,
+              "value": "LEVEL"
+            },
+            {
+              "column": 4,
+              "value": "POKÉMON"
+            },
+            {
+              "column": 5,
+              "value": "LEVEL"
+            },
+            {
+              "column": 7,
+              "value": "POKÉMON"
+            },
+            {
+              "column": 8,
+              "value": "LEVEL"
+            },
+            {
+              "column": 9,
+              "value": "ENCOUNTER %"
+            },
+            {
+              "column": 11,
+              "value": "POKÉMON"
+            },
+            {
+              "column": 12,
+              "value": "LEVEL"
+            },
+            {
+              "column": 13,
+              "value": "ENCOUNTER %"
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Seadra"
+            },
+            {
+              "column": 2,
+              "value": "30"
+            },
+            {
+              "column": 4,
+              "value": "Lanturn"
+            },
+            {
+              "column": 5,
+              "value": "30"
+            },
+            {
+              "column": 7,
+              "value": "Kingdra"
+            },
+            {
+              "column": 8,
+              "value": "58"
+            },
+            {
+              "column": 9,
+              "value": "0.5"
+            },
+            {
+              "column": 11,
+              "value": "Lanturn"
+            },
+            {
+              "column": 12,
+              "value": "58"
+            },
+            {
+              "column": 13,
+              "value": "0.5"
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Tentacruel"
+            },
+            {
+              "column": 2,
+              "value": "30"
+            },
+            {
+              "column": 4,
+              "value": "Sharpedo"
+            },
+            {
+              "column": 5,
+              "value": "30"
+            },
+            {
+              "column": 7,
+              "value": "Dragon Pulse"
+            },
+            {
+              "column": 11,
+              "value": "Hydro Pump"
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Wailmer (⭐)"
+            },
+            {
+              "column": 2,
+              "value": "30"
+            },
+            {
+              "column": 4,
+              "value": "Pelipper"
+            },
+            {
+              "column": 5,
+              "value": "30"
+            },
+            {
+              "column": 7,
+              "value": "Hydro Pump"
+            },
+            {
+              "column": 11,
+              "value": "Ice Beam"
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "column": 7,
+              "value": "Ice Beam"
+            },
+            {
+              "column": 11,
+              "value": "Thunderbolt"
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "column": 1,
+              "value": "ENCOUNTER #3"
+            },
+            {
+              "column": 4,
+              "value": "ENCOUNTER #4"
+            },
+            {
+              "column": 7,
+              "value": "Sludge Bomb"
+            },
+            {
+              "column": 11,
+              "value": "Confuse Ray"
+            }
+          ]
+        },
+        {
+          "row": 39,
+          "cells": [
+            {
+              "column": 1,
+              "value": "POKÉMON"
+            },
+            {
+              "column": 2,
+              "value": "LEVEL"
+            },
+            {
+              "column": 4,
+              "value": "POKÉMON"
+            },
+            {
+              "column": 5,
+              "value": "LEVEL"
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Octillery"
+            },
+            {
+              "column": 2,
+              "value": "30"
+            },
+            {
+              "column": 4,
+              "value": "Gyarados"
+            },
+            {
+              "column": 5,
+              "value": "30"
+            }
+          ]
+        },
+        {
+          "row": 41,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Goldeen"
+            },
+            {
+              "column": 2,
+              "value": "30"
+            },
+            {
+              "column": 4,
+              "value": "Cloyster"
+            },
+            {
+              "column": 5,
+              "value": "30"
+            }
+          ]
+        },
+        {
+          "row": 42,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Starmie"
+            },
+            {
+              "column": 2,
+              "value": "30"
+            },
+            {
+              "column": 4,
+              "value": "Seel"
+            },
+            {
+              "column": 5,
+              "value": "30"
+            }
+          ]
+        },
+        {
+          "row": 44,
+          "cells": [
+            {
+              "column": 1,
+              "value": "After the Third Stratum"
+            }
+          ]
+        },
+        {
+          "row": 46,
+          "cells": [
+            {
+              "column": 1,
+              "value": "ENCOUNTER #1"
+            },
+            {
+              "column": 4,
+              "value": "ENCOUNTER #2"
+            }
+          ]
+        },
+        {
+          "row": 47,
+          "cells": [
+            {
+              "column": 1,
+              "value": "POKÉMON"
+            },
+            {
+              "column": 2,
+              "value": "LEVEL"
+            },
+            {
+              "column": 4,
+              "value": "POKÉMON"
+            },
+            {
+              "column": 5,
+              "value": "LEVEL"
+            }
+          ]
+        },
+        {
+          "row": 48,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Gyarados"
+            },
+            {
+              "column": 2,
+              "value": "40"
+            },
+            {
+              "column": 4,
+              "value": "Lanturn"
+            },
+            {
+              "column": 5,
+              "value": "40"
+            }
+          ]
+        },
+        {
+          "row": 49,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Tentacruel"
+            },
+            {
+              "column": 2,
+              "value": "40"
+            },
+            {
+              "column": 4,
+              "value": "Sharpedo"
+            },
+            {
+              "column": 5,
+              "value": "40"
+            }
+          ]
+        },
+        {
+          "row": 50,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Wailord ⭐"
+            },
+            {
+              "column": 2,
+              "value": "40"
+            },
+            {
+              "column": 4,
+              "value": "Pelipper"
+            },
+            {
+              "column": 5,
+              "value": "40"
+            }
+          ]
+        },
+        {
+          "row": 52,
+          "cells": [
+            {
+              "column": 1,
+              "value": "ENCOUNTER #3"
+            },
+            {
+              "column": 4,
+              "value": "ENCOUNTER #4"
+            }
+          ]
+        },
+        {
+          "row": 53,
+          "cells": [
+            {
+              "column": 1,
+              "value": "POKÉMON"
+            },
+            {
+              "column": 2,
+              "value": "LEVEL"
+            },
+            {
+              "column": 4,
+              "value": "POKÉMON"
+            },
+            {
+              "column": 5,
+              "value": "LEVEL"
+            }
+          ]
+        },
+        {
+          "row": 54,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Octillery"
+            },
+            {
+              "column": 2,
+              "value": "40"
+            },
+            {
+              "column": 4,
+              "value": "Gyarados"
+            },
+            {
+              "column": 5,
+              "value": "40"
+            }
+          ]
+        },
+        {
+          "row": 55,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Seaking"
+            },
+            {
+              "column": 2,
+              "value": "40"
+            },
+            {
+              "column": 4,
+              "value": "Cloyster"
+            },
+            {
+              "column": 5,
+              "value": "40"
+            }
+          ]
+        },
+        {
+          "row": 56,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Starmie"
+            },
+            {
+              "column": 2,
+              "value": "40"
+            },
+            {
+              "column": 4,
+              "value": "Dewgong"
+            },
+            {
+              "column": 5,
+              "value": "40"
+            }
+          ]
+        },
+        {
+          "row": 58,
+          "cells": [
+            {
+              "column": 1,
+              "value": "After the Fourth Stratum"
+            }
+          ]
+        },
+        {
+          "row": 60,
+          "cells": [
+            {
+              "column": 1,
+              "value": "ENCOUNTER #1"
+            },
+            {
+              "column": 4,
+              "value": "ENCOUNTER #2"
+            }
+          ]
+        },
+        {
+          "row": 61,
+          "cells": [
+            {
+              "column": 1,
+              "value": "POKÉMON"
+            },
+            {
+              "column": 2,
+              "value": "LEVEL"
+            },
+            {
+              "column": 4,
+              "value": "POKÉMON"
+            },
+            {
+              "column": 5,
+              "value": "LEVEL"
+            }
+          ]
+        },
+        {
+          "row": 62,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Gyarados"
+            },
+            {
+              "column": 2,
+              "value": "50"
+            },
+            {
+              "column": 4,
+              "value": "Lanturn"
+            },
+            {
+              "column": 5,
+              "value": "50"
+            }
+          ]
+        },
+        {
+          "row": 63,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Tentacruel"
+            },
+            {
+              "column": 2,
+              "value": "50"
+            },
+            {
+              "column": 4,
+              "value": "Sharpedo"
+            },
+            {
+              "column": 5,
+              "value": "50"
+            }
+          ]
+        },
+        {
+          "row": 64,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Wailord ⭐"
+            },
+            {
+              "column": 2,
+              "value": "50"
+            },
+            {
+              "column": 4,
+              "value": "Pelipper"
+            },
+            {
+              "column": 5,
+              "value": "50"
+            }
+          ]
+        },
+        {
+          "row": 66,
+          "cells": [
+            {
+              "column": 1,
+              "value": "ENCOUNTER #3"
+            },
+            {
+              "column": 4,
+              "value": "ENCOUNTER #4"
+            }
+          ]
+        },
+        {
+          "row": 67,
+          "cells": [
+            {
+              "column": 1,
+              "value": "POKÉMON"
+            },
+            {
+              "column": 2,
+              "value": "LEVEL"
+            },
+            {
+              "column": 4,
+              "value": "POKÉMON"
+            },
+            {
+              "column": 5,
+              "value": "LEVEL"
+            }
+          ]
+        },
+        {
+          "row": 68,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Octillery"
+            },
+            {
+              "column": 2,
+              "value": "50"
+            },
+            {
+              "column": 4,
+              "value": "Gyarados"
+            },
+            {
+              "column": 5,
+              "value": "50"
+            }
+          ]
+        },
+        {
+          "row": 69,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Seaking"
+            },
+            {
+              "column": 2,
+              "value": "50"
+            },
+            {
+              "column": 4,
+              "value": "Cloyster"
+            },
+            {
+              "column": 5,
+              "value": "50"
+            }
+          ]
+        },
+        {
+          "row": 70,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Starmie"
+            },
+            {
+              "column": 2,
+              "value": "50"
+            },
+            {
+              "column": 4,
+              "value": "Dewgong"
+            },
+            {
+              "column": 5,
+              "value": "50"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Naval Explorations",
+        "row": 1
+      }
+    },
+    {
+      "title": "Abyssal God - Bossfight guide",
+      "rows": [
+        {
+          "row": 1,
+          "cells": [
+            {
+              "column": 1,
+              "value": "ABYSSAL GOD"
+            }
+          ]
+        },
+        {
+          "row": 20,
+          "cells": [
+            {
+              "column": 3,
+              "value": "DESCRIPTION"
+            }
+          ]
+        },
+        {
+          "row": 21,
+          "cells": [
+            {
+              "column": 3,
+              "value": "And here we are, in the infamous Cthulhu Casino.\nThe Abyssal God serves as the final postgame boss and stands as the last obstacle between the player and the true ending of the story.\n\nTo trigger the boss fight, head to Claret Hollows using the geomagnetic pole located at the base of Yggdrasil. Once you reach the deepest part of the Labyrinth, you'll find the entrance to the boss room, but the door will be sealed.\n\nTo unlock it, you'll need to defeat at least one of the 8 tentacles scattered throughout the map.\nThe Abyssal God’s team will vary depending on how many tentacles you've taken down."
+            }
+          ]
+        },
+        {
+          "row": 23,
+          "cells": [
+            {
+              "column": 3,
+              "value": "ABYSSAL GOD (PARTS)"
+            }
+          ]
+        },
+        {
+          "row": 25,
+          "cells": [
+            {
+              "column": 4,
+              "value": "TENTACLE"
+            },
+            {
+              "column": 7,
+              "value": "ABYSS EYE"
+            }
+          ]
+        },
+        {
+          "row": 27,
+          "cells": [
+            {
+              "column": 4,
+              "value": "TYPE"
+            },
+            {
+              "column": 7,
+              "value": "TYPE"
+            }
+          ]
+        },
+        {
+          "row": 28,
+          "cells": [
+            {
+              "column": 4,
+              "value": "Grass/Fire"
+            },
+            {
+              "column": 7,
+              "value": "Grass/Ice"
+            }
+          ]
+        },
+        {
+          "row": 29,
+          "cells": [
+            {
+              "column": 4,
+              "value": "ABILITY"
+            },
+            {
+              "column": 7,
+              "value": "ABILITY"
+            }
+          ]
+        },
+        {
+          "row": 30,
+          "cells": [
+            {
+              "column": 4,
+              "value": "Immunity"
+            },
+            {
+              "column": 7,
+              "value": "Immunity"
+            }
+          ]
+        },
+        {
+          "row": 31,
+          "cells": [
+            {
+              "column": 4,
+              "value": "LEVEL"
+            },
+            {
+              "column": 7,
+              "value": "LEVEL"
+            }
+          ]
+        },
+        {
+          "row": 32,
+          "cells": [
+            {
+              "column": 4,
+              "value": "100"
+            },
+            {
+              "column": 7,
+              "value": "100"
+            }
+          ]
+        },
+        {
+          "row": 33,
+          "cells": [
+            {
+              "column": 4,
+              "value": "BASE STATS"
+            },
+            {
+              "column": 7,
+              "value": "BASE STATS"
+            }
+          ]
+        },
+        {
+          "row": 34,
+          "cells": [
+            {
+              "column": 4,
+              "value": "HP"
+            },
+            {
+              "column": 5,
+              "value": "ATK"
+            },
+            {
+              "column": 6,
+              "value": "DEF"
+            },
+            {
+              "column": 7,
+              "value": "HP"
+            },
+            {
+              "column": 8,
+              "value": "ATK"
+            },
+            {
+              "column": 9,
+              "value": "DEF"
+            }
+          ]
+        },
+        {
+          "row": 35,
+          "cells": [
+            {
+              "column": 4,
+              "value": "200"
+            },
+            {
+              "column": 5,
+              "value": "150"
+            },
+            {
+              "column": 6,
+              "value": "140"
+            },
+            {
+              "column": 7,
+              "value": "200"
+            },
+            {
+              "column": 8,
+              "value": "100"
+            },
+            {
+              "column": 9,
+              "value": "100"
+            }
+          ]
+        },
+        {
+          "row": 36,
+          "cells": [
+            {
+              "column": 4,
+              "value": "SP.ATK"
+            },
+            {
+              "column": 5,
+              "value": "SP.DEF"
+            },
+            {
+              "column": 6,
+              "value": "SPEED"
+            },
+            {
+              "column": 7,
+              "value": "SP.ATK"
+            },
+            {
+              "column": 8,
+              "value": "SP.DEF"
+            },
+            {
+              "column": 9,
+              "value": "SPEED"
+            }
+          ]
+        },
+        {
+          "row": 37,
+          "cells": [
+            {
+              "column": 4,
+              "value": "100"
+            },
+            {
+              "column": 5,
+              "value": "80"
+            },
+            {
+              "column": 6,
+              "value": "120"
+            },
+            {
+              "column": 7,
+              "value": "150"
+            },
+            {
+              "column": 8,
+              "value": "150"
+            },
+            {
+              "column": 9,
+              "value": "90"
+            }
+          ]
+        },
+        {
+          "row": 38,
+          "cells": [
+            {
+              "column": 4,
+              "value": "MOVES"
+            },
+            {
+              "column": 7,
+              "value": "MOVES"
+            }
+          ]
+        },
+        {
+          "row": 39,
+          "cells": [
+            {
+              "column": 4,
+              "value": "Demon Rage"
+            },
+            {
+              "column": 7,
+              "value": "Heat Wave"
+            }
+          ]
+        },
+        {
+          "row": 40,
+          "cells": [
+            {
+              "column": 4,
+              "value": "Rising Claw"
+            },
+            {
+              "column": 7,
+              "value": "Blizzard"
+            }
+          ]
+        },
+        {
+          "row": 41,
+          "cells": [
+            {
+              "column": 4,
+              "value": "-"
+            },
+            {
+              "column": 7,
+              "value": "Divine Storm"
+            }
+          ]
+        },
+        {
+          "row": 42,
+          "cells": [
+            {
+              "column": 4,
+              "value": "-"
+            },
+            {
+              "column": 7,
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "row": 44,
+          "cells": [
+            {
+              "column": 4,
+              "value": "DEMON RAGE"
+            },
+            {
+              "column": 8,
+              "value": "RISING CLAW"
+            }
+          ]
+        },
+        {
+          "row": 45,
+          "cells": [
+            {
+              "column": 4,
+              "value": "Type"
+            },
+            {
+              "column": 8,
+              "value": "Type"
+            }
+          ]
+        },
+        {
+          "row": 46,
+          "cells": [
+            {
+              "column": 4,
+              "value": "Category"
+            },
+            {
+              "column": 8,
+              "value": "Category"
+            }
+          ]
+        },
+        {
+          "row": 47,
+          "cells": [
+            {
+              "column": 4,
+              "value": "Power"
+            },
+            {
+              "column": 5,
+              "value": "100"
+            },
+            {
+              "column": 8,
+              "value": "Power"
+            },
+            {
+              "column": 9,
+              "value": "100"
+            }
+          ]
+        },
+        {
+          "row": 48,
+          "cells": [
+            {
+              "column": 4,
+              "value": "Accuracy"
+            },
+            {
+              "column": 5,
+              "value": "100"
+            },
+            {
+              "column": 8,
+              "value": "Accuracy"
+            },
+            {
+              "column": 9,
+              "value": "100"
+            }
+          ]
+        },
+        {
+          "row": 49,
+          "cells": [
+            {
+              "column": 4,
+              "value": "PP"
+            },
+            {
+              "column": 5,
+              "value": "15"
+            },
+            {
+              "column": 8,
+              "value": "PP"
+            },
+            {
+              "column": 9,
+              "value": "15"
+            }
+          ]
+        },
+        {
+          "row": 50,
+          "cells": [
+            {
+              "column": 4,
+              "value": "Effect"
+            },
+            {
+              "column": 8,
+              "value": "Effect"
+            }
+          ]
+        },
+        {
+          "row": 51,
+          "cells": [
+            {
+              "column": 4,
+              "value": "May make the target flinch (20%)"
+            },
+            {
+              "column": 8,
+              "value": "High crit"
+            }
+          ]
+        },
+        {
+          "row": 53,
+          "cells": [
+            {
+              "column": 1,
+              "value": "ABYSSAL GOD - TENTACLES BEATEN: 1"
+            }
+          ]
+        },
+        {
+          "row": 55,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Abyss Eye"
+            },
+            {
+              "column": 3,
+              "value": "Tentacle"
+            },
+            {
+              "column": 5,
+              "value": "Tentacle"
+            },
+            {
+              "column": 7,
+              "value": "Tentacle"
+            },
+            {
+              "column": 9,
+              "value": "Tentacle"
+            },
+            {
+              "column": 11,
+              "value": "Tentacle"
+            }
+          ]
+        },
+        {
+          "row": 57,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Level:"
+            },
+            {
+              "column": 2,
+              "value": "100"
+            },
+            {
+              "column": 3,
+              "value": "Level:"
+            },
+            {
+              "column": 4,
+              "value": "100"
+            },
+            {
+              "column": 5,
+              "value": "Level:"
+            },
+            {
+              "column": 6,
+              "value": "100"
+            },
+            {
+              "column": 7,
+              "value": "Level:"
+            },
+            {
+              "column": 8,
+              "value": "100"
+            },
+            {
+              "column": 9,
+              "value": "Level:"
+            },
+            {
+              "column": 10,
+              "value": "100"
+            },
+            {
+              "column": 11,
+              "value": "Level:"
+            },
+            {
+              "column": 12,
+              "value": "100"
+            }
+          ]
+        },
+        {
+          "row": 58,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Type:"
+            },
+            {
+              "column": 2,
+              "value": "Grass/Ice"
+            },
+            {
+              "column": 3,
+              "value": "Type:"
+            },
+            {
+              "column": 4,
+              "value": "Grass/Fire"
+            },
+            {
+              "column": 5,
+              "value": "Type:"
+            },
+            {
+              "column": 6,
+              "value": "Grass/Fire"
+            },
+            {
+              "column": 7,
+              "value": "Type:"
+            },
+            {
+              "column": 8,
+              "value": "Grass/Fire"
+            },
+            {
+              "column": 9,
+              "value": "Type:"
+            },
+            {
+              "column": 10,
+              "value": "Grass/Fire"
+            },
+            {
+              "column": 11,
+              "value": "Type:"
+            },
+            {
+              "column": 12,
+              "value": "Grass/Fire"
+            }
+          ]
+        },
+        {
+          "row": 59,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Nature:"
+            },
+            {
+              "column": 2,
+              "value": "Modest"
+            },
+            {
+              "column": 3,
+              "value": "Nature:"
+            },
+            {
+              "column": 4,
+              "value": "Adamant"
+            },
+            {
+              "column": 5,
+              "value": "Nature:"
+            },
+            {
+              "column": 6,
+              "value": "Adamant"
+            },
+            {
+              "column": 7,
+              "value": "Nature:"
+            },
+            {
+              "column": 8,
+              "value": "Adamant"
+            },
+            {
+              "column": 9,
+              "value": "Nature:"
+            },
+            {
+              "column": 10,
+              "value": "Adamant"
+            },
+            {
+              "column": 11,
+              "value": "Nature:"
+            },
+            {
+              "column": 12,
+              "value": "Adamant"
+            }
+          ]
+        },
+        {
+          "row": 60,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Item:"
+            },
+            {
+              "column": 2,
+              "value": "/"
+            },
+            {
+              "column": 3,
+              "value": "Item:"
+            },
+            {
+              "column": 4,
+              "value": "/"
+            },
+            {
+              "column": 5,
+              "value": "Item:"
+            },
+            {
+              "column": 6,
+              "value": "/"
+            },
+            {
+              "column": 7,
+              "value": "Item:"
+            },
+            {
+              "column": 8,
+              "value": "/"
+            },
+            {
+              "column": 9,
+              "value": "Item:"
+            },
+            {
+              "column": 10,
+              "value": "/"
+            },
+            {
+              "column": 11,
+              "value": "Item:"
+            },
+            {
+              "column": 12,
+              "value": "/"
+            }
+          ]
+        },
+        {
+          "row": 61,
+          "cells": [
+            {
+              "column": 1,
+              "value": "EVS"
+            },
+            {
+              "column": 3,
+              "value": "EVS"
+            },
+            {
+              "column": 5,
+              "value": "EVS"
+            },
+            {
+              "column": 7,
+              "value": "EVS"
+            },
+            {
+              "column": 9,
+              "value": "EVS"
+            },
+            {
+              "column": 11,
+              "value": "EVS"
+            }
+          ]
+        },
+        {
+          "row": 62,
+          "cells": [
+            {
+              "column": 1,
+              "value": "252 HP, 126 Def, 252 Sp.Atk"
+            },
+            {
+              "column": 3,
+              "value": "252 HP, 252 Atk, 252 Def"
+            },
+            {
+              "column": 5,
+              "value": "252 HP, 252 Atk, 252 Def"
+            },
+            {
+              "column": 7,
+              "value": "252 HP, 252 Atk, 252 Def"
+            },
+            {
+              "column": 9,
+              "value": "252 HP, 252 Atk, 252 Def"
+            },
+            {
+              "column": 11,
+              "value": "252 HP, 252 Atk, 252 Def"
+            }
+          ]
+        },
+        {
+          "row": 63,
+          "cells": [
+            {
+              "column": 1,
+              "value": "252 Sp.Def, 126 Speed"
+            },
+            {
+              "column": 3,
+              "value": "126 Sp.Def, 126 Speed"
+            },
+            {
+              "column": 5,
+              "value": "126 Sp.Def, 126 Speed"
+            },
+            {
+              "column": 7,
+              "value": "126 Sp.Def, 126 Speed"
+            },
+            {
+              "column": 9,
+              "value": "126 Sp.Def, 126 Speed"
+            },
+            {
+              "column": 11,
+              "value": "126 Sp.Def, 126 Speed"
+            }
+          ]
+        },
+        {
+          "row": 64,
+          "cells": [
+            {
+              "column": 1,
+              "value": "ABILITY"
+            },
+            {
+              "column": 3,
+              "value": "ABILITY"
+            },
+            {
+              "column": 5,
+              "value": "ABILITY"
+            },
+            {
+              "column": 7,
+              "value": "ABILITY"
+            },
+            {
+              "column": 9,
+              "value": "ABILITY"
+            },
+            {
+              "column": 11,
+              "value": "ABILITY"
+            }
+          ]
+        },
+        {
+          "row": 65,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Immunity"
+            },
+            {
+              "column": 3,
+              "value": "Immunity"
+            },
+            {
+              "column": 5,
+              "value": "Immunity"
+            },
+            {
+              "column": 7,
+              "value": "Immunity"
+            },
+            {
+              "column": 9,
+              "value": "Immunity"
+            },
+            {
+              "column": 11,
+              "value": "Immunity"
+            }
+          ]
+        },
+        {
+          "row": 66,
+          "cells": [
+            {
+              "column": 1,
+              "value": "MOVES"
+            },
+            {
+              "column": 3,
+              "value": "MOVES"
+            },
+            {
+              "column": 5,
+              "value": "MOVES"
+            },
+            {
+              "column": 7,
+              "value": "MOVES"
+            },
+            {
+              "column": 9,
+              "value": "MOVES"
+            },
+            {
+              "column": 11,
+              "value": "MOVES"
+            }
+          ]
+        },
+        {
+          "row": 67,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Heat Wave"
+            },
+            {
+              "column": 3,
+              "value": "Demon Rage"
+            },
+            {
+              "column": 5,
+              "value": "Demon Rage"
+            },
+            {
+              "column": 7,
+              "value": "Demon Rage"
+            },
+            {
+              "column": 9,
+              "value": "Demon Rage"
+            },
+            {
+              "column": 11,
+              "value": "Demon Rage"
+            }
+          ]
+        },
+        {
+          "row": 68,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Blizzard"
+            },
+            {
+              "column": 3,
+              "value": "Rising Claw"
+            },
+            {
+              "column": 5,
+              "value": "Rising Claw"
+            },
+            {
+              "column": 7,
+              "value": "Rising Claw"
+            },
+            {
+              "column": 9,
+              "value": "Rising Claw"
+            },
+            {
+              "column": 11,
+              "value": "Rising Claw"
+            }
+          ]
+        },
+        {
+          "row": 69,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Divine Storm"
+            },
+            {
+              "column": 3,
+              "value": "/"
+            },
+            {
+              "column": 5,
+              "value": "/"
+            },
+            {
+              "column": 7,
+              "value": "/"
+            },
+            {
+              "column": 9,
+              "value": "/"
+            },
+            {
+              "column": 11,
+              "value": "/"
+            }
+          ]
+        },
+        {
+          "row": 70,
+          "cells": [
+            {
+              "column": 1,
+              "value": "/"
+            },
+            {
+              "column": 3,
+              "value": "/"
+            },
+            {
+              "column": 5,
+              "value": "/"
+            },
+            {
+              "column": 7,
+              "value": "/"
+            },
+            {
+              "column": 9,
+              "value": "/"
+            },
+            {
+              "column": 11,
+              "value": "/"
+            }
+          ]
+        },
+        {
+          "row": 73,
+          "cells": [
+            {
+              "column": 1,
+              "value": "ABYSSAL GOD - TENTACLES BEATEN: 2"
+            }
+          ]
+        },
+        {
+          "row": 75,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Abyss Eye"
+            },
+            {
+              "column": 3,
+              "value": "Tentacle"
+            },
+            {
+              "column": 5,
+              "value": "Tentacle"
+            },
+            {
+              "column": 7,
+              "value": "Tentacle"
+            },
+            {
+              "column": 9,
+              "value": "Tentacle"
+            }
+          ]
+        },
+        {
+          "row": 77,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Level:"
+            },
+            {
+              "column": 2,
+              "value": "100"
+            },
+            {
+              "column": 3,
+              "value": "Level:"
+            },
+            {
+              "column": 4,
+              "value": "100"
+            },
+            {
+              "column": 5,
+              "value": "Level:"
+            },
+            {
+              "column": 6,
+              "value": "100"
+            },
+            {
+              "column": 7,
+              "value": "Level:"
+            },
+            {
+              "column": 8,
+              "value": "100"
+            },
+            {
+              "column": 9,
+              "value": "Level:"
+            },
+            {
+              "column": 10,
+              "value": "100"
+            }
+          ]
+        },
+        {
+          "row": 78,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Type:"
+            },
+            {
+              "column": 2,
+              "value": "Grass/Ice"
+            },
+            {
+              "column": 3,
+              "value": "Type:"
+            },
+            {
+              "column": 4,
+              "value": "Grass/Fire"
+            },
+            {
+              "column": 5,
+              "value": "Type:"
+            },
+            {
+              "column": 6,
+              "value": "Grass/Fire"
+            },
+            {
+              "column": 7,
+              "value": "Type:"
+            },
+            {
+              "column": 8,
+              "value": "Grass/Fire"
+            },
+            {
+              "column": 9,
+              "value": "Type:"
+            },
+            {
+              "column": 10,
+              "value": "Grass/Fire"
+            }
+          ]
+        },
+        {
+          "row": 79,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Nature:"
+            },
+            {
+              "column": 2,
+              "value": "Modest"
+            },
+            {
+              "column": 3,
+              "value": "Nature:"
+            },
+            {
+              "column": 4,
+              "value": "Adamant"
+            },
+            {
+              "column": 5,
+              "value": "Nature:"
+            },
+            {
+              "column": 6,
+              "value": "Adamant"
+            },
+            {
+              "column": 7,
+              "value": "Nature:"
+            },
+            {
+              "column": 8,
+              "value": "Adamant"
+            },
+            {
+              "column": 9,
+              "value": "Nature:"
+            },
+            {
+              "column": 10,
+              "value": "Adamant"
+            }
+          ]
+        },
+        {
+          "row": 80,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Item:"
+            },
+            {
+              "column": 2,
+              "value": "/"
+            },
+            {
+              "column": 3,
+              "value": "Item:"
+            },
+            {
+              "column": 4,
+              "value": "/"
+            },
+            {
+              "column": 5,
+              "value": "Item:"
+            },
+            {
+              "column": 6,
+              "value": "/"
+            },
+            {
+              "column": 7,
+              "value": "Item:"
+            },
+            {
+              "column": 8,
+              "value": "/"
+            },
+            {
+              "column": 9,
+              "value": "Item:"
+            },
+            {
+              "column": 10,
+              "value": "/"
+            }
+          ]
+        },
+        {
+          "row": 81,
+          "cells": [
+            {
+              "column": 1,
+              "value": "EVS"
+            },
+            {
+              "column": 3,
+              "value": "EVS"
+            },
+            {
+              "column": 5,
+              "value": "EVS"
+            },
+            {
+              "column": 7,
+              "value": "EVS"
+            },
+            {
+              "column": 9,
+              "value": "EVS"
+            }
+          ]
+        },
+        {
+          "row": 82,
+          "cells": [
+            {
+              "column": 1,
+              "value": "252 HP, 126 Def, 252 Sp.Atk"
+            },
+            {
+              "column": 3,
+              "value": "252 HP, 252 Atk, 252 Def"
+            },
+            {
+              "column": 5,
+              "value": "252 HP, 252 Atk, 252 Def"
+            },
+            {
+              "column": 7,
+              "value": "252 HP, 252 Atk, 252 Def"
+            },
+            {
+              "column": 9,
+              "value": "252 HP, 252 Atk, 252 Def"
+            }
+          ]
+        },
+        {
+          "row": 83,
+          "cells": [
+            {
+              "column": 1,
+              "value": "252 Sp.Def, 126 Speed"
+            },
+            {
+              "column": 3,
+              "value": "126 Sp.Def, 126 Speed"
+            },
+            {
+              "column": 5,
+              "value": "126 Sp.Def, 126 Speed"
+            },
+            {
+              "column": 7,
+              "value": "126 Sp.Def, 126 Speed"
+            },
+            {
+              "column": 9,
+              "value": "126 Sp.Def, 126 Speed"
+            }
+          ]
+        },
+        {
+          "row": 84,
+          "cells": [
+            {
+              "column": 1,
+              "value": "ABILITY"
+            },
+            {
+              "column": 3,
+              "value": "ABILITY"
+            },
+            {
+              "column": 5,
+              "value": "ABILITY"
+            },
+            {
+              "column": 7,
+              "value": "ABILITY"
+            },
+            {
+              "column": 9,
+              "value": "ABILITY"
+            }
+          ]
+        },
+        {
+          "row": 85,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Immunity"
+            },
+            {
+              "column": 3,
+              "value": "Immunity"
+            },
+            {
+              "column": 5,
+              "value": "Immunity"
+            },
+            {
+              "column": 7,
+              "value": "Immunity"
+            },
+            {
+              "column": 9,
+              "value": "Immunity"
+            }
+          ]
+        },
+        {
+          "row": 86,
+          "cells": [
+            {
+              "column": 1,
+              "value": "MOVES"
+            },
+            {
+              "column": 3,
+              "value": "MOVES"
+            },
+            {
+              "column": 5,
+              "value": "MOVES"
+            },
+            {
+              "column": 7,
+              "value": "MOVES"
+            },
+            {
+              "column": 9,
+              "value": "MOVES"
+            }
+          ]
+        },
+        {
+          "row": 87,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Heat Wave"
+            },
+            {
+              "column": 3,
+              "value": "Demon Rage"
+            },
+            {
+              "column": 5,
+              "value": "Demon Rage"
+            },
+            {
+              "column": 7,
+              "value": "Demon Rage"
+            },
+            {
+              "column": 9,
+              "value": "Demon Rage"
+            }
+          ]
+        },
+        {
+          "row": 88,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Blizzard"
+            },
+            {
+              "column": 3,
+              "value": "Rising Claw"
+            },
+            {
+              "column": 5,
+              "value": "Rising Claw"
+            },
+            {
+              "column": 7,
+              "value": "Rising Claw"
+            },
+            {
+              "column": 9,
+              "value": "Rising Claw"
+            }
+          ]
+        },
+        {
+          "row": 89,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Divine Storm"
+            },
+            {
+              "column": 3,
+              "value": "/"
+            },
+            {
+              "column": 5,
+              "value": "/"
+            },
+            {
+              "column": 7,
+              "value": "/"
+            },
+            {
+              "column": 9,
+              "value": "/"
+            }
+          ]
+        },
+        {
+          "row": 90,
+          "cells": [
+            {
+              "column": 1,
+              "value": "/"
+            },
+            {
+              "column": 3,
+              "value": "/"
+            },
+            {
+              "column": 5,
+              "value": "/"
+            },
+            {
+              "column": 7,
+              "value": "/"
+            },
+            {
+              "column": 9,
+              "value": "/"
+            }
+          ]
+        },
+        {
+          "row": 93,
+          "cells": [
+            {
+              "column": 1,
+              "value": "ABYSSAL GOD - TENTACLES BEATEN: 4"
+            }
+          ]
+        },
+        {
+          "row": 95,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Abyss Eye"
+            },
+            {
+              "column": 3,
+              "value": "Tentacle"
+            },
+            {
+              "column": 5,
+              "value": "Tentacle"
+            },
+            {
+              "column": 7,
+              "value": "Tentacle"
+            }
+          ]
+        },
+        {
+          "row": 97,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Level:"
+            },
+            {
+              "column": 2,
+              "value": "100"
+            },
+            {
+              "column": 3,
+              "value": "Level:"
+            },
+            {
+              "column": 4,
+              "value": "100"
+            },
+            {
+              "column": 5,
+              "value": "Level:"
+            },
+            {
+              "column": 6,
+              "value": "100"
+            },
+            {
+              "column": 7,
+              "value": "Level:"
+            },
+            {
+              "column": 8,
+              "value": "100"
+            }
+          ]
+        },
+        {
+          "row": 98,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Type:"
+            },
+            {
+              "column": 2,
+              "value": "Grass/Ice"
+            },
+            {
+              "column": 3,
+              "value": "Type:"
+            },
+            {
+              "column": 4,
+              "value": "Grass/Fire"
+            },
+            {
+              "column": 5,
+              "value": "Type:"
+            },
+            {
+              "column": 6,
+              "value": "Grass/Fire"
+            },
+            {
+              "column": 7,
+              "value": "Type:"
+            },
+            {
+              "column": 8,
+              "value": "Grass/Fire"
+            }
+          ]
+        },
+        {
+          "row": 99,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Nature:"
+            },
+            {
+              "column": 2,
+              "value": "Modest"
+            },
+            {
+              "column": 3,
+              "value": "Nature:"
+            },
+            {
+              "column": 4,
+              "value": "Adamant"
+            },
+            {
+              "column": 5,
+              "value": "Nature:"
+            },
+            {
+              "column": 6,
+              "value": "Adamant"
+            },
+            {
+              "column": 7,
+              "value": "Nature:"
+            },
+            {
+              "column": 8,
+              "value": "Adamant"
+            }
+          ]
+        },
+        {
+          "row": 100,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Item:"
+            },
+            {
+              "column": 2,
+              "value": "/"
+            },
+            {
+              "column": 3,
+              "value": "Item:"
+            },
+            {
+              "column": 4,
+              "value": "/"
+            },
+            {
+              "column": 5,
+              "value": "Item:"
+            },
+            {
+              "column": 6,
+              "value": "/"
+            },
+            {
+              "column": 7,
+              "value": "Item:"
+            },
+            {
+              "column": 8,
+              "value": "/"
+            }
+          ]
+        },
+        {
+          "row": 101,
+          "cells": [
+            {
+              "column": 1,
+              "value": "EVS"
+            },
+            {
+              "column": 3,
+              "value": "EVS"
+            },
+            {
+              "column": 5,
+              "value": "EVS"
+            },
+            {
+              "column": 7,
+              "value": "EVS"
+            }
+          ]
+        },
+        {
+          "row": 102,
+          "cells": [
+            {
+              "column": 1,
+              "value": "252 HP, 126 Def, 252 Sp.Atk"
+            },
+            {
+              "column": 3,
+              "value": "252 HP, 252 Atk, 252 Def"
+            },
+            {
+              "column": 5,
+              "value": "252 HP, 252 Atk, 252 Def"
+            },
+            {
+              "column": 7,
+              "value": "252 HP, 252 Atk, 252 Def"
+            }
+          ]
+        },
+        {
+          "row": 103,
+          "cells": [
+            {
+              "column": 1,
+              "value": "252 Sp.Def, 126 Speed"
+            },
+            {
+              "column": 3,
+              "value": "126 Sp.Def, 126 Speed"
+            },
+            {
+              "column": 5,
+              "value": "126 Sp.Def, 126 Speed"
+            },
+            {
+              "column": 7,
+              "value": "126 Sp.Def, 126 Speed"
+            }
+          ]
+        },
+        {
+          "row": 104,
+          "cells": [
+            {
+              "column": 1,
+              "value": "ABILITY"
+            },
+            {
+              "column": 3,
+              "value": "ABILITY"
+            },
+            {
+              "column": 5,
+              "value": "ABILITY"
+            },
+            {
+              "column": 7,
+              "value": "ABILITY"
+            }
+          ]
+        },
+        {
+          "row": 105,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Immunity"
+            },
+            {
+              "column": 3,
+              "value": "Immunity"
+            },
+            {
+              "column": 5,
+              "value": "Immunity"
+            },
+            {
+              "column": 7,
+              "value": "Immunity"
+            }
+          ]
+        },
+        {
+          "row": 106,
+          "cells": [
+            {
+              "column": 1,
+              "value": "MOVES"
+            },
+            {
+              "column": 3,
+              "value": "MOVES"
+            },
+            {
+              "column": 5,
+              "value": "MOVES"
+            },
+            {
+              "column": 7,
+              "value": "MOVES"
+            }
+          ]
+        },
+        {
+          "row": 107,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Heat Wave"
+            },
+            {
+              "column": 3,
+              "value": "Demon Rage"
+            },
+            {
+              "column": 5,
+              "value": "Demon Rage"
+            },
+            {
+              "column": 7,
+              "value": "Demon Rage"
+            }
+          ]
+        },
+        {
+          "row": 108,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Blizzard"
+            },
+            {
+              "column": 3,
+              "value": "Rising Claw"
+            },
+            {
+              "column": 5,
+              "value": "Rising Claw"
+            },
+            {
+              "column": 7,
+              "value": "Rising Claw"
+            }
+          ]
+        },
+        {
+          "row": 109,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Divine Storm"
+            },
+            {
+              "column": 3,
+              "value": "/"
+            },
+            {
+              "column": 5,
+              "value": "/"
+            },
+            {
+              "column": 7,
+              "value": "/"
+            }
+          ]
+        },
+        {
+          "row": 110,
+          "cells": [
+            {
+              "column": 1,
+              "value": "/"
+            },
+            {
+              "column": 3,
+              "value": "/"
+            },
+            {
+              "column": 5,
+              "value": "/"
+            },
+            {
+              "column": 7,
+              "value": "/"
+            }
+          ]
+        },
+        {
+          "row": 113,
+          "cells": [
+            {
+              "column": 1,
+              "value": "ABYSSAL GOD - TENTACLES BEATEN: 6"
+            }
+          ]
+        },
+        {
+          "row": 115,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Abyss Eye"
+            },
+            {
+              "column": 3,
+              "value": "Tentacle"
+            },
+            {
+              "column": 5,
+              "value": "Tentacle"
+            }
+          ]
+        },
+        {
+          "row": 117,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Level:"
+            },
+            {
+              "column": 2,
+              "value": "100"
+            },
+            {
+              "column": 3,
+              "value": "Level:"
+            },
+            {
+              "column": 4,
+              "value": "100"
+            },
+            {
+              "column": 5,
+              "value": "Level:"
+            },
+            {
+              "column": 6,
+              "value": "100"
+            }
+          ]
+        },
+        {
+          "row": 118,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Type:"
+            },
+            {
+              "column": 2,
+              "value": "Grass/Ice"
+            },
+            {
+              "column": 3,
+              "value": "Type:"
+            },
+            {
+              "column": 4,
+              "value": "Grass/Fire"
+            },
+            {
+              "column": 5,
+              "value": "Type:"
+            },
+            {
+              "column": 6,
+              "value": "Grass/Fire"
+            }
+          ]
+        },
+        {
+          "row": 119,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Nature:"
+            },
+            {
+              "column": 2,
+              "value": "Modest"
+            },
+            {
+              "column": 3,
+              "value": "Nature:"
+            },
+            {
+              "column": 4,
+              "value": "Adamant"
+            },
+            {
+              "column": 5,
+              "value": "Nature:"
+            },
+            {
+              "column": 6,
+              "value": "Adamant"
+            }
+          ]
+        },
+        {
+          "row": 120,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Item:"
+            },
+            {
+              "column": 2,
+              "value": "/"
+            },
+            {
+              "column": 3,
+              "value": "Item:"
+            },
+            {
+              "column": 4,
+              "value": "/"
+            },
+            {
+              "column": 5,
+              "value": "Item:"
+            },
+            {
+              "column": 6,
+              "value": "/"
+            }
+          ]
+        },
+        {
+          "row": 121,
+          "cells": [
+            {
+              "column": 1,
+              "value": "EVS"
+            },
+            {
+              "column": 3,
+              "value": "EVS"
+            },
+            {
+              "column": 5,
+              "value": "EVS"
+            }
+          ]
+        },
+        {
+          "row": 122,
+          "cells": [
+            {
+              "column": 1,
+              "value": "252 HP, 126 Def, 252 Sp.Atk"
+            },
+            {
+              "column": 3,
+              "value": "252 HP, 252 Atk, 252 Def"
+            },
+            {
+              "column": 5,
+              "value": "252 HP, 252 Atk, 252 Def"
+            }
+          ]
+        },
+        {
+          "row": 123,
+          "cells": [
+            {
+              "column": 1,
+              "value": "252 Sp.Def, 126 Speed"
+            },
+            {
+              "column": 3,
+              "value": "126 Sp.Def, 126 Speed"
+            },
+            {
+              "column": 5,
+              "value": "126 Sp.Def, 126 Speed"
+            }
+          ]
+        },
+        {
+          "row": 124,
+          "cells": [
+            {
+              "column": 1,
+              "value": "ABILITY"
+            },
+            {
+              "column": 3,
+              "value": "ABILITY"
+            },
+            {
+              "column": 5,
+              "value": "ABILITY"
+            }
+          ]
+        },
+        {
+          "row": 125,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Immunity"
+            },
+            {
+              "column": 3,
+              "value": "Immunity"
+            },
+            {
+              "column": 5,
+              "value": "Immunity"
+            }
+          ]
+        },
+        {
+          "row": 126,
+          "cells": [
+            {
+              "column": 1,
+              "value": "MOVES"
+            },
+            {
+              "column": 3,
+              "value": "MOVES"
+            },
+            {
+              "column": 5,
+              "value": "MOVES"
+            }
+          ]
+        },
+        {
+          "row": 127,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Heat Wave"
+            },
+            {
+              "column": 3,
+              "value": "Demon Rage"
+            },
+            {
+              "column": 5,
+              "value": "Demon Rage"
+            }
+          ]
+        },
+        {
+          "row": 128,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Blizzard"
+            },
+            {
+              "column": 3,
+              "value": "Rising Claw"
+            },
+            {
+              "column": 5,
+              "value": "Rising Claw"
+            }
+          ]
+        },
+        {
+          "row": 129,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Divine Storm"
+            },
+            {
+              "column": 3,
+              "value": "/"
+            },
+            {
+              "column": 5,
+              "value": "/"
+            }
+          ]
+        },
+        {
+          "row": 130,
+          "cells": [
+            {
+              "column": 1,
+              "value": "/"
+            },
+            {
+              "column": 3,
+              "value": "/"
+            },
+            {
+              "column": 5,
+              "value": "/"
+            }
+          ]
+        },
+        {
+          "row": 133,
+          "cells": [
+            {
+              "column": 1,
+              "value": "ABYSSAL GOD - TENTACLES BEATEN: 8"
+            }
+          ]
+        },
+        {
+          "row": 135,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Abyss Eye"
+            },
+            {
+              "column": 3,
+              "value": "Tentacle"
+            }
+          ]
+        },
+        {
+          "row": 137,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Level:"
+            },
+            {
+              "column": 2,
+              "value": "100"
+            },
+            {
+              "column": 3,
+              "value": "Level:"
+            },
+            {
+              "column": 4,
+              "value": "100"
+            }
+          ]
+        },
+        {
+          "row": 138,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Type:"
+            },
+            {
+              "column": 2,
+              "value": "Grass/Ice"
+            },
+            {
+              "column": 3,
+              "value": "Type:"
+            },
+            {
+              "column": 4,
+              "value": "Grass/Fire"
+            }
+          ]
+        },
+        {
+          "row": 139,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Nature:"
+            },
+            {
+              "column": 2,
+              "value": "Modest"
+            },
+            {
+              "column": 3,
+              "value": "Nature:"
+            },
+            {
+              "column": 4,
+              "value": "Adamant"
+            }
+          ]
+        },
+        {
+          "row": 140,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Item:"
+            },
+            {
+              "column": 2,
+              "value": "/"
+            },
+            {
+              "column": 3,
+              "value": "Item:"
+            },
+            {
+              "column": 4,
+              "value": "/"
+            }
+          ]
+        },
+        {
+          "row": 141,
+          "cells": [
+            {
+              "column": 1,
+              "value": "EVS"
+            },
+            {
+              "column": 3,
+              "value": "EVS"
+            }
+          ]
+        },
+        {
+          "row": 142,
+          "cells": [
+            {
+              "column": 1,
+              "value": "252 HP, 126 Def, 252 Sp.Atk"
+            },
+            {
+              "column": 3,
+              "value": "252 HP, 252 Atk, 252 Def"
+            }
+          ]
+        },
+        {
+          "row": 143,
+          "cells": [
+            {
+              "column": 1,
+              "value": "252 Sp.Def, 126 Speed"
+            },
+            {
+              "column": 3,
+              "value": "126 Sp.Def, 126 Speed"
+            }
+          ]
+        },
+        {
+          "row": 144,
+          "cells": [
+            {
+              "column": 1,
+              "value": "ABILITY"
+            },
+            {
+              "column": 3,
+              "value": "ABILITY"
+            }
+          ]
+        },
+        {
+          "row": 145,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Immunity"
+            },
+            {
+              "column": 3,
+              "value": "Immunity"
+            }
+          ]
+        },
+        {
+          "row": 146,
+          "cells": [
+            {
+              "column": 1,
+              "value": "MOVES"
+            },
+            {
+              "column": 3,
+              "value": "MOVES"
+            }
+          ]
+        },
+        {
+          "row": 147,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Heat Wave"
+            },
+            {
+              "column": 3,
+              "value": "Demon Rage"
+            }
+          ]
+        },
+        {
+          "row": 148,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Blizzard"
+            },
+            {
+              "column": 3,
+              "value": "Rising Claw"
+            }
+          ]
+        },
+        {
+          "row": 149,
+          "cells": [
+            {
+              "column": 1,
+              "value": "Divine Storm"
+            },
+            {
+              "column": 3,
+              "value": "/"
+            }
+          ]
+        },
+        {
+          "row": 150,
+          "cells": [
+            {
+              "column": 1,
+              "value": "/"
+            },
+            {
+              "column": 3,
+              "value": "/"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "file": "progression-bosses.xlsx",
+        "sheet": "Abyssal God - Bossfight guide",
+        "row": 1
+      }
+    }
+  ]
+}

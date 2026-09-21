@@ -1,0 +1,6754 @@
+[
+  {
+    "id": 30000,
+    "name": "Miracle Seed",
+    "key": "miracle-seed",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/205.png",
+    "locations": [
+      "Unspecified — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 5
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 205,
+      "iconTableOffset": "0x3d48fc"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30001,
+    "name": "Repel",
+    "key": "repel",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/086.png",
+    "locations": [
+      "Unspecified — Chest",
+      "Medica II — Chest",
+      "Yellow Shard — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 6
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 86,
+      "iconTableOffset": "0x3d4544"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30002,
+    "name": "Medica",
+    "key": "medica",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/013.png",
+    "locations": [
+      "Unspecified — Hidden",
+      "Medica II — Chest",
+      "Yellow Shard — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 7
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 13,
+      "iconTableOffset": "0x3d42fc"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30003,
+    "name": "Poké Ball",
+    "key": "poke-ball",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/004.png",
+    "locations": [
+      "Unspecified — Hidden",
+      "Everstone — Chest",
+      "Yellow Shard — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 8
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 4,
+      "iconTableOffset": "0x3d42b4"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30004,
+    "name": "Winged Boots",
+    "key": "winged-boots",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/240.png",
+    "locations": [
+      "Unspecified — Quest Reward"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 9
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 240,
+      "iconTableOffset": "0x3d4a14"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30005,
+    "name": "Water Stone",
+    "key": "water-stone",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/097.png",
+    "locations": [
+      "Unspecified — Chest",
+      "TM26 (Earthquake) — Hidden"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 5
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 97,
+      "iconTableOffset": "0x3d459c"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30006,
+    "name": "PP-Up",
+    "key": "pp-up",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/069.png",
+    "locations": [
+      "Unspecified — Chest",
+      "PP Max — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 6
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 69,
+      "iconTableOffset": "0x3d44bc"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30007,
+    "name": "Star Piece",
+    "key": "star-piece",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/109.png",
+    "locations": [
+      "Unspecified — Chest",
+      "Nectar — Hidden",
+      "TM26 (Earthquake) — Hidden",
+      "HP Up — Hidden"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 7
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 109,
+      "iconTableOffset": "0x3d45fc"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30008,
+    "name": "TM39 (Rock Tomb)",
+    "key": "tm39-rock-tomb",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Winged Boots — Chest",
+      "Coastal Road — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 14
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30009,
+    "name": "Oran Berry",
+    "key": "oran-berry",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/139.png",
+    "locations": [
+      "Winged Boots — Hidden"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 15
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 139,
+      "iconTableOffset": "0x3d46ec"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30010,
+    "name": "Antidote",
+    "key": "antidote",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/014.png",
+    "locations": [
+      "Winged Boots — Hidden",
+      "Yellow Shard — Hidden",
+      "Super Repel — Hidden"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 16
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 14,
+      "iconTableOffset": "0x3d4304"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30011,
+    "name": "EV-Editor",
+    "key": "ev-editor",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/278.png",
+    "locations": [
+      "Winged Boots — Quest Reward"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 17
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 278,
+      "iconTableOffset": "0x3d4b44"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30012,
+    "name": "Prism Scale",
+    "key": "prism-scale",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/099.png",
+    "locations": [
+      "Star Piece — Chest (F.O.E. North-east)"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 14
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 99,
+      "iconTableOffset": "0x3d45ac"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30013,
+    "name": "TM47 (Steel Wing)",
+    "key": "tm47-steel-wing",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Star Piece — Chest (F.O.E. North)",
+      "Sea of Galazeah, eastern side — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 15
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30014,
+    "name": "TM13 (Ice Beam)",
+    "key": "tm13-ice-beam",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Star Piece — Chest (F.O.E. South-east)",
+      "Sea of Galazeah, eastern side — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 16
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30015,
+    "name": "Brightpowder",
+    "key": "brightpowder",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/179.png",
+    "locations": [
+      "EV-Editor — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 22
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 179,
+      "iconTableOffset": "0x3d482c"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30016,
+    "name": "Everstone",
+    "key": "everstone",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/195.png",
+    "locations": [
+      "EV-Editor — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 23
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 195,
+      "iconTableOffset": "0x3d48ac"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30017,
+    "name": "Mystic Water",
+    "key": "mystic-water",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/209.png",
+    "locations": [
+      "Everstone — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 29
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 209,
+      "iconTableOffset": "0x3d491c"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30018,
+    "name": "Stardust",
+    "key": "stardust",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/108.png",
+    "locations": [
+      "Everstone — Hidden",
+      "Yellow Shard — Hidden"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 30
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 108,
+      "iconTableOffset": "0x3d45f4"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30019,
+    "name": "Blue Shard",
+    "key": "blue-shard",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/049.png",
+    "locations": [
+      "Everstone — Hidden",
+      "TM07 (Hail) — Hidden",
+      "Pokéflute (Key Item) — Hidden",
+      "PP-Max — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 31
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 49,
+      "iconTableOffset": "0x3d441c"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30020,
+    "name": "Old Rod",
+    "key": "old-rod",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/262.png",
+    "locations": [
+      "Everstone — NPC"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 32
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 262,
+      "iconTableOffset": "0x3d4ac4"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30021,
+    "name": "Eviolite",
+    "key": "eviolite",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/233.png",
+    "locations": [
+      "Old Rod — NPC"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 37
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 233,
+      "iconTableOffset": "0x3d49dc"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30022,
+    "name": "TM09 (Bullet Seed)",
+    "key": "tm09-bullet-seed",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Eviolite — Chest",
+      "Varley Woods — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 42
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30023,
+    "name": "Silverpowder",
+    "key": "silverpowder",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/188.png",
+    "locations": [
+      "Eviolite — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 43
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 188,
+      "iconTableOffset": "0x3d4874"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30024,
+    "name": "Great Ball",
+    "key": "great-ball",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/003.png",
+    "locations": [
+      "Eviolite — Hidden",
+      "Green Shard — Hidden",
+      "Blackglasses — Hidden"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 44
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 3,
+      "iconTableOffset": "0x3d42ac"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30025,
+    "name": "Green Shard",
+    "key": "green-shard",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/051.png",
+    "locations": [
+      "Eviolite — Hidden"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 45
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 51,
+      "iconTableOffset": "0x3d442c"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30026,
+    "name": "Protein",
+    "key": "protein",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/064.png",
+    "locations": [
+      "Green Shard — Chest",
+      "TM07 (Hail) — Hidden",
+      "HP Up — Chest",
+      "Silk Scarf — Chest",
+      "PP Max — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 50
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 64,
+      "iconTableOffset": "0x3d4494"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30027,
+    "name": "Nectar",
+    "key": "nectar",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/024.png",
+    "locations": [
+      "Green Shard — Hidden",
+      "Old Amber (Key Item) — Chest",
+      "HP Up — Hidden",
+      "Silk Scarf — Hidden",
+      "Electirizer — Chest",
+      "PP-Max — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 52
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 24,
+      "iconTableOffset": "0x3d4354"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30028,
+    "name": "Black Belt",
+    "key": "black-belt",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/207.png",
+    "locations": [
+      "Nectar — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 57
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 207,
+      "iconTableOffset": "0x3d490c"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30029,
+    "name": "Sharp Beak",
+    "key": "sharp-beak",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/210.png",
+    "locations": [
+      "Nectar — Hidden"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 59
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 210,
+      "iconTableOffset": "0x3d4924"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30030,
+    "name": "Medica II",
+    "key": "medica-ii",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/022.png",
+    "locations": [
+      "Nectar — Hidden",
+      "Yellow Shard — Hidden",
+      "TM07 (Hail) — Chest",
+      "Super Repel — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 60
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 22,
+      "iconTableOffset": "0x3d4344"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30031,
+    "name": "Magnet",
+    "key": "magnet",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/208.png",
+    "locations": [
+      "Medica II — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 67
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 208,
+      "iconTableOffset": "0x3d4914"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30032,
+    "name": "Metal Coat",
+    "key": "metal-coat",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/199.png",
+    "locations": [
+      "Medica II — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 68
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 199,
+      "iconTableOffset": "0x3d48cc"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30033,
+    "name": "Paralyz Heal",
+    "key": "paralyz-heal",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/018.png",
+    "locations": [
+      "Medica II — Hidden",
+      "Yellow Shard — Hidden"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 69
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 18,
+      "iconTableOffset": "0x3d4324"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30034,
+    "name": "Yellow Shard",
+    "key": "yellow-shard",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/050.png",
+    "locations": [
+      "Medica II — Hidden",
+      "Blackglasses — Hidden",
+      "Super Repel — Hidden",
+      "HP Up — Hidden"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 70
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 50,
+      "iconTableOffset": "0x3d4424"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30035,
+    "name": "Star Pendant",
+    "key": "star-pendant",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/241.png",
+    "locations": [
+      "Yellow Shard — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 78
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 241,
+      "iconTableOffset": "0x3d4a1c"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30036,
+    "name": "TM19 (Giga Drain)",
+    "key": "tm19-giga-drain",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Yellow Shard — Chest",
+      "First Stratum — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 79
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30037,
+    "name": "TM40 (Aerial Ace)",
+    "key": "tm40-aerial-ace",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Yellow Shard — Chest",
+      "First Stratum — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 80
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30038,
+    "name": "PP-Max",
+    "key": "pp-max",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/071.png",
+    "locations": [
+      "Yellow Shard — Chest (F.O.E.)",
+      "Silk Scarf — Hidden",
+      "Nectar II — Chest",
+      "Nectar II — Chest",
+      "TM38 (Fire Blast) — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 81
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 71,
+      "iconTableOffset": "0x3d44cc"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30039,
+    "name": "Sun Stone",
+    "key": "sun-stone",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/093.png",
+    "locations": [
+      "Yellow Shard — Chest (F.O.E.)"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 82
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 93,
+      "iconTableOffset": "0x3d457c"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30040,
+    "name": "Moon Stone",
+    "key": "moon-stone",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/094.png",
+    "locations": [
+      "Yellow Shard — Chest (F.O.E.)",
+      "HP Up — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 83
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 94,
+      "iconTableOffset": "0x3d4584"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30041,
+    "name": "Sitrus Berry",
+    "key": "sitrus-berry",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/142.png",
+    "locations": [
+      "Yellow Shard — Hidden",
+      "TM34 (Shock Wave) — Hidden",
+      "Max Repel — Hidden"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 86
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 142,
+      "iconTableOffset": "0x3d4704"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30042,
+    "name": "Offer. Bag (Key Item)",
+    "key": "offer-bag-key-item",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/art/placeholder-icon.svg",
+    "locations": [
+      "Yellow Shard — Magna Vis"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 88
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 30043,
+    "name": "Red Flower (25%) 1 to 7",
+    "key": "red-flower-25-1-to-7",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/art/placeholder-icon.svg",
+    "locations": [
+      "TM13 (Ice Beam) — F.O.E. Drop"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 75
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 30044,
+    "name": "Emerald (25%) 1 to 7",
+    "key": "emerald-25-1-to-7",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/art/placeholder-icon.svg",
+    "locations": [
+      "TM13 (Ice Beam) — F.O.E. Drop"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 76
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 30045,
+    "name": "Nevermeltice",
+    "key": "nevermeltice",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/212.png",
+    "locations": [
+      "Offer. Bag (Key Item) — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 93
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 212,
+      "iconTableOffset": "0x3d4934"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30046,
+    "name": "TM07 (Hail)",
+    "key": "tm07-hail",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Offer. Bag (Key Item) — Chest",
+      "Arundel — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 94
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30047,
+    "name": "Nugget",
+    "key": "nugget",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/110.png",
+    "locations": [
+      "TM07 (Hail) — Chest",
+      "TM27 (Frustration) — Chest",
+      "Yellow Shard — Chest",
+      "TM26 (Earthquake) — Hidden",
+      "TM34 (Shock Wave) — Chest",
+      "Silk Scarf — Chest",
+      "TM23 (Iron Tail) — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 99
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 110,
+      "iconTableOffset": "0x3d4604"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30048,
+    "name": "Assault Vest",
+    "key": "assault-vest",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/232.png",
+    "locations": [
+      "Protein — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 107
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 232,
+      "iconTableOffset": "0x3d49d4"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30049,
+    "name": "TM11 (Sunny Day)",
+    "key": "tm11-sunny-day",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Protein — Chest",
+      "Charon — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 108
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30050,
+    "name": "TM21 (Return)",
+    "key": "tm21-return",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Protein — NPC"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 109
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30051,
+    "name": "TM27 (Frustration)",
+    "key": "tm27-frustration",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Protein — NPC"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 110
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30052,
+    "name": "Relic Silver",
+    "key": "relic-silver",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/166.png",
+    "locations": [
+      "TM27 (Frustration) — Chest",
+      "Expert Belt — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 115
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 166,
+      "iconTableOffset": "0x3d47c4"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30053,
+    "name": "Memento Vitae (Key Item)",
+    "key": "memento-vitae-key-item",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/art/placeholder-icon.svg",
+    "locations": [
+      "TM27 (Frustration) — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 117
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 30054,
+    "name": "Twistedspoon",
+    "key": "twistedspoon",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/214.png",
+    "locations": [
+      "Memento Vitae (Key Item) — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 122
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 214,
+      "iconTableOffset": "0x3d4944"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30055,
+    "name": "Blackglasses",
+    "key": "blackglasses",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/206.png",
+    "locations": [
+      "Memento Vitae (Key Item) — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 123
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 206,
+      "iconTableOffset": "0x3d4904"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30056,
+    "name": "TM28 (Dig)",
+    "key": "tm28-dig",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Blackglasses — Chest (F.O.E.)",
+      "Second Stratum, left side — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 128
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30057,
+    "name": "TM42 (Facade)",
+    "key": "tm42-facade",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Blackglasses — Chest (F.O.E.)",
+      "Second Stratum, left side — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 129
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30058,
+    "name": "Super Repel",
+    "key": "super-repel",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/083.png",
+    "locations": [
+      "Blackglasses — Chest",
+      "Yellow Shard — Hidden",
+      "HP Up — Hidden"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 130
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 83,
+      "iconTableOffset": "0x3d452c"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30059,
+    "name": "Carbos",
+    "key": "carbos",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/066.png",
+    "locations": [
+      "Blackglasses — Chest",
+      "Silk Scarf — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 131
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 66,
+      "iconTableOffset": "0x3d44a4"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30060,
+    "name": "Elixir",
+    "key": "elixir",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/036.png",
+    "locations": [
+      "Blackglasses — Chest",
+      "Silk Scarf — Hidden",
+      "Electirizer — Hidden"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 132
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 36,
+      "iconTableOffset": "0x3d43b4"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30061,
+    "name": "HP Up",
+    "key": "hp-up",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/063.png",
+    "locations": [
+      "Blackglasses — Hidden",
+      "Old Amber (Key Item) — Hidden",
+      "Good Rod — Hidden",
+      "Pokéflute (Key Item) — Hidden"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 134
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 63,
+      "iconTableOffset": "0x3d448c"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30062,
+    "name": "Yellow Flower (25%) 1 to 7",
+    "key": "yellow-flower-25-1-to-7",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/art/placeholder-icon.svg",
+    "locations": [
+      "Emerald (25%) 1 to 7 — F.O.E. Drop",
+      "Topaz (25%) 1 to 7 — F.O.E. Drop",
+      "Topaz (25%) 1 to 7 — F.O.E. Drop"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 128
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 30063,
+    "name": "Topaz (25%) 1 to 7",
+    "key": "topaz-25-1-to-7",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/art/placeholder-icon.svg",
+    "locations": [
+      "Emerald (25%) 1 to 7 — F.O.E. Drop",
+      "Topaz (25%) 1 to 7 — F.O.E. Drop",
+      "Topaz (25%) 1 to 7 — F.O.E. Drop"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 129
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 30064,
+    "name": "Theriaca",
+    "key": "theriaca",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/023.png",
+    "locations": [
+      "Yellow Shard — Chest",
+      "Super Repel — Chest",
+      "Silk Scarf — Hidden",
+      "Pearl — Hidden",
+      "Electirizer — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 141
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 23,
+      "iconTableOffset": "0x3d434c"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30065,
+    "name": "Light Clay",
+    "key": "light-clay",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/239.png",
+    "locations": [
+      "Yellow Shard — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 142
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 239,
+      "iconTableOffset": "0x3d4a0c"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30066,
+    "name": "Iron",
+    "key": "iron",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/065.png",
+    "locations": [
+      "Super Repel — Chest",
+      "PP-Max — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 151
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 65,
+      "iconTableOffset": "0x3d449c"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30067,
+    "name": "Rocky Helmet",
+    "key": "rocky-helmet",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/230.png",
+    "locations": [
+      "Super Repel — Chest (F.O.E.)"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 152
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 230,
+      "iconTableOffset": "0x3d49c4"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30068,
+    "name": "TM03 (Water Pulse)",
+    "key": "tm03-water-pulse",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Super Repel — Chest (F.O.E.)",
+      "Second Stratum, right side — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 153
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30069,
+    "name": "Ultra Ball",
+    "key": "ultra-ball",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/002.png",
+    "locations": [
+      "Super Repel — Hidden",
+      "HP Up — Hidden",
+      "Silk Scarf — Chest",
+      "Silk Scarf — Hidden",
+      "TM23 (Iron Tail) — Hidden",
+      "Pokéflute (Key Item) — Chest",
+      "Medica IV — Chest",
+      "Medica IV — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 156
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 2,
+      "iconTableOffset": "0x3d42a4"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30070,
+    "name": "TM26 (Earthquake)",
+    "key": "tm26-earthquake",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Super Repel — Chest (Magna Vis)",
+      "Second Stratum, right side — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 157
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30071,
+    "name": "Shell Bell",
+    "key": "shell-bell",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/219.png",
+    "locations": [
+      "TM26 (Earthquake) — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 162
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 219,
+      "iconTableOffset": "0x3d496c"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30072,
+    "name": "Thunderstone",
+    "key": "thunderstone",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/096.png",
+    "locations": [
+      "TM26 (Earthquake) — Hidden",
+      "Good Rod — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 165
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 96,
+      "iconTableOffset": "0x3d4594"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30073,
+    "name": "Ether",
+    "key": "ether",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/034.png",
+    "locations": [
+      "TM26 (Earthquake) — Hidden"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 166
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 34,
+      "iconTableOffset": "0x3d43a4"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30074,
+    "name": "Itemfinder (Key Item)",
+    "key": "itemfinder-key-item",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/art/placeholder-icon.svg",
+    "locations": [
+      "TM26 (Earthquake) — NPC"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 168
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 30075,
+    "name": "Old Amber (Key Item)",
+    "key": "old-amber-key-item",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/art/placeholder-icon.svg",
+    "locations": [
+      "TM26 (Earthquake) — Sidequest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 169
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 30076,
+    "name": "Leftovers",
+    "key": "leftovers",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/200.png",
+    "locations": [
+      "Old Amber (Key Item) — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 174
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 200,
+      "iconTableOffset": "0x3d48d4"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30077,
+    "name": "Soft Sand",
+    "key": "soft-sand",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/203.png",
+    "locations": [
+      "HP Up — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 181
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 203,
+      "iconTableOffset": "0x3d48ec"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30078,
+    "name": "TM37 (Sandstorm)",
+    "key": "tm37-sandstorm",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "HP Up — Chest",
+      "Desert of Golgonda — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 182
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30079,
+    "name": "Hard Stone",
+    "key": "hard-stone",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/204.png",
+    "locations": [
+      "HP Up — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 183
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 204,
+      "iconTableOffset": "0x3d48f4"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30080,
+    "name": "Good Rod",
+    "key": "good-rod",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/263.png",
+    "locations": [
+      "HP Up — NPC"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 191
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 263,
+      "iconTableOffset": "0x3d4acc"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30081,
+    "name": "TM31 (Brick Break)",
+    "key": "tm31-brick-break",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Good Rod — Quest Reward",
+      "Quest Reward: \"One drink too many...\", Brigit Farm — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 198
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30082,
+    "name": "TM34 (Shock Wave)",
+    "key": "tm34-shock-wave",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Good Rod — Quest Reward",
+      "Quest Reward: \"One drink too many...\", Brigit Farm — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 199
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30083,
+    "name": "Poison Barb",
+    "key": "poison-barb",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/211.png",
+    "locations": [
+      "TM34 (Shock Wave) — Hidden"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 205
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 211,
+      "iconTableOffset": "0x3d492c"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30084,
+    "name": "Silk Scarf",
+    "key": "silk-scarf",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/217.png",
+    "locations": [
+      "TM34 (Shock Wave) — Hidden"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 207
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 217,
+      "iconTableOffset": "0x3d495c"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30085,
+    "name": "TM35 (Flamethrower)",
+    "key": "tm35-flamethrower",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Silk Scarf — Chest (F.O.E.)",
+      "Third Stratum — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 212
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30086,
+    "name": "TM22 (Solar Beam)",
+    "key": "tm22-solar-beam",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Silk Scarf — Chest (F.O.E.)",
+      "Third Stratum — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 213
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30087,
+    "name": "TM30 (Shadow Ball)",
+    "key": "tm30-shadow-ball",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Silk Scarf — Chest (F.O.E.)",
+      "Third Stratum — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 214
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30088,
+    "name": "Scope Lens",
+    "key": "scope-lens",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/198.png",
+    "locations": [
+      "Silk Scarf — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 215
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 198,
+      "iconTableOffset": "0x3d48c4"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30089,
+    "name": "Black Augurite",
+    "key": "black-augurite",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/art/placeholder-icon.svg",
+    "locations": [
+      "Silk Scarf — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 216
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 30090,
+    "name": "Charcoal",
+    "key": "charcoal",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/215.png",
+    "locations": [
+      "Silk Scarf — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 217
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 215,
+      "iconTableOffset": "0x3d494c"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30091,
+    "name": "Dusk Stone",
+    "key": "dusk-stone",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/089.png",
+    "locations": [
+      "Silk Scarf — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 221
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 89,
+      "iconTableOffset": "0x3d455c"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30092,
+    "name": "Red Bell (Key Item)",
+    "key": "red-bell-key-item",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/art/placeholder-icon.svg",
+    "locations": [
+      "Silk Scarf — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 223
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 30093,
+    "name": "Upgrade",
+    "key": "upgrade",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/105.png",
+    "locations": [
+      "Silk Scarf — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 224
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 105,
+      "iconTableOffset": "0x3d45dc"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30094,
+    "name": "Link Stone",
+    "key": "link-stone",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/092.png",
+    "locations": [
+      "Silk Scarf — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 225
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 92,
+      "iconTableOffset": "0x3d4574"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30095,
+    "name": "Wide Lens",
+    "key": "wide-lens",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/234.png",
+    "locations": [
+      "Silk Scarf — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 226
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 234,
+      "iconTableOffset": "0x3d49e4"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30096,
+    "name": "Dragon Fang",
+    "key": "dragon-fang",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/216.png",
+    "locations": [
+      "Silk Scarf — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 227
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 216,
+      "iconTableOffset": "0x3d4954"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30097,
+    "name": "Flame Orb",
+    "key": "flame-orb",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/236.png",
+    "locations": [
+      "Silk Scarf — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 228
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 236,
+      "iconTableOffset": "0x3d49f4"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30098,
+    "name": "Zinc",
+    "key": "zinc",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/070.png",
+    "locations": [
+      "Silk Scarf — Hidden"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 232
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 70,
+      "iconTableOffset": "0x3d44c4"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30099,
+    "name": "Nectar II",
+    "key": "nectar-ii",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/025.png",
+    "locations": [
+      "Silk Scarf — Hidden",
+      "Pokéflute (Key Item) — Chest",
+      "Medica IV — Chest",
+      "TM46 (Dark Pulse) — Chest",
+      "PP Max — Chest",
+      "Max Elixir — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 234
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 25,
+      "iconTableOffset": "0x3d435c"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30100,
+    "name": "Blue Flower (25%) 1 to 7",
+    "key": "blue-flower-25-1-to-7",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/art/placeholder-icon.svg",
+    "locations": [
+      "Topaz (25%) 1 to 7 — F.O.E. Drop"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 212
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 30101,
+    "name": "Sapphire (25%) 1 to 7",
+    "key": "sapphire-25-1-to-7",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/art/placeholder-icon.svg",
+    "locations": [
+      "Topaz (25%) 1 to 7 — F.O.E. Drop"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 213
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 30102,
+    "name": "Amulet Coin",
+    "key": "amulet-coin",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/189.png",
+    "locations": [
+      "PP-Max — NPC"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 240
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 189,
+      "iconTableOffset": "0x3d487c"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30103,
+    "name": "TM08 (Bulk Up)",
+    "key": "tm08-bulk-up",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "PP-Max — Quest Reward",
+      "Quest Reward: \"Eeveelution!\", Third Stratum Base — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 241
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30104,
+    "name": "TM23 (Iron Tail)",
+    "key": "tm23-iron-tail",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "PP-Max — Quest Reward",
+      "Quest Reward: \"Eeveelution!\", Third Stratum Base — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 242
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30105,
+    "name": "Lucky Egg",
+    "key": "lucky-egg",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/197.png",
+    "locations": [
+      "TM23 (Iron Tail) — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 247
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 197,
+      "iconTableOffset": "0x3d48bc"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30106,
+    "name": "TM36 (Sludge Bomb)",
+    "key": "tm36-sludge-bomb",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "TM23 (Iron Tail) — Chest",
+      "Auburn Thicket — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 249
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30107,
+    "name": "Max Elixir",
+    "key": "max-elixir",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/037.png",
+    "locations": [
+      "TM23 (Iron Tail) — Hidden",
+      "Electirizer — Chest",
+      "Nectar II — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 250
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 37,
+      "iconTableOffset": "0x3d43bc"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30108,
+    "name": "TM24 (Thunderbolt)",
+    "key": "tm24-thunderbolt",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "TM23 (Iron Tail) — Quest Reward",
+      "Quest Reward: \"The lost Castform\", Auburn Thicket — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 252
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30109,
+    "name": "Pokéflute (Key Item)",
+    "key": "poke-flute-key-item",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/art/placeholder-icon.svg",
+    "locations": [
+      "TM23 (Iron Tail) — Quest Reward"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 253
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 30110,
+    "name": "TM17 (Protect)",
+    "key": "tm17-protect",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Pokéflute (Key Item) — Chest (F.O.E.)",
+      "Fourth Stratum — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 258
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30111,
+    "name": "TM48 (Skill Swap)",
+    "key": "tm48-skill-swap",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Pokéflute (Key Item) — Chest (F.O.E.)",
+      "Fourth Stratum — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 259
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30112,
+    "name": "TM44 (Rest)",
+    "key": "tm44-rest",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Pokéflute (Key Item) — Chest",
+      "Fourth Stratum — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 260
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30113,
+    "name": "Toxic Orb",
+    "key": "toxic-orb",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/237.png",
+    "locations": [
+      "Pokéflute (Key Item) — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 261
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 237,
+      "iconTableOffset": "0x3d49fc"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30114,
+    "name": "Life Orb",
+    "key": "life-orb",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/229.png",
+    "locations": [
+      "Pokéflute (Key Item) — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 262
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 229,
+      "iconTableOffset": "0x3d49bc"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30115,
+    "name": "Calcium",
+    "key": "calcium",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/067.png",
+    "locations": [
+      "Pokéflute (Key Item) — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 265
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 67,
+      "iconTableOffset": "0x3d44ac"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30116,
+    "name": "Medica V",
+    "key": "medica-v",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/019.png",
+    "locations": [
+      "Pokéflute (Key Item) — Chest",
+      "Pearl — Chest",
+      "Blue Shard — Chest",
+      "TM46 (Dark Pulse) — Chest",
+      "Nectar II — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 266
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 19,
+      "iconTableOffset": "0x3d432c"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30117,
+    "name": "Medica III",
+    "key": "medica-iii",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/021.png",
+    "locations": [
+      "Pokéflute (Key Item) — Hidden"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 267
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 21,
+      "iconTableOffset": "0x3d433c"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30118,
+    "name": "Pearl",
+    "key": "pearl",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/106.png",
+    "locations": [
+      "Pokéflute (Key Item) — Hidden"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 270
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 106,
+      "iconTableOffset": "0x3d45e4"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30119,
+    "name": "Purple Flower (25%) 1 to 7",
+    "key": "purple-flower-25-1-to-7",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/art/placeholder-icon.svg",
+    "locations": [
+      "Sapphire (25%) 1 to 7 — F.O.E. Drop",
+      "Dolomite (25%) 1 to 7 — F.O.E. Drop"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 258
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 30120,
+    "name": "Dolomite (25%) 1 to 7",
+    "key": "dolomite-25-1-to-7",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/art/placeholder-icon.svg",
+    "locations": [
+      "Sapphire (25%) 1 to 7 — F.O.E. Drop",
+      "Dolomite (25%) 1 to 7 — F.O.E. Drop"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 259
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 30121,
+    "name": "Blue Bell (Key Item)",
+    "key": "blue-bell-key-item",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/art/placeholder-icon.svg",
+    "locations": [
+      "Pearl — Chest (Magna Vis)"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 275
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 30122,
+    "name": "TM49 (Scald)",
+    "key": "tm49-scald",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Pearl — Chest (Magna Vis)",
+      "Azure Cave — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 276
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30123,
+    "name": "Magna Vis (Key Item)",
+    "key": "magna-vis-key-item",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/art/placeholder-icon.svg",
+    "locations": [
+      "Pearl — Quest Reward"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 279
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 30124,
+    "name": "Super Rod",
+    "key": "super-rod",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/264.png",
+    "locations": [
+      "Pearl — NPC"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 280
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 264,
+      "iconTableOffset": "0x3d4ad4"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30125,
+    "name": "Choice Band",
+    "key": "choice-band",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/186.png",
+    "locations": [
+      "Super Rod — NPC"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 285
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 186,
+      "iconTableOffset": "0x3d4864"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30126,
+    "name": "Choice Specs",
+    "key": "choice-specs",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/226.png",
+    "locations": [
+      "Super Rod — NPC"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 286
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 226,
+      "iconTableOffset": "0x3d49a4"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30127,
+    "name": "Choice Scarf",
+    "key": "choice-scarf",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/227.png",
+    "locations": [
+      "Super Rod — NPC"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 287
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 227,
+      "iconTableOffset": "0x3d49ac"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30128,
+    "name": "TM25 (Thunder)",
+    "key": "tm25-thunder",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Choice Scarf — Quest Reward",
+      "Quest Reward: \"The Mantis' Nest\", Rade of Carcino — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 292
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30129,
+    "name": "Magmarizer",
+    "key": "magmarizer",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/087.png",
+    "locations": [
+      "Choice Scarf — Quest Reward"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 293
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 87,
+      "iconTableOffset": "0x3d454c"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30130,
+    "name": "Electirizer",
+    "key": "electirizer",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/088.png",
+    "locations": [
+      "Choice Scarf — Quest Reward"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 294
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 88,
+      "iconTableOffset": "0x3d4554"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30131,
+    "name": "TM32 (Double Team)",
+    "key": "tm32-double-team",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Electirizer — Chest (F.O.E.)",
+      "Lost Woods — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 299
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30132,
+    "name": "Max Repel",
+    "key": "max-repel",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/084.png",
+    "locations": [
+      "Electirizer — Hidden",
+      "Nectar II — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 304
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 84,
+      "iconTableOffset": "0x3d4534"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30133,
+    "name": "Spell Tag",
+    "key": "spell-tag",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/213.png",
+    "locations": [
+      "Max Repel — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 309
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 213,
+      "iconTableOffset": "0x3d493c"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30134,
+    "name": "Dubious Disc",
+    "key": "dubious-disc",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/101.png",
+    "locations": [
+      "Sitrus Berry — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 315
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 101,
+      "iconTableOffset": "0x3d45bc"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30135,
+    "name": "Protector",
+    "key": "protector",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/100.png",
+    "locations": [
+      "Sitrus Berry — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 316
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 100,
+      "iconTableOffset": "0x3d45b4"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30136,
+    "name": "Expert Belt",
+    "key": "expert-belt",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/235.png",
+    "locations": [
+      "Protector — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 321
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 235,
+      "iconTableOffset": "0x3d49ec"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30137,
+    "name": "TM02 (Dragon Claw)",
+    "key": "tm02-dragon-claw",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Expert Belt — Chest",
+      "Cave of Ages — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 326
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30138,
+    "name": "Relic Gold",
+    "key": "relic-gold",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/167.png",
+    "locations": [
+      "Expert Belt — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 328
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 167,
+      "iconTableOffset": "0x3d47cc"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30139,
+    "name": "Reaper Cloth",
+    "key": "reaper-cloth",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/102.png",
+    "locations": [
+      "Relic Gold — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 333
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 102,
+      "iconTableOffset": "0x3d45c4"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30140,
+    "name": "Medica IV",
+    "key": "medica-iv",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/020.png",
+    "locations": [
+      "Relic Gold — Chest",
+      "Yellow Bell — Chest",
+      "Medica IV — Chest",
+      "Nectar II — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 334
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 20,
+      "iconTableOffset": "0x3d4334"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30141,
+    "name": "TM04 (Calm Mind)",
+    "key": "tm04-calm-mind",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Medica IV — Chest (F.O.E.)",
+      "Fifth stratum, B1F — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 339
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30142,
+    "name": "Yellow Bell",
+    "key": "yellow-bell",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/359.png",
+    "locations": [
+      "Medica IV — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 341
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 359,
+      "iconTableOffset": "0x3d4dcc"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30143,
+    "name": "Black Flower (25%) 1 to 7",
+    "key": "black-flower-25-1-to-7",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/art/placeholder-icon.svg",
+    "locations": [
+      "Dolomite (25%) 1 to 7 — F.O.E. Drop",
+      "Perlite (25%) 1 to 7 — F.O.E. Drop"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 339
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 30144,
+    "name": "Perlite (25%) 1 to 7",
+    "key": "perlite-25-1-to-7",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/art/placeholder-icon.svg",
+    "locations": [
+      "Dolomite (25%) 1 to 7 — F.O.E. Drop",
+      "Perlite (25%) 1 to 7 — F.O.E. Drop"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 340
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 30145,
+    "name": "TM15 (Hyper Beam)",
+    "key": "tm15-hyper-beam",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Yellow Bell — Chest (F.O.E.)",
+      "Fifth Stratum, B2F — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 346
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30146,
+    "name": "TM29 (Psychic)",
+    "key": "tm29-psychic",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Yellow Bell — Chest (F.O.E.)",
+      "Fifth Stratum, B2F — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 347
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30147,
+    "name": "TM14 (Blizzard)",
+    "key": "tm14-blizzard",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Medica IV — Chest",
+      "Sixth Stratum, southern area — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 353
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30148,
+    "name": "Star Piece (25%) 1 to 7",
+    "key": "star-piece-25-1-to-7",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/art/placeholder-icon.svg",
+    "locations": [
+      "Perlite (25%) 1 to 7 — F.O.E. Drop",
+      "Stardust (25%) 1 to 7 — F.O.E. Drop",
+      "Stardust (25%) 1 to 7 — F.O.E. Drop"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 353
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 30149,
+    "name": "Stardust (25%) 1 to 7",
+    "key": "stardust-25-1-to-7",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/art/placeholder-icon.svg",
+    "locations": [
+      "Perlite (25%) 1 to 7 — F.O.E. Drop",
+      "Stardust (25%) 1 to 7 — F.O.E. Drop",
+      "Stardust (25%) 1 to 7 — F.O.E. Drop"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 354
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 30150,
+    "name": "TM01 (Drain Punch)",
+    "key": "tm01-drain-punch",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Nectar II — Chest",
+      "Sixth Stratum, central area — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 361
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30151,
+    "name": "TM06 (Toxic)",
+    "key": "tm06-toxic",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Blue Shard — Chest (F.O.E.)",
+      "Sixth Stratum, western area — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 374
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30152,
+    "name": "Timer Ball",
+    "key": "timer-ball",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/010.png",
+    "locations": [
+      "Blue Shard — Chest",
+      "TM46 (Dark Pulse) — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 376
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 10,
+      "iconTableOffset": "0x3d42e4"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30153,
+    "name": "TM46 (Dark Pulse)",
+    "key": "tm46-dark-pulse",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Timer Ball — Chest",
+      "Abyssal Fortress — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 381
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30154,
+    "name": "TM10 (Flash Cannon)",
+    "key": "tm10-flash-cannon",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "TM46 (Dark Pulse) — Chest",
+      "Seventh Stratum, B1F — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 386
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30155,
+    "name": "TM43 (Dragon Pulse)",
+    "key": "tm43-dragon-pulse",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Nectar II — Chest (F.O.E.)",
+      "Seventh Stratum, B2F — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 394
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30156,
+    "name": "Tent",
+    "key": "tent",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/082.png",
+    "locations": [
+      "PP Max — Chest",
+      "Nectar II — Chest"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 401
+    },
+    "spriteSource": {
+      "kind": "user-supplied-rom",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 82,
+      "iconTableOffset": "0x3d4524"
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30157,
+    "name": "TM38 (Fire Blast)",
+    "key": "tm38-fire-blast",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "PP Up — Chest",
+      "Porcelain Cave — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 407
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30158,
+    "name": "TM50 (Overheat)",
+    "key": "tm50-overheat",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "TM38 (Fire Blast) — Chest",
+      "Seventh Stratum, B4F — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "Items",
+      "row": 412
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30159,
+    "name": "TM05 — Snarl",
+    "key": "tm05-snarl",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Quest Reward: \"Show me a Sneasel!\", Krabby Club — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "TM Location",
+      "row": 8
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30160,
+    "name": "TM12 — Taunt",
+    "key": "tm12-taunt",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Talrega's Guild, TM machine near Rikkah — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "TM Location",
+      "row": 15
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30161,
+    "name": "TM16 — Light Screen",
+    "key": "tm16-light-screen",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Quest Reward: \"The Cake is a Lie\", Krabby Club — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "TM Location",
+      "row": 19
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30162,
+    "name": "TM18 — Rain Dance",
+    "key": "tm18-rain-dance",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Gorge of Zanado — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "TM Location",
+      "row": 21
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30163,
+    "name": "TM20 — Safeguard",
+    "key": "tm20-safeguard",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Talrega's Guild, TM machine near Rikkah — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "TM Location",
+      "row": 23
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30164,
+    "name": "TM21 — Frustration",
+    "key": "tm21-frustration",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Charon — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "TM Location",
+      "row": 24
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30165,
+    "name": "TM27 — Return",
+    "key": "tm27-return",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Charon — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "TM Location",
+      "row": 30
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30166,
+    "name": "TM33 — Reflect",
+    "key": "tm33-reflect",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Quest Reward: \"The Cake is a Lie\", Krabby Club — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "TM Location",
+      "row": 36
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30167,
+    "name": "TM41 — Torment",
+    "key": "tm41-torment",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Talrega's Guild, TM machine near Rikkah — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "TM Location",
+      "row": 44
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  },
+  {
+    "id": 30168,
+    "name": "TM45 — Attract",
+    "key": "tm45-attract",
+    "category": "Odyssey reference",
+    "description": "See documented acquisition below. Item effect not yet verified.",
+    "sprite": "assets/odyssey-items/289.png",
+    "locations": [
+      "Talrega's Guild, TM machine near Rikkah — TM"
+    ],
+    "costs": [],
+    "move": null,
+    "source": {
+      "file": "encounters-items.xlsx",
+      "sheet": "TM Location",
+      "row": 48
+    },
+    "spriteSource": {
+      "kind": "generic-tm-icon",
+      "romSha256": "44c7e3eafab19c39df7c39d54bafb78a1d9caf7c371244b6f5efb12cfd98d0d0",
+      "romItemId": 289,
+      "note": "User-requested shared TM disc icon; not a claim about individual TM artwork."
+    },
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "name",
+        "key",
+        "category",
+        "description",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "source",
+        "spriteSource"
+      ]
+    }
+  }
+]

@@ -1,0 +1,148 @@
+{
+  "tutors": [
+    {
+      "id": "tutor-20250",
+      "moveId": 20250,
+      "move": "Headbutt",
+      "location": "Talrega, Adventurer's Guild",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Move Tutors",
+        "row": 4
+      }
+    },
+    {
+      "id": "tutor-20287",
+      "moveId": 20287,
+      "move": "Fire Punch",
+      "location": "Third Stratum's Base Camp",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Move Tutors",
+        "row": 5
+      }
+    },
+    {
+      "id": "tutor-20212",
+      "moveId": 20212,
+      "move": "Thunderpunch",
+      "location": "Gorge of Zanado",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Move Tutors",
+        "row": 6
+      }
+    },
+    {
+      "id": "tutor-20288",
+      "moveId": 20288,
+      "move": "Ice Punch",
+      "location": "Rade of Carcino",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Move Tutors",
+        "row": 7
+      }
+    },
+    {
+      "id": "tutor-20094",
+      "moveId": 20094,
+      "move": "Rock Slide",
+      "location": "Aqua Resort",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Move Tutors",
+        "row": 8
+      }
+    },
+    {
+      "id": "tutor-20045",
+      "moveId": 20045,
+      "move": "Aqua Jet",
+      "location": "Aqua Resort",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Move Tutors",
+        "row": 9
+      }
+    },
+    {
+      "id": "tutor-20081",
+      "moveId": 20081,
+      "move": "Roost",
+      "location": "Gorenil",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Move Tutors",
+        "row": 10
+      }
+    },
+    {
+      "id": "tutor-20117",
+      "moveId": 20117,
+      "move": "Thunder Wave",
+      "location": "Aqua Resort",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Move Tutors",
+        "row": 11
+      }
+    },
+    {
+      "id": "tutor-20246",
+      "moveId": 20246,
+      "move": "Icy Wind",
+      "location": "Aqua Resort",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Move Tutors",
+        "row": 12
+      }
+    },
+    {
+      "id": "tutor-20218",
+      "moveId": 20218,
+      "move": "Bullet Punch",
+      "location": "Aqua Resort",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Move Tutors",
+        "row": 13
+      }
+    },
+    {
+      "id": "tutor-20304",
+      "moveId": 20304,
+      "move": "Substitute",
+      "location": "Fifth Stratum (B1F)",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Move Tutors",
+        "row": 14
+      }
+    },
+    {
+      "id": "tutor-20135",
+      "moveId": 20135,
+      "move": "Helping Hand",
+      "location": "Talrega",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Move Tutors",
+        "row": 15
+      }
+    },
+    {
+      "id": "tutor-20141",
+      "moveId": 20141,
+      "move": "Superpower",
+      "location": "Aqua Resort",
+      "source": {
+        "file": "encounters-items.xlsx",
+        "sheet": "Move Tutors",
+        "row": 16
+      }
+    }
+  ],
+  "services": []
+}

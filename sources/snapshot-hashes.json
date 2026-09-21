@@ -1,0 +1,17 @@
+{
+  "captured": "2026-09-20",
+  "algorithm": "SHA256",
+  "files": {
+    ".gitkeep": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "encounters-items.xlsx": "48886c8a9ccf67d850dcf3d26cc181e7829026e25e4920380d12dc9885f5f8d6",
+    "pokemon-mechanics.xlsx": "3d8e90644399c851555b12be233bf2ab77a2b80b008832fe0fe55b3bafb25b51",
+    "pokemon-species.csv": "e66e2eeb25fd3836b0ebab6bf87bbf01960aa3c0555e2bac495fa8393c5e0c45",
+    "progression-bosses.xlsx": "5747d760292467c9cb8b9e4ab288a9313604feee79ea4c36be08411fb450979c",
+    "talrega-data.json": "414b2e6fc1969ca85630d93a4c5a135f0a76319f5ad28a28e94f14838f90af6e",
+    "talrega-displayMethods.js": "fd28fa99afa3df15e8fdd5cfc6d97a9435a8176c204e1f0de1359a5633bd4502",
+    "talrega-globals.js": "7f2dc16d75e097b58fb60ae0fd39bb356ddc65acfb9ad7f4b74ca819140895eb",
+    "talrega-index.html": "ec0a52c2a8bf306239a700a5acaeff2452e74063aec7d26e156c2dab3504ec70",
+    "talrega-onStartUp.js": "6b7aa0e9c21beaff679cb32d07e9122ac30ea19ae41c9165ee9a36c2cf579cc1",
+    "talrega-utility.js": "dbe2a3b28befa274125098f61e607842cfea7643d07a1cae2f39bee8de4be54d"
+  }
+}

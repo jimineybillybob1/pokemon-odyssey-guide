@@ -1,0 +1,4087 @@
+[
+  {
+    "id": 20001,
+    "key": "bulbasaur",
+    "gameDexId": 1,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 3
+    }
+  },
+  {
+    "id": 20002,
+    "key": "ivysaur",
+    "gameDexId": 2,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 3
+    }
+  },
+  {
+    "id": 20003,
+    "key": "venusaur",
+    "gameDexId": 3,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 3
+    }
+  },
+  {
+    "id": 20004,
+    "key": "charmander",
+    "gameDexId": 4,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 23
+    }
+  },
+  {
+    "id": 20005,
+    "key": "charmeleon",
+    "gameDexId": 5,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 23
+    }
+  },
+  {
+    "id": 20006,
+    "key": "charizard",
+    "gameDexId": 6,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 23
+    }
+  },
+  {
+    "id": 20007,
+    "key": "squirtle",
+    "gameDexId": 7,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 44
+    }
+  },
+  {
+    "id": 20008,
+    "key": "wartortle",
+    "gameDexId": 8,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 44
+    }
+  },
+  {
+    "id": 20009,
+    "key": "blastoise",
+    "gameDexId": 9,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 44
+    }
+  },
+  {
+    "id": 20010,
+    "key": "caterpie",
+    "gameDexId": 10,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 65
+    }
+  },
+  {
+    "id": 20011,
+    "key": "metapod",
+    "gameDexId": 11,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 65
+    }
+  },
+  {
+    "id": 20012,
+    "key": "butterfree",
+    "gameDexId": 12,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 65
+    }
+  },
+  {
+    "id": 20013,
+    "key": "weedle",
+    "gameDexId": 13,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 86
+    }
+  },
+  {
+    "id": 20014,
+    "key": "kakuna",
+    "gameDexId": 14,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 86
+    }
+  },
+  {
+    "id": 20015,
+    "key": "beedrill",
+    "gameDexId": 15,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 86
+    }
+  },
+  {
+    "id": 20016,
+    "key": "pidgey",
+    "gameDexId": 16,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 106
+    }
+  },
+  {
+    "id": 20017,
+    "key": "pidgeotto",
+    "gameDexId": 17,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 106
+    }
+  },
+  {
+    "id": 20018,
+    "key": "pidgeot",
+    "gameDexId": 18,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 106
+    }
+  },
+  {
+    "id": 20019,
+    "key": "rattata",
+    "gameDexId": 19,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 127
+    }
+  },
+  {
+    "id": 20020,
+    "key": "ratreecate",
+    "gameDexId": 20,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 127
+    }
+  },
+  {
+    "id": 20021,
+    "key": "spearow",
+    "gameDexId": 21,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 148
+    }
+  },
+  {
+    "id": 20022,
+    "key": "fearow",
+    "gameDexId": 22,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 148
+    }
+  },
+  {
+    "id": 20023,
+    "key": "ekans",
+    "gameDexId": 23,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 171
+    }
+  },
+  {
+    "id": 20024,
+    "key": "arbok",
+    "gameDexId": 24,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 171
+    }
+  },
+  {
+    "id": 20025,
+    "key": "pikachu",
+    "gameDexId": 25,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 196
+    }
+  },
+  {
+    "id": 20026,
+    "key": "raichu",
+    "gameDexId": 26,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 196
+    }
+  },
+  {
+    "id": 20027,
+    "key": "gorochu",
+    "gameDexId": 201,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 196
+    }
+  },
+  {
+    "id": 20028,
+    "key": "sandshrew",
+    "gameDexId": 27,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 218
+    }
+  },
+  {
+    "id": 20029,
+    "key": "sandslash",
+    "gameDexId": 28,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 218
+    }
+  },
+  {
+    "id": 20030,
+    "key": "nidoran-f",
+    "gameDexId": 29,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 240
+    }
+  },
+  {
+    "id": 20031,
+    "key": "nidorina",
+    "gameDexId": 30,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 240
+    }
+  },
+  {
+    "id": 20032,
+    "key": "nidoqueen",
+    "gameDexId": 31,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 240
+    }
+  },
+  {
+    "id": 20033,
+    "key": "nidoran-m",
+    "gameDexId": 32,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 262
+    }
+  },
+  {
+    "id": 20034,
+    "key": "nidorino",
+    "gameDexId": 33,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 262
+    }
+  },
+  {
+    "id": 20035,
+    "key": "nidoking",
+    "gameDexId": 34,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 262
+    }
+  },
+  {
+    "id": 20036,
+    "key": "clefairy",
+    "gameDexId": 35,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 285
+    }
+  },
+  {
+    "id": 20037,
+    "key": "clefable",
+    "gameDexId": 36,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 285
+    }
+  },
+  {
+    "id": 20038,
+    "key": "vulpix",
+    "gameDexId": 37,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 306
+    }
+  },
+  {
+    "id": 20039,
+    "key": "ninetales",
+    "gameDexId": 38,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 306
+    }
+  },
+  {
+    "id": 20040,
+    "key": "jigglypuff",
+    "gameDexId": 39,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 325
+    }
+  },
+  {
+    "id": 20041,
+    "key": "wigglytuff",
+    "gameDexId": 40,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 325
+    }
+  },
+  {
+    "id": 20042,
+    "key": "zubat",
+    "gameDexId": 41,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 346
+    }
+  },
+  {
+    "id": 20043,
+    "key": "golbat",
+    "gameDexId": 42,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 346
+    }
+  },
+  {
+    "id": 20044,
+    "key": "oddish",
+    "gameDexId": 43,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 364
+    }
+  },
+  {
+    "id": 20045,
+    "key": "gloom",
+    "gameDexId": 44,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 364
+    }
+  },
+  {
+    "id": 20046,
+    "key": "vileplume",
+    "gameDexId": 45,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 364
+    }
+  },
+  {
+    "id": 20047,
+    "key": "paras",
+    "gameDexId": 46,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 385
+    }
+  },
+  {
+    "id": 20048,
+    "key": "parasect",
+    "gameDexId": 47,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 385
+    }
+  },
+  {
+    "id": 20049,
+    "key": "venonat",
+    "gameDexId": 48,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 406
+    }
+  },
+  {
+    "id": 20050,
+    "key": "venomoth",
+    "gameDexId": 49,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 406
+    }
+  },
+  {
+    "id": 20051,
+    "key": "diglett",
+    "gameDexId": 50,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 426
+    }
+  },
+  {
+    "id": 20052,
+    "key": "dugtrio",
+    "gameDexId": 51,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 426
+    }
+  },
+  {
+    "id": 20053,
+    "key": "meowth",
+    "gameDexId": 52,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 446
+    }
+  },
+  {
+    "id": 20054,
+    "key": "persian",
+    "gameDexId": 53,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 446
+    }
+  },
+  {
+    "id": 20055,
+    "key": "psyduck",
+    "gameDexId": 54,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 465
+    }
+  },
+  {
+    "id": 20056,
+    "key": "golduck",
+    "gameDexId": 55,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 465
+    }
+  },
+  {
+    "id": 20057,
+    "key": "mankey",
+    "gameDexId": 56,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 485
+    }
+  },
+  {
+    "id": 20058,
+    "key": "primeape",
+    "gameDexId": 57,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 485
+    }
+  },
+  {
+    "id": 20059,
+    "key": "annihilape",
+    "gameDexId": 366,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 485
+    }
+  },
+  {
+    "id": 20060,
+    "key": "growlithe",
+    "gameDexId": 58,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 508
+    }
+  },
+  {
+    "id": 20061,
+    "key": "arcanine",
+    "gameDexId": 59,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 508
+    }
+  },
+  {
+    "id": 20062,
+    "key": "poliwag",
+    "gameDexId": 60,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 530
+    }
+  },
+  {
+    "id": 20063,
+    "key": "poliwhirl",
+    "gameDexId": 61,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 530
+    }
+  },
+  {
+    "id": 20064,
+    "key": "poliwrath",
+    "gameDexId": 62,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 530
+    }
+  },
+  {
+    "id": 20065,
+    "key": "abra",
+    "gameDexId": 63,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 551
+    }
+  },
+  {
+    "id": 20066,
+    "key": "kadabra",
+    "gameDexId": 64,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 551
+    }
+  },
+  {
+    "id": 20067,
+    "key": "alakazam",
+    "gameDexId": 65,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 551
+    }
+  },
+  {
+    "id": 20068,
+    "key": "machop",
+    "gameDexId": 66,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 569
+    }
+  },
+  {
+    "id": 20069,
+    "key": "machoke",
+    "gameDexId": 67,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 569
+    }
+  },
+  {
+    "id": 20070,
+    "key": "machamp",
+    "gameDexId": 68,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 569
+    }
+  },
+  {
+    "id": 20071,
+    "key": "bellsprout",
+    "gameDexId": 69,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 592
+    }
+  },
+  {
+    "id": 20072,
+    "key": "weepinbell",
+    "gameDexId": 70,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 592
+    }
+  },
+  {
+    "id": 20073,
+    "key": "victreebel",
+    "gameDexId": 71,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 592
+    }
+  },
+  {
+    "id": 20074,
+    "key": "tentacool",
+    "gameDexId": 72,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 613
+    }
+  },
+  {
+    "id": 20075,
+    "key": "tentacruel",
+    "gameDexId": 73,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 613
+    }
+  },
+  {
+    "id": 20076,
+    "key": "geodude",
+    "gameDexId": 74,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 633
+    }
+  },
+  {
+    "id": 20077,
+    "key": "graveler",
+    "gameDexId": 75,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 633
+    }
+  },
+  {
+    "id": 20078,
+    "key": "golem",
+    "gameDexId": 76,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 633
+    }
+  },
+  {
+    "id": 20079,
+    "key": "ponyta",
+    "gameDexId": 77,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 656
+    }
+  },
+  {
+    "id": 20080,
+    "key": "rapidash",
+    "gameDexId": 78,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 656
+    }
+  },
+  {
+    "id": 20081,
+    "key": "slowpoke",
+    "gameDexId": 79,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 676
+    }
+  },
+  {
+    "id": 20082,
+    "key": "slowbro",
+    "gameDexId": 80,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 676
+    }
+  },
+  {
+    "id": 20083,
+    "key": "magnemite",
+    "gameDexId": 81,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 695
+    }
+  },
+  {
+    "id": 20084,
+    "key": "magneton",
+    "gameDexId": 82,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 695
+    }
+  },
+  {
+    "id": 20085,
+    "key": "farfetch-d",
+    "gameDexId": 83,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 714
+    }
+  },
+  {
+    "id": 20086,
+    "key": "farfetch-d-galar",
+    "gameDexId": 144,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 714
+    }
+  },
+  {
+    "id": 20087,
+    "key": "sirfetch-d",
+    "gameDexId": 145,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 714
+    }
+  },
+  {
+    "id": 20088,
+    "key": "doduo",
+    "gameDexId": 84,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 736
+    }
+  },
+  {
+    "id": 20089,
+    "key": "dodrio",
+    "gameDexId": 85,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 736
+    }
+  },
+  {
+    "id": 20090,
+    "key": "seel",
+    "gameDexId": 86,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 757
+    }
+  },
+  {
+    "id": 20091,
+    "key": "dewgong",
+    "gameDexId": 87,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 757
+    }
+  },
+  {
+    "id": 20092,
+    "key": "grimer",
+    "gameDexId": 88,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 777
+    }
+  },
+  {
+    "id": 20093,
+    "key": "muk",
+    "gameDexId": 89,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 777
+    }
+  },
+  {
+    "id": 20094,
+    "key": "shellder",
+    "gameDexId": 90,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 799
+    }
+  },
+  {
+    "id": 20095,
+    "key": "cloyster",
+    "gameDexId": 91,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 799
+    }
+  },
+  {
+    "id": 20096,
+    "key": "gastly",
+    "gameDexId": 92,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 822
+    }
+  },
+  {
+    "id": 20097,
+    "key": "haunter",
+    "gameDexId": 93,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 822
+    }
+  },
+  {
+    "id": 20098,
+    "key": "gengar",
+    "gameDexId": 94,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 822
+    }
+  },
+  {
+    "id": 20099,
+    "key": "onix",
+    "gameDexId": 95,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 843
+    }
+  },
+  {
+    "id": 20100,
+    "key": "drowzee",
+    "gameDexId": 96,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 863
+    }
+  },
+  {
+    "id": 20101,
+    "key": "hypno",
+    "gameDexId": 97,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 863
+    }
+  },
+  {
+    "id": 20102,
+    "key": "krabby",
+    "gameDexId": 98,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 883
+    }
+  },
+  {
+    "id": 20103,
+    "key": "kingler",
+    "gameDexId": 99,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 883
+    }
+  },
+  {
+    "id": 20104,
+    "key": "voltorb",
+    "gameDexId": 100,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 904
+    }
+  },
+  {
+    "id": 20105,
+    "key": "electrode",
+    "gameDexId": 101,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 904
+    }
+  },
+  {
+    "id": 20106,
+    "key": "exeggcute",
+    "gameDexId": 102,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 924
+    }
+  },
+  {
+    "id": 20107,
+    "key": "exeggutor",
+    "gameDexId": 103,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 924
+    }
+  },
+  {
+    "id": 20108,
+    "key": "cubone",
+    "gameDexId": 104,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 947
+    }
+  },
+  {
+    "id": 20109,
+    "key": "marowak",
+    "gameDexId": 105,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 947
+    }
+  },
+  {
+    "id": 20110,
+    "key": "hitmonlee",
+    "gameDexId": 106,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 970
+    }
+  },
+  {
+    "id": 20111,
+    "key": "hitmonchan",
+    "gameDexId": 107,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 970
+    }
+  },
+  {
+    "id": 20112,
+    "key": "lickitung",
+    "gameDexId": 108,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 994
+    }
+  },
+  {
+    "id": 20113,
+    "key": "koffing",
+    "gameDexId": 109,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1012
+    }
+  },
+  {
+    "id": 20114,
+    "key": "weezing",
+    "gameDexId": 110,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1012
+    }
+  },
+  {
+    "id": 20115,
+    "key": "rhyhorn",
+    "gameDexId": 111,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1032
+    }
+  },
+  {
+    "id": 20116,
+    "key": "rhydon",
+    "gameDexId": 112,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1032
+    }
+  },
+  {
+    "id": 20117,
+    "key": "chansey",
+    "gameDexId": 113,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1052
+    }
+  },
+  {
+    "id": 20118,
+    "key": "tangela",
+    "gameDexId": 114,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1071
+    }
+  },
+  {
+    "id": 20119,
+    "key": "kangaskhan",
+    "gameDexId": 115,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1091
+    }
+  },
+  {
+    "id": 20120,
+    "key": "horsea",
+    "gameDexId": 116,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1111
+    }
+  },
+  {
+    "id": 20121,
+    "key": "seadra",
+    "gameDexId": 117,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1111
+    }
+  },
+  {
+    "id": 20122,
+    "key": "goldeen",
+    "gameDexId": 118,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1129
+    }
+  },
+  {
+    "id": 20123,
+    "key": "seaking",
+    "gameDexId": 119,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1129
+    }
+  },
+  {
+    "id": 20124,
+    "key": "staryu",
+    "gameDexId": 120,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1149
+    }
+  },
+  {
+    "id": 20125,
+    "key": "starmie",
+    "gameDexId": 121,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1149
+    }
+  },
+  {
+    "id": 20126,
+    "key": "mr-mime",
+    "gameDexId": 122,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1170
+    }
+  },
+  {
+    "id": 20127,
+    "key": "scyther",
+    "gameDexId": 123,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1192
+    }
+  },
+  {
+    "id": 20128,
+    "key": "kleavor",
+    "gameDexId": 132,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1192
+    }
+  },
+  {
+    "id": 20129,
+    "key": "jynx",
+    "gameDexId": 124,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1214
+    }
+  },
+  {
+    "id": 20130,
+    "key": "electabuzz",
+    "gameDexId": 125,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1234
+    }
+  },
+  {
+    "id": 20131,
+    "key": "magmar",
+    "gameDexId": 126,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1255
+    }
+  },
+  {
+    "id": 20132,
+    "key": "pinsir",
+    "gameDexId": 127,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1274
+    }
+  },
+  {
+    "id": 20133,
+    "key": "tauros",
+    "gameDexId": 128,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1297
+    }
+  },
+  {
+    "id": 20134,
+    "key": "magikarp",
+    "gameDexId": 129,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1320
+    }
+  },
+  {
+    "id": 20135,
+    "key": "gyarados",
+    "gameDexId": 130,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1320
+    }
+  },
+  {
+    "id": 20136,
+    "key": "lapras",
+    "gameDexId": 131,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1340
+    }
+  },
+  {
+    "id": 20137,
+    "key": "eevee",
+    "gameDexId": 133,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1362
+    }
+  },
+  {
+    "id": 20138,
+    "key": "vaporeon",
+    "gameDexId": 134,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1379
+    }
+  },
+  {
+    "id": 20139,
+    "key": "jolteon",
+    "gameDexId": 135,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1379
+    }
+  },
+  {
+    "id": 20140,
+    "key": "flareon",
+    "gameDexId": 136,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1379
+    }
+  },
+  {
+    "id": 20141,
+    "key": "yggdreon",
+    "gameDexId": 298,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1400
+    }
+  },
+  {
+    "id": 20142,
+    "key": "porygon",
+    "gameDexId": 137,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1421
+    }
+  },
+  {
+    "id": 20143,
+    "key": "omanyte",
+    "gameDexId": 138,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1439
+    }
+  },
+  {
+    "id": 20144,
+    "key": "omastar",
+    "gameDexId": 139,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1439
+    }
+  },
+  {
+    "id": 20145,
+    "key": "kabuto",
+    "gameDexId": 140,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1461
+    }
+  },
+  {
+    "id": 20146,
+    "key": "kabutops",
+    "gameDexId": 141,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1461
+    }
+  },
+  {
+    "id": 20147,
+    "key": "aerodactyl",
+    "gameDexId": 142,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1482
+    }
+  },
+  {
+    "id": 20148,
+    "key": "snorlax",
+    "gameDexId": 143,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1504
+    }
+  },
+  {
+    "id": 20149,
+    "key": "dratini",
+    "gameDexId": 147,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1528
+    }
+  },
+  {
+    "id": 20150,
+    "key": "dragonair",
+    "gameDexId": 148,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1528
+    }
+  },
+  {
+    "id": 20151,
+    "key": "dragonite",
+    "gameDexId": 149,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#1-151",
+      "row": 1528
+    }
+  },
+  {
+    "id": 20152,
+    "key": "chikorita",
+    "gameDexId": 152,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 3
+    }
+  },
+  {
+    "id": 20153,
+    "key": "bayleef",
+    "gameDexId": 153,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 3
+    }
+  },
+  {
+    "id": 20154,
+    "key": "meganium",
+    "gameDexId": 154,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 3
+    }
+  },
+  {
+    "id": 20155,
+    "key": "cyndaquil",
+    "gameDexId": 155,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 28
+    }
+  },
+  {
+    "id": 20156,
+    "key": "quilava",
+    "gameDexId": 156,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 28
+    }
+  },
+  {
+    "id": 20157,
+    "key": "typhlosion",
+    "gameDexId": 157,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 28
+    }
+  },
+  {
+    "id": 20158,
+    "key": "totodile",
+    "gameDexId": 158,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 50
+    }
+  },
+  {
+    "id": 20159,
+    "key": "croconaw",
+    "gameDexId": 159,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 50
+    }
+  },
+  {
+    "id": 20160,
+    "key": "feraligatr",
+    "gameDexId": 160,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 50
+    }
+  },
+  {
+    "id": 20161,
+    "key": "sentret",
+    "gameDexId": 161,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 73
+    }
+  },
+  {
+    "id": 20162,
+    "key": "furret",
+    "gameDexId": 162,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 73
+    }
+  },
+  {
+    "id": 20163,
+    "key": "hoothoot",
+    "gameDexId": 163,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 95
+    }
+  },
+  {
+    "id": 20164,
+    "key": "noctowl",
+    "gameDexId": 164,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 95
+    }
+  },
+  {
+    "id": 20165,
+    "key": "ledyba",
+    "gameDexId": 165,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 116
+    }
+  },
+  {
+    "id": 20166,
+    "key": "ledian",
+    "gameDexId": 166,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 116
+    }
+  },
+  {
+    "id": 20167,
+    "key": "spinarak",
+    "gameDexId": 167,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 135
+    }
+  },
+  {
+    "id": 20168,
+    "key": "ariados",
+    "gameDexId": 168,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 135
+    }
+  },
+  {
+    "id": 20169,
+    "key": "crobat",
+    "gameDexId": 169,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 157
+    }
+  },
+  {
+    "id": 20170,
+    "key": "chinchou",
+    "gameDexId": 170,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 178
+    }
+  },
+  {
+    "id": 20171,
+    "key": "lanturn",
+    "gameDexId": 171,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 178
+    }
+  },
+  {
+    "id": 20172,
+    "key": "togepi",
+    "gameDexId": 175,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 201
+    }
+  },
+  {
+    "id": 20173,
+    "key": "togetic",
+    "gameDexId": 176,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 201
+    }
+  },
+  {
+    "id": 20174,
+    "key": "natu",
+    "gameDexId": 177,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 219
+    }
+  },
+  {
+    "id": 20175,
+    "key": "xatu",
+    "gameDexId": 178,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 219
+    }
+  },
+  {
+    "id": 20176,
+    "key": "mareep",
+    "gameDexId": 179,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 242
+    }
+  },
+  {
+    "id": 20177,
+    "key": "flaaffy",
+    "gameDexId": 180,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 242
+    }
+  },
+  {
+    "id": 20178,
+    "key": "ampharos",
+    "gameDexId": 181,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 242
+    }
+  },
+  {
+    "id": 20179,
+    "key": "bellossom",
+    "gameDexId": 182,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 265
+    }
+  },
+  {
+    "id": 20180,
+    "key": "marill",
+    "gameDexId": 183,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 287
+    }
+  },
+  {
+    "id": 20181,
+    "key": "azumarill",
+    "gameDexId": 184,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 287
+    }
+  },
+  {
+    "id": 20182,
+    "key": "sudowoodo",
+    "gameDexId": 185,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 308
+    }
+  },
+  {
+    "id": 20183,
+    "key": "politoed",
+    "gameDexId": 186,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 329
+    }
+  },
+  {
+    "id": 20184,
+    "key": "hoppip",
+    "gameDexId": 187,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 351
+    }
+  },
+  {
+    "id": 20185,
+    "key": "skiploom",
+    "gameDexId": 188,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 351
+    }
+  },
+  {
+    "id": 20186,
+    "key": "jumpluff",
+    "gameDexId": 189,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 351
+    }
+  },
+  {
+    "id": 20187,
+    "key": "aipom",
+    "gameDexId": 190,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 372
+    }
+  },
+  {
+    "id": 20188,
+    "key": "sunkern",
+    "gameDexId": 191,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 389
+    }
+  },
+  {
+    "id": 20189,
+    "key": "sunflora",
+    "gameDexId": 192,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 389
+    }
+  },
+  {
+    "id": 20190,
+    "key": "yanma",
+    "gameDexId": 193,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 410
+    }
+  },
+  {
+    "id": 20191,
+    "key": "wooper",
+    "gameDexId": 194,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 429
+    }
+  },
+  {
+    "id": 20192,
+    "key": "quagsire",
+    "gameDexId": 195,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 429
+    }
+  },
+  {
+    "id": 20193,
+    "key": "espeon",
+    "gameDexId": 196,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 448
+    }
+  },
+  {
+    "id": 20194,
+    "key": "umbreon",
+    "gameDexId": 197,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 448
+    }
+  },
+  {
+    "id": 20195,
+    "key": "murkrow",
+    "gameDexId": 198,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 469
+    }
+  },
+  {
+    "id": 20196,
+    "key": "slowking",
+    "gameDexId": 199,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 487
+    }
+  },
+  {
+    "id": 20197,
+    "key": "misdreavus",
+    "gameDexId": 200,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 506
+    }
+  },
+  {
+    "id": 20198,
+    "key": "wobbuffet",
+    "gameDexId": 202,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 523
+    }
+  },
+  {
+    "id": 20199,
+    "key": "girafarig",
+    "gameDexId": 203,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 543
+    }
+  },
+  {
+    "id": 20200,
+    "key": "farigiraf",
+    "gameDexId": 407,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 543
+    }
+  },
+  {
+    "id": 20201,
+    "key": "pineco",
+    "gameDexId": 204,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 565
+    }
+  },
+  {
+    "id": 20202,
+    "key": "forretress",
+    "gameDexId": 205,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 565
+    }
+  },
+  {
+    "id": 20203,
+    "key": "dunsparce",
+    "gameDexId": 206,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 585
+    }
+  },
+  {
+    "id": 20204,
+    "key": "dudunsparce",
+    "gameDexId": 367,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 585
+    }
+  },
+  {
+    "id": 20205,
+    "key": "gligar",
+    "gameDexId": 207,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 606
+    }
+  },
+  {
+    "id": 20206,
+    "key": "steelix",
+    "gameDexId": 208,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 624
+    }
+  },
+  {
+    "id": 20207,
+    "key": "snubbull",
+    "gameDexId": 209,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 647
+    }
+  },
+  {
+    "id": 20208,
+    "key": "granbull",
+    "gameDexId": 210,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 647
+    }
+  },
+  {
+    "id": 20209,
+    "key": "scizor",
+    "gameDexId": 212,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 672
+    }
+  },
+  {
+    "id": 20210,
+    "key": "shuckle",
+    "gameDexId": 213,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 695
+    }
+  },
+  {
+    "id": 20211,
+    "key": "heracross",
+    "gameDexId": 214,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 715
+    }
+  },
+  {
+    "id": 20212,
+    "key": "sneasel",
+    "gameDexId": 215,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 738
+    }
+  },
+  {
+    "id": 20213,
+    "key": "teddiursa",
+    "gameDexId": 216,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 758
+    }
+  },
+  {
+    "id": 20214,
+    "key": "ursaring",
+    "gameDexId": 217,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 758
+    }
+  },
+  {
+    "id": 20215,
+    "key": "ursaluna",
+    "gameDexId": 368,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 758
+    }
+  },
+  {
+    "id": 20216,
+    "key": "slugma",
+    "gameDexId": 218,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 781
+    }
+  },
+  {
+    "id": 20217,
+    "key": "magcargo",
+    "gameDexId": 219,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 781
+    }
+  },
+  {
+    "id": 20218,
+    "key": "swinub",
+    "gameDexId": 220,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 803
+    }
+  },
+  {
+    "id": 20219,
+    "key": "piloswine",
+    "gameDexId": 221,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 803
+    }
+  },
+  {
+    "id": 20220,
+    "key": "corsola",
+    "gameDexId": 370,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 821
+    }
+  },
+  {
+    "id": 20221,
+    "key": "reefsola",
+    "gameDexId": 386,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 821
+    }
+  },
+  {
+    "id": 20222,
+    "key": "remoraid",
+    "gameDexId": 223,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 844
+    }
+  },
+  {
+    "id": 20223,
+    "key": "octillery",
+    "gameDexId": 224,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 844
+    }
+  },
+  {
+    "id": 20224,
+    "key": "mantine",
+    "gameDexId": 226,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 865
+    }
+  },
+  {
+    "id": 20225,
+    "key": "skarmory",
+    "gameDexId": 227,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 886
+    }
+  },
+  {
+    "id": 20226,
+    "key": "houndour",
+    "gameDexId": 228,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 908
+    }
+  },
+  {
+    "id": 20227,
+    "key": "houndoom",
+    "gameDexId": 229,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 908
+    }
+  },
+  {
+    "id": 20228,
+    "key": "kingdra",
+    "gameDexId": 230,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 928
+    }
+  },
+  {
+    "id": 20229,
+    "key": "phanpy",
+    "gameDexId": 231,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 948
+    }
+  },
+  {
+    "id": 20230,
+    "key": "donphan",
+    "gameDexId": 232,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 948
+    }
+  },
+  {
+    "id": 20231,
+    "key": "porygon2",
+    "gameDexId": 233,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 969
+    }
+  },
+  {
+    "id": 20232,
+    "key": "stantler",
+    "gameDexId": 146,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 988
+    }
+  },
+  {
+    "id": 20233,
+    "key": "tyrogue",
+    "gameDexId": 236,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 1010
+    }
+  },
+  {
+    "id": 20234,
+    "key": "hitmontop",
+    "gameDexId": 237,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 1010
+    }
+  },
+  {
+    "id": 20235,
+    "key": "smoochum",
+    "gameDexId": 238,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 1033
+    }
+  },
+  {
+    "id": 20236,
+    "key": "elekid",
+    "gameDexId": 239,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 1051
+    }
+  },
+  {
+    "id": 20237,
+    "key": "magby",
+    "gameDexId": 240,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 1072
+    }
+  },
+  {
+    "id": 20238,
+    "key": "miltank",
+    "gameDexId": 241,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 1091
+    }
+  },
+  {
+    "id": 20239,
+    "key": "blissey",
+    "gameDexId": 242,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 1111
+    }
+  },
+  {
+    "id": 20240,
+    "key": "raikou",
+    "gameDexId": 243,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 1133
+    }
+  },
+  {
+    "id": 20241,
+    "key": "entei",
+    "gameDexId": 244,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 1133
+    }
+  },
+  {
+    "id": 20242,
+    "key": "suicune",
+    "gameDexId": 245,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 1133
+    }
+  },
+  {
+    "id": 20243,
+    "key": "larvitar",
+    "gameDexId": 246,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 1156
+    }
+  },
+  {
+    "id": 20244,
+    "key": "pupitar",
+    "gameDexId": 247,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 1156
+    }
+  },
+  {
+    "id": 20245,
+    "key": "tyranitar",
+    "gameDexId": 248,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 1156
+    }
+  },
+  {
+    "id": 20246,
+    "key": "celebi",
+    "gameDexId": 251,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#152-251",
+      "row": 1178
+    }
+  },
+  {
+    "id": 20247,
+    "key": "treecko",
+    "gameDexId": 252,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 3
+    }
+  },
+  {
+    "id": 20248,
+    "key": "grovyle",
+    "gameDexId": 253,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 3
+    }
+  },
+  {
+    "id": 20249,
+    "key": "sceptile",
+    "gameDexId": 254,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 3
+    }
+  },
+  {
+    "id": 20250,
+    "key": "torchic",
+    "gameDexId": 255,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 23
+    }
+  },
+  {
+    "id": 20251,
+    "key": "combusken",
+    "gameDexId": 256,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 23
+    }
+  },
+  {
+    "id": 20252,
+    "key": "blaziken",
+    "gameDexId": 257,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 23
+    }
+  },
+  {
+    "id": 20253,
+    "key": "blaziken-battle-bond",
+    "gameDexId": 360,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 45
+    }
+  },
+  {
+    "id": 20254,
+    "key": "mudkip",
+    "gameDexId": 258,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 68
+    }
+  },
+  {
+    "id": 20255,
+    "key": "marshtomp",
+    "gameDexId": 259,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 68
+    }
+  },
+  {
+    "id": 20256,
+    "key": "swampert",
+    "gameDexId": 260,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 68
+    }
+  },
+  {
+    "id": 20257,
+    "key": "poochyena",
+    "gameDexId": 261,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 89
+    }
+  },
+  {
+    "id": 20258,
+    "key": "mightyena",
+    "gameDexId": 262,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 89
+    }
+  },
+  {
+    "id": 20259,
+    "key": "zigzagoon",
+    "gameDexId": 263,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 111
+    }
+  },
+  {
+    "id": 20260,
+    "key": "linoone",
+    "gameDexId": 264,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 111
+    }
+  },
+  {
+    "id": 20261,
+    "key": "wurmple",
+    "gameDexId": 265,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 133
+    }
+  },
+  {
+    "id": 20262,
+    "key": "silcoon",
+    "gameDexId": 266,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 142
+    }
+  },
+  {
+    "id": 20263,
+    "key": "beautifly",
+    "gameDexId": 267,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 142
+    }
+  },
+  {
+    "id": 20264,
+    "key": "cascoon",
+    "gameDexId": 268,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 160
+    }
+  },
+  {
+    "id": 20265,
+    "key": "dustox",
+    "gameDexId": 269,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 160
+    }
+  },
+  {
+    "id": 20266,
+    "key": "lotad",
+    "gameDexId": 270,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 178
+    }
+  },
+  {
+    "id": 20267,
+    "key": "lombre",
+    "gameDexId": 271,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 178
+    }
+  },
+  {
+    "id": 20268,
+    "key": "ludicolo",
+    "gameDexId": 272,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 178
+    }
+  },
+  {
+    "id": 20269,
+    "key": "seedot",
+    "gameDexId": 273,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 199
+    }
+  },
+  {
+    "id": 20270,
+    "key": "nuzleaf",
+    "gameDexId": 274,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 199
+    }
+  },
+  {
+    "id": 20271,
+    "key": "shiftry",
+    "gameDexId": 275,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 199
+    }
+  },
+  {
+    "id": 20272,
+    "key": "nincada",
+    "gameDexId": 290,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 223
+    }
+  },
+  {
+    "id": 20273,
+    "key": "ninjask",
+    "gameDexId": 291,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 223
+    }
+  },
+  {
+    "id": 20274,
+    "key": "shedinja",
+    "gameDexId": 292,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 223
+    }
+  },
+  {
+    "id": 20275,
+    "key": "taillow",
+    "gameDexId": 276,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 245
+    }
+  },
+  {
+    "id": 20276,
+    "key": "swellow",
+    "gameDexId": 277,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 245
+    }
+  },
+  {
+    "id": 20277,
+    "key": "shroomish",
+    "gameDexId": 285,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 264
+    }
+  },
+  {
+    "id": 20278,
+    "key": "breloom",
+    "gameDexId": 286,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 264
+    }
+  },
+  {
+    "id": 20279,
+    "key": "wingull",
+    "gameDexId": 278,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 287
+    }
+  },
+  {
+    "id": 20280,
+    "key": "pelipper",
+    "gameDexId": 279,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 287
+    }
+  },
+  {
+    "id": 20281,
+    "key": "surskit",
+    "gameDexId": 283,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 307
+    }
+  },
+  {
+    "id": 20282,
+    "key": "masquerain",
+    "gameDexId": 284,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 307
+    }
+  },
+  {
+    "id": 20283,
+    "key": "wailmer",
+    "gameDexId": 320,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 329
+    }
+  },
+  {
+    "id": 20284,
+    "key": "wailord",
+    "gameDexId": 321,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 329
+    }
+  },
+  {
+    "id": 20285,
+    "key": "skitty",
+    "gameDexId": 300,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 351
+    }
+  },
+  {
+    "id": 20286,
+    "key": "delcatty",
+    "gameDexId": 301,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 351
+    }
+  },
+  {
+    "id": 20287,
+    "key": "kecleon",
+    "gameDexId": 352,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 373
+    }
+  },
+  {
+    "id": 20288,
+    "key": "kecleon-battle-bond",
+    "gameDexId": 150,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 373
+    }
+  },
+  {
+    "id": 20289,
+    "key": "baltoy",
+    "gameDexId": 343,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 398
+    }
+  },
+  {
+    "id": 20290,
+    "key": "claydol",
+    "gameDexId": 344,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 398
+    }
+  },
+  {
+    "id": 20291,
+    "key": "nosepass",
+    "gameDexId": 299,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 424
+    }
+  },
+  {
+    "id": 20292,
+    "key": "torkoal",
+    "gameDexId": 324,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 441
+    }
+  },
+  {
+    "id": 20293,
+    "key": "sableye",
+    "gameDexId": 302,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 462
+    }
+  },
+  {
+    "id": 20294,
+    "key": "barboach",
+    "gameDexId": 339,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 485
+    }
+  },
+  {
+    "id": 20295,
+    "key": "whiscash",
+    "gameDexId": 340,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 485
+    }
+  },
+  {
+    "id": 20296,
+    "key": "corphish",
+    "gameDexId": 341,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 506
+    }
+  },
+  {
+    "id": 20297,
+    "key": "crawdaunt",
+    "gameDexId": 342,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 506
+    }
+  },
+  {
+    "id": 20298,
+    "key": "feebas",
+    "gameDexId": 349,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 527
+    }
+  },
+  {
+    "id": 20299,
+    "key": "milotic",
+    "gameDexId": 350,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 527
+    }
+  },
+  {
+    "id": 20300,
+    "key": "carvanha",
+    "gameDexId": 318,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 548
+    }
+  },
+  {
+    "id": 20301,
+    "key": "sharpedo",
+    "gameDexId": 319,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 548
+    }
+  },
+  {
+    "id": 20302,
+    "key": "trapinch",
+    "gameDexId": 328,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 568
+    }
+  },
+  {
+    "id": 20303,
+    "key": "vibrava",
+    "gameDexId": 329,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 568
+    }
+  },
+  {
+    "id": 20304,
+    "key": "flygon",
+    "gameDexId": 330,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 568
+    }
+  },
+  {
+    "id": 20305,
+    "key": "makuhita",
+    "gameDexId": 296,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 591
+    }
+  },
+  {
+    "id": 20306,
+    "key": "hariyama",
+    "gameDexId": 297,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 591
+    }
+  },
+  {
+    "id": 20307,
+    "key": "electrike",
+    "gameDexId": 309,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 612
+    }
+  },
+  {
+    "id": 20308,
+    "key": "manectric",
+    "gameDexId": 310,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 612
+    }
+  },
+  {
+    "id": 20309,
+    "key": "numel",
+    "gameDexId": 322,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 632
+    }
+  },
+  {
+    "id": 20310,
+    "key": "camerupt",
+    "gameDexId": 323,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 632
+    }
+  },
+  {
+    "id": 20311,
+    "key": "spheal",
+    "gameDexId": 363,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 651
+    }
+  },
+  {
+    "id": 20312,
+    "key": "sealeo",
+    "gameDexId": 364,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 651
+    }
+  },
+  {
+    "id": 20313,
+    "key": "walrein",
+    "gameDexId": 365,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 651
+    }
+  },
+  {
+    "id": 20314,
+    "key": "cacnea",
+    "gameDexId": 331,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 672
+    }
+  },
+  {
+    "id": 20315,
+    "key": "cacturne",
+    "gameDexId": 332,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 672
+    }
+  },
+  {
+    "id": 20316,
+    "key": "snorunt",
+    "gameDexId": 361,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 695
+    }
+  },
+  {
+    "id": 20317,
+    "key": "glalie",
+    "gameDexId": 362,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 695
+    }
+  },
+  {
+    "id": 20318,
+    "key": "lunatone",
+    "gameDexId": 337,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 715
+    }
+  },
+  {
+    "id": 20319,
+    "key": "solrock",
+    "gameDexId": 338,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 715
+    }
+  },
+  {
+    "id": 20320,
+    "key": "spoink",
+    "gameDexId": 325,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 737
+    }
+  },
+  {
+    "id": 20321,
+    "key": "grumpig",
+    "gameDexId": 326,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 737
+    }
+  },
+  {
+    "id": 20322,
+    "key": "plusle",
+    "gameDexId": 311,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 757
+    }
+  },
+  {
+    "id": 20323,
+    "key": "plusle-battle-bond",
+    "gameDexId": 249,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 757
+    }
+  },
+  {
+    "id": 20324,
+    "key": "minun",
+    "gameDexId": 312,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 781
+    }
+  },
+  {
+    "id": 20325,
+    "key": "minun-battle-bond",
+    "gameDexId": 250,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 781
+    }
+  },
+  {
+    "id": 20326,
+    "key": "mawile",
+    "gameDexId": 303,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 804
+    }
+  },
+  {
+    "id": 20327,
+    "key": "mawile-battle-bond",
+    "gameDexId": 151,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 804
+    }
+  },
+  {
+    "id": 20328,
+    "key": "meditite",
+    "gameDexId": 307,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 828
+    }
+  },
+  {
+    "id": 20329,
+    "key": "medicham",
+    "gameDexId": 308,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 828
+    }
+  },
+  {
+    "id": 20330,
+    "key": "swablu",
+    "gameDexId": 333,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 851
+    }
+  },
+  {
+    "id": 20331,
+    "key": "altaria",
+    "gameDexId": 334,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 851
+    }
+  },
+  {
+    "id": 20332,
+    "key": "duskull",
+    "gameDexId": 355,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 873
+    }
+  },
+  {
+    "id": 20333,
+    "key": "dusclops",
+    "gameDexId": 356,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 873
+    }
+  },
+  {
+    "id": 20334,
+    "key": "roselia",
+    "gameDexId": 315,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 893
+    }
+  },
+  {
+    "id": 20335,
+    "key": "slakoth",
+    "gameDexId": 287,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 914
+    }
+  },
+  {
+    "id": 20336,
+    "key": "vigoroth",
+    "gameDexId": 288,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 914
+    }
+  },
+  {
+    "id": 20337,
+    "key": "slaking",
+    "gameDexId": 289,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 914
+    }
+  },
+  {
+    "id": 20338,
+    "key": "gulpin",
+    "gameDexId": 316,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 938
+    }
+  },
+  {
+    "id": 20339,
+    "key": "swalot",
+    "gameDexId": 317,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 938
+    }
+  },
+  {
+    "id": 20340,
+    "key": "tropius",
+    "gameDexId": 357,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 960
+    }
+  },
+  {
+    "id": 20341,
+    "key": "whismur",
+    "gameDexId": 293,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 983
+    }
+  },
+  {
+    "id": 20342,
+    "key": "loudred",
+    "gameDexId": 294,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 983
+    }
+  },
+  {
+    "id": 20343,
+    "key": "exploud",
+    "gameDexId": 295,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 983
+    }
+  },
+  {
+    "id": 20344,
+    "key": "absol",
+    "gameDexId": 359,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1005
+    }
+  },
+  {
+    "id": 20345,
+    "key": "shuppet",
+    "gameDexId": 353,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1027
+    }
+  },
+  {
+    "id": 20346,
+    "key": "banette",
+    "gameDexId": 354,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1027
+    }
+  },
+  {
+    "id": 20347,
+    "key": "seviper",
+    "gameDexId": 336,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1047
+    }
+  },
+  {
+    "id": 20348,
+    "key": "zangoose",
+    "gameDexId": 335,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1047
+    }
+  },
+  {
+    "id": 20349,
+    "key": "relicanth",
+    "gameDexId": 369,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1068
+    }
+  },
+  {
+    "id": 20350,
+    "key": "aron",
+    "gameDexId": 304,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1093
+    }
+  },
+  {
+    "id": 20351,
+    "key": "lairon",
+    "gameDexId": 305,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1093
+    }
+  },
+  {
+    "id": 20352,
+    "key": "aggron",
+    "gameDexId": 306,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1093
+    }
+  },
+  {
+    "id": 20353,
+    "key": "castform",
+    "gameDexId": 351,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1114
+    }
+  },
+  {
+    "id": 20354,
+    "key": "volbeat",
+    "gameDexId": 313,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1137
+    }
+  },
+  {
+    "id": 20355,
+    "key": "illumise",
+    "gameDexId": 314,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1137
+    }
+  },
+  {
+    "id": 20356,
+    "key": "lileep",
+    "gameDexId": 345,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1155
+    }
+  },
+  {
+    "id": 20357,
+    "key": "cradily",
+    "gameDexId": 346,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1155
+    }
+  },
+  {
+    "id": 20358,
+    "key": "anorith",
+    "gameDexId": 347,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1177
+    }
+  },
+  {
+    "id": 20359,
+    "key": "armaldo",
+    "gameDexId": 348,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1177
+    }
+  },
+  {
+    "id": 20360,
+    "key": "ralts",
+    "gameDexId": 280,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1198
+    }
+  },
+  {
+    "id": 20361,
+    "key": "kirlia",
+    "gameDexId": 281,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1198
+    }
+  },
+  {
+    "id": 20362,
+    "key": "gardevoir",
+    "gameDexId": 282,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1198
+    }
+  },
+  {
+    "id": 20363,
+    "key": "bagon",
+    "gameDexId": 371,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1222
+    }
+  },
+  {
+    "id": 20364,
+    "key": "shelgon",
+    "gameDexId": 372,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1222
+    }
+  },
+  {
+    "id": 20365,
+    "key": "salamence",
+    "gameDexId": 373,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1222
+    }
+  },
+  {
+    "id": 20366,
+    "key": "beldum",
+    "gameDexId": 374,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1244
+    }
+  },
+  {
+    "id": 20367,
+    "key": "metang",
+    "gameDexId": 375,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1244
+    }
+  },
+  {
+    "id": 20368,
+    "key": "metagross",
+    "gameDexId": 376,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1244
+    }
+  },
+  {
+    "id": 20369,
+    "key": "chimecho",
+    "gameDexId": 358,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1265
+    }
+  },
+  {
+    "id": 20370,
+    "key": "jirachi",
+    "gameDexId": 385,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1285
+    }
+  },
+  {
+    "id": 20371,
+    "key": "regirock",
+    "gameDexId": 377,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1303
+    }
+  },
+  {
+    "id": 20372,
+    "key": "regice",
+    "gameDexId": 378,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1303
+    }
+  },
+  {
+    "id": 20373,
+    "key": "registeel",
+    "gameDexId": 379,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "#252-386",
+      "row": 1303
+    }
+  },
+  {
+    "id": 20374,
+    "key": "roserade",
+    "gameDexId": 387,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "4th Gen",
+      "row": 3
+    }
+  },
+  {
+    "id": 20375,
+    "key": "ambipom",
+    "gameDexId": 388,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "4th Gen",
+      "row": 3
+    }
+  },
+  {
+    "id": 20376,
+    "key": "mismagius",
+    "gameDexId": 389,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "4th Gen",
+      "row": 3
+    }
+  },
+  {
+    "id": 20377,
+    "key": "honchkrow",
+    "gameDexId": 390,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "4th Gen",
+      "row": 27
+    }
+  },
+  {
+    "id": 20378,
+    "key": "weavile",
+    "gameDexId": 391,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "4th Gen",
+      "row": 27
+    }
+  },
+  {
+    "id": 20379,
+    "key": "magnezone",
+    "gameDexId": 392,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "4th Gen",
+      "row": 27
+    }
+  },
+  {
+    "id": 20380,
+    "key": "lickilicky",
+    "gameDexId": 393,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "4th Gen",
+      "row": 50
+    }
+  },
+  {
+    "id": 20381,
+    "key": "rhyperior",
+    "gameDexId": 394,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "4th Gen",
+      "row": 50
+    }
+  },
+  {
+    "id": 20382,
+    "key": "tangrowth",
+    "gameDexId": 395,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "4th Gen",
+      "row": 50
+    }
+  },
+  {
+    "id": 20383,
+    "key": "electivire",
+    "gameDexId": 396,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "4th Gen",
+      "row": 74
+    }
+  },
+  {
+    "id": 20384,
+    "key": "magmortar",
+    "gameDexId": 397,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "4th Gen",
+      "row": 74
+    }
+  },
+  {
+    "id": 20385,
+    "key": "togekiss",
+    "gameDexId": 398,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "4th Gen",
+      "row": 74
+    }
+  },
+  {
+    "id": 20386,
+    "key": "yanmega",
+    "gameDexId": 399,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "4th Gen",
+      "row": 97
+    }
+  },
+  {
+    "id": 20387,
+    "key": "froslass",
+    "gameDexId": 400,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "4th Gen",
+      "row": 97
+    }
+  },
+  {
+    "id": 20388,
+    "key": "gliscor",
+    "gameDexId": 401,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "4th Gen",
+      "row": 97
+    }
+  },
+  {
+    "id": 20389,
+    "key": "porygon-z",
+    "gameDexId": 402,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "4th Gen",
+      "row": 118
+    }
+  },
+  {
+    "id": 20390,
+    "key": "gallade",
+    "gameDexId": 403,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "4th Gen",
+      "row": 118
+    }
+  },
+  {
+    "id": 20391,
+    "key": "probopass",
+    "gameDexId": 404,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "4th Gen",
+      "row": 118
+    }
+  },
+  {
+    "id": 20392,
+    "key": "dusknoir",
+    "gameDexId": 405,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "4th Gen",
+      "row": 140
+    }
+  },
+  {
+    "id": 20393,
+    "key": "mamoswine",
+    "gameDexId": 406,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "4th Gen",
+      "row": 140
+    }
+  },
+  {
+    "id": 20394,
+    "key": "leafeon",
+    "gameDexId": 408,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "4th Gen",
+      "row": 140
+    }
+  },
+  {
+    "id": 20395,
+    "key": "glaceon",
+    "gameDexId": 409,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "4th Gen",
+      "row": 163
+    }
+  },
+  {
+    "id": 20396,
+    "key": "regigigas",
+    "gameDexId": 327,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "4th Gen",
+      "row": 163
+    }
+  },
+  {
+    "id": 20397,
+    "key": "scream-tail",
+    "gameDexId": 172,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Paradox",
+      "row": 3
+    }
+  },
+  {
+    "id": 20398,
+    "key": "sandy-shocks",
+    "gameDexId": 173,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Paradox",
+      "row": 3
+    }
+  },
+  {
+    "id": 20399,
+    "key": "flutter-mane",
+    "gameDexId": 174,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Paradox",
+      "row": 3
+    }
+  },
+  {
+    "id": 20400,
+    "key": "great-tusk",
+    "gameDexId": 211,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Paradox",
+      "row": 25
+    }
+  },
+  {
+    "id": 20401,
+    "key": "roaring-moon",
+    "gameDexId": 234,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Paradox",
+      "row": 25
+    }
+  },
+  {
+    "id": 20402,
+    "key": "raging-bolt",
+    "gameDexId": 222,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Paradox",
+      "row": 48
+    }
+  },
+  {
+    "id": 20403,
+    "key": "gouging-fire",
+    "gameDexId": 225,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Paradox",
+      "row": 48
+    }
+  },
+  {
+    "id": 20404,
+    "key": "walking-wake",
+    "gameDexId": 235,
+    "source": {
+      "file": "pokemon-mechanics.xlsx",
+      "sheet": "Paradox",
+      "row": 48
+    }
+  },
+  {
+    "id": 20405,
+    "key": "deep-maiden",
+    "gameDexId": 380,
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "405"
+    }
+  },
+  {
+    "id": 20406,
+    "key": "narmer",
+    "gameDexId": 381,
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "406"
+    }
+  },
+  {
+    "id": 20407,
+    "key": "tlachtga",
+    "gameDexId": 382,
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "407"
+    }
+  },
+  {
+    "id": 20408,
+    "key": "dinogator",
+    "gameDexId": 383,
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "408"
+    }
+  },
+  {
+    "id": 20409,
+    "key": "avid-dragon",
+    "gameDexId": 384,
+    "source": {
+      "url": "https://talrega.epieffe.dev/data.json",
+      "record": "409"
+    }
+  }
+]

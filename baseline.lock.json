@@ -1,0 +1,20 @@
+{
+  "status": "ready",
+  "provider": "pokeapi",
+  "apiDataRepository": "PokeAPI/api-data",
+  "apiDataCommit": "e845bb4f69a652cd80fef614b26320036f6287b4",
+  "spriteRepository": "PokeAPI/sprites",
+  "spriteCommit": "0b133a62e914976d3d7ea33aaa1ac676ca248c30",
+  "versionGroup": "scarlet-violet",
+  "maxNationalDex": null,
+  "includeNonDefaultForms": true,
+  "supplementalMoveIds": [],
+  "fetchedAt": "2026-09-20T14:59:33.160Z",
+  "counts": {
+    "species": 296,
+    "pokemonForms": 296,
+    "moves": 0,
+    "abilities": 146,
+    "items": 0
+  }
+}
